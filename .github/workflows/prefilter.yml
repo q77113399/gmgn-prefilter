@@ -29,7 +29,7 @@ concurrency:
 jobs:
   prefilter:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     env:
       TZ: Asia/Taipei
       GMGN_RUNNER: github-actions
@@ -56,11 +56,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run prefilters (candidates strict, then positions)
+      - name: Run prefilters (candidates strict, positions, bounty watch)
         if: steps.gate.outputs.skip != 'true'
         env:
+          # GMGN -> Pano gmgn-4. run-all.sh hides these from the bounty step.
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+          # Bounty -> Pano3. run-all.sh hides these from the GMGN steps.
+          BOUNTY_WEBHOOK_URL: ${{ secrets.BOUNTY_WEBHOOK_URL }}
+          BOUNTY_WEBHOOK_BEARER: ${{ secrets.BOUNTY_WEBHOOK_BEARER }}
         run: |
           export GMGN_INPUTS_DIR="$GITHUB_WORKSPACE/data/inputs"
           export QUOTA_SAVE_STATE_DIR="$GITHUB_WORKSPACE/data/state"
@@ -68,19 +72,29 @@ jobs:
           export GMGN_EVIDENCE_DIR="$RUNNER_TEMP/evidence"
           export GMGN_RUNSTATS_DIR="$RUNNER_TEMP/stats"
           export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export BOUNTY_WEBHOOK_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export BOUNTY_STATE_DIR="$GITHUB_WORKSPACE/data/state/bounty"
+          export BOUNTY_LOG_DIR="$RUNNER_TEMP/logs/bounty"
+          export BOUNTY_EVIDENCE_DIR="$RUNNER_TEMP/evidence/bounty"
           export QUOTA_SAVE_ROOT="$GITHUB_WORKSPACE"
           export DRY_RUN="$DRY_RUN_INPUT" FORCE="$FORCE_INPUT"
           bash scripts/run-all.sh
           echo "--- notify results (HTTP codes only) ---"
-          cat "$RUNNER_TEMP/logs/notify.log" 2>/dev/null || echo "no wake this round"
+          cat "$RUNNER_TEMP/logs/notify.log" 2>/dev/null || echo "no GMGN wake this round"
+          echo "--- bounty log ---"
+          cat "$RUNNER_TEMP/logs/bounty/bounty-watch.log" 2>/dev/null || echo "no bounty log"
 
       - name: Commit state back
         if: steps.gate.outputs.skip != 'true' && env.DRY_RUN_INPUT != '1'
         env:
+          # Only used by secret-check.sh to make sure no secret value is committed.
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+          BOUNTY_WEBHOOK_URL: ${{ secrets.BOUNTY_WEBHOOK_URL }}
+          BOUNTY_WEBHOOK_BEARER: ${{ secrets.BOUNTY_WEBHOOK_BEARER }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export BOUNTY_WEBHOOK_SECRETS="$RUNNER_TEMP/no-secrets-file"
           bash scripts/git-push-state.sh "gha: state after run ${GITHUB_RUN_ID}"

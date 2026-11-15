@@ -3,8 +3,9 @@
 # (default: cwd). Exit 1 (and print only file names, never matches) if:
 #   - a staged path is outside the allow-list (scripts/, data/inputs|state/*.json,
 #     .github/, tests/, README.md, .gitignore, .gitattributes)
-#   - a staged file contains the actual WEBHOOK_URL / WEBHOOK_BEARER value
-#     (from env, or from the box secrets file if present; compared via stdin, not argv)
+#   - a staged file contains the actual WEBHOOK_URL / WEBHOOK_BEARER value (GMGN) or
+#     BOUNTY_WEBHOOK_URL / BOUNTY_WEBHOOK_BEARER value (Pano3), from env or from the box
+#     secrets files if present; compared via stdin, not argv
 #   - a staged file contains a webhook-URL / bearer-token / KEY=value-looking string
 set -uo pipefail
 REPO="${1:-.}"
@@ -19,6 +20,16 @@ if [[ -f "$SECRETS_FILE" ]]; then
     esac
   done < "$SECRETS_FILE"
 fi
+BURLV="${BOUNTY_WEBHOOK_URL:-}"; BBEARV="${BOUNTY_WEBHOOK_BEARER:-}"
+BOUNTY_SECRETS_FILE="${BOUNTY_WEBHOOK_SECRETS:-/workspace/quota-save/secrets/bounty-webhook.env}"
+if [[ -f "$BOUNTY_SECRETS_FILE" ]]; then
+  while IFS= read -r line || [[ -n "$line" ]]; do
+    case "$line" in
+      WEBHOOK_URL=*|BOUNTY_WEBHOOK_URL=*) v="${line#*=}"; v="${v%\"}"; v="${v#\"}"; v="${v%\'}"; v="${v#\'}"; BURLV="$v" ;;
+      WEBHOOK_BEARER=*|BOUNTY_WEBHOOK_BEARER=*) v="${line#*=}"; v="${v%\"}"; v="${v#\"}"; v="${v%\'}"; v="${v#\'}"; BBEARV="$v" ;;
+    esac
+  done < "$BOUNTY_SECRETS_FILE"
+fi
 fail=0
 mapfile -t files < <(git diff --cached --name-only --diff-filter=ACMR)
 for f in "${files[@]}"; do
@@ -29,7 +40,7 @@ for f in "${files[@]}"; do
   esac
   case "$f" in *secrets*|*.env|*.log|*evidence*) echo "secret-check: forbidden path: $f" >&2; fail=1; continue ;; esac
   blob="$(git show ":$f" 2>/dev/null)" || continue
-  for v in "$URLV" "$BEARV"; do
+  for v in "$URLV" "$BEARV" "$BURLV" "$BBEARV"; do
     if [[ ${#v} -ge 8 ]] && grep -qF -f <(printf '%s\n' "$v") <<<"$blob"; then
       echo "secret-check: webhook secret value found in $f" >&2; fail=1
     fi
