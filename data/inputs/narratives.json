@@ -1,0 +1,185 @@
+{
+ "updated": "2026-11-15 04:40 Taipei (X Jensen/NVIDIA search)",
+ "narratives": [
+  {
+   "name": "Jensen Huang / NVIDIA (黃仁勳) leather jacket — standing priority; $JACKET 7A7Mc9tJTLm1RSTxbYoFHTCNKPJbRwhayUjM1AiUjJvq discussed on X",
+   "source": "https://x.com/w50v50w/status/2121658187564929249"
+  },
+  {
+   "name": "NVIDIA CEO turmoil: Jensen Huang reportedly fighting for his job / interim CEO talk / \"Jensen comeback\" memes; SOL $NVIDIA 7DvzSp1hKJADiCk9v5ncVp6WV4s1VY342yLje1eApump shilled",
+   "source": "https://x.com/levelz/status/2121700194001826269"
+  },
+  {
+   "name": "Solana cat memes led by MIHAO (ni hao cat)",
+   "source": "https://coincamps.ai/article/n9924"
+  },
+  {
+   "name": "Animal memes (PINO)",
+   "source": "https://dextrading.com/narratives/solana"
+  },
+  {
+   "name": "GTA VI / gaming tokens (State of Leonida, GTA6)",
+   "source": "https://dextrading.com/narratives/solana"
+  },
+  {
+   "name": "FUND (Funders) and tinfoil/Talking Ben on-chain hot list 11.14",
+   "source": "https://x.com/sol_jingou/status/2121656051850531273"
+  },
+  {
+   "name": "Chinese memes (牛逼, Jacket) mostly on BNB",
+   "source": "https://dextrading.com/academy/chinese-meme-coins-bnb-chain-november-2026"
+  },
+  {
+   "name": "Weak memecoin market, rotation to stablecoins/RWA",
+   "source": "https://cryptobriefing.com/memecoin-decline-solana-trading/"
+  }
+ ],
+ "bought": [
+  {
+   "token": "███",
+   "contract": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump",
+   "date": "2026-10-27 21:13",
+   "pool": "B"
+  },
+  {
+   "token": "BIG (Big Guy)",
+   "contract": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump",
+   "date": "2026-11-11 01:05",
+   "pool": "B",
+   "sol": 0.075,
+   "avg_price": 0.0010698,
+   "mc_at_buy": 1016000,
+   "tp_mc": 1523800,
+   "sl_mc": 711100
+  },
+  {
+   "token": "NIHAO (nihao cat)",
+   "contract": "8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump",
+   "date": "2026-11-11 20:34",
+   "pool": "B",
+   "sol": 0.075,
+   "avg_price": 0.008619,
+   "mc_at_buy": 8573000,
+   "tp_mc": 12859950,
+   "sl_mc": 6001310
+  },
+  {
+   "token": "BRUH (The Bruhvengers)",
+   "contract": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump",
+   "date": "2026-11-12 09:55",
+   "pool": "A",
+   "sol": 0.075,
+   "avg_price": 0.0024781,
+   "mc_at_buy": 2453567,
+   "tax": "0.75-0.8%",
+   "tp_mc": 3680350,
+   "sl_mc": 1717497
+  },
+  {
+   "name": "DESSA",
+   "ca": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "date": "2026-11-12 11:17"
+  },
+  {
+   "token": "DESSA",
+   "contract": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "date": "2026-11-12 11:17",
+   "pool": "A",
+   "sol": 0.9,
+   "avg_price": 0.0078471,
+   "mc_at_buy": 7680000,
+   "tax": "0.30%",
+   "tp_mc": 11520000,
+   "sl_mc": 5370000
+  },
+  {
+   "token": "AIB",
+   "contract": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump",
+   "date": "2026-11-12 13:50",
+   "pool": "B",
+   "sol": 0.9,
+   "avg_price": 0.00046261,
+   "mc_at_buy": 460300,
+   "tax": "1%",
+   "tp_mc": 690445,
+   "sl_mc": 322208
+  },
+  {
+   "token": "CHILL",
+   "contract": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump",
+   "date": "2026-11-13 00:05",
+   "pool": "B",
+   "sol": 0.62,
+   "avg_price": 0.00052807,
+   "mc_at_buy": 526060,
+   "tax": "1%/1%",
+   "tp_mc": 789090,
+   "sl_mc": 368240,
+   "note": "re-entry after AIB SL"
+  },
+  {
+   "token": "JENSEN (Jensen Huang Coin)",
+   "contract": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
+   "date": "2026-11-13 04:31",
+   "pool": "B",
+   "sol": 0.42,
+   "avg_price": 0.00059324,
+   "mc_at_buy": 589920,
+   "tax": "1%/1%",
+   "tp_mc": 707900,
+   "sl_mc": 412940,
+   "note": "re-entry after CHILL SL; TP filled 04:33:47 at avg $0.00070318, ~0.49 SOL back"
+  },
+  {
+   "token": "JOB (DogWifJob)",
+   "contract": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+   "date": "2026-11-13 05:2x",
+   "pool": "A",
+   "sol": 0.6,
+   "avg_price": 0.0017018,
+   "mc_at_buy": 1658000,
+   "tax": "0.85%/0.85%",
+   "tp_mc": 1989472,
+   "sl_mc": 1160525,
+   "note": "1st re-entry of JENSEN/DESSA pair"
+  },
+  {
+   "token": "SHARKBUX",
+   "contract": "ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v",
+   "date": "2026-11-13 08:44",
+   "pool": "B",
+   "sol": 0.49,
+   "avg_price": 0.00044888,
+   "mc_at_buy": 445400,
+   "tax": "1%/1%",
+   "tp_mc": 534500,
+   "sl_mc": 311800,
+   "note": "2nd re-entry of JENSEN/DESSA pair"
+  },
+  {
+   "name": "SWJ (Stand With Jensen)",
+   "ca": "5w4LTwdRUTC5ggaX77va6DthhxjeqzhUR13zZPqMzSaf",
+   "bought": "2026-11-14 09:30 Taipei",
+   "sol": 0.457,
+   "avg_price_usd": 4.8807e-06,
+   "entry_mc": 488070,
+   "tp_mc": 585684,
+   "sl_mc": 341649,
+   "pool": "B"
+  },
+  {
+   "token": "JENSEN (Jensen Huang)",
+   "contract": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump",
+   "date": "2026-11-14 21:56 Taipei",
+   "pool": "B",
+   "sol": 0.892,
+   "tokens": 94993.152348,
+   "avg_price": 0.00070887,
+   "mc_at_buy": 705000,
+   "tax": "1%/1%",
+   "tp_mc": 846008,
+   "sl_mc": 493505,
+   "note": "buy 1/2 of two-buy round"
+  }
+ ]
+}

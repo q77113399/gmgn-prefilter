@@ -1,0 +1,13 @@
+# Never commit secrets, logs, evidence or caches (this repo is PUBLIC)
+secrets/
+*.env
+.env*
+logs/
+*.log
+evidence/
+data/evidence/
+data/stats/
+**/__pycache__/
+*.pyc
+*.tmp
+*-last.json

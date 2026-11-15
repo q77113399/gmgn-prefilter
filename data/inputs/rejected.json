@@ -1,0 +1,17 @@
+{
+ "mints": [
+  "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
+  "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
+  "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump",
+  "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump",
+  "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump"
+ ],
+ "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
+ "reasons": {
+  "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": "FOOD: serial dev (1,151 launches) + bundler 33.7-39.3% (>30% cap) on repeated GMGN checks 2026-11-13/14; rejected 2026-11-15 07:08 Taipei by gmgn-4",
+  "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": "bill: tax 1.1% (>1%), DEV Scan 45/100 avoid (2/2 coins dumped at open, creator still holds), phishing 21.9%; rejected 2026-11-15 12:45 Taipei by gmgn-4",
+  "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": "WANTED: DEV Scan 60/100 mixed with self-snipe 1/1 flag, ~2.8h old after +3386% 6h pump; rejected 2026-11-15 12:45 Taipei by gmgn-4",
+  "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump": "Huang (Jensen Huang): tax 1.25%/1.25% (>1%), DEV Scan 'Blacklist funding wallet' + Giga 32/100 avoid (pool drain, 75% self-snipe), serial dev 1,944 tokens; GMGN MC ~$30K/liq $12.9K vs DexScreener $1.37M/$358K mismatch; rejected 2026-11-15 13:00 Taipei by gmgn-4",
+  "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": "AURA (Lord Aura): GMGN phishing 47.2% (>30% cap), honeypot/sellability not shown; rejected 2026-11-15 19:30 Taipei by gmgn-4"
+ }
+}

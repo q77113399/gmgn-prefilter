@@ -1,0 +1,86 @@
+name: gmgn-prefilter
+
+# Backstop runner for the box prefilters (the box pauses when no bot is active).
+# Public repo: never echo secrets; logs/evidence stay on the runner (no artifacts).
+on:
+  schedule:
+    # Every 15 min (public repo => unlimited free minutes). GitHub may delay
+    # scheduled runs 10-30 min at peak or skip some; the box loop covers the rest.
+    # Fallback if the repo ever goes private: '*/30 * * * *' (fits 2000 free min/month).
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Ignore the 12-minute skip-if-recent guard'
+        type: boolean
+        default: false
+      dry_run:
+        description: 'DRY_RUN=1: build payloads, do not POST, do not commit state'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gmgn-prefilter
+  cancel-in-progress: false
+
+jobs:
+  prefilter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Taipei
+      GMGN_RUNNER: github-actions
+      GMGN_MIN_GAP_SEC: '720'
+      FORCE_INPUT: ${{ inputs.force && '1' || '0' }}
+      DRY_RUN_INPUT: ${{ inputs.dry_run && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Skip if any runner (box or GitHub) ran in the last 12 minutes
+        id: gate
+        run: |
+          if [ "$FORCE_INPUT" = "1" ]; then echo "skip=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if python3 scripts/state_tool.py recent data/state/last-run.json "$GMGN_MIN_GAP_SEC"; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"; echo "Recent run found; skipping."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
+        with:
+          python-version: '3.12'
+
+      - name: Run prefilters (candidates strict, then positions)
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+        run: |
+          export GMGN_INPUTS_DIR="$GITHUB_WORKSPACE/data/inputs"
+          export QUOTA_SAVE_STATE_DIR="$GITHUB_WORKSPACE/data/state"
+          export QUOTA_SAVE_LOG_DIR="$RUNNER_TEMP/logs"
+          export GMGN_EVIDENCE_DIR="$RUNNER_TEMP/evidence"
+          export GMGN_RUNSTATS_DIR="$RUNNER_TEMP/stats"
+          export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export QUOTA_SAVE_ROOT="$GITHUB_WORKSPACE"
+          export DRY_RUN="$DRY_RUN_INPUT" FORCE="$FORCE_INPUT"
+          bash scripts/run-all.sh
+          echo "--- notify results (HTTP codes only) ---"
+          cat "$RUNNER_TEMP/logs/notify.log" 2>/dev/null || echo "no wake this round"
+
+      - name: Commit state back
+        if: steps.gate.outputs.skip != 'true' && env.DRY_RUN_INPUT != '1'
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          bash scripts/git-push-state.sh "gha: state after run ${GITHUB_RUN_ID}"

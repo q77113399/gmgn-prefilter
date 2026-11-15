@@ -1,0 +1,78 @@
+{
+ "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump": {
+  "name": "AIB",
+  "peak": 160079.679252,
+  "low_reads": 39,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.646309472,
+  "sol_now": 0.646309472
+ },
+ "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": {
+  "name": "DESSA",
+  "peak": 9557.219082,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.502157099,
+  "sol_now": 1.127803773,
+  "sol_now_note": "sold 2026-11-13 04:38:40 Taipei, marked fired by \u6301\u5009\u6aa2\u67e5 to avoid duplicate webhook",
+  "closed_sol_returned": 0.625646674,
+  "closed_sig": "mQkKm1zbodjLFhN9AUvsx3kRuYbzq8Q5KZhR6EzCVVwLdJRGoFSFm5gtNhnaWFP8eJPwNaLibBYGqGTkeAn7yTk"
+ },
+ "_last_ok": "2026-11-15 19:40:44",
+ "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": {
+  "name": "CHILL",
+  "peak": 94755.453508,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.017468621,
+  "sol_now": 0.440822871
+ },
+ "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump": {
+  "name": "BRUH",
+  "peak": 2511.951127,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.353755087,
+  "sol_now": 0.476794263
+ },
+ "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
+  "name": "JOB",
+  "peak": 28733.960832,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 1.358845123,
+  "sol_now": 1.804123971
+ },
+ "ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v": {
+  "name": "SHARKBUX",
+  "peak": 87883.132148,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.021853555,
+  "sol_now": 0.352485839
+ },
+ "5w4LTwdRUTC5ggaX77va6DthhxjeqzhUR13zZPqMzSaf": {
+  "name": "SWJ",
+  "peak": 7249976.507591,
+  "low_reads": 0,
+  "fired": false,
+  "last": 7249976.507591,
+  "sol_prev": 0.013819163,
+  "sol_now": 0.013819163
+ },
+ "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump": {
+  "name": "JENSEN-B2Yp",
+  "peak": 94993.152348,
+  "low_reads": 0,
+  "fired": true,
+  "last": 0.0,
+  "sol_prev": 0.900377818,
+  "sol_now": 1.980117197
+ }
+}
