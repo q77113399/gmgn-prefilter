@@ -1,3 +1,4 @@
 # Union-merge dedupe/last-run JSON so box and GitHub runs never drop each other's marks.
 # Driver is registered per clone by box-sync.sh / git-push-state.sh (git config merge.gmgn-union.*).
 data/state/*.json merge=gmgn-union
+data/state/bounty/*.json merge=gmgn-union

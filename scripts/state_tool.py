@@ -11,6 +11,8 @@ Union rules (never lose a dedupe mark, so neither runner re-wakes the bot):
   - last-run.json: keep the record with the larger epoch
   - {"keys": {...}} / {"mints": {...}}: per-entry keep the larger ts (int or {"ts": int})
   - entries older than PRUNE_SEC are dropped (longest dedupe TTL is 24h)
+  - bounty/seen.json: union of "ids", NEVER pruned (a dropped id would re-wake Pano3)
+  - bounty/abf-cache.json: keep the record with the larger fetched_at_unix
 """
 from __future__ import annotations
 
@@ -22,6 +24,7 @@ from pathlib import Path
 from typing import Any
 
 STATE_FILES = ("mint-dedupe.json", "notify-dedupe.json", "positions-dedupe.json", "last-run.json")
+BOUNTY_FILES = ("bounty/seen.json", "bounty/abf-cache.json")
 PRUNE_SEC = 3 * 86400
 
 
@@ -74,6 +77,36 @@ def union(a: Any, b: Any, name: str) -> Any:
     return out
 
 
+def bounty_union(a: Any, b: Any, name: str) -> Any:
+    a = a if isinstance(a, dict) else {}
+    b = b if isinstance(b, dict) else {}
+    if name == "abf-cache.json":
+        def fa(x: dict) -> float:
+            try:
+                return float(x.get("fetched_at_unix") or 0)
+            except (TypeError, ValueError):
+                return 0.0
+        return a if fa(a) >= fa(b) else b
+    ida = a.get("ids") if isinstance(a.get("ids"), dict) else {}
+    idb = b.get("ids") if isinstance(b.get("ids"), dict) else {}
+    ids: dict[str, Any] = {}
+    for k in set(ida) | set(idb):
+        ra, rb = ida.get(k), idb.get(k)
+        # keep the first sighting (smaller ts); never drop an id
+        ids[k] = ra if rb is None else rb if ra is None else (ra if ts_of(ra) <= ts_of(rb) else rb)
+    out = {**b, **a}
+    out["version"] = 1
+    out["ids"] = dict(sorted(ids.items()))
+    ua, ub = str(a.get("updated_at") or ""), str(b.get("updated_at") or "")
+    if ua or ub:
+        out["updated_at"] = max(ua, ub)
+    return out
+
+
+def is_bounty_path(path: str) -> bool:
+    return "bounty/" in path.replace("\\", "/")
+
+
 def cmd_recent(path: str, seconds: str) -> int:
     ep = ts_of(load(Path(path)))
     age = int(time.time()) - ep
@@ -102,6 +135,13 @@ def cmd_merge(src: str, dst: str) -> int:
         merged = union(load(dp), load(sp), name)
         if not dp.is_file() or load(dp) != merged:
             dump(dp, merged)
+    for rel in BOUNTY_FILES:
+        sp, dp = s / rel, d / rel
+        if not sp.is_file():
+            continue
+        merged = bounty_union(load(dp), load(sp), Path(rel).name)
+        if not dp.is_file() or load(dp) != merged:
+            dump(dp, merged)
     return 0
 
 
@@ -112,7 +152,11 @@ def cmd_merge_driver(_o: str, a: str, b: str, path: str = "") -> int:
         jb = json.loads(pb.read_text(encoding="utf-8") or "{}")
     except Exception:
         return 1  # let git report a real conflict
-    dump(pa, union(ja, jb, Path(path).name if path else pa.name))
+    name = Path(path).name if path else pa.name
+    if path and is_bounty_path(path):
+        dump(pa, bounty_union(ja, jb, name))
+    else:
+        dump(pa, union(ja, jb, name))
     return 0
 
 
