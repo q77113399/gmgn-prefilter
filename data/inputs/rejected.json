@@ -12,7 +12,8 @@
   "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
   "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump",
   "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump",
-  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump"
+  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump",
+  "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
@@ -26,6 +27,7 @@
   "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": "gtacoin 2026-11-15 21:53 Taipei: main pool is Raydium CPMM gtacoin/TTWO (tokenized stock, not SOL); LP not burned (LP mint supply 74.53 = pool lp_supply, rugcheck lpLocked ~24%); fails R LP-burn-100% rule; also quote TTWO mint has freeze authority, permanent delegate, pausable and transfer-hook authority (issuer can freeze/seize pool liquidity)",
   "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump": "SWJ (Stand With Jensen, relaunch of the name rugged 2026-11-14): GMGN DEV Scan 38.7/100 'avoid' (dev dumped 100% at open, sold 8s after open, 100% self-snipe); on-chain otherwise clean (LP 100% burnt, tax 0.95%, top10 4.7%, bundler 0.4%); rejected 2026-11-16 02:20 Taipei by gmgn-4",
   "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": "rockstar: serial dev (12 launches, only 1 still tradeable), 100% self-snipe, bundler 14.3% + phishing 12.8%, GMGN honeypot/sellability not shown; DEV Scan 99.7 buyable, LP 100% burnt, tax 0.55%; rejected 2026-11-16 02:55 Taipei by gmgn-4",
-  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": "Emojis 2026-11-16 06:37: main PumpSwap pool paired with LMAO! token not SOL; LP locked 94.2% not 100%; single holder 50.7%"
+  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": "Emojis 2026-11-16 06:37: main PumpSwap pool paired with LMAO! token not SOL; LP locked 94.2% not 100%; single holder 50.7%",
+  "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": "BJB (Bring Jensen Back): GMGN bundler 40.1% (>30% cap), snipers 39.9%, honeypot/sellability not shown, dev self-snipe 1/1 + sold 54s after open (Giga 59.7 mixed); LP 100% burnt, tax 0.9%; rejected 2026-11-16 07:30 Taipei by gmgn-4"
  }
 }
