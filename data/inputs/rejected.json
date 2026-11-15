@@ -7,7 +7,8 @@
   "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump",
   "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump",
   "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump",
-  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK"
+  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK",
+  "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
@@ -18,6 +19,7 @@
   "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": "AURA (Lord Aura): GMGN phishing 47.2% (>30% cap), honeypot/sellability not shown; rejected 2026-11-15 19:30 Taipei by gmgn-4",
   "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump": "GETAJOB: GMGN DEV Scan 45/100 'avoid' (dev sold 9s after launch, opening dump on prior coin); rejected 2026-11-15 19:45 Taipei by gmgn-4",
   "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump": "UM (Useless Market): rugged 2026-11-15 ~21:38 Taipei; DexScreener PumpSwap pool 4ECkS25g... MC $1.43M -> $2.6K, liq $1.03M -> $2.5K, m5 -99.8%. Prefilter snapshot was stale.",
-  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": "gtacoin 2026-11-15 21:53 Taipei: main pool is Raydium CPMM gtacoin/TTWO (tokenized stock, not SOL); LP not burned (LP mint supply 74.53 = pool lp_supply, rugcheck lpLocked ~24%); fails R LP-burn-100% rule; also quote TTWO mint has freeze authority, permanent delegate, pausable and transfer-hook authority (issuer can freeze/seize pool liquidity)"
+  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": "gtacoin 2026-11-15 21:53 Taipei: main pool is Raydium CPMM gtacoin/TTWO (tokenized stock, not SOL); LP not burned (LP mint supply 74.53 = pool lp_supply, rugcheck lpLocked ~24%); fails R LP-burn-100% rule; also quote TTWO mint has freeze authority, permanent delegate, pausable and transfer-hook authority (issuer can freeze/seize pool liquidity)",
+  "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump": "SWJ (Stand With Jensen, relaunch of the name rugged 2026-11-14): GMGN DEV Scan 38.7/100 'avoid' (dev dumped 100% at open, sold 8s after open, 100% self-snipe); on-chain otherwise clean (LP 100% burnt, tax 0.95%, top10 4.7%, bundler 0.4%); rejected 2026-11-16 02:20 Taipei by gmgn-4"
  }
 }
