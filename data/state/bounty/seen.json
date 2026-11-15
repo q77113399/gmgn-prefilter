@@ -1,489 +1,489 @@
 {
-  "version": 1,
   "ids": {
-    "make.fun:threejs-fps-01": {
-      "ts": 1794784577,
+    "agent-bounty-feed:elgora:2": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
-      "title": "Make the best three.js tactical FPS"
-    },
-    "make.fun:makefun-frontend-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Build the best make.fun frontend"
-    },
-    "make.fun:ai-excited-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Make the AI judge excited"
-    },
-    "make.fun:markdown-render-speed-02": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Make Markdown rendering faster"
-    },
-    "elgora:8": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect"
-    },
-    "elgora:7": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Take a Lab on Molecule from mint to token on Base: x402 writes, a public and an encrypted file, and tokenization"
-    },
-    "elgora:6": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Find contradictions inside the Molecule developer docs at a pinned commit"
-    },
-    "elgora:5": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Extract experimental hit rates of de novo designed protein binders from 27 open-access papers"
-    },
-    "elgora:4": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Evidence-level map for 10 research peptides"
-    },
-    "elgora:3": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "ElgoraHub Escrow Security Bounty"
-    },
-    "elgora:2": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Hurricane Seasons Of The Planet: An Interactive, Animated 3D Globe"
-    },
-    "frantic:149": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Dogfood a browser extension"
-    },
-    "frantic:97": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Your first bounty is on the house ($10 back when it clears, first five)"
-    },
-    "taskmarket:TSK-4ZMPB9HE": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Original Neo-Classical Song"
+      "title": "Hurricane Seasons Of The Planet: An Interactive, Animated 3D Globe",
+      "ts": 1794784577
     },
     "agent-bounty-feed:elgora:3": {
-      "ts": 1794784577,
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
-      "title": "ElgoraHub Escrow Security Bounty"
-    },
-    "agent-bounty-feed:elgora:5": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Extract experimental hit rates of de novo designed protein binders from 27 open-access papers"
-    },
-    "agent-bounty-feed:elgora:8": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect"
-    },
-    "agent-bounty-feed:elgora:7": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Take a Lab on Molecule from mint to token on Base: x402 writes, a public and an encrypted file, and tokenization"
-    },
-    "agent-bounty-feed:elgora:6": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Find contradictions inside the Molecule developer docs at a pinned commit"
+      "title": "ElgoraHub Escrow Security Bounty",
+      "ts": 1794784577
     },
     "agent-bounty-feed:elgora:4": {
-      "ts": 1794784577,
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
-      "title": "Evidence-level map for 10 research peptides"
+      "title": "Evidence-level map for 10 research peptides",
+      "ts": 1794784577
     },
-    "agent-bounty-feed:elgora:2": {
-      "ts": 1794784577,
+    "agent-bounty-feed:elgora:5": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
-      "title": "Hurricane Seasons Of The Planet: An Interactive, Animated 3D Globe"
+      "title": "Extract experimental hit rates of de novo designed protein binders from 27 open-access papers",
+      "ts": 1794784577
     },
-    "agent-bounty-feed:taskmarket:TSK-EWJ9R6Z2": {
-      "ts": 1794784577,
+    "agent-bounty-feed:elgora:6": {
       "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "primary_rejected,keyword:promo",
-      "title": "Share a Lumen House ware where it is useful"
+      "qualified": true,
+      "reason": null,
+      "title": "Find contradictions inside the Molecule developer docs at a pinned commit",
+      "ts": 1794784577
+    },
+    "agent-bounty-feed:elgora:7": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Take a Lab on Molecule from mint to token on Base: x402 writes, a public and an encrypted file, and tokenization",
+      "ts": 1794784577
+    },
+    "agent-bounty-feed:elgora:8": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect",
+      "ts": 1794784577
     },
     "agent-bounty-feed:frantic:149": {
-      "ts": 1794784577,
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
-      "title": "Dogfood a browser extension"
-    },
-    "agent-bounty-feed:taskmarket:TSK-4ZMPB9HE": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "## Title"
-    },
-    "make.fun:xstocks-movers-forecast-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Predict the next 5 trading days' moves of 9 Nasdaq stocks"
-    },
-    "make.fun:tiny-chess-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build the strongest chess engine in 4 KB of Python"
-    },
-    "make.fun:roblox-up-and-coming-forecast-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "Predict Roblox's Up-and-Coming top 10"
-    },
-    "make.fun:polymarket-nvidia-ceo-forecast-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "Forecast Polymarket's next NVIDIA CEO prices minute by minute, 4 hours ahead"
-    },
-    "make.fun:free-model-aggregator-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "The best free AI model aggregator"
-    },
-    "make.fun:bring-the-humans-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Bring the humans"
-    },
-    "make.fun:btc-cent-forecast-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "Forecast Bitcoin's price 4 hours ahead, 12 times over 48 hours"
-    },
-    "make.fun:github-core-clone-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build a GitHub-compatible git forge"
-    },
-    "make.fun:polymarket-faa-attribution-02": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "Forecast Polymarket's FAA outage attribution prices minute by minute, 4 hours ahead"
-    },
-    "make.fun:token-radar-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build the best token launch radar"
-    },
-    "make.fun:threejs-fps-02": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best three.js tactical FPS"
-    },
-    "make.fun:free-model-aggregator-02": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The best live free-model aggregator"
-    },
-    "make.fun:makefun-coin-promo-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200,keyword:promo,keyword:coin-launch",
-      "title": "Launch a coin that sells make.fun"
-    },
-    "make.fun:btc-race-24h-20261115-0828": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,submissions>=200",
-      "title": "Race a BTC trading bot live for 24 hours"
-    },
-    "make.fun:best-game-01": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best game"
-    },
-    "superteam:b9bb7618-20a9-4df8-ac79-4f26be59709e": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only",
-      "title": "The Raenest Global Bounty - Writing, Video & Animation Bounty"
-    },
-    "superteam:b8818072-79a0-4dbf-9091-72d902907757": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only,keyword:social",
-      "title": "Create an Engaging X Thread Introducing Anna AI Messenger"
-    },
-    "superteam:55d49765-5ce6-4806-b5a0-2d12a9b73738": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only,keyword:social",
-      "title": "Write a Twitter Thread on Opportunities for Students Workshop"
-    },
-    "superteam:15ec1b70-443d-4ac3-8b69-786368c7c48e": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "not_usd_equivalent,unfunded,keyword:social",
-      "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread"
-    },
-    "superteam:88628e55-3c11-4ebb-871b-c36a9c8bf2ac": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only",
-      "title": "Write an Article on Fundraising Opportunities for Early & Mid-Stage Projects"
-    },
-    "superteam:b2931cef-eea4-42cf-8911-3046653d6da8": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only,keyword:social",
-      "title": "Create Content on Premier League Predictions with worm 🪱⚽"
-    },
-    "superteam:11de63d7-6dfb-444c-8587-3d73037a4ede": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only,keyword:social",
-      "title": "Create Content About KriptoK · 200 USDC Creator Challenge"
-    },
-    "superteam:173f8e0c-f2d4-4303-aa5d-bbfba2121ff0": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "not_usd_equivalent,human_only,unfunded,keyword:social",
-      "title": "Create Nosana content: Explainer Thread/Article or Creative Meme/Video"
-    },
-    "superteam:8f98caa5-3aa6-4fe1-a39e-d0b646dc1b6e": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only",
-      "title": "SSR.FUN Beta Launch Challenge"
-    },
-    "superteam:591423c3-bb3e-4f91-8ff0-69f163038ede": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only",
-      "title": "Build an Autonomous Capital Agent on Solana & Compete for $500 in Rewards"
-    },
-    "superteam:6506004c-0442-4233-8af1-cf5e26919d71": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "human_only",
-      "title": "MultiHopper Build & Route Challenge | Up to $50,000 + Revenue Share"
-    },
-    "taskmarket:TSK-SYP42Y6Q": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-SYP42Y6Q"
-    },
-    "taskmarket:TSK-EWJ9R6Z2": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-EWJ9R6Z2"
-    },
-    "basedagents:task_Ix8t4HnjAhX6HilQxdVtZ": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Guard 5"
-    },
-    "basedagents:task_xunXTsWppfdx45xo6eIMx": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Guard 4"
-    },
-    "basedagents:task_PRGxeT66PotQxYJw7EPlL": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Guard 3"
-    },
-    "basedagents:task_jqnmxHEcIGNHvANoCjtyZ": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Guard 2"
-    },
-    "basedagents:task_ToEmWubWjjfNICs4qnkYg": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Guard 1"
-    },
-    "basedagents:task_a5m1QZ8U3pZyJ0phdu5zN": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Cashback 5"
-    },
-    "basedagents:task_vr45efhdsoFyNHBpf8Wbu": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Cashback 4"
-    },
-    "basedagents:task_05LE4so7mcJ6r0fLWuprn": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Cashback 3"
-    },
-    "basedagents:task_ie0cYRfwd7Oo8HZ3hFWPf": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Cashback 2"
-    },
-    "basedagents:task_YzhS2L2gCCpSVWTSaDWQU": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Cashback 1"
-    },
-    "basedagents:task_WHyo4cWDHmMYz7habEOyx": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Trial 5"
-    },
-    "basedagents:task_oLwRiNv17q6vo5lUGNTab": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Trial 4"
-    },
-    "basedagents:task_RAslgsBDMBAIS8Oe6MsNF": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Trial 3"
-    },
-    "basedagents:task_Zxq5NMNstMnO7G8xBQQoN": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Trial 2"
+      "title": "Dogfood a browser extension",
+      "ts": 1794784577
     },
     "agent-bounty-feed:frantic:97": {
-      "ts": 1794784577,
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "requires:purchase",
-      "title": "Your first bounty is on the house ($10 back when it clears, first five)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
-      "ts": 1794784577,
-      "at": "2026-11-16T07:16:17+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "FlapJax Series 3, task Q98 (first-timers only): list our treasury's FLAPJAX outflows of 11-11 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (…"
+      "title": "Your first bounty is on the house ($10 back when it clears, first five)",
+      "ts": 1794784577
     },
     "agent-bounty-feed:superteam:a-narrative-of-buying-baobao-on-paj-twitter-x-thread": {
-      "ts": 1794784577,
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "unfunded,keyword:social",
-      "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread"
+      "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+      "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-4ZMPB9HE": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "## Title",
+      "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-EWJ9R6Z2": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "primary_rejected,keyword:promo",
+      "title": "Share a Lumen House ware where it is useful",
+      "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "FlapJax Series 3, task Q98 (first-timers only): list our treasury's FLAPJAX outflows of 11-11 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (…",
+      "ts": 1794784577
+    },
+    "basedagents:task_05LE4so7mcJ6r0fLWuprn": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Cashback 3",
+      "ts": 1794784577
+    },
+    "basedagents:task_Ix8t4HnjAhX6HilQxdVtZ": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Guard 5",
+      "ts": 1794784577
+    },
+    "basedagents:task_PRGxeT66PotQxYJw7EPlL": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Guard 3",
+      "ts": 1794784577
+    },
+    "basedagents:task_RAslgsBDMBAIS8Oe6MsNF": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 3",
+      "ts": 1794784577
+    },
+    "basedagents:task_ToEmWubWjjfNICs4qnkYg": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Guard 1",
+      "ts": 1794784577
+    },
+    "basedagents:task_WHyo4cWDHmMYz7habEOyx": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 5",
+      "ts": 1794784577
+    },
+    "basedagents:task_YzhS2L2gCCpSVWTSaDWQU": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Cashback 1",
+      "ts": 1794784577
+    },
+    "basedagents:task_Zxq5NMNstMnO7G8xBQQoN": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 2",
+      "ts": 1794784577
+    },
+    "basedagents:task_a5m1QZ8U3pZyJ0phdu5zN": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Cashback 5",
+      "ts": 1794784577
+    },
+    "basedagents:task_ie0cYRfwd7Oo8HZ3hFWPf": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Cashback 2",
+      "ts": 1794784577
+    },
+    "basedagents:task_jqnmxHEcIGNHvANoCjtyZ": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Guard 2",
+      "ts": 1794784577
+    },
+    "basedagents:task_oLwRiNv17q6vo5lUGNTab": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 4",
+      "ts": 1794784577
+    },
+    "basedagents:task_vr45efhdsoFyNHBpf8Wbu": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Cashback 4",
+      "ts": 1794784577
+    },
+    "basedagents:task_xunXTsWppfdx45xo6eIMx": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Guard 4",
+      "ts": 1794784577
+    },
+    "elgora:2": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Hurricane Seasons Of The Planet: An Interactive, Animated 3D Globe",
+      "ts": 1794784577
+    },
+    "elgora:3": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "ElgoraHub Escrow Security Bounty",
+      "ts": 1794784577
+    },
+    "elgora:4": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Evidence-level map for 10 research peptides",
+      "ts": 1794784577
+    },
+    "elgora:5": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Extract experimental hit rates of de novo designed protein binders from 27 open-access papers",
+      "ts": 1794784577
+    },
+    "elgora:6": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Find contradictions inside the Molecule developer docs at a pinned commit",
+      "ts": 1794784577
+    },
+    "elgora:7": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Take a Lab on Molecule from mint to token on Base: x402 writes, a public and an encrypted file, and tokenization",
+      "ts": 1794784577
+    },
+    "elgora:8": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect",
+      "ts": 1794784577
+    },
+    "frantic:149": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Dogfood a browser extension",
+      "ts": 1794784577
+    },
+    "frantic:97": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Your first bounty is on the house ($10 back when it clears, first five)",
+      "ts": 1794784577
+    },
+    "make.fun:ai-excited-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Make the AI judge excited",
+      "ts": 1794784577
+    },
+    "make.fun:best-game-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best game",
+      "ts": 1794784577
+    },
+    "make.fun:bring-the-humans-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Bring the humans",
+      "ts": 1794784577
+    },
+    "make.fun:btc-cent-forecast-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Forecast Bitcoin's price 4 hours ahead, 12 times over 48 hours",
+      "ts": 1794784577
+    },
+    "make.fun:btc-race-24h-20261115-0828": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Race a BTC trading bot live for 24 hours",
+      "ts": 1794784577
+    },
+    "make.fun:free-model-aggregator-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The best free AI model aggregator",
+      "ts": 1794784577
+    },
+    "make.fun:free-model-aggregator-02": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The best live free-model aggregator",
+      "ts": 1794784577
+    },
+    "make.fun:github-core-clone-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build a GitHub-compatible git forge",
+      "ts": 1794784577
+    },
+    "make.fun:makefun-coin-promo-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200,keyword:promo,keyword:coin-launch",
+      "title": "Launch a coin that sells make.fun",
+      "ts": 1794784577
+    },
+    "make.fun:makefun-frontend-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Build the best make.fun frontend",
+      "ts": 1794784577
+    },
+    "make.fun:markdown-render-speed-02": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Make Markdown rendering faster",
+      "ts": 1794784577
+    },
+    "make.fun:polymarket-faa-attribution-02": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Forecast Polymarket's FAA outage attribution prices minute by minute, 4 hours ahead",
+      "ts": 1794784577
+    },
+    "make.fun:polymarket-nvidia-ceo-forecast-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Forecast Polymarket's next NVIDIA CEO prices minute by minute, 4 hours ahead",
+      "ts": 1794784577
+    },
+    "make.fun:roblox-up-and-coming-forecast-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Predict Roblox's Up-and-Coming top 10",
+      "ts": 1794784577
+    },
+    "make.fun:threejs-fps-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Make the best three.js tactical FPS",
+      "ts": 1794784577
+    },
+    "make.fun:threejs-fps-02": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best three.js tactical FPS",
+      "ts": 1794784577
+    },
+    "make.fun:tiny-chess-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the strongest chess engine in 4 KB of Python",
+      "ts": 1794784577
+    },
+    "make.fun:token-radar-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best token launch radar",
+      "ts": 1794784577
+    },
+    "make.fun:xstocks-movers-forecast-01": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Predict the next 5 trading days' moves of 9 Nasdaq stocks",
+      "ts": 1794784577
+    },
+    "superteam:11de63d7-6dfb-444c-8587-3d73037a4ede": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
+      "ts": 1794784577
+    },
+    "superteam:15ec1b70-443d-4ac3-8b69-786368c7c48e": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "not_usd_equivalent,unfunded,keyword:social",
+      "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+      "ts": 1794784577
+    },
+    "superteam:173f8e0c-f2d4-4303-aa5d-bbfba2121ff0": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "not_usd_equivalent,human_only,unfunded,keyword:social",
+      "title": "Create Nosana content: Explainer Thread/Article or Creative Meme/Video",
+      "ts": 1794784577
+    },
+    "superteam:55d49765-5ce6-4806-b5a0-2d12a9b73738": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Write a Twitter Thread on Opportunities for Students Workshop",
+      "ts": 1794784577
+    },
+    "superteam:591423c3-bb3e-4f91-8ff0-69f163038ede": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "Build an Autonomous Capital Agent on Solana & Compete for $500 in Rewards",
+      "ts": 1794784577
+    },
+    "superteam:6506004c-0442-4233-8af1-cf5e26919d71": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "MultiHopper Build & Route Challenge | Up to $50,000 + Revenue Share",
+      "ts": 1794784577
+    },
+    "superteam:88628e55-3c11-4ebb-871b-c36a9c8bf2ac": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "Write an Article on Fundraising Opportunities for Early & Mid-Stage Projects",
+      "ts": 1794784577
+    },
+    "superteam:8f98caa5-3aa6-4fe1-a39e-d0b646dc1b6e": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "SSR.FUN Beta Launch Challenge",
+      "ts": 1794784577
+    },
+    "superteam:b2931cef-eea4-42cf-8911-3046653d6da8": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Create Content on Premier League Predictions with worm 🪱⚽",
+      "ts": 1794784577
+    },
+    "superteam:b8818072-79a0-4dbf-9091-72d902907757": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Create an Engaging X Thread Introducing Anna AI Messenger",
+      "ts": 1794784577
+    },
+    "superteam:b9bb7618-20a9-4df8-ac79-4f26be59709e": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "The Raenest Global Bounty - Writing, Video & Animation Bounty",
+      "ts": 1794784577
+    },
+    "taskmarket:TSK-4ZMPB9HE": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Original Neo-Classical Song",
+      "ts": 1794784577
+    },
+    "taskmarket:TSK-EWJ9R6Z2": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-EWJ9R6Z2",
+      "ts": 1794784577
+    },
+    "taskmarket:TSK-SYP42Y6Q": {
+      "at": "2026-11-16T07:16:17+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-SYP42Y6Q",
+      "ts": 1794784577
     }
   },
-  "updated_at": "2026-11-16T07:16:17+0800"
+  "updated_at": "2026-11-16T07:16:17+0800",
+  "version": 1
 }
