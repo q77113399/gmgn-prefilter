@@ -4,7 +4,7 @@ name: gmgn-prefilter
 # Public repo: never echo secrets; logs/evidence stay on the runner (no artifacts).
 on:
   schedule:
-    # Every 15 min (public repo => unlimited free minutes). GitHub may delay
+    # Every 15 min (public repo => unlimited free minutes). Schedule owner: q77113399. GitHub may delay
     # scheduled runs 10-30 min at peak or skip some; the box loop covers the rest.
     # Fallback if the repo ever goes private: '*/30 * * * *' (fits 2000 free min/month).
     - cron: '*/15 * * * *'
