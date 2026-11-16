@@ -867,8 +867,57 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-FZ56EMKC"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZEV408PV": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
+    },
+    "agent-bounty-feed:taskmarket:TSK-86ZR2Y25": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
+    },
+    "agent-bounty-feed:taskmarket:TSK-5HDFDX3K": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
+    },
+    "agent-bounty-feed:taskmarket:TSK-H17TQNF1": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
+    },
+    "agent-bounty-feed:taskmarket:TSK-FZ56EMKC": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
+    },
+    "agent-bounty-feed:taskmarket:TSK-EBB238VJ": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
+      "ts": 1794865954,
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Explain Ethereum Gas Fees Like I'm 5"
     }
   },
-  "updated_at": "2026-11-17T05:07:30+0800",
+  "updated_at": "2026-11-17T05:52:34+0800",
   "version": 1
 }
