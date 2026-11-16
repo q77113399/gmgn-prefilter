@@ -22,7 +22,10 @@
     "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
     "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump",
     "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump",
-    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump"
+    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump",
+    "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
+    "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump",
+    "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump"
   ],
   "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
   "reasons": {
@@ -46,6 +49,9 @@
     "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": "GTA (Grand Theft Anthropic) 2026-11-17 05:00 Taipei: GMGN DEV Scan funding wallet ABNL...muyf flagged 'Blacklist funding wallet'; honeypot/sellability not shown; DEV Scan score errored. Otherwise clean (LP 100% burnt, tax 0.95%, top10 6.1%, bundler/snipers/phishing 0%); rejected by gmgn-4",
     "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump": "HOLDMAS: GMGN 'Blacklist funding wallet' flag, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
     "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump": "WORLDCRAFT: GMGN 'Blacklist funding wallet' flag, honeypot not shown, tax 1.2%; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
-    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump": "scat: GMGN 'Blacklist funding wallet' flag, bundler 35.8%, serial dev 6,741 launches, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)"
+    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump": "scat: GMGN 'Blacklist funding wallet' flag, bundler 35.8%, serial dev 6,741 launches, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
+    "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump": "2026-11-17 06:30 BAWSAQ (Vice City Bawsaq relaunch): GMGN dev funding wallet 4Mwy..n2hA flagged Blacklist funding wallet; honeypot not shown; dev has 4 dead prior tokens",
+    "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump": "JENSEN 2026-11-17 06:30 gmgn-early: GMGN bundler 48.5%, top10 36.5%, honeypot not shown",
+    "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump": "Debu 2026-11-17 06:30 gmgn-early: GMGN dev Blacklist funding wallet, bundler 27.8%, honeypot not shown"
   }
 }
