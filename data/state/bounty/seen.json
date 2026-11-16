@@ -706,8 +706,50 @@
       "qualified": true,
       "reason": null,
       "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "taskmarket:TSK-CF982SE6": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-CF982SE6"
+    },
+    "taskmarket:TSK-QR83YPS0": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-QR83YPS0"
+    },
+    "taskmarket:TSK-MZGPE1D4": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-MZGPE1D4"
+    },
+    "taskmarket:TSK-DWEDHSY5": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-DWEDHSY5"
+    },
+    "taskmarket:TSK-D9JA2RSB": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-D9JA2RSB"
+    },
+    "taskmarket:TSK-7CV5DGSM": {
+      "ts": 1794856050,
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-7CV5DGSM"
     }
   },
-  "updated_at": "2026-11-17T02:07:42+0800",
+  "updated_at": "2026-11-17T03:07:30+0800",
   "version": 1
 }
