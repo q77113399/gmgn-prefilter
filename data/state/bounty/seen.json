@@ -566,8 +566,22 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-822VYQS7"
+    },
+    "agent-bounty-feed:hondo:a7deff5df5d6": {
+      "ts": 1794792148,
+      "at": "2026-11-16T09:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Choose a service and explain your choice"
+    },
+    "agent-bounty-feed:hondo:63e1b1bd2c20": {
+      "ts": 1794792148,
+      "at": "2026-11-16T09:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Choose a service and explain your choice"
     }
   },
-  "updated_at": "2026-11-16T09:07:29+0800",
+  "updated_at": "2026-11-16T09:22:28+0800",
   "version": 1
 }
