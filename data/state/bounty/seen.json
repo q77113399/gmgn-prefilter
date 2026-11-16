@@ -748,8 +748,36 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-7CV5DGSM"
+    },
+    "taskmarket:TSK-WM7CG6KC": {
+      "ts": 1794858753,
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-WM7CG6KC"
+    },
+    "taskmarket:TSK-W5AYT8NB": {
+      "ts": 1794858753,
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-W5AYT8NB"
+    },
+    "taskmarket:TSK-7XX7ZXS0": {
+      "ts": 1794858753,
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-7XX7ZXS0"
+    },
+    "taskmarket:TSK-K2BNPT7D": {
+      "ts": 1794858753,
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-K2BNPT7D"
     }
   },
-  "updated_at": "2026-11-17T03:07:30+0800",
+  "updated_at": "2026-11-17T03:52:33+0800",
   "version": 1
 }
