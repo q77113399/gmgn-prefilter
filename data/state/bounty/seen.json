@@ -916,8 +916,15 @@
       "qualified": true,
       "reason": null,
       "title": "Explain Ethereum Gas Fees Like I'm 5"
+    },
+    "frantic:147": {
+      "ts": 1794872247,
+      "at": "2026-11-17T07:37:27+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Dogfood a Chrome extension."
     }
   },
-  "updated_at": "2026-11-17T05:52:34+0800",
+  "updated_at": "2026-11-17T07:37:27+0800",
   "version": 1
 }
