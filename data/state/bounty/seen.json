@@ -559,8 +559,15 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-01AWCTNN"
+    },
+    "taskmarket:TSK-822VYQS7": {
+      "ts": 1794791249,
+      "at": "2026-11-16T09:07:29+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-822VYQS7"
     }
   },
-  "updated_at": "2026-11-16T08:52:30+0800",
+  "updated_at": "2026-11-16T09:07:29+0800",
   "version": 1
 }
