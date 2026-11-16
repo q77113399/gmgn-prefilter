@@ -790,8 +790,36 @@
       "qualified": true,
       "reason": null,
       "title": "Explain Ethereum Gas Fees Like I'm 5"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WM7CG6KC": {
+      "ts": 1794861461,
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only public reads. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, GET /table returns four rows and GET /fixtures returns…"
+    },
+    "agent-bounty-feed:taskmarket:TSK-W5AYT8NB": {
+      "ts": 1794861461,
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only matchday kickoff. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /matchday plays the current matchday three ti…"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7XX7ZXS0": {
+      "ts": 1794861461,
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only lineup submission. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /clubs/:id/selection accepts tactic attack, …"
+    },
+    "agent-bounty-feed:taskmarket:TSK-K2BNPT7D": {
+      "ts": 1794861461,
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …"
     }
   },
-  "updated_at": "2026-11-17T04:07:30+0800",
+  "updated_at": "2026-11-17T04:37:41+0800",
   "version": 1
 }
