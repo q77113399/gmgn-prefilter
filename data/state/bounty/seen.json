@@ -678,8 +678,15 @@
       "qualified": true,
       "reason": null,
       "title": "Science Spread Tracer"
+    },
+    "frantic:128": {
+      "ts": 1794848851,
+      "at": "2026-11-17T01:07:31+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Earn a citation for an open data registry on a real external site"
     }
   },
-  "updated_at": "2026-11-16T21:22:42+0800",
+  "updated_at": "2026-11-17T01:07:31+0800",
   "version": 1
 }
