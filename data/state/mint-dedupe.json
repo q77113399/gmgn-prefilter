@@ -6,62 +6,25 @@
     "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
       "ts": 1794773694
     },
-    "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
-      "ts": 1794695174
-    },
     "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump": {
       "ts": 1794773694
     },
-    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": {
-      "ts": 1794695148
-    },
-    "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump": {
-      "ts": 1794718546
-    },
     "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": {
-      "run_id": "20261116-132119",
-      "symbol": "chudhaos",
       "ts": 1794806483
-    },
-    "5ZDiuBxCLuAjjxSKiBdumQJ36P7Jd9mh5HFLY94Ppump": {
-      "ts": 1794695257
     },
     "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": {
       "ts": 1794782246
     },
-    "6sZUjgnHTdezsZoMdbTcxsi58bXqnsz6mkj49Wgxpump": {
-      "ts": 1794717640
-    },
-    "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": {
-      "ts": 1794717640
-    },
     "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
       "ts": 1794768547
     },
-    "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump": {
-      "ts": 1794695148
-    },
-    "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-      "ts": 1794695148
-    },
     "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
       "ts": 1794784940
-    },
-    "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump": {
-      "ts": 1794695148
-    },
-    "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": {
-      "ts": 1794717640
-    },
-    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
-      "ts": 1794695148
     },
     "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
       "ts": 1794750791
     },
     "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": {
-      "run_id": "20261116-103715",
-      "symbol": "BAWSAQ",
       "ts": 1794796638
     },
     "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": {
@@ -70,31 +33,19 @@
     "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump": {
       "ts": 1794749876
     },
-    "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": {
-      "ts": 1794697639
-    },
     "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
       "ts": 1794793941
     },
-    "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump": {
-      "ts": 1794695174
-    },
-    "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump": {
-      "ts": 1794695174
-    },
     "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-      "run_id": "20261116-140628",
-      "symbol": "Marvin",
       "ts": 1794809192
-    },
-    "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump": {
-      "ts": 1794695174
     },
     "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump": {
       "ts": 1794742819
     },
-    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
-      "ts": 1794695174
+    "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": {
+      "ts": 1794816445,
+      "symbol": "JAG",
+      "run_id": "20261116-160723"
     }
   }
 }
