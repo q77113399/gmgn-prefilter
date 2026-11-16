@@ -692,8 +692,22 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-B0QVNCPG"
+    },
+    "agent-bounty-feed:frantic:128": {
+      "ts": 1794852462,
+      "at": "2026-11-17T02:07:42+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Earn a citation for an open data registry on a real external site"
+    },
+    "agent-bounty-feed:taskmarket:TSK-B0QVNCPG": {
+      "ts": 1794852462,
+      "at": "2026-11-17T02:07:42+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
     }
   },
-  "updated_at": "2026-11-17T01:22:39+0800",
+  "updated_at": "2026-11-17T02:07:42+0800",
   "version": 1
 }
