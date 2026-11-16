@@ -489,8 +489,78 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-5E03NXPZ"
+    },
+    "taskmarket:TSK-ZK5FTWX6": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-ZK5FTWX6"
+    },
+    "taskmarket:TSK-AATX7Y65": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-AATX7Y65"
+    },
+    "taskmarket:TSK-2YFKJ8G1": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-2YFKJ8G1"
+    },
+    "taskmarket:TSK-JPD46D5C": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-JPD46D5C"
+    },
+    "taskmarket:TSK-QSW090RD": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-QSW090RD"
+    },
+    "taskmarket:TSK-MKTH9WZN": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-MKTH9WZN"
+    },
+    "taskmarket:TSK-KWSW8ZVW": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-KWSW8ZVW"
+    },
+    "taskmarket:TSK-6XPX6Z86": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-6XPX6Z86"
+    },
+    "taskmarket:TSK-3CVSCGPA": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-3CVSCGPA"
+    },
+    "taskmarket:TSK-01AWCTNN": {
+      "ts": 1794790350,
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-01AWCTNN"
     }
   },
-  "updated_at": "2026-11-16T08:37:32+0800",
+  "updated_at": "2026-11-16T08:52:30+0800",
   "version": 1
 }
