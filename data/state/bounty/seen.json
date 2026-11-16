@@ -776,8 +776,22 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-K2BNPT7D"
+    },
+    "taskmarket:TSK-EBB238VJ": {
+      "ts": 1794859650,
+      "at": "2026-11-17T04:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)"
+    },
+    "taskmarket:TSK-DRSW4WC9": {
+      "ts": 1794859650,
+      "at": "2026-11-17T04:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Explain Ethereum Gas Fees Like I'm 5"
     }
   },
-  "updated_at": "2026-11-17T03:52:33+0800",
+  "updated_at": "2026-11-17T04:07:30+0800",
   "version": 1
 }
