@@ -685,8 +685,15 @@
       "qualified": true,
       "reason": null,
       "title": "Earn a citation for an open data registry on a real external site"
+    },
+    "taskmarket:TSK-B0QVNCPG": {
+      "ts": 1794849759,
+      "at": "2026-11-17T01:22:39+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-B0QVNCPG"
     }
   },
-  "updated_at": "2026-11-17T01:07:31+0800",
+  "updated_at": "2026-11-17T01:22:39+0800",
   "version": 1
 }
