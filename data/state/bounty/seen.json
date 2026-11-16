@@ -818,8 +818,22 @@
       "qualified": true,
       "reason": null,
       "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …"
+    },
+    "taskmarket:TSK-9GE15V6E": {
+      "ts": 1794862361,
+      "at": "2026-11-17T04:52:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-9GE15V6E"
+    },
+    "taskmarket:TSK-XACE0MS5": {
+      "ts": 1794862361,
+      "at": "2026-11-17T04:52:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-XACE0MS5"
     }
   },
-  "updated_at": "2026-11-17T04:37:41+0800",
+  "updated_at": "2026-11-17T04:52:41+0800",
   "version": 1
 }
