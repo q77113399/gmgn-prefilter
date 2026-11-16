@@ -482,8 +482,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-SYP42Y6Q",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-5E03NXPZ": {
+      "ts": 1794789452,
+      "at": "2026-11-16T08:37:32+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5E03NXPZ"
     }
   },
-  "updated_at": "2026-11-16T07:16:17+0800",
+  "updated_at": "2026-11-16T08:37:32+0800",
   "version": 1
 }
