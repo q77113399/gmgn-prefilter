@@ -18,7 +18,8 @@
   "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
   "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump",
   "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump",
-  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump"
+  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump",
+  "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
@@ -38,6 +39,7 @@
   "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": "BAWSAQ (The Vice City Bawsaq): GMGN DEV Scan 42.3/100 avoid (dev open-dumped on all 3 launches, fastest 9s), honeypot not shown; rejected 2026-11-16 10:40 Taipei by gmgn-4",
   "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": "chudhaos: main PumpSwap pool 5UsJJX… (liq ~$55K) paired with 'mihao' token, not SOL; only SOL-side market is Meteora DAMM v2 with ~$86 liq and 0% LP locked; rugcheck 25 insiders; rejected 2026-11-16 13:22 Taipei by gmgn-4 (no browser)",
   "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": "Marvin: main PumpSwap pool 5dEBrz... (liq ~$78K, LP 100%) paired with SPCX token, not SOL; SOL pools are Meteora with 0% LP locked (largest ~$42K); h6 +1476%; rejected without browser 2026-11-16 14:07 Taipei by gmgn-4",
-  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... — DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4"
+  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... — DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4",
+  "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": "GTA (Grand Theft Anthropic) 2026-11-17 05:00 Taipei: GMGN DEV Scan funding wallet ABNL...muyf flagged 'Blacklist funding wallet'; honeypot/sellability not shown; DEV Scan score errored. Otherwise clean (LP 100% burnt, tax 0.95%, top10 6.1%, bundler/snipers/phishing 0%); rejected by gmgn-4"
  }
 }
