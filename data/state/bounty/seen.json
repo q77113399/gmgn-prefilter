@@ -832,8 +832,43 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-XACE0MS5"
+    },
+    "taskmarket:TSK-ZEV408PV": {
+      "ts": 1794863250,
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-ZEV408PV"
+    },
+    "taskmarket:TSK-86ZR2Y25": {
+      "ts": 1794863250,
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-86ZR2Y25"
+    },
+    "taskmarket:TSK-5HDFDX3K": {
+      "ts": 1794863250,
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5HDFDX3K"
+    },
+    "taskmarket:TSK-H17TQNF1": {
+      "ts": 1794863250,
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-H17TQNF1"
+    },
+    "taskmarket:TSK-FZ56EMKC": {
+      "ts": 1794863250,
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-FZ56EMKC"
     }
   },
-  "updated_at": "2026-11-17T04:52:41+0800",
+  "updated_at": "2026-11-17T05:07:30+0800",
   "version": 1
 }
