@@ -61,5 +61,9 @@
   "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump": {
     "name": "SHARE",
     "reason": "gmgn-early 2026-11-17 09:08 Taipei: Blacklist dev + Blacklist funding wallet, bundler ~40%, honeypot not shown"
+  },
+  "Fr1ZS7SVvBqPRzyMprD4BYAwa5wT8BPkUQQmXs3bJX8s": {
+    "name": "NEX Ai",
+    "reason": "gmgn-early 2026-11-17 10:28 Taipei: pumpswap pool liquidity ~$0.02 (rugcheck totalMarketLiquidity, DexScreener liq 0) -> effectively unsellable; Token-2022 non-pump mint"
   }
 }

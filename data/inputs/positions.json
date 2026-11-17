@@ -1,10 +1,4 @@
 {
  "positions": {},
- "pending_cleanup": [
-  {
-   "name": "LEOSTAR",
-   "mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump",
-   "note": "TP filled 2026-11-17 10:04 Taipei; cancel leftover SL at MC $750540"
-  }
- ]
+ "pending_cleanup": []
 }
