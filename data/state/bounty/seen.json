@@ -1007,8 +1007,15 @@
       "qualified": false,
       "reason": "not_usd_equivalent,human_only,unfunded",
       "title": "Provide Feedback on our new Support Assistant Nosa"
+    },
+    "basedagents:task_P7aE6hBm5if3ZrgSL9ndo": {
+      "ts": 1794924449,
+      "at": "2026-11-17T22:07:29+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Free embedded signup: get your own running x402 paid agent on Cloudflare, one command"
     }
   },
-  "updated_at": "2026-11-17T18:22:32+0800",
+  "updated_at": "2026-11-17T22:07:29+0800",
   "version": 1
 }
