@@ -944,8 +944,22 @@
       "reason": null,
       "title": "TSK-ZW98FY18",
       "ts": 1794874050
+    },
+    "taskmarket:TSK-5HD63YCS": {
+      "ts": 1794875850,
+      "at": "2026-11-17T08:37:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5HD63YCS"
+    },
+    "taskmarket:TSK-6SVCCX32": {
+      "ts": 1794875850,
+      "at": "2026-11-17T08:37:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-6SVCCX32"
     }
   },
-  "updated_at": "2026-11-17T08:07:36+0800",
+  "updated_at": "2026-11-17T08:37:30+0800",
   "version": 1
 }
