@@ -20,7 +20,7 @@
   "closed_sol_returned": 0.625646674,
   "closed_sig": "mQkKm1zbodjLFhN9AUvsx3kRuYbzq8Q5KZhR6EzCVVwLdJRGoFSFm5gtNhnaWFP8eJPwNaLibBYGqGTkeAn7yTk"
  },
- "_last_ok": "2026-11-17 08:14:36",
+ "_last_ok": "2026-11-17 09:16:08",
  "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": {
   "name": "CHILL",
   "peak": 94755.453508,
@@ -74,5 +74,14 @@
   "last": 0.0,
   "sol_prev": 0.900377818,
   "sol_now": 1.980117197
+ },
+ "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump": {
+  "name": "LEOSTAR",
+  "peak": 43909.833692,
+  "low_reads": 0,
+  "fired": false,
+  "last": 43909.833692,
+  "sol_prev": 1.176519199,
+  "sol_now": 1.176519199
  }
 }
