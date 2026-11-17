@@ -1000,8 +1000,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Forecast GTA VI's launch-day Twitch viewers hour by hour"
+    },
+    "superteam:c7d7e134-54b4-4000-bd8b-8834231231e1": {
+      "ts": 1794910952,
+      "at": "2026-11-17T18:22:32+0800",
+      "qualified": false,
+      "reason": "not_usd_equivalent,human_only,unfunded",
+      "title": "Provide Feedback on our new Support Assistant Nosa"
     }
   },
-  "updated_at": "2026-11-17T16:37:27+0800",
+  "updated_at": "2026-11-17T18:22:32+0800",
   "version": 1
 }
