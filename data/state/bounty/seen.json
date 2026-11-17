@@ -1014,8 +1014,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Free embedded signup: get your own running x402 paid agent on Cloudflare, one command"
+    },
+    "make.fun:ai-judge-rich-01": {
+      "ts": 1794928954,
+      "at": "2026-11-17T23:22:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI judge rich"
     }
   },
-  "updated_at": "2026-11-17T22:07:29+0800",
+  "updated_at": "2026-11-17T23:22:34+0800",
   "version": 1
 }
