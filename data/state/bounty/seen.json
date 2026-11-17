@@ -49,6 +49,27 @@
       "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect",
       "ts": 1794784577
     },
+    "agent-bounty-feed:elgora:9": {
+      "at": "2026-11-16T21:22:42+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Science Spread Tracer",
+      "ts": 1794835362
+    },
+    "agent-bounty-feed:frantic:128": {
+      "at": "2026-11-17T02:07:42+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Earn a citation for an open data registry on a real external site",
+      "ts": 1794852462
+    },
+    "agent-bounty-feed:frantic:147": {
+      "at": "2026-11-17T08:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Dogfood a Chrome extension.",
+      "ts": 1794874050
+    },
     "agent-bounty-feed:frantic:149": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
@@ -63,12 +84,47 @@
       "title": "Your first bounty is on the house ($10 back when it clears, first five)",
       "ts": 1794784577
     },
+    "agent-bounty-feed:hondo:63e1b1bd2c20": {
+      "at": "2026-11-16T09:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Choose a service and explain your choice",
+      "ts": 1794792148
+    },
+    "agent-bounty-feed:hondo:a7deff5df5d6": {
+      "at": "2026-11-16T09:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Choose a service and explain your choice",
+      "ts": 1794792148
+    },
     "agent-bounty-feed:superteam:a-narrative-of-buying-baobao-on-paj-twitter-x-thread": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "unfunded,keyword:social",
       "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
       "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-01AWCTNN": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-2YFKJ8G1": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-3CVSCGPA": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
     },
     "agent-bounty-feed:taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
@@ -77,6 +133,76 @@
       "title": "## Title",
       "ts": 1794784577
     },
+    "agent-bounty-feed:taskmarket:TSK-5E03NXPZ": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-5HDFDX3K": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-6XPX6Z86": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-7XX7ZXS0": {
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only lineup submission. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /clubs/:id/selection accepts tactic attack, …",
+      "ts": 1794861461
+    },
+    "agent-bounty-feed:taskmarket:TSK-822VYQS7": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-86ZR2Y25": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-AATX7Y65": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-B0QVNCPG": {
+      "at": "2026-11-17T02:07:42+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
+      "ts": 1794852462
+    },
+    "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Explain Ethereum Gas Fees Like I'm 5",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-EBB238VJ": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
+      "ts": 1794865954
+    },
     "agent-bounty-feed:taskmarket:TSK-EWJ9R6Z2": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -84,12 +210,89 @@
       "title": "Share a Lumen House ware where it is useful",
       "ts": 1794784577
     },
+    "agent-bounty-feed:taskmarket:TSK-FZ56EMKC": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-H17TQNF1": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-JPD46D5C": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-K2BNPT7D": {
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …",
+      "ts": 1794861461
+    },
+    "agent-bounty-feed:taskmarket:TSK-KWSW8ZVW": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-MKTH9WZN": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-QSW090RD": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
+    },
     "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "FlapJax Series 3, task Q98 (first-timers only): list our treasury's FLAPJAX outflows of 11-11 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (…",
       "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-W5AYT8NB": {
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only matchday kickoff. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /matchday plays the current matchday three ti…",
+      "ts": 1794861461
+    },
+    "agent-bounty-feed:taskmarket:TSK-WM7CG6KC": {
+      "at": "2026-11-17T04:37:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public phase-2 task for Forge football-manager. Only public reads. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, GET /table returns four rows and GET /fixtures returns…",
+      "ts": 1794861461
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZEV408PV": {
+      "at": "2026-11-17T05:52:34+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZK5FTWX6": {
+      "at": "2026-11-16T10:22:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
+      "ts": 1794795748
     },
     "basedagents:task_05LE4so7mcJ6r0fLWuprn": {
       "at": "2026-11-16T07:16:17+0800",
@@ -237,6 +440,27 @@
       "reason": null,
       "title": "Stand up an agent-run Lab on Molecule: an AI owner, with Claude, Codex and Grok joined as contributors through Agent Connect",
       "ts": 1794784577
+    },
+    "elgora:9": {
+      "at": "2026-11-16T20:37:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Science Spread Tracer",
+      "ts": 1794832648
+    },
+    "frantic:128": {
+      "at": "2026-11-17T01:07:31+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Earn a citation for an open data registry on a real external site",
+      "ts": 1794848851
+    },
+    "frantic:147": {
+      "at": "2026-11-17T07:37:27+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Dogfood a Chrome extension.",
+      "ts": 1794872247
     },
     "frantic:149": {
       "at": "2026-11-16T07:16:17+0800",
@@ -462,12 +686,138 @@
       "title": "The Raenest Global Bounty - Writing, Video & Animation Bounty",
       "ts": 1794784577
     },
+    "taskmarket:TSK-01AWCTNN": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-01AWCTNN",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-2YFKJ8G1": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-2YFKJ8G1",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-3CVSCGPA": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-3CVSCGPA",
+      "ts": 1794790350
+    },
     "taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
       "title": "Original Neo-Classical Song",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-5E03NXPZ": {
+      "at": "2026-11-16T08:37:32+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5E03NXPZ",
+      "ts": 1794789452
+    },
+    "taskmarket:TSK-5HDFDX3K": {
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5HDFDX3K",
+      "ts": 1794863250
+    },
+    "taskmarket:TSK-6XPX6Z86": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-6XPX6Z86",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-7CV5DGSM": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-7CV5DGSM",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-7XX7ZXS0": {
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-7XX7ZXS0",
+      "ts": 1794858753
+    },
+    "taskmarket:TSK-822VYQS7": {
+      "at": "2026-11-16T09:07:29+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-822VYQS7",
+      "ts": 1794791249
+    },
+    "taskmarket:TSK-86ZR2Y25": {
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-86ZR2Y25",
+      "ts": 1794863250
+    },
+    "taskmarket:TSK-9GE15V6E": {
+      "at": "2026-11-17T04:52:41+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-9GE15V6E",
+      "ts": 1794862361
+    },
+    "taskmarket:TSK-AATX7Y65": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-AATX7Y65",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-B0QVNCPG": {
+      "at": "2026-11-17T01:22:39+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-B0QVNCPG",
+      "ts": 1794849759
+    },
+    "taskmarket:TSK-CF982SE6": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-CF982SE6",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-D9JA2RSB": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-D9JA2RSB",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-DRSW4WC9": {
+      "at": "2026-11-17T04:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Explain Ethereum Gas Fees Like I'm 5",
+      "ts": 1794859650
+    },
+    "taskmarket:TSK-DWEDHSY5": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-DWEDHSY5",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-EBB238VJ": {
+      "at": "2026-11-17T04:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
+      "ts": 1794859650
     },
     "taskmarket:TSK-EWJ9R6Z2": {
       "at": "2026-11-16T07:16:17+0800",
@@ -476,6 +826,76 @@
       "title": "TSK-EWJ9R6Z2",
       "ts": 1794784577
     },
+    "taskmarket:TSK-FZ56EMKC": {
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-FZ56EMKC",
+      "ts": 1794863250
+    },
+    "taskmarket:TSK-H17TQNF1": {
+      "at": "2026-11-17T05:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-H17TQNF1",
+      "ts": 1794863250
+    },
+    "taskmarket:TSK-JPD46D5C": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-JPD46D5C",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-K2BNPT7D": {
+      "at": "2026-11-17T03:52:33+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-K2BNPT7D",
+      "ts": 1794858753
+    },
+    "taskmarket:TSK-KWSW8ZVW": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-KWSW8ZVW",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-MKTH9WZN": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-MKTH9WZN",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-MZGPE1D4": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-MZGPE1D4",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-QR83YPS0": {
+      "at": "2026-11-17T03:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-QR83YPS0",
+      "ts": 1794856050
+    },
+    "taskmarket:TSK-QSW090RD": {
+      "at": "2026-11-16T08:52:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-QSW090RD",
+      "ts": 1794790350
+    },
+    "taskmarket:TSK-SV0PPSQ9": {
+      "at": "2026-11-17T08:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-SV0PPSQ9",
+      "ts": 1794874050
+    },
     "taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -483,469 +903,49 @@
       "title": "TSK-SYP42Y6Q",
       "ts": 1794784577
     },
-    "taskmarket:TSK-5E03NXPZ": {
-      "ts": 1794789452,
-      "at": "2026-11-16T08:37:32+0800",
+    "taskmarket:TSK-W5AYT8NB": {
+      "at": "2026-11-17T03:52:33+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-5E03NXPZ"
-    },
-    "taskmarket:TSK-ZK5FTWX6": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-ZK5FTWX6"
-    },
-    "taskmarket:TSK-AATX7Y65": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-AATX7Y65"
-    },
-    "taskmarket:TSK-2YFKJ8G1": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-2YFKJ8G1"
-    },
-    "taskmarket:TSK-JPD46D5C": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-JPD46D5C"
-    },
-    "taskmarket:TSK-QSW090RD": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-QSW090RD"
-    },
-    "taskmarket:TSK-MKTH9WZN": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-MKTH9WZN"
-    },
-    "taskmarket:TSK-KWSW8ZVW": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-KWSW8ZVW"
-    },
-    "taskmarket:TSK-6XPX6Z86": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-6XPX6Z86"
-    },
-    "taskmarket:TSK-3CVSCGPA": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-3CVSCGPA"
-    },
-    "taskmarket:TSK-01AWCTNN": {
-      "ts": 1794790350,
-      "at": "2026-11-16T08:52:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-01AWCTNN"
-    },
-    "taskmarket:TSK-822VYQS7": {
-      "ts": 1794791249,
-      "at": "2026-11-16T09:07:29+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-822VYQS7"
-    },
-    "agent-bounty-feed:hondo:a7deff5df5d6": {
-      "ts": 1794792148,
-      "at": "2026-11-16T09:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Choose a service and explain your choice"
-    },
-    "agent-bounty-feed:hondo:63e1b1bd2c20": {
-      "ts": 1794792148,
-      "at": "2026-11-16T09:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Choose a service and explain your choice"
-    },
-    "agent-bounty-feed:taskmarket:TSK-822VYQS7": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ZK5FTWX6": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-AATX7Y65": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-2YFKJ8G1": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-JPD46D5C": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-QSW090RD": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-MKTH9WZN": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KWSW8ZVW": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-6XPX6Z86": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-3CVSCGPA": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-01AWCTNN": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-5E03NXPZ": {
-      "ts": 1794795748,
-      "at": "2026-11-16T10:22:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "elgora:9": {
-      "ts": 1794832648,
-      "at": "2026-11-16T20:37:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Science Spread Tracer"
-    },
-    "agent-bounty-feed:elgora:9": {
-      "ts": 1794835362,
-      "at": "2026-11-16T21:22:42+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Science Spread Tracer"
-    },
-    "frantic:128": {
-      "ts": 1794848851,
-      "at": "2026-11-17T01:07:31+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Earn a citation for an open data registry on a real external site"
-    },
-    "taskmarket:TSK-B0QVNCPG": {
-      "ts": 1794849759,
-      "at": "2026-11-17T01:22:39+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-B0QVNCPG"
-    },
-    "agent-bounty-feed:frantic:128": {
-      "ts": 1794852462,
-      "at": "2026-11-17T02:07:42+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Earn a citation for an open data registry on a real external site"
-    },
-    "agent-bounty-feed:taskmarket:TSK-B0QVNCPG": {
-      "ts": 1794852462,
-      "at": "2026-11-17T02:07:42+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
-    },
-    "taskmarket:TSK-CF982SE6": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-CF982SE6"
-    },
-    "taskmarket:TSK-QR83YPS0": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-QR83YPS0"
-    },
-    "taskmarket:TSK-MZGPE1D4": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-MZGPE1D4"
-    },
-    "taskmarket:TSK-DWEDHSY5": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-DWEDHSY5"
-    },
-    "taskmarket:TSK-D9JA2RSB": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-D9JA2RSB"
-    },
-    "taskmarket:TSK-7CV5DGSM": {
-      "ts": 1794856050,
-      "at": "2026-11-17T03:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-7CV5DGSM"
+      "title": "TSK-W5AYT8NB",
+      "ts": 1794858753
     },
     "taskmarket:TSK-WM7CG6KC": {
-      "ts": 1794858753,
       "at": "2026-11-17T03:52:33+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-WM7CG6KC"
-    },
-    "taskmarket:TSK-W5AYT8NB": {
-      "ts": 1794858753,
-      "at": "2026-11-17T03:52:33+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-W5AYT8NB"
-    },
-    "taskmarket:TSK-7XX7ZXS0": {
-      "ts": 1794858753,
-      "at": "2026-11-17T03:52:33+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-7XX7ZXS0"
-    },
-    "taskmarket:TSK-K2BNPT7D": {
-      "ts": 1794858753,
-      "at": "2026-11-17T03:52:33+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-K2BNPT7D"
-    },
-    "taskmarket:TSK-EBB238VJ": {
-      "ts": 1794859650,
-      "at": "2026-11-17T04:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)"
-    },
-    "taskmarket:TSK-DRSW4WC9": {
-      "ts": 1794859650,
-      "at": "2026-11-17T04:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Explain Ethereum Gas Fees Like I'm 5"
-    },
-    "agent-bounty-feed:taskmarket:TSK-WM7CG6KC": {
-      "ts": 1794861461,
-      "at": "2026-11-17T04:37:41+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public phase-2 task for Forge football-manager. Only public reads. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, GET /table returns four rows and GET /fixtures returns…"
-    },
-    "agent-bounty-feed:taskmarket:TSK-W5AYT8NB": {
-      "ts": 1794861461,
-      "at": "2026-11-17T04:37:41+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public phase-2 task for Forge football-manager. Only matchday kickoff. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /matchday plays the current matchday three ti…"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7XX7ZXS0": {
-      "ts": 1794861461,
-      "at": "2026-11-17T04:37:41+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public phase-2 task for Forge football-manager. Only lineup submission. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /clubs/:id/selection accepts tactic attack, …"
-    },
-    "agent-bounty-feed:taskmarket:TSK-K2BNPT7D": {
-      "ts": 1794861461,
-      "at": "2026-11-17T04:37:41+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …"
-    },
-    "taskmarket:TSK-9GE15V6E": {
-      "ts": 1794862361,
-      "at": "2026-11-17T04:52:41+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-9GE15V6E"
+      "title": "TSK-WM7CG6KC",
+      "ts": 1794858753
     },
     "taskmarket:TSK-XACE0MS5": {
-      "ts": 1794862361,
       "at": "2026-11-17T04:52:41+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-XACE0MS5"
+      "title": "TSK-XACE0MS5",
+      "ts": 1794862361
     },
     "taskmarket:TSK-ZEV408PV": {
-      "ts": 1794863250,
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-ZEV408PV"
+      "title": "TSK-ZEV408PV",
+      "ts": 1794863250
     },
-    "taskmarket:TSK-86ZR2Y25": {
-      "ts": 1794863250,
-      "at": "2026-11-17T05:07:30+0800",
+    "taskmarket:TSK-ZK5FTWX6": {
+      "at": "2026-11-16T08:52:30+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-86ZR2Y25"
-    },
-    "taskmarket:TSK-5HDFDX3K": {
-      "ts": 1794863250,
-      "at": "2026-11-17T05:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-5HDFDX3K"
-    },
-    "taskmarket:TSK-H17TQNF1": {
-      "ts": 1794863250,
-      "at": "2026-11-17T05:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-H17TQNF1"
-    },
-    "taskmarket:TSK-FZ56EMKC": {
-      "ts": 1794863250,
-      "at": "2026-11-17T05:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-FZ56EMKC"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ZEV408PV": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-86ZR2Y25": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-5HDFDX3K": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-H17TQNF1": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-FZ56EMKC": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!"
-    },
-    "agent-bounty-feed:taskmarket:TSK-EBB238VJ": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
-      "ts": 1794865954,
-      "at": "2026-11-17T05:52:34+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Explain Ethereum Gas Fees Like I'm 5"
-    },
-    "frantic:147": {
-      "ts": 1794872247,
-      "at": "2026-11-17T07:37:27+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Dogfood a Chrome extension."
-    },
-    "taskmarket:TSK-SV0PPSQ9": {
-      "ts": 1794874050,
-      "at": "2026-11-17T08:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-SV0PPSQ9"
+      "title": "TSK-ZK5FTWX6",
+      "ts": 1794790350
     },
     "taskmarket:TSK-ZW98FY18": {
-      "ts": 1794874050,
       "at": "2026-11-17T08:07:30+0800",
       "qualified": true,
       "reason": null,
-      "title": "TSK-ZW98FY18"
-    },
-    "agent-bounty-feed:frantic:147": {
-      "ts": 1794874050,
-      "at": "2026-11-17T08:07:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Dogfood a Chrome extension."
+      "title": "TSK-ZW98FY18",
+      "ts": 1794874050
     }
   },
-  "updated_at": "2026-11-17T08:07:30+0800",
+  "updated_at": "2026-11-17T08:07:36+0800",
   "version": 1
 }
