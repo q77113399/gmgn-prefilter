@@ -979,8 +979,15 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-KR95B88S"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KR95B88S": {
+      "ts": 1794891149,
+      "at": "2026-11-17T12:52:29+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Open bounty: one pass of sera survey 001"
     }
   },
-  "updated_at": "2026-11-17T12:07:28+0800",
+  "updated_at": "2026-11-17T12:52:29+0800",
   "version": 1
 }
