@@ -958,8 +958,22 @@
       "qualified": true,
       "reason": null,
       "title": "TSK-6SVCCX32"
+    },
+    "agent-bounty-feed:taskmarket:TSK-5HD63YCS": {
+      "ts": 1794882160,
+      "at": "2026-11-17T10:22:40+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public bounty for Forge repo football-manager-2, item api-join. On current main, add src/server.mjs createHandler. POST /clubs joins four clubs in order as ids a, b, c, d and retu…"
+    },
+    "agent-bounty-feed:taskmarket:TSK-6SVCCX32": {
+      "ts": 1794882160,
+      "at": "2026-11-17T10:22:40+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public bounty for Forge repo football-manager-2, item season-guards. On current main, reject a bad club list in src/season.mjs without mutating input. The check is node --test .pl…"
     }
   },
-  "updated_at": "2026-11-17T08:37:30+0800",
+  "updated_at": "2026-11-17T10:22:40+0800",
   "version": 1
 }
