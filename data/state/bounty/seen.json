@@ -923,8 +923,29 @@
       "qualified": true,
       "reason": null,
       "title": "Dogfood a Chrome extension."
+    },
+    "taskmarket:TSK-SV0PPSQ9": {
+      "ts": 1794874050,
+      "at": "2026-11-17T08:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-SV0PPSQ9"
+    },
+    "taskmarket:TSK-ZW98FY18": {
+      "ts": 1794874050,
+      "at": "2026-11-17T08:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-ZW98FY18"
+    },
+    "agent-bounty-feed:frantic:147": {
+      "ts": 1794874050,
+      "at": "2026-11-17T08:07:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Dogfood a Chrome extension."
     }
   },
-  "updated_at": "2026-11-17T07:37:27+0800",
+  "updated_at": "2026-11-17T08:07:30+0800",
   "version": 1
 }
