@@ -986,8 +986,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Open bounty: one pass of sera survey 001"
+    },
+    "make.fun:btc-race-24h-20261117-0603": {
+      "ts": 1794897446,
+      "at": "2026-11-17T14:37:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Race a BTC trading bot live for 24 hours"
     }
   },
-  "updated_at": "2026-11-17T12:52:29+0800",
+  "updated_at": "2026-11-17T14:37:26+0800",
   "version": 1
 }
