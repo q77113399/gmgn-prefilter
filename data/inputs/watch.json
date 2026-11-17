@@ -1,8 +1,6 @@
 {
   "wallet": "6gDeDQtmuYYjoRH4GJ8PpeSMxowZ9aZsEqLFktNMgs7z",
-  "tokens": {
-    "LEOSTAR": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump"
-  },
-  "note": "JENSEN B2Yp TP filled 2026-11-15 00:26:05 Taipei (+1.0797 SOL). No open SOL positions.",
-  "updated": "2026-11-15 00:31 Taipei"
+  "tokens": {},
+  "note": "LEOSTAR TP filled 2026-11-17 10:04 Taipei (+0.7833 SOL). No open SOL positions.",
+  "updated": "2026-11-17 10:04 Taipei"
 }

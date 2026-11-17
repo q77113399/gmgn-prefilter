@@ -26,7 +26,8 @@
     "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
     "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump",
     "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump",
-    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump"
+    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
+    "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR"
   ],
   "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
   "reasons": {
@@ -54,7 +55,8 @@
     "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump": "2026-11-17 06:30 BAWSAQ (Vice City Bawsaq relaunch): GMGN dev funding wallet 4Mwy..n2hA flagged Blacklist funding wallet; honeypot not shown; dev has 4 dead prior tokens",
     "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump": "JENSEN 2026-11-17 06:30 gmgn-early: GMGN bundler 48.5%, top10 36.5%, honeypot not shown",
     "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump": "Debu 2026-11-17 06:30 gmgn-early: GMGN dev Blacklist funding wallet, bundler 27.8%, honeypot not shown",
-    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": "BAWSAQ relaunch #3 2026-11-17 08:10 Taipei: GMGN Blacklist dev + Blacklist funding wallet, honeypot not shown, bundler 32.6%, phishing 22.1%, dev 13 pairs 12 non-migrated"
+    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": "BAWSAQ relaunch #3 2026-11-17 08:10 Taipei: GMGN Blacklist dev + Blacklist funding wallet, honeypot not shown, bundler 32.6%, phishing 22.1%, dev 13 pairs 12 non-migrated",
+    "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR": "SpaceXJak 2026-11-17 10:03 Taipei: rugged - main PumpSwap pool -97% h1, liq $0, MC $726; $64K MC only from dust Meteora pool (liq $0.23)"
   },
   "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump": {
     "name": "SHARE",

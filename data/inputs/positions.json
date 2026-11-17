@@ -1,12 +1,10 @@
 {
- "positions": {
-  "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump": {
+ "positions": {},
+ "pending_cleanup": [
+  {
    "name": "LEOSTAR",
-   "tp_mc": 1286640,
-   "sl_mc": 750540,
-   "entry_liq": 76200,
-   "bought_at": "2026-11-17T01:11:22.289Z"
+   "mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump",
+   "note": "TP filled 2026-11-17 10:04 Taipei; cancel leftover SL at MC $750540"
   }
- },
- "pending_cleanup": []
+ ]
 }
