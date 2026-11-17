@@ -1021,8 +1021,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the AI judge rich"
+    },
+    "make.fun:gta6-01": {
+      "ts": 1794930758,
+      "at": "2026-11-17T23:52:38+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make GTA 6"
     }
   },
-  "updated_at": "2026-11-17T23:22:34+0800",
+  "updated_at": "2026-11-17T23:52:38+0800",
   "version": 1
 }
