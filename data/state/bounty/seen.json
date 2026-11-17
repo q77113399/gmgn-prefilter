@@ -972,8 +972,15 @@
       "qualified": true,
       "reason": null,
       "title": "Public bounty for Forge repo football-manager-2, item season-guards. On current main, reject a bad club list in src/season.mjs without mutating input. The check is node --test .pl…"
+    },
+    "taskmarket:TSK-KR95B88S": {
+      "ts": 1794888448,
+      "at": "2026-11-17T12:07:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-KR95B88S"
     }
   },
-  "updated_at": "2026-11-17T10:22:40+0800",
+  "updated_at": "2026-11-17T12:07:28+0800",
   "version": 1
 }
