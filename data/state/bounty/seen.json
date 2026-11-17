@@ -993,8 +993,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Race a BTC trading bot live for 24 hours"
+    },
+    "make.fun:gta6-twitch-ccu-forecast-01": {
+      "ts": 1794904647,
+      "at": "2026-11-17T16:37:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Forecast GTA VI's launch-day Twitch viewers hour by hour"
     }
   },
-  "updated_at": "2026-11-17T14:37:26+0800",
+  "updated_at": "2026-11-17T16:37:27+0800",
   "version": 1
 }
