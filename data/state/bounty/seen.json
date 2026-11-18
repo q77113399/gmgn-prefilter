@@ -1112,8 +1112,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-13: Capable pure local bot policy with two styles"
+    },
+    "taskmarket:TSK-TB3R5CKC": {
+      "ts": 1794970358,
+      "at": "2026-11-18T10:52:38+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TB3R5CKC"
     }
   },
-  "updated_at": "2026-11-18T10:36:56+0800",
+  "updated_at": "2026-11-18T10:52:38+0800",
   "version": 1
 }
