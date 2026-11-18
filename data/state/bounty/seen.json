@@ -1147,8 +1147,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-TVK3XVRQ"
+    },
+    "taskmarket:TSK-TBCTHDHW": {
+      "ts": 1794974849,
+      "at": "2026-11-18T12:07:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TBCTHDHW"
     }
   },
-  "updated_at": "2026-11-18T11:52:29+0800",
+  "updated_at": "2026-11-18T12:07:29+0800",
   "version": 1
 }
