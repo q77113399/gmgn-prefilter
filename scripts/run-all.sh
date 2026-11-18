@@ -17,15 +17,12 @@ if [[ "${FORCE:-0}" != 1 ]] && python3 "$SCRIPT_DIR/state_tool.py" recent "$LAST
   exit 0
 fi
 python3 "$SCRIPT_DIR/state_tool.py" stamp "$LAST" "$RUNNER"
-echo "$(date '+%F %T %Z') run-all start runner=$RUNNER dry_run=${DRY_RUN:-0} skip_candidates=${SKIP_GMGN_CANDIDATES:-1}"
+echo "$(date '+%F %T %Z') run-all start runner=$RUNNER dry_run=${DRY_RUN:-0} skip_candidates=${SKIP_GMGN_CANDIDATES:-0}"
 # GMGN steps never see Pano3's bounty webhook vars.
-# 2026-11-19: pause new-token candidate wakes in favour of the smart-money follow
-# watcher (task_id gmgn-smart-money). Default SKIP_GMGN_CANDIDATES=1 so the
-# already-running box loop-gha.sh picks this up on the next tick without a
-# restart, and so GitHub Actions skips after this file is pushed. Re-enable
-# candidate wakes with SKIP_GMGN_CANDIDATES=0. Position wakes stay on.
-if [[ "${SKIP_GMGN_CANDIDATES:-1}" != "0" ]]; then
-  echo "$(date '+%F %T %Z') skip gmgn-candidates (SKIP_GMGN_CANDIDATES=${SKIP_GMGN_CANDIDATES:-1})"
+# Candidate wakes run by default. Set SKIP_GMGN_CANDIDATES=1 to pause only
+# gmgn-prefilter.sh (gmgn-candidates). Position and bounty steps still run.
+if [[ "${SKIP_GMGN_CANDIDATES:-0}" != "0" ]]; then
+  echo "$(date '+%F %T %Z') skip gmgn-candidates (SKIP_GMGN_CANDIDATES=${SKIP_GMGN_CANDIDATES:-0})"
 else
   env -u BOUNTY_WEBHOOK_URL -u BOUNTY_WEBHOOK_BEARER GMGN_PREFILTER_MODE=strict \
     bash "$SCRIPT_DIR/gmgn-prefilter.sh" || echo "candidates wrapper exit=$?"

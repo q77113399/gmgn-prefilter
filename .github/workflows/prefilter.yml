@@ -36,8 +36,6 @@ jobs:
       GMGN_MIN_GAP_SEC: '720'
       FORCE_INPUT: ${{ inputs.force && '1' || '0' }}
       DRY_RUN_INPUT: ${{ inputs.dry_run && '1' || '0' }}
-      # 2026-11-19: pause gmgn-candidates wakes; positions + bounty still run.
-      SKIP_GMGN_CANDIDATES: '1'
     steps:
       - uses: actions/checkout@v4
         with:
@@ -58,7 +56,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run prefilters (candidates skipped, positions, bounty watch)
+      - name: Run prefilters (candidates strict, positions, bounty watch)
         if: steps.gate.outputs.skip != 'true'
         env:
           # GMGN -> Pano gmgn-4. run-all.sh hides these from the bounty step.
