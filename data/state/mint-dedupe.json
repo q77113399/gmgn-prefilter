@@ -16,9 +16,17 @@
       "ts": 1794966623
     },
     "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump": {
-      "ts": 1794968541,
-      "symbol": "GTAVI",
-      "run_id": "20261118-102217"
+      "ts": 1794968541
+    },
+    "5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump": {
+      "ts": 1794972146,
+      "symbol": "KATIA",
+      "run_id": "20261118-112223"
+    },
+    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": {
+      "ts": 1794972146,
+      "symbol": "Leonida",
+      "run_id": "20261118-112223"
     }
   }
 }
