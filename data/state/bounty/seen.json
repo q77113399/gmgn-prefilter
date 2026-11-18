@@ -1119,8 +1119,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-TB3R5CKC"
+    },
+    "taskmarket:TSK-935G5XB7": {
+      "ts": 1794973048,
+      "at": "2026-11-18T11:37:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-935G5XB7"
     }
   },
-  "updated_at": "2026-11-18T10:52:38+0800",
+  "updated_at": "2026-11-18T11:37:28+0800",
   "version": 1
 }
