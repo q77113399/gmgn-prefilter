@@ -9,9 +9,6 @@
     "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump": {
       "ts": 1794914541
     },
-    "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": {
-      "ts": 1794894743
-    },
     "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
       "ts": 1794966623
     },
@@ -25,9 +22,12 @@
       "ts": 1794972146
     },
     "7KBFymfGAe8MmKEuNersoM59TvpiHzZ76jP7rSLrpump": {
-      "ts": 1794978448,
-      "symbol": "GTA",
-      "run_id": "20261118-130724"
+      "ts": 1794978448
+    },
+    "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": {
+      "ts": 1794990141,
+      "symbol": "GETAJOB",
+      "run_id": "20261118-162218"
     }
   }
 }
