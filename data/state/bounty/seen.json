@@ -1049,8 +1049,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Sum up 18 November's world news in one image"
+    },
+    "taskmarket:TSK-F1YAX5WD": {
+      "ts": 1794964055,
+      "at": "2026-11-18T09:07:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-F1YAX5WD"
+    },
+    "taskmarket:TSK-MQYMCA4B": {
+      "ts": 1794964055,
+      "at": "2026-11-18T09:07:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-MQYMCA4B"
     }
   },
-  "updated_at": "2026-11-18T08:37:33+0800",
+  "updated_at": "2026-11-18T09:07:35+0800",
   "version": 1
 }
