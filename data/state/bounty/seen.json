@@ -1154,8 +1154,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-TBCTHDHW"
+    },
+    "taskmarket:TSK-TEY3K0N1": {
+      "ts": 1794975757,
+      "at": "2026-11-18T12:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TEY3K0N1"
+    },
+    "taskmarket:TSK-EHBZKF0R": {
+      "ts": 1794975757,
+      "at": "2026-11-18T12:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-EHBZKF0R"
     }
   },
-  "updated_at": "2026-11-18T12:07:29+0800",
+  "updated_at": "2026-11-18T12:22:37+0800",
   "version": 1
 }
