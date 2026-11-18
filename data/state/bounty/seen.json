@@ -1182,8 +1182,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-31: Optional gentle synthesized pop and plop"
+    },
+    "taskmarket:TSK-QYSFMPRK": {
+      "ts": 1794977551,
+      "at": "2026-11-18T12:52:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-QYSFMPRK"
+    },
+    "taskmarket:TSK-TDGR680C": {
+      "ts": 1794977551,
+      "at": "2026-11-18T12:52:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TDGR680C"
     }
   },
-  "updated_at": "2026-11-18T12:37:29+0800",
+  "updated_at": "2026-11-18T12:52:31+0800",
   "version": 1
 }
