@@ -140,12 +140,26 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-5HD63YCS": {
+      "at": "2026-11-17T10:22:40+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public bounty for Forge repo football-manager-2, item api-join. On current main, add src/server.mjs createHandler. POST /clubs joins four clubs in order as ids a, b, c, d and retu…",
+      "ts": 1794882160
+    },
     "agent-bounty-feed:taskmarket:TSK-5HDFDX3K": {
       "at": "2026-11-17T05:52:34+0800",
       "qualified": true,
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-6SVCCX32": {
+      "at": "2026-11-17T10:22:40+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "Public bounty for Forge repo football-manager-2, item season-guards. On current main, reject a bad club list in src/season.mjs without mutating input. The check is node --test .pl…",
+      "ts": 1794882160
     },
     "agent-bounty-feed:taskmarket:TSK-6XPX6Z86": {
       "at": "2026-11-16T10:22:28+0800",
@@ -238,6 +252,13 @@
       "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …",
       "ts": 1794861461
     },
+    "agent-bounty-feed:taskmarket:TSK-KR95B88S": {
+      "at": "2026-11-17T12:52:29+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Open bounty: one pass of sera survey 001",
+      "ts": 1794891149
+    },
     "agent-bounty-feed:taskmarket:TSK-KWSW8ZVW": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
@@ -307,6 +328,13 @@
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Industrial Sentinel Revenue Guard 5",
       "ts": 1794784577
+    },
+    "basedagents:task_P7aE6hBm5if3ZrgSL9ndo": {
+      "at": "2026-11-17T22:07:29+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Free embedded signup: get your own running x402 paid agent on Cloudflare, one command",
+      "ts": 1794924449
     },
     "basedagents:task_PRGxeT66PotQxYJw7EPlL": {
       "at": "2026-11-16T07:16:17+0800",
@@ -483,6 +511,20 @@
       "title": "Make the AI judge excited",
       "ts": 1794784577
     },
+    "make.fun:ai-judge-relax-01": {
+      "at": "2026-11-18T01:52:31+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI judge relax",
+      "ts": 1794937951
+    },
+    "make.fun:ai-judge-rich-01": {
+      "at": "2026-11-17T23:22:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI judge rich",
+      "ts": 1794928954
+    },
     "make.fun:best-game-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -511,6 +553,13 @@
       "title": "Race a BTC trading bot live for 24 hours",
       "ts": 1794784577
     },
+    "make.fun:btc-race-24h-20261117-0603": {
+      "at": "2026-11-17T14:37:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Race a BTC trading bot live for 24 hours",
+      "ts": 1794897446
+    },
     "make.fun:free-model-aggregator-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -532,6 +581,20 @@
       "title": "Build a GitHub-compatible git forge",
       "ts": 1794784577
     },
+    "make.fun:gta6-01": {
+      "at": "2026-11-17T23:52:38+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make GTA 6",
+      "ts": 1794930758
+    },
+    "make.fun:gta6-twitch-ccu-forecast-01": {
+      "at": "2026-11-17T16:37:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Forecast GTA VI's launch-day Twitch viewers hour by hour",
+      "ts": 1794904647
+    },
     "make.fun:makefun-coin-promo-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -552,6 +615,20 @@
       "reason": null,
       "title": "Make Markdown rendering faster",
       "ts": 1794784577
+    },
+    "make.fun:news-image-20261117": {
+      "at": "2026-11-18T08:22:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 17 November's world news in one image",
+      "ts": 1794961354
+    },
+    "make.fun:news-image-20261118": {
+      "at": "2026-11-18T08:37:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 18 November's world news in one image",
+      "ts": 1794962253
     },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
@@ -686,12 +763,26 @@
       "title": "The Raenest Global Bounty - Writing, Video & Animation Bounty",
       "ts": 1794784577
     },
+    "superteam:c7d7e134-54b4-4000-bd8b-8834231231e1": {
+      "at": "2026-11-17T18:22:32+0800",
+      "qualified": false,
+      "reason": "not_usd_equivalent,human_only,unfunded",
+      "title": "Provide Feedback on our new Support Assistant Nosa",
+      "ts": 1794910952
+    },
     "taskmarket:TSK-01AWCTNN": {
       "at": "2026-11-16T08:52:30+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-01AWCTNN",
       "ts": 1794790350
+    },
+    "taskmarket:TSK-2RVTZNXW": {
+      "at": "2026-11-18T09:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-2RVTZNXW",
+      "ts": 1794965849
     },
     "taskmarket:TSK-2YFKJ8G1": {
       "at": "2026-11-16T08:52:30+0800",
@@ -707,6 +798,13 @@
       "title": "TSK-3CVSCGPA",
       "ts": 1794790350
     },
+    "taskmarket:TSK-4N0VNRYD": {
+      "at": "2026-11-18T09:50:39+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4N0VNRYD",
+      "ts": 1794966639
+    },
     "taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
@@ -721,12 +819,26 @@
       "title": "TSK-5E03NXPZ",
       "ts": 1794789452
     },
+    "taskmarket:TSK-5HD63YCS": {
+      "at": "2026-11-17T08:37:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-5HD63YCS",
+      "ts": 1794875850
+    },
     "taskmarket:TSK-5HDFDX3K": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-5HDFDX3K",
       "ts": 1794863250
+    },
+    "taskmarket:TSK-6SVCCX32": {
+      "at": "2026-11-17T08:37:30+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-6SVCCX32",
+      "ts": 1794875850
     },
     "taskmarket:TSK-6XPX6Z86": {
       "at": "2026-11-16T08:52:30+0800",
@@ -784,6 +896,13 @@
       "title": "TSK-B0QVNCPG",
       "ts": 1794849759
     },
+    "taskmarket:TSK-BK5D5KVE": {
+      "at": "2026-11-18T09:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-BK5D5KVE",
+      "ts": 1794965849
+    },
     "taskmarket:TSK-CF982SE6": {
       "at": "2026-11-17T03:07:30+0800",
       "qualified": true,
@@ -819,12 +938,26 @@
       "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
       "ts": 1794859650
     },
+    "taskmarket:TSK-EQEW48KV": {
+      "at": "2026-11-18T09:50:39+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-EQEW48KV",
+      "ts": 1794966639
+    },
     "taskmarket:TSK-EWJ9R6Z2": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-EWJ9R6Z2",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-F1YAX5WD": {
+      "at": "2026-11-18T09:07:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-F1YAX5WD",
+      "ts": 1794964055
     },
     "taskmarket:TSK-FZ56EMKC": {
       "at": "2026-11-17T05:07:30+0800",
@@ -854,6 +987,13 @@
       "title": "TSK-K2BNPT7D",
       "ts": 1794858753
     },
+    "taskmarket:TSK-KR95B88S": {
+      "at": "2026-11-17T12:07:28+0800",
+      "qualified": true,
+      "reason": null,
+      "title": "TSK-KR95B88S",
+      "ts": 1794888448
+    },
     "taskmarket:TSK-KWSW8ZVW": {
       "at": "2026-11-16T08:52:30+0800",
       "qualified": true,
@@ -868,12 +1008,26 @@
       "title": "TSK-MKTH9WZN",
       "ts": 1794790350
     },
+    "taskmarket:TSK-MQYMCA4B": {
+      "at": "2026-11-18T09:07:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-MQYMCA4B",
+      "ts": 1794964055
+    },
     "taskmarket:TSK-MZGPE1D4": {
       "at": "2026-11-17T03:07:30+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-MZGPE1D4",
       "ts": 1794856050
+    },
+    "taskmarket:TSK-QN6MTJD5": {
+      "at": "2026-11-18T09:50:39+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-QN6MTJD5",
+      "ts": 1794966639
     },
     "taskmarket:TSK-QR83YPS0": {
       "at": "2026-11-17T03:07:30+0800",
@@ -944,141 +1098,8 @@
       "reason": null,
       "title": "TSK-ZW98FY18",
       "ts": 1794874050
-    },
-    "taskmarket:TSK-5HD63YCS": {
-      "ts": 1794875850,
-      "at": "2026-11-17T08:37:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-5HD63YCS"
-    },
-    "taskmarket:TSK-6SVCCX32": {
-      "ts": 1794875850,
-      "at": "2026-11-17T08:37:30+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-6SVCCX32"
-    },
-    "agent-bounty-feed:taskmarket:TSK-5HD63YCS": {
-      "ts": 1794882160,
-      "at": "2026-11-17T10:22:40+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public bounty for Forge repo football-manager-2, item api-join. On current main, add src/server.mjs createHandler. POST /clubs joins four clubs in order as ids a, b, c, d and retu…"
-    },
-    "agent-bounty-feed:taskmarket:TSK-6SVCCX32": {
-      "ts": 1794882160,
-      "at": "2026-11-17T10:22:40+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "Public bounty for Forge repo football-manager-2, item season-guards. On current main, reject a bad club list in src/season.mjs without mutating input. The check is node --test .pl…"
-    },
-    "taskmarket:TSK-KR95B88S": {
-      "ts": 1794888448,
-      "at": "2026-11-17T12:07:28+0800",
-      "qualified": true,
-      "reason": null,
-      "title": "TSK-KR95B88S"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KR95B88S": {
-      "ts": 1794891149,
-      "at": "2026-11-17T12:52:29+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Open bounty: one pass of sera survey 001"
-    },
-    "make.fun:btc-race-24h-20261117-0603": {
-      "ts": 1794897446,
-      "at": "2026-11-17T14:37:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Race a BTC trading bot live for 24 hours"
-    },
-    "make.fun:gta6-twitch-ccu-forecast-01": {
-      "ts": 1794904647,
-      "at": "2026-11-17T16:37:27+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Forecast GTA VI's launch-day Twitch viewers hour by hour"
-    },
-    "superteam:c7d7e134-54b4-4000-bd8b-8834231231e1": {
-      "ts": 1794910952,
-      "at": "2026-11-17T18:22:32+0800",
-      "qualified": false,
-      "reason": "not_usd_equivalent,human_only,unfunded",
-      "title": "Provide Feedback on our new Support Assistant Nosa"
-    },
-    "basedagents:task_P7aE6hBm5if3ZrgSL9ndo": {
-      "ts": 1794924449,
-      "at": "2026-11-17T22:07:29+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Free embedded signup: get your own running x402 paid agent on Cloudflare, one command"
-    },
-    "make.fun:ai-judge-rich-01": {
-      "ts": 1794928954,
-      "at": "2026-11-17T23:22:34+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the AI judge rich"
-    },
-    "make.fun:gta6-01": {
-      "ts": 1794930758,
-      "at": "2026-11-17T23:52:38+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make GTA 6"
-    },
-    "make.fun:ai-judge-relax-01": {
-      "ts": 1794937951,
-      "at": "2026-11-18T01:52:31+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the AI judge relax"
-    },
-    "make.fun:news-image-20261117": {
-      "ts": 1794961354,
-      "at": "2026-11-18T08:22:34+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 17 November's world news in one image"
-    },
-    "make.fun:news-image-20261118": {
-      "ts": 1794962253,
-      "at": "2026-11-18T08:37:33+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 18 November's world news in one image"
-    },
-    "taskmarket:TSK-F1YAX5WD": {
-      "ts": 1794964055,
-      "at": "2026-11-18T09:07:35+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-F1YAX5WD"
-    },
-    "taskmarket:TSK-MQYMCA4B": {
-      "ts": 1794964055,
-      "at": "2026-11-18T09:07:35+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-MQYMCA4B"
-    },
-    "taskmarket:TSK-2RVTZNXW": {
-      "ts": 1794965849,
-      "at": "2026-11-18T09:37:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-2RVTZNXW"
-    },
-    "taskmarket:TSK-BK5D5KVE": {
-      "ts": 1794965849,
-      "at": "2026-11-18T09:37:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-BK5D5KVE"
     }
   },
-  "updated_at": "2026-11-18T09:37:29+0800",
+  "updated_at": "2026-11-18T09:50:39+0800",
   "version": 1
 }
