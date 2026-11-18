@@ -1063,8 +1063,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-MQYMCA4B"
+    },
+    "taskmarket:TSK-2RVTZNXW": {
+      "ts": 1794965849,
+      "at": "2026-11-18T09:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-2RVTZNXW"
+    },
+    "taskmarket:TSK-BK5D5KVE": {
+      "ts": 1794965849,
+      "at": "2026-11-18T09:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-BK5D5KVE"
     }
   },
-  "updated_at": "2026-11-18T09:07:35+0800",
+  "updated_at": "2026-11-18T09:37:29+0800",
   "version": 1
 }
