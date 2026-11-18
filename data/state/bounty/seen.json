@@ -1203,8 +1203,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZXE20JQZ": {
+      "ts": 1794981153,
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-14: Two independent registered default opponents"
+    },
+    "agent-bounty-feed:taskmarket:TSK-QYSFMPRK": {
+      "ts": 1794981153,
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-30: Satisfying idempotent round reveal"
+    },
+    "agent-bounty-feed:taskmarket:TSK-TDGR680C": {
+      "ts": 1794981153,
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-32: Winner and draw celebration with rematch button"
     }
   },
-  "updated_at": "2026-11-18T13:07:38+0800",
+  "updated_at": "2026-11-18T13:52:33+0800",
   "version": 1
 }
