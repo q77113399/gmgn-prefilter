@@ -1126,8 +1126,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-935G5XB7"
+    },
+    "taskmarket:TSK-Q7BAHXN6": {
+      "ts": 1794973949,
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-Q7BAHXN6"
+    },
+    "taskmarket:TSK-HP5HSP7X": {
+      "ts": 1794973949,
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-HP5HSP7X"
+    },
+    "taskmarket:TSK-TVK3XVRQ": {
+      "ts": 1794973949,
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TVK3XVRQ"
     }
   },
-  "updated_at": "2026-11-18T11:37:28+0800",
+  "updated_at": "2026-11-18T11:52:29+0800",
   "version": 1
 }
