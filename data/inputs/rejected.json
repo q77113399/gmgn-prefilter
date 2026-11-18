@@ -113,5 +113,13 @@
  "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": {
   "name": "GETAJOB",
   "reason": "gmgn-4 2026-11-18 16:25 Taipei: GMGN DEV Scan 45/100 avoid, 100% open-dump, dev self-sniped (re-added 22:25)"
+ },
+ "DngzJTHeVRD7JftRLQFCcdW9UvKL1n9hhyoc8ojEpump": {
+  "name": "VTC",
+  "reason": "gmgn-4 2026-11-19 01:40 Taipei: rugcheck High holder correlation (top holders evenly ~0.04pct), h6 -96pct / h24 -82pct crash"
+ },
+ "GgyKtbWS99pzkvqaG7wvxdKCbRxuLDLRDm4TtfDdpump": {
+  "name": "DCTY",
+  "reason": "gmgn-4 2026-11-19 01:40 Taipei: copycat DacityCoin (same-name DCTY at 143M USD exists), CTO, serial dev (25 tokens), phishing 9.7pct, bundler 18.4pct, rugcheck 21 insider graph wallets, +8447pct 6h"
  }
 }
