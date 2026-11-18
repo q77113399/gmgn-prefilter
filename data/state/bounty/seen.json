@@ -1035,8 +1035,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the AI judge relax"
+    },
+    "make.fun:news-image-20261117": {
+      "ts": 1794961354,
+      "at": "2026-11-18T08:22:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 17 November's world news in one image"
     }
   },
-  "updated_at": "2026-11-18T01:52:31+0800",
+  "updated_at": "2026-11-18T08:22:34+0800",
   "version": 1
 }
