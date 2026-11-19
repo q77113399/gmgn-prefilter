@@ -50,6 +50,16 @@
       "woke": true,
       "woke_ts": 1795076957
     },
+    "6vSBtyuGfv4kEg4VNq2q59Q67FvhzvMgD9LUk2JGKLeB": {
+      "age_min_first": 24.525,
+      "first_ts": 1795088660,
+      "mc_first": 24642,
+      "run_id": "44517463343",
+      "symbol": "Green Cat",
+      "ts": 1795088660,
+      "woke": true,
+      "woke_ts": 1795088660
+    },
     "94jjMFU6UgxeLvad5EAyg9xP9cakRGz6992AfzvFUVJZ": {
       "age_min_first": 5.894,
       "first_ts": 1795085957,
