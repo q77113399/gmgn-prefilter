@@ -49,7 +49,8 @@
   "H4Q82gdf1krw7SCnL35zqKaMZJHAZvkTCZfQ5Lfwpump",
   "5ZKJ2t595atofHFCEAbQ6AuJAzEK5ZSTrHQZtRRgpump",
   "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump",
-  "CLXMtWj5ydkU2hJDjHMNC8t281xTdZ7gddK31C2fpump"
+  "CLXMtWj5ydkU2hJDjHMNC8t281xTdZ7gddK31C2fpump",
+  "7YXw3eeK1xbwtSyUAg3B98jL3RsTPXNrb7n8oygppump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
