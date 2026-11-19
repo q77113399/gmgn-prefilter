@@ -280,6 +280,16 @@
       "woke": true,
       "woke_ts": 1795076360
     },
+    "HsPduS4tdAHErKFimcuUKRxc67d6gDECCL9GA2yZpump": {
+      "age_min_first": 8.222,
+      "first_ts": 1795100357,
+      "mc_first": 33939,
+      "run_id": "44549672883",
+      "symbol": "TRENCHCAT",
+      "ts": 1795100357,
+      "woke": true,
+      "woke_ts": 1795100357
+    },
     "JCwozz4zoaDejZe1neuPJP2i14F85rr2E9cGp3t7pump": {
       "age_min_first": 9.84,
       "first_ts": 1795087756,
