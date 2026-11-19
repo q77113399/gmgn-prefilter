@@ -1266,8 +1266,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Forecast how many GTA VI players earn each trophy in week one"
+    },
+    "taskmarket:TSK-7Y12H0SA": {
+      "ts": 1795096352,
+      "at": "2026-11-19T21:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7Y12H0SA"
     }
   },
-  "updated_at": "2026-11-19T19:52:32+0800",
+  "updated_at": "2026-11-19T21:52:32+0800",
   "version": 1
 }
