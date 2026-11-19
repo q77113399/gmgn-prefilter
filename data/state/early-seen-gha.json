@@ -401,14 +401,14 @@
       "woke_ts": 1795092556
     },
     "uCiYNMTpBUXzUz92EtSnwBgUPzeVGxJfS7thkMkpump": {
-      "age_min_first": 6.782,
-      "first_ts": 1795106358,
-      "mc_first": 38128,
-      "run_id": "44568499954",
+      "age_min_first": 7.506,
+      "first_ts": 1795106402,
+      "mc_first": 37544,
+      "run_id": "44568520786",
       "symbol": "DCI",
-      "ts": 1795106358,
+      "ts": 1795106402,
       "woke": true,
-      "woke_ts": 1795106358
+      "woke_ts": 1795106402
     }
   }
 }
