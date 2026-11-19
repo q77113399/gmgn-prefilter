@@ -20,6 +20,16 @@
       "woke": true,
       "woke_ts": 1795082061
     },
+    "3heRTk9mpEJWGUU6pPiTsS2A1Gz8w5PrD5j1exPcpump": {
+      "age_min_first": 9.797,
+      "first_ts": 1795095860,
+      "mc_first": 35911,
+      "run_id": "44536410141",
+      "symbol": "UNEMPLOYED",
+      "ts": 1795095860,
+      "woke": true,
+      "woke_ts": 1795095860
+    },
     "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
       "age_min_first": 45.765,
       "first_ts": 1795083259,
