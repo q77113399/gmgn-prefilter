@@ -50,6 +50,16 @@
       "woke": true,
       "woke_ts": 1795104264
     },
+    "2Z9UGHFZmKRwaYJ8r2ECn4uP6yey4H243Hszvt2Xpump": {
+      "age_min_first": 6.427,
+      "first_ts": 1795129458,
+      "mc_first": 39249,
+      "run_id": "44634377287",
+      "symbol": "BERNIE",
+      "ts": 1795129458,
+      "woke": true,
+      "woke_ts": 1795129458
+    },
     "2h5vUbX9JtqP2yuLUNjUYvZZcruWYfCm5BUoUhm1pump": {
       "age_min_first": 6.892,
       "first_ts": 1795078756,
