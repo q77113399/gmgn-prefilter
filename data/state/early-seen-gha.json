@@ -29,6 +29,16 @@
       "ts": 1795074559,
       "woke": true,
       "woke_ts": 1795074559
+    },
+    "HmiRUEmcb5FQnyVi6sdmyJTBfQB1RmcV7B6Z7FFapump": {
+      "age_min_first": 16.029,
+      "first_ts": 1795076360,
+      "mc_first": 38557,
+      "run_id": "44486581396",
+      "symbol": "JENSEN",
+      "ts": 1795076360,
+      "woke": true,
+      "woke_ts": 1795076360
     }
   }
 }
