@@ -44,5 +44,12 @@ if [[ "${BOUNTY_ENABLED:-1}" == 1 && -f "$SCRIPT_DIR/bounty-watch.sh" ]]; then
   env -u WEBHOOK_URL -u WEBHOOK_BEARER BOUNTY_STATE_DIR="${BOUNTY_STATE_DIR:-$STATE_DIR/bounty}" \
     timeout "${BOUNTY_TIMEOUT_SEC:-300}" bash "$SCRIPT_DIR/bounty-watch.sh" 2>&1 || echo "bounty wrapper exit=$?"
 fi
+python3 - "$STATE_DIR/prefilter-health.json" "$RUNNER" "${GMGN_HOLDINGS_UNKNOWN:-0}" "${SKIP_GMGN_CANDIDATES:-0}" "${SKIP_GMGN_POSITIONS:-0}" <<'PY' || true
+import json, sys, time
+_, p, runner, unk, sc, sp = sys.argv
+json.dump({"epoch": int(time.time()), "iso": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "runner": runner,
+           "holdings": "unknown" if unk == "1" else "known", "candidates": "skipped" if sc != "0" else "ran",
+           "positions": "skipped" if sp == "1" else "ran"}, open(p, "w"), indent=2, sort_keys=True)
+PY
 echo "$(date '+%F %T %Z') run-all done"
 exit 0

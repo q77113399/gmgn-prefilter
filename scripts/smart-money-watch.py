@@ -730,6 +730,11 @@ def poll_once(st: dict[str, Any], dry_run: bool, lookback_ts: int | None, max_tx
                 # Single GHA poll: since cursor, never older than GHA_MAX_AGE; no cursor -> 15 min.
                 lb = now_ts() - (GHA_MAX_AGE_SEC if initialized and cursor else GHA_LOOKBACK_SEC)
                 sigs = get_new_sigs(addr, cursor if initialized else None, lb)
+                if not sigs and not cursor:
+                    tip = rpc("getSignaturesForAddress", [addr, {"limit": 1}]) or []
+                    if tip:
+                        st.setdefault("cursors", {})[addr] = tip[0]["signature"]
+                        st.setdefault("initialized", {})[addr] = True
             elif not initialized and not lookback_ts:
                 tip = rpc("getSignaturesForAddress", [addr, {"limit": 1}]) or []
                 if tip:
