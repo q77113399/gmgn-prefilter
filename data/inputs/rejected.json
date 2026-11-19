@@ -144,5 +144,9 @@
   "reason": "pool liquidity drained to $0.01 (quote 0.000035 SOL), unsellable",
   "ts": "2026-11-19"
  },
- "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": "SI: main pools quoted in ANTHROPIC token, SOL pool liq only $141 (2026-11-19)"
+ "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": "SI: main pools quoted in ANTHROPIC token, SOL pool liq only $141 (2026-11-19)",
+ "HUwPBFx3nzvxHXK3Ufsj2iYgVuoR8eDUVers7yG5pump": {
+  "symbol": "CATMARIO",
+  "reason": "bundler 31.6%"
+ }
 }
