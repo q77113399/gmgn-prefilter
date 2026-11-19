@@ -70,6 +70,16 @@
       "woke": true,
       "woke_ts": 1795085957
     },
+    "9pS7ufLbMWLKkkzNgdn2bfBwDb4Wt5iuakGbBZV7pump": {
+      "age_min_first": 16.604,
+      "first_ts": 1795092556,
+      "mc_first": 15149,
+      "run_id": "44527421961",
+      "symbol": "Apocrycoin",
+      "ts": 1795092556,
+      "woke": true,
+      "woke_ts": 1795092556
+    },
     "9yq4gKbukPMGDBjZ7vG6nBbTQwfTdNmu3NgLLo6CyZb8": {
       "age_min_first": 8.339,
       "first_ts": 1795090460,
@@ -219,6 +229,16 @@
       "ts": 1795079956,
       "woke": true,
       "woke_ts": 1795079956
+    },
+    "oFECSmdb2h9spmyBaqXQAJihLqmX7oYyUwPat9mpump": {
+      "age_min_first": 6.571,
+      "first_ts": 1795092556,
+      "mc_first": 37161,
+      "run_id": "44527421961",
+      "symbol": "Ruirui",
+      "ts": 1795092556,
+      "woke": true,
+      "woke_ts": 1795092556
     }
   }
 }
