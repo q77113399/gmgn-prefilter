@@ -110,6 +110,16 @@
       "woke": true,
       "woke_ts": 1795076957
     },
+    "68BwHRVNEUiq366BrjNXWSH7BaFhACEva3kCRb4Xpump": {
+      "age_min_first": 5.058,
+      "first_ts": 1795108757,
+      "mc_first": 34028,
+      "run_id": "44575867890",
+      "symbol": "CD",
+      "ts": 1795108757,
+      "woke": true,
+      "woke_ts": 1795108757
+    },
     "6vSBtyuGfv4kEg4VNq2q59Q67FvhzvMgD9LUk2JGKLeB": {
       "age_min_first": 24.525,
       "first_ts": 1795088660,
