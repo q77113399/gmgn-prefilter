@@ -170,6 +170,16 @@
       "woke": true,
       "woke_ts": 1795087156
     },
+    "FmULsKg91Cde4AQt5VrkbFbPaksJDucJnhsH23qK3Khz": {
+      "age_min_first": 23.023,
+      "first_ts": 1795093758,
+      "mc_first": 78739,
+      "run_id": "44530618429",
+      "symbol": "BRR",
+      "ts": 1795093758,
+      "woke": true,
+      "woke_ts": 1795093758
+    },
     "G68u75xWtfo9YXvNTowwozUrnivhqepANxjS2LZppump": {
       "age_min_first": 6.615,
       "first_ts": 1795080261,
