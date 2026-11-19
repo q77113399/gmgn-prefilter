@@ -360,6 +360,16 @@
       "woke": true,
       "woke_ts": 1795114157
     },
+    "DRUutGvydaEFWBeFK7kMdjyLBovjQsW21twmDuoMmv5r": {
+      "age_min_first": 8.235,
+      "first_ts": 1795118956,
+      "mc_first": 12122,
+      "run_id": "44605686503",
+      "symbol": "LOOSY",
+      "ts": 1795118956,
+      "woke": true,
+      "woke_ts": 1795118956
+    },
     "DTGxkt7Vyc1Kv9MqXL9LxrsGUsw9Vbob23r9M6j9pump": {
       "age_min_first": 7.193,
       "first_ts": 1795099157,
@@ -549,6 +559,16 @@
       "ts": 1795100357,
       "woke": true,
       "woke_ts": 1795100357
+    },
+    "HvYp9yArPNFeL4rN5BJTFpixGthfsuGrKFR15GYXpump": {
+      "age_min_first": 21.335,
+      "first_ts": 1795118956,
+      "mc_first": 14082,
+      "run_id": "44605686503",
+      "symbol": "CAT",
+      "ts": 1795118956,
+      "woke": true,
+      "woke_ts": 1795118956
     },
     "J4zuKNAM2mF5Ait1E2nf3LracLTCQUFRZVXU24Smpump": {
       "age_min_first": 11.877,
