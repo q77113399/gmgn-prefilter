@@ -1,5 +1,15 @@
 {
   "mints": {
+    "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
+      "age_min_first": 14.699,
+      "first_ts": 1795074668,
+      "mc_first": 38121,
+      "run_id": "44482784192",
+      "symbol": "GTA6",
+      "ts": 1795074668,
+      "woke": true,
+      "woke_ts": 1795074668
+    },
     "FgZnez1C8Z6Zqmjq2Ea5P54J8CuAxEkKUzzS7SubHjTJ": {
       "age_min_first": 36.265,
       "first_ts": 1795074261,
