@@ -60,6 +60,16 @@
       "woke": true,
       "woke_ts": 1795074261
     },
+    "G68u75xWtfo9YXvNTowwozUrnivhqepANxjS2LZppump": {
+      "age_min_first": 6.615,
+      "first_ts": 1795080261,
+      "mc_first": 45793,
+      "run_id": "44496079268",
+      "symbol": "APOCRYCOIN",
+      "ts": 1795080261,
+      "woke": true,
+      "woke_ts": 1795080261
+    },
     "HGDuqVEstUUW2fTTyi4JrXc1pdBeMbdZtwtsWvUH2bzZ": {
       "age_min_first": 6.985,
       "first_ts": 1795074559,
