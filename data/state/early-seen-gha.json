@@ -40,6 +40,16 @@
       "woke": true,
       "woke_ts": 1795078756
     },
+    "2hhJcgpxLqnhiMagEA9GXjNcGckAFyCFAAWLEAEvpump": {
+      "age_min_first": 12.844,
+      "first_ts": 1795106660,
+      "mc_first": 43262,
+      "run_id": "44569440804",
+      "symbol": "MiDacitao",
+      "ts": 1795106660,
+      "woke": true,
+      "woke_ts": 1795106660
+    },
     "2z1Aoiigvb5AEz74XCWgFQ9NLMTfuXGAj4gQqVeLpump": {
       "age_min_first": 9.052,
       "first_ts": 1795082061,
