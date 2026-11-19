@@ -1,5 +1,15 @@
 {
   "mints": {
+    "23H2CZ4SBmFKRYRhDZSy6AEvSXjAuMczEwXuYxCcuStf": {
+      "age_min_first": 8.186,
+      "first_ts": 1795097059,
+      "mc_first": 68817,
+      "run_id": "44539785949",
+      "symbol": "WIF",
+      "ts": 1795097059,
+      "woke": true,
+      "woke_ts": 1795097059
+    },
     "2h5vUbX9JtqP2yuLUNjUYvZZcruWYfCm5BUoUhm1pump": {
       "age_min_first": 6.892,
       "first_ts": 1795078756,
@@ -109,6 +119,16 @@
       "ts": 1795091957,
       "woke": true,
       "woke_ts": 1795091957
+    },
+    "BvxL2QrCboVMPX36RTMY1kHFm4MBLLapi4UrZQ73bonk": {
+      "age_min_first": 9.853,
+      "first_ts": 1795097059,
+      "mc_first": 64503,
+      "run_id": "44539785949",
+      "symbol": "SHTRIO",
+      "ts": 1795097059,
+      "woke": true,
+      "woke_ts": 1795097059
     },
     "BydFtpn4RjxcDbiKi4ZucqSdacsH7gQMTCJGbvxAbonk": {
       "age_min_first": 12.587,
