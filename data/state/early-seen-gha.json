@@ -230,6 +230,16 @@
       "woke": true,
       "woke_ts": 1795091957
     },
+    "AqEL97MK3FB4WHR19H7F7R3JZTuyrTsxLaLGnLeNpump": {
+      "age_min_first": 5.947,
+      "first_ts": 1795114157,
+      "mc_first": 38865,
+      "run_id": "44591805334",
+      "symbol": "NVDA",
+      "ts": 1795114157,
+      "woke": true,
+      "woke_ts": 1795114157
+    },
     "AtGggobQ7mrXiPmZMbh3nyDB1XKXhykNAPL5JaiXzUxM": {
       "age_min_first": 48.582,
       "first_ts": 1795101259,
@@ -309,6 +319,16 @@
       "ts": 1795091060,
       "woke": true,
       "woke_ts": 1795091060
+    },
+    "CrjcbgU7Aghb8KQdxSrgcDHf7HutKhkvPnsV7JiFpump": {
+      "age_min_first": 13.664,
+      "first_ts": 1795114157,
+      "mc_first": 36467,
+      "run_id": "44591805334",
+      "symbol": "FNUT",
+      "ts": 1795114157,
+      "woke": true,
+      "woke_ts": 1795114157
     },
     "DTGxkt7Vyc1Kv9MqXL9LxrsGUsw9Vbob23r9M6j9pump": {
       "age_min_first": 7.193,
