@@ -80,6 +80,16 @@
       "woke": true,
       "woke_ts": 1795090460
     },
+    "Abhkhz3cwAvsobTM56Zf1GBUzvz4Sbw6iYaUwRdPxhZP": {
+      "age_min_first": 8.115,
+      "first_ts": 1795091957,
+      "mc_first": 14416,
+      "run_id": "44525863818",
+      "symbol": "PIPI",
+      "ts": 1795091957,
+      "woke": true,
+      "woke_ts": 1795091957
+    },
     "BydFtpn4RjxcDbiKi4ZucqSdacsH7gQMTCJGbvxAbonk": {
       "age_min_first": 12.587,
       "first_ts": 1795081766,
