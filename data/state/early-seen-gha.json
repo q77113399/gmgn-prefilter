@@ -20,6 +20,16 @@
       "woke": true,
       "woke_ts": 1795101259
     },
+    "2SduRHW7jGVRGo8PuJcfgH1arHfgRdauYzik13cKpump": {
+      "age_min_first": 17.843,
+      "first_ts": 1795104264,
+      "mc_first": 14885,
+      "run_id": "44561899334",
+      "symbol": "AuraKid",
+      "ts": 1795104264,
+      "woke": true,
+      "woke_ts": 1795104264
+    },
     "2h5vUbX9JtqP2yuLUNjUYvZZcruWYfCm5BUoUhm1pump": {
       "age_min_first": 6.892,
       "first_ts": 1795078756,
@@ -209,6 +219,16 @@
       "ts": 1795099157,
       "woke": true,
       "woke_ts": 1795099157
+    },
+    "EETg7C8MU1whkVqx7gnhtx4BJHSpz3wkEbyPDoHvuHow": {
+      "age_min_first": 8.177,
+      "first_ts": 1795104264,
+      "mc_first": 40312,
+      "run_id": "44561899334",
+      "symbol": "J4F",
+      "ts": 1795104264,
+      "woke": true,
+      "woke_ts": 1795104264
     },
     "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
       "age_min_first": 14.699,
