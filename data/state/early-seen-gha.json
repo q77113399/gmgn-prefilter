@@ -1,5 +1,15 @@
 {
   "mints": {
+    "2h5vUbX9JtqP2yuLUNjUYvZZcruWYfCm5BUoUhm1pump": {
+      "age_min_first": 6.892,
+      "first_ts": 1795078756,
+      "mc_first": 15324,
+      "run_id": "44492266999",
+      "symbol": "airdrop",
+      "ts": 1795078756,
+      "woke": true,
+      "woke_ts": 1795078756
+    },
     "5uda5zo6McfvRGuNLdQ88AgryA19nbJMkj9fJgTnAJke": {
       "age_min_first": 12.545,
       "first_ts": 1795076957,
@@ -19,6 +29,16 @@
       "ts": 1795074668,
       "woke": true,
       "woke_ts": 1795074668
+    },
+    "FASPtMgvsc7tQ8hvRxeKjCdDLzVjKFqsTKD2MSzuBAGS": {
+      "age_min_first": 13.692,
+      "first_ts": 1795078756,
+      "mc_first": 71111,
+      "run_id": "44492266999",
+      "symbol": "Brilock",
+      "ts": 1795078756,
+      "woke": true,
+      "woke_ts": 1795078756
     },
     "FJHP2y58a2YoXRf4tWUBdMViZAt2mYX8pcRnwniw5w6m": {
       "age_min_first": 5.695,
