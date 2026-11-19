@@ -360,6 +360,16 @@
       "woke": true,
       "woke_ts": 1795104264
     },
+    "EPNy2zvT8hs4yaYZVmtFEtcBkiZf1WGJFYE6K6AMpump": {
+      "age_min_first": 29.271,
+      "first_ts": 1795116259,
+      "mc_first": 60431,
+      "run_id": "44597937186",
+      "symbol": "DCTYCAT",
+      "ts": 1795116259,
+      "woke": true,
+      "woke_ts": 1795116259
+    },
     "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
       "age_min_first": 14.699,
       "first_ts": 1795074668,
@@ -569,6 +579,16 @@
       "ts": 1795092556,
       "woke": true,
       "woke_ts": 1795092556
+    },
+    "roLJg4JCdhAgPF3XQLT7VD225SzfC5ncgYidUcCpump": {
+      "age_min_first": 5.738,
+      "first_ts": 1795116259,
+      "mc_first": 18342,
+      "run_id": "44597937186",
+      "symbol": "vicechain",
+      "ts": 1795116259,
+      "woke": true,
+      "woke_ts": 1795116259
     },
     "uCiYNMTpBUXzUz92EtSnwBgUPzeVGxJfS7thkMkpump": {
       "age_min_first": 7.506,
