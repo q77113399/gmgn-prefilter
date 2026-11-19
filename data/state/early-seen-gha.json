@@ -160,6 +160,16 @@
       "woke": true,
       "woke_ts": 1795100956
     },
+    "BXQHrjDhgoQ6DdVQmDthqiRn5FFLTDammpQiUG4Upump": {
+      "age_min_first": 12.329,
+      "first_ts": 1795103660,
+      "mc_first": 22173,
+      "run_id": "44560021357",
+      "symbol": "DTTY",
+      "ts": 1795103660,
+      "woke": true,
+      "woke_ts": 1795103660
+    },
     "BvxL2QrCboVMPX36RTMY1kHFm4MBLLapi4UrZQ73bonk": {
       "age_min_first": 9.853,
       "first_ts": 1795097059,
