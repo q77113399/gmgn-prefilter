@@ -690,6 +690,16 @@
       "woke": true,
       "woke_ts": 1795118065
     },
+    "GcjrAruHCufGp2ysYsUQYmaF57GdYXEBvaaqagVRDwAF": {
+      "age_min_first": 8.02,
+      "first_ts": 1795132159,
+      "mc_first": 15939,
+      "run_id": "44640793424",
+      "symbol": "泵寿命",
+      "ts": 1795132159,
+      "woke": true,
+      "woke_ts": 1795132159
+    },
     "GejgfpnqxHermn7DAeWM8ZfNAWVYF2aUhKZvSHiamoon": {
       "age_min_first": 29.317,
       "first_ts": 1795083861,
