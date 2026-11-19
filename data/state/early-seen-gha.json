@@ -540,6 +540,16 @@
       "woke": true,
       "woke_ts": 1795087756
     },
+    "MnKQMK7NuEft2rDd5fuL6AbSNHG62ZtXfiooxBKpump": {
+      "age_min_first": 7.434,
+      "first_ts": 1795115957,
+      "mc_first": 12444,
+      "run_id": "44597060857",
+      "symbol": "FAIRLY",
+      "ts": 1795115957,
+      "woke": true,
+      "woke_ts": 1795115957
+    },
     "W3EXbFqqiabqmUX9KtE67PrC8vV2yDWKLuNcPYjpump": {
       "age_min_first": 8.539,
       "first_ts": 1795079956,
