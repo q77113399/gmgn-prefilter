@@ -60,6 +60,16 @@
       "woke": true,
       "woke_ts": 1795082061
     },
+    "35UgYCMLUFLcZbrs4xzxEujRPA1bWcy4mhUyJaZPgPUF": {
+      "age_min_first": 37.222,
+      "first_ts": 1795121058,
+      "mc_first": 61405,
+      "run_id": "44611688889",
+      "symbol": "Woofwoof",
+      "ts": 1795121058,
+      "woke": true,
+      "woke_ts": 1795121058
+    },
     "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": {
       "age_min_first": 10.864,
       "first_ts": 1795097662,
