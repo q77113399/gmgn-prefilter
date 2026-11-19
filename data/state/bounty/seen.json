@@ -1252,8 +1252,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make GTA 6 Cover Art"
+    },
+    "make.fun:gta6-trophy-guide-01": {
+      "ts": 1795087348,
+      "at": "2026-11-19T19:22:28+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best GTA 6 trophy guide"
     }
   },
-  "updated_at": "2026-11-19T18:52:33+0800",
+  "updated_at": "2026-11-19T19:22:28+0800",
   "version": 1
 }
