@@ -70,6 +70,16 @@
       "woke": true,
       "woke_ts": 1795097662
     },
+    "3dAsr927eoARjQbceuJT4auyg7N35TjFAv1AHAycFe6i": {
+      "age_min_first": 16.228,
+      "first_ts": 1795120459,
+      "mc_first": 26174,
+      "run_id": "44610003960",
+      "symbol": "WIZARD",
+      "ts": 1795120459,
+      "woke": true,
+      "woke_ts": 1795120459
+    },
     "3heRTk9mpEJWGUU6pPiTsS2A1Gz8w5PrD5j1exPcpump": {
       "age_min_first": 9.797,
       "first_ts": 1795095860,
