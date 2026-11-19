@@ -330,6 +330,16 @@
       "woke": true,
       "woke_ts": 1795091060
     },
+    "C9RdsBy64hxbMTHT2F6JMvG6y4QMGtmmSnicwfowkMKA": {
+      "age_min_first": 26.713,
+      "first_ts": 1795117468,
+      "mc_first": 31960,
+      "run_id": "44601393449",
+      "symbol": "CRACK",
+      "ts": 1795117468,
+      "woke": true,
+      "woke_ts": 1795117468
+    },
     "CMrbawPuCNCG11cEPhmoF7aqdG6WMpMaTDfB13JMiihN": {
       "age_min_first": 8.08,
       "first_ts": 1795117157,
