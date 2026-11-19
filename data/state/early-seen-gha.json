@@ -90,6 +90,16 @@
       "woke": true,
       "woke_ts": 1795081766
     },
+    "C3AXdBRRPQvv61RUUKeorh1eXJfrvJW8wgVxQ3x4pump": {
+      "age_min_first": 20.338,
+      "first_ts": 1795091060,
+      "mc_first": 95694,
+      "run_id": "44523546000",
+      "symbol": "MILEFUND",
+      "ts": 1795091060,
+      "woke": true,
+      "woke_ts": 1795091060
+    },
     "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
       "age_min_first": 14.699,
       "first_ts": 1795074668,
