@@ -157,5 +157,9 @@
  "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump": {
   "symbol": "AI",
   "reason": "GMGN early check 2026-11-20 07:17 Taipei: Blacklist funding wallet, bundler ~35%, top10 ~36%"
+ },
+ "GQngHP8P6s45MxWnU7JsocfV2HjPQdJZmCEAYKpBpump": {
+  "symbol": "MANDY",
+  "reason": "GMGN candidates check 2026-11-20 07:55 Taipei: bundler 38.7%, snipers 38.7% (cap 30%)"
  }
 }
