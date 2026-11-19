@@ -13,12 +13,7 @@
       "ts": 1794978448
     },
     "8HXsCMy8ma8QP2yVZXG5SZYyaTZw5AUrUDha1G4upump": {
-      "run_id": "20261119-043718",
-      "symbol": "Founder",
       "ts": 1795034242
-    },
-    "9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump": {
-      "ts": 1794912740
     },
     "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": {
       "ts": 1794972146
@@ -26,26 +21,29 @@
     "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": {
       "ts": 1794990141
     },
-    "BSsmLA6UN8fzJ8qUkV4KwC5LxR7ab3TaUtcwvAyJpump": {
-      "ts": 1794948743
-    },
-    "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump": {
-      "ts": 1794914541
-    },
     "DngzJTHeVRD7JftRLQFCcdW9UvKL1n9hhyoc8ojEpump": {
       "ts": 1795023444
-    },
-    "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": {
-      "ts": 1794894743
-    },
-    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
-      "ts": 1794966623
     },
     "GgyKtbWS99pzkvqaG7wvxdKCbRxuLDLRDm4TtfDdpump": {
       "ts": 1795023444
     },
     "VAYMVikuYQpWz5sXCeCsQDeho2QcGqDSNq9rhCspump": {
       "ts": 1795011741
+    },
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
+      "ts": 1795054042,
+      "symbol": "SHIT",
+      "run_id": "20261119-100716"
+    },
+    "A4jXnWk1rDRDth6HmDASi45c89n1AguTHivAQPTVpump": {
+      "ts": 1795054042,
+      "symbol": "GTASZN",
+      "run_id": "20261119-100716"
+    },
+    "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump": {
+      "ts": 1795054042,
+      "symbol": "ANT",
+      "run_id": "20261119-100716"
     }
   }
 }
