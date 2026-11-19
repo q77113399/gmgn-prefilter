@@ -160,6 +160,16 @@
       "woke": true,
       "woke_ts": 1795076360
     },
+    "JCwozz4zoaDejZe1neuPJP2i14F85rr2E9cGp3t7pump": {
+      "age_min_first": 9.84,
+      "first_ts": 1795087756,
+      "mc_first": 14366,
+      "run_id": "44515230930",
+      "symbol": "DCTY",
+      "ts": 1795087756,
+      "woke": true,
+      "woke_ts": 1795087756
+    },
     "W3EXbFqqiabqmUX9KtE67PrC8vV2yDWKLuNcPYjpump": {
       "age_min_first": 8.539,
       "first_ts": 1795079956,
