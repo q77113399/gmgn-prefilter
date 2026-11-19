@@ -65,9 +65,9 @@
   "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": "BJB (Bring Jensen Back): GMGN bundler 40.1% (>30% cap), snipers 39.9%, honeypot/sellability not shown, dev self-snipe 1/1 + sold 54s after open (Giga 59.7 mixed); LP 100% burnt, tax 0.9%; rejected 2026-11-16 07:30 Taipei by gmgn-4",
   "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": "HOGE 2026-11-16 09:55 Taipei: main PumpSwap pool 7CNC9g... paired with USDC not SOL; SOL pools are Meteora DLMM with 0% LP burned (largest ~$15K); rugcheck 37 insiders detected; h6 +3640%",
   "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": "BAWSAQ (The Vice City Bawsaq): GMGN DEV Scan 42.3/100 avoid (dev open-dumped on all 3 launches, fastest 9s), honeypot not shown; rejected 2026-11-16 10:40 Taipei by gmgn-4",
-  "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": "chudhaos: main PumpSwap pool 5UsJJX\u2026 (liq ~$55K) paired with 'mihao' token, not SOL; only SOL-side market is Meteora DAMM v2 with ~$86 liq and 0% LP locked; rugcheck 25 insiders; rejected 2026-11-16 13:22 Taipei by gmgn-4 (no browser)",
+  "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": "chudhaos: main PumpSwap pool 5UsJJX… (liq ~$55K) paired with 'mihao' token, not SOL; only SOL-side market is Meteora DAMM v2 with ~$86 liq and 0% LP locked; rugcheck 25 insiders; rejected 2026-11-16 13:22 Taipei by gmgn-4 (no browser)",
   "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": "Marvin: main PumpSwap pool 5dEBrz... (liq ~$78K, LP 100%) paired with SPCX token, not SOL; SOL pools are Meteora with 0% LP locked (largest ~$42K); h6 +1476%; rejected without browser 2026-11-16 14:07 Taipei by gmgn-4",
-  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... \u2014 DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4",
+  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... — DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4",
   "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": "GTA (Grand Theft Anthropic) 2026-11-17 05:00 Taipei: GMGN DEV Scan funding wallet ABNL...muyf flagged 'Blacklist funding wallet'; honeypot/sellability not shown; DEV Scan score errored. Otherwise clean (LP 100% burnt, tax 0.95%, top10 6.1%, bundler/snipers/phishing 0%); rejected by gmgn-4",
   "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump": "HOLDMAS: GMGN 'Blacklist funding wallet' flag, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
   "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump": "WORLDCRAFT: GMGN 'Blacklist funding wallet' flag, honeypot not shown, tax 1.2%; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
@@ -141,5 +141,6 @@
   "name": "BRR",
   "reason": "pool liquidity drained to $0.01 (quote 0.000035 SOL), unsellable",
   "ts": "2026-11-19"
- }
+ },
+ "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": "SI: main pools quoted in ANTHROPIC token, SOL pool liq only $141 (2026-11-19)"
 }

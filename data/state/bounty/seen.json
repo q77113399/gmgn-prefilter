@@ -112,6 +112,13 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-2RVTZNXW": {
+      "at": "2026-11-18T10:36:56+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-13: Capable pure local bot policy with two styles",
+      "ts": 1794969416
+    },
     "agent-bounty-feed:taskmarket:TSK-2YFKJ8G1": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
@@ -125,6 +132,13 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-4N0VNRYD": {
+      "at": "2026-11-18T10:36:56+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-24: Marshmallow board, danger and movement styling",
+      "ts": 1794969416
     },
     "agent-bounty-feed:taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
@@ -175,6 +189,20 @@
       "title": "Public phase-2 task for Forge football-manager. Only lineup submission. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /clubs/:id/selection accepts tactic attack, …",
       "ts": 1794861461
     },
+    "agent-bounty-feed:taskmarket:TSK-7Y12H0SA": {
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-18: Original plush bunny, fox and chick SVGs",
+      "ts": 1795098153
+    },
+    "agent-bounty-feed:taskmarket:TSK-7YWG4532": {
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-03: Simultaneous movement with shared destinations",
+      "ts": 1795098153
+    },
     "agent-bounty-feed:taskmarket:TSK-822VYQS7": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
@@ -216,6 +244,13 @@
       "reason": null,
       "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
       "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-EHBZKF0R": {
+      "at": "2026-11-18T12:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-31: Optional gentle synthesized pop and plop",
+      "ts": 1794976649
     },
     "agent-bounty-feed:taskmarket:TSK-EWJ9R6Z2": {
       "at": "2026-11-16T07:16:17+0800",
@@ -280,12 +315,33 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-QYSFMPRK": {
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-30: Satisfying idempotent round reveal",
+      "ts": 1794981153
+    },
     "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "FlapJax Series 3, task Q98 (first-timers only): list our treasury's FLAPJAX outflows of 11-11 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (…",
       "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-TDGR680C": {
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-32: Winner and draw celebration with rematch button",
+      "ts": 1794981153
+    },
+    "agent-bounty-feed:taskmarket:TSK-TEY3K0N1": {
+      "at": "2026-11-18T12:37:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-12: Deadline/reveal scheduler and persisted timeout recovery",
+      "ts": 1794976649
     },
     "agent-bounty-feed:taskmarket:TSK-W5AYT8NB": {
       "at": "2026-11-17T04:37:41+0800",
@@ -301,6 +357,13 @@
       "title": "Public phase-2 task for Forge football-manager. Only public reads. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, GET /table returns four rows and GET /fixtures returns…",
       "ts": 1794861461
     },
+    "agent-bounty-feed:taskmarket:TSK-XG6ZTJKY": {
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-06: Last-survivor and simultaneous-final-fall outcomes",
+      "ts": 1795098153
+    },
     "agent-bounty-feed:taskmarket:TSK-ZEV408PV": {
       "at": "2026-11-17T05:52:34+0800",
       "qualified": true,
@@ -314,6 +377,13 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZXE20JQZ": {
+      "at": "2026-11-18T13:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-14: Two independent registered default opponents",
+      "ts": 1794981153
     },
     "basedagents:task_05LE4so7mcJ6r0fLWuprn": {
       "at": "2026-11-16T07:16:17+0800",
@@ -539,6 +609,13 @@
       "title": "Bring the humans",
       "ts": 1794784577
     },
+    "make.fun:bring-the-humans-02": {
+      "at": "2026-11-18T19:22:36+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Bring the humans again",
+      "ts": 1795000956
+    },
     "make.fun:btc-cent-forecast-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -559,6 +636,13 @@
       "reason": "deadline_too_soon",
       "title": "Race a BTC trading bot live for 24 hours",
       "ts": 1794897446
+    },
+    "make.fun:btc-race-24h-20261118-1444": {
+      "at": "2026-11-18T22:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Race a BTC trading bot live for 24 hours",
+      "ts": 1795013552
     },
     "make.fun:free-model-aggregator-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -587,6 +671,41 @@
       "reason": "submissions>=200",
       "title": "Make GTA 6",
       "ts": 1794930758
+    },
+    "make.fun:gta6-cover-art-01": {
+      "at": "2026-11-19T18:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make GTA 6 Cover Art",
+      "ts": 1795085553
+    },
+    "make.fun:gta6-meme-reddit-01": {
+      "at": "2026-11-19T22:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Post a GTA 6 meme on Reddit",
+      "ts": 1795099051
+    },
+    "make.fun:gta6-meme-x-01": {
+      "at": "2026-11-19T22:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Post a GTA 6 meme on X",
+      "ts": 1795099051
+    },
+    "make.fun:gta6-trophy-guide-01": {
+      "at": "2026-11-19T19:22:28+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best GTA 6 trophy guide",
+      "ts": 1795087348
+    },
+    "make.fun:gta6-trophy-rarity-forecast-01": {
+      "at": "2026-11-19T19:52:32+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Forecast how many GTA VI players earn each trophy in week one",
+      "ts": 1795089152
     },
     "make.fun:gta6-twitch-ccu-forecast-01": {
       "at": "2026-11-17T16:37:27+0800",
@@ -629,6 +748,13 @@
       "reason": "submissions>=200",
       "title": "Sum up 18 November's world news in one image",
       "ts": 1794962253
+    },
+    "make.fun:news-image-20261119": {
+      "at": "2026-11-19T09:07:30+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 19 November's world news in one image",
+      "ts": 1795050450
     },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
@@ -861,6 +987,20 @@
       "title": "TSK-7XX7ZXS0",
       "ts": 1794858753
     },
+    "taskmarket:TSK-7Y12H0SA": {
+      "at": "2026-11-19T21:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7Y12H0SA",
+      "ts": 1795096352
+    },
+    "taskmarket:TSK-7YWG4532": {
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7YWG4532",
+      "ts": 1795098153
+    },
     "taskmarket:TSK-822VYQS7": {
       "at": "2026-11-16T09:07:29+0800",
       "qualified": true,
@@ -874,6 +1014,13 @@
       "reason": null,
       "title": "TSK-86ZR2Y25",
       "ts": 1794863250
+    },
+    "taskmarket:TSK-935G5XB7": {
+      "at": "2026-11-18T11:37:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-935G5XB7",
+      "ts": 1794973048
     },
     "taskmarket:TSK-9GE15V6E": {
       "at": "2026-11-17T04:52:41+0800",
@@ -938,6 +1085,13 @@
       "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
       "ts": 1794859650
     },
+    "taskmarket:TSK-EHBZKF0R": {
+      "at": "2026-11-18T12:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-EHBZKF0R",
+      "ts": 1794975757
+    },
     "taskmarket:TSK-EQEW48KV": {
       "at": "2026-11-18T09:50:39+0800",
       "qualified": false,
@@ -972,6 +1126,13 @@
       "reason": null,
       "title": "TSK-H17TQNF1",
       "ts": 1794863250
+    },
+    "taskmarket:TSK-HP5HSP7X": {
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-HP5HSP7X",
+      "ts": 1794973949
     },
     "taskmarket:TSK-JPD46D5C": {
       "at": "2026-11-16T08:52:30+0800",
@@ -1022,6 +1183,13 @@
       "title": "TSK-MZGPE1D4",
       "ts": 1794856050
     },
+    "taskmarket:TSK-Q7BAHXN6": {
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-Q7BAHXN6",
+      "ts": 1794973949
+    },
     "taskmarket:TSK-QN6MTJD5": {
       "at": "2026-11-18T09:50:39+0800",
       "qualified": false,
@@ -1043,6 +1211,13 @@
       "title": "TSK-QSW090RD",
       "ts": 1794790350
     },
+    "taskmarket:TSK-QYSFMPRK": {
+      "at": "2026-11-18T12:52:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-QYSFMPRK",
+      "ts": 1794977551
+    },
     "taskmarket:TSK-SV0PPSQ9": {
       "at": "2026-11-17T08:07:30+0800",
       "qualified": true,
@@ -1056,6 +1231,41 @@
       "reason": "deadline_too_soon",
       "title": "TSK-SYP42Y6Q",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-TB3R5CKC": {
+      "at": "2026-11-18T10:52:38+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TB3R5CKC",
+      "ts": 1794970358
+    },
+    "taskmarket:TSK-TBCTHDHW": {
+      "at": "2026-11-18T12:07:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TBCTHDHW",
+      "ts": 1794974849
+    },
+    "taskmarket:TSK-TDGR680C": {
+      "at": "2026-11-18T12:52:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TDGR680C",
+      "ts": 1794977551
+    },
+    "taskmarket:TSK-TEY3K0N1": {
+      "at": "2026-11-18T12:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TEY3K0N1",
+      "ts": 1794975757
+    },
+    "taskmarket:TSK-TVK3XVRQ": {
+      "at": "2026-11-18T11:52:29+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TVK3XVRQ",
+      "ts": 1794973949
     },
     "taskmarket:TSK-W5AYT8NB": {
       "at": "2026-11-17T03:52:33+0800",
@@ -1078,6 +1288,13 @@
       "title": "TSK-XACE0MS5",
       "ts": 1794862361
     },
+    "taskmarket:TSK-XG6ZTJKY": {
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-XG6ZTJKY",
+      "ts": 1795098153
+    },
     "taskmarket:TSK-ZEV408PV": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
@@ -1099,231 +1316,14 @@
       "title": "TSK-ZW98FY18",
       "ts": 1794874050
     },
-    "agent-bounty-feed:taskmarket:TSK-4N0VNRYD": {
-      "ts": 1794969416,
-      "at": "2026-11-18T10:36:56+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-24: Marshmallow board, danger and movement styling"
-    },
-    "agent-bounty-feed:taskmarket:TSK-2RVTZNXW": {
-      "ts": 1794969416,
-      "at": "2026-11-18T10:36:56+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-13: Capable pure local bot policy with two styles"
-    },
-    "taskmarket:TSK-TB3R5CKC": {
-      "ts": 1794970358,
-      "at": "2026-11-18T10:52:38+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TB3R5CKC"
-    },
-    "taskmarket:TSK-935G5XB7": {
-      "ts": 1794973048,
-      "at": "2026-11-18T11:37:28+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-935G5XB7"
-    },
-    "taskmarket:TSK-Q7BAHXN6": {
-      "ts": 1794973949,
-      "at": "2026-11-18T11:52:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-Q7BAHXN6"
-    },
-    "taskmarket:TSK-HP5HSP7X": {
-      "ts": 1794973949,
-      "at": "2026-11-18T11:52:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-HP5HSP7X"
-    },
-    "taskmarket:TSK-TVK3XVRQ": {
-      "ts": 1794973949,
-      "at": "2026-11-18T11:52:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TVK3XVRQ"
-    },
-    "taskmarket:TSK-TBCTHDHW": {
-      "ts": 1794974849,
-      "at": "2026-11-18T12:07:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TBCTHDHW"
-    },
-    "taskmarket:TSK-TEY3K0N1": {
-      "ts": 1794975757,
-      "at": "2026-11-18T12:22:37+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TEY3K0N1"
-    },
-    "taskmarket:TSK-EHBZKF0R": {
-      "ts": 1794975757,
-      "at": "2026-11-18T12:22:37+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-EHBZKF0R"
-    },
-    "agent-bounty-feed:taskmarket:TSK-TEY3K0N1": {
-      "ts": 1794976649,
-      "at": "2026-11-18T12:37:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-12: Deadline/reveal scheduler and persisted timeout recovery"
-    },
-    "agent-bounty-feed:taskmarket:TSK-EHBZKF0R": {
-      "ts": 1794976649,
-      "at": "2026-11-18T12:37:29+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-31: Optional gentle synthesized pop and plop"
-    },
-    "taskmarket:TSK-QYSFMPRK": {
-      "ts": 1794977551,
-      "at": "2026-11-18T12:52:31+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-QYSFMPRK"
-    },
-    "taskmarket:TSK-TDGR680C": {
-      "ts": 1794977551,
-      "at": "2026-11-18T12:52:31+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TDGR680C"
-    },
     "taskmarket:TSK-ZXE20JQZ": {
-      "ts": 1794978458,
       "at": "2026-11-18T13:07:38+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
-      "title": "TSK-ZXE20JQZ"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ZXE20JQZ": {
-      "ts": 1794981153,
-      "at": "2026-11-18T13:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-14: Two independent registered default opponents"
-    },
-    "agent-bounty-feed:taskmarket:TSK-QYSFMPRK": {
-      "ts": 1794981153,
-      "at": "2026-11-18T13:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-30: Satisfying idempotent round reveal"
-    },
-    "agent-bounty-feed:taskmarket:TSK-TDGR680C": {
-      "ts": 1794981153,
-      "at": "2026-11-18T13:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-32: Winner and draw celebration with rematch button"
-    },
-    "make.fun:bring-the-humans-02": {
-      "ts": 1795000956,
-      "at": "2026-11-18T19:22:36+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Bring the humans again"
-    },
-    "make.fun:btc-race-24h-20261118-1444": {
-      "ts": 1795013552,
-      "at": "2026-11-18T22:52:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Race a BTC trading bot live for 24 hours"
-    },
-    "make.fun:news-image-20261119": {
-      "ts": 1795050450,
-      "at": "2026-11-19T09:07:30+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 19 November's world news in one image"
-    },
-    "make.fun:gta6-cover-art-01": {
-      "ts": 1795085553,
-      "at": "2026-11-19T18:52:33+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make GTA 6 Cover Art"
-    },
-    "make.fun:gta6-trophy-guide-01": {
-      "ts": 1795087348,
-      "at": "2026-11-19T19:22:28+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build the best GTA 6 trophy guide"
-    },
-    "make.fun:gta6-trophy-rarity-forecast-01": {
-      "ts": 1795089152,
-      "at": "2026-11-19T19:52:32+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Forecast how many GTA VI players earn each trophy in week one"
-    },
-    "taskmarket:TSK-7Y12H0SA": {
-      "ts": 1795096352,
-      "at": "2026-11-19T21:52:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-7Y12H0SA"
-    },
-    "taskmarket:TSK-XG6ZTJKY": {
-      "ts": 1795098153,
-      "at": "2026-11-19T22:22:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-XG6ZTJKY"
-    },
-    "taskmarket:TSK-7YWG4532": {
-      "ts": 1795098153,
-      "at": "2026-11-19T22:22:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-7YWG4532"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XG6ZTJKY": {
-      "ts": 1795098153,
-      "at": "2026-11-19T22:22:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-06: Last-survivor and simultaneous-final-fall outcomes"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7YWG4532": {
-      "ts": 1795098153,
-      "at": "2026-11-19T22:22:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-03: Simultaneous movement with shared destinations"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7Y12H0SA": {
-      "ts": 1795098153,
-      "at": "2026-11-19T22:22:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TILEFALL / tf-18: Original plush bunny, fox and chick SVGs"
-    },
-    "make.fun:gta6-meme-reddit-01": {
-      "ts": 1795099051,
-      "at": "2026-11-19T22:37:31+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Post a GTA 6 meme on Reddit"
-    },
-    "make.fun:gta6-meme-x-01": {
-      "ts": 1795099051,
-      "at": "2026-11-19T22:37:31+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Post a GTA 6 meme on X"
+      "title": "TSK-ZXE20JQZ",
+      "ts": 1794978458
     }
   },
-  "updated_at": "2026-11-19T22:37:31+0800",
+  "updated_at": "2026-11-19T22:37:49+0800",
   "version": 1
 }
