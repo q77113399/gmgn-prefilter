@@ -34,6 +34,8 @@ for attempt in 1 2 3 4; do
   tmp=$(mktemp -d); cp -r data "$tmp/"
   git fetch -q origin "$BRANCH" && git reset -q --hard "origin/$BRANCH" || { sleep 5; continue; }
   python3 scripts/state_tool.py merge "$tmp/data/state" data/state
+  # Encrypted single-writer blob owned by this runner (box or GHA) survives the reset.
+  [[ -n "${PRIVATE_BLOB_OWN:-}" && -f "$tmp/data/state/$PRIVATE_BLOB_OWN" ]] && cp "$tmp/data/state/$PRIVATE_BLOB_OWN" data/state/
   [[ "${INCLUDE_INPUTS:-0}" == 1 ]] && cp "$tmp"/data/inputs/*.json data/inputs/
   rm -rf "$tmp"
   stage

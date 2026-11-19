@@ -31,6 +31,8 @@ if ! git -C "$REPO" remote get-url origin >/dev/null 2>&1; then
   exit 0
 fi
 cd "$REPO" || exit 1
+# Serialize git ops with private_state.py box-sync (encrypted blob pushes).
+exec 8>"$BOX_ROOT/state/gha-git.lock"; flock -w 120 8 || log "$mode: git lock wait timed out; continuing"
 git config merge.gmgn-union.name "gmgn state union"
 git config merge.gmgn-union.driver "python3 scripts/state_tool.py merge-driver %O %A %B %P"
 

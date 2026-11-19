@@ -55,6 +55,8 @@ EARLY_PATH = STATE_DIR / "early.json"
 EARLY_SOURCE = (os.environ.get("GMGN_EARLY_SOURCE") or "box").strip().lower()
 GHA_SEEN_PATH = Path(os.environ.get("GMGN_GHA_SEEN_PATH", str(STATE_DIR / "early-seen-gha.cache.json")))
 SOURCES_LOG = LOG_DIR / "early-sources.jsonl"
+# "all" (box default) | "positions" (GHA exit monitor: no harvest, no buy scan)
+EARLY_MODE = (os.environ.get("GMGN_EARLY_MODE") or "all").strip().lower()
 DISCOVERY_PATH = STATE_DIR / "early-discovery.json"
 LAST_RUN_PATH = STATE_DIR / "gmgn-early-last.json"
 
@@ -1183,7 +1185,7 @@ def build_pos_payload(
 ) -> dict[str, Any]:
     n = len(events)
     bits = ", ".join(f"{e['symbol']}:{e['kind']}" for e in events)
-    summary = f"{n} early position event(s): {bits}"
+    summary = f"[{EARLY_SOURCE}] {n} early position event(s): {bits}"
     dedupe_key = "gmgn-early-positions:" + ",".join(e["dedupe_key"] for e in events)
     return {
         "schema_version": 1,
@@ -1208,7 +1210,9 @@ def build_pos_payload(
                     "summary": e["summary"],
                 }
                 for e in events
-            ]
+            ],
+            "source": EARLY_SOURCE,
+            "dup_note": "A/B: box and GitHub Actions both monitor; skip if this mint:kind is already in early.json position_events or the position is already closed.",
         },
     }
 
@@ -1252,10 +1256,13 @@ def run(argv: list[str] | None = None) -> int:
     }
 
     try:
-        store = load_discovery()
-        harvested_before = len(store)
-        status = harvest(store)
-        save_discovery(store)
+        if EARLY_MODE == "positions":
+            store, harvested_before, status = {}, 0, {"harvest": "skipped:positions_mode"}
+        else:
+            store = load_discovery()
+            harvested_before = len(store)
+            status = harvest(store)
+            save_discovery(store)
         stats["endpoint_status"] = status
         stats["discovery_cached"] = len(store)
         stats["discovery_new"] = max(0, len(store) - harvested_before)
@@ -1421,6 +1428,13 @@ def run(argv: list[str] | None = None) -> int:
             atomic_write(LAST_RUN_PATH, json.dumps(stats, indent=2, default=str) + "\n")
             print(json.dumps(payload, ensure_ascii=False, separators=(",", ":")))
             log(f"wake {len(evs)} position event(s) evidence={ev_path}")
+            return 0
+
+        if EARLY_MODE == "positions":
+            stats["reason"] = "positions_only_no_event"
+            stats["ok"] = True
+            stats["open_positions"] = len(pos_mints)
+            atomic_write(LAST_RUN_PATH, json.dumps(stats, indent=2, default=str) + "\n")
             return 0
 
         # --- Buy candidates ---

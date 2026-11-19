@@ -30,6 +30,10 @@ if [[ -f "$BOUNTY_SECRETS_FILE" ]]; then
     esac
   done < "$BOUNTY_SECRETS_FILE"
 fi
+# Encrypted-state key (repo secret PRIVATE_STATE_KEY / box key file): must never be committed.
+PKEYV="${PRIVATE_STATE_KEY:-}"
+PKEY_FILE="${PRIVATE_STATE_KEY_FILE:-/workspace/quota-save/secrets/private-state.key}"
+[[ -z "$PKEYV" && -r "$PKEY_FILE" ]] && PKEYV="$(tr -d '[:space:]' < "$PKEY_FILE")"
 fail=0
 mapfile -t files < <(git diff --cached --name-only --diff-filter=ACMR)
 for f in "${files[@]}"; do
@@ -40,7 +44,7 @@ for f in "${files[@]}"; do
   esac
   case "$f" in *secrets*|*.env|*.log|*evidence*) echo "secret-check: forbidden path: $f" >&2; fail=1; continue ;; esac
   blob="$(git show ":$f" 2>/dev/null)" || continue
-  for v in "$URLV" "$BEARV" "$BURLV" "$BBEARV"; do
+  for v in "$URLV" "$BEARV" "$BURLV" "$BBEARV" "$PKEYV"; do
     if [[ ${#v} -ge 8 ]] && grep -qF -f <(printf '%s\n' "$v") <<<"$blob"; then
       echo "secret-check: webhook secret value found in $f" >&2; fail=1
     fi
