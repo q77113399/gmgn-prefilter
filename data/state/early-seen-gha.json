@@ -1,5 +1,15 @@
 {
   "mints": {
+    "5uda5zo6McfvRGuNLdQ88AgryA19nbJMkj9fJgTnAJke": {
+      "age_min_first": 12.545,
+      "first_ts": 1795076957,
+      "mc_first": 18489,
+      "run_id": "44487990955",
+      "symbol": "DCTC",
+      "ts": 1795076957,
+      "woke": true,
+      "woke_ts": 1795076957
+    },
     "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
       "age_min_first": 14.699,
       "first_ts": 1795074668,
@@ -9,6 +19,16 @@
       "ts": 1795074668,
       "woke": true,
       "woke_ts": 1795074668
+    },
+    "FJHP2y58a2YoXRf4tWUBdMViZAt2mYX8pcRnwniw5w6m": {
+      "age_min_first": 5.695,
+      "first_ts": 1795076957,
+      "mc_first": 11872,
+      "run_id": "44487990955",
+      "symbol": "GRS",
+      "ts": 1795076957,
+      "woke": true,
+      "woke_ts": 1795076957
     },
     "FgZnez1C8Z6Zqmjq2Ea5P54J8CuAxEkKUzzS7SubHjTJ": {
       "age_min_first": 36.265,
