@@ -110,6 +110,16 @@
       "woke": true,
       "woke_ts": 1795074261
     },
+    "FkEAKCymdyEzgT2nQMmdNMGUBi9JuvE6HNgYh1zsbonk": {
+      "age_min_first": 12.413,
+      "first_ts": 1795087156,
+      "mc_first": 65207,
+      "run_id": "44513732782",
+      "symbol": "Stevkey",
+      "ts": 1795087156,
+      "woke": true,
+      "woke_ts": 1795087156
+    },
     "G68u75xWtfo9YXvNTowwozUrnivhqepANxjS2LZppump": {
       "age_min_first": 6.615,
       "first_ts": 1795080261,
