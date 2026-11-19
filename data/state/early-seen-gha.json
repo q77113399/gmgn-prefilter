@@ -120,6 +120,16 @@
       "woke": true,
       "woke_ts": 1795088660
     },
+    "8sKBCxnvXfRBPChbWgogFoM5oQBr3SeDzjjakbx3pump": {
+      "age_min_first": 7.362,
+      "first_ts": 1795107258,
+      "mc_first": 42880,
+      "run_id": "44571286196",
+      "symbol": "NTDOY",
+      "ts": 1795107258,
+      "woke": true,
+      "woke_ts": 1795107258
+    },
     "94jjMFU6UgxeLvad5EAyg9xP9cakRGz6992AfzvFUVJZ": {
       "age_min_first": 5.894,
       "first_ts": 1795085957,
