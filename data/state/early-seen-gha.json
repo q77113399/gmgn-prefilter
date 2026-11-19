@@ -480,6 +480,16 @@
       "woke": true,
       "woke_ts": 1795096157
     },
+    "GM6WF5xtGqSz6nQSosHMDcc7BNWjPS6MvLHVv8w9pump": {
+      "age_min_first": 12.2,
+      "first_ts": 1795118065,
+      "mc_first": 24179,
+      "run_id": "44603105561",
+      "symbol": "BLUB",
+      "ts": 1795118065,
+      "woke": true,
+      "woke_ts": 1795118065
+    },
     "GejgfpnqxHermn7DAeWM8ZfNAWVYF2aUhKZvSHiamoon": {
       "age_min_first": 29.317,
       "first_ts": 1795083861,
