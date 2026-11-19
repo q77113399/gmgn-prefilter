@@ -80,6 +80,16 @@
       "woke": true,
       "woke_ts": 1795095860
     },
+    "45cR4ZNPem6hhUjVHxC9Vjrb36XTVecS2z5VRFNtCkE9": {
+      "age_min_first": 33.044,
+      "first_ts": 1795113271,
+      "mc_first": 22344,
+      "run_id": "44589198757",
+      "symbol": "Leonida",
+      "ts": 1795113271,
+      "woke": true,
+      "woke_ts": 1795113271
+    },
     "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
       "age_min_first": 45.765,
       "first_ts": 1795083259,
@@ -409,6 +419,16 @@
       "ts": 1795083861,
       "woke": true,
       "woke_ts": 1795083861
+    },
+    "HF8M2Zw49TLTUMDQsDi9Pk6RupNUNNgUbHm8y3eZpump": {
+      "age_min_first": 17.11,
+      "first_ts": 1795113271,
+      "mc_first": 11253,
+      "run_id": "44589198757",
+      "symbol": "GTA6AGENTS",
+      "ts": 1795113271,
+      "woke": true,
+      "woke_ts": 1795113271
     },
     "HGDuqVEstUUW2fTTyi4JrXc1pdBeMbdZtwtsWvUH2bzZ": {
       "age_min_first": 6.985,
