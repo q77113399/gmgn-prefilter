@@ -1,0 +1,6 @@
+{
+  "alg": "fernet",
+  "ct": "gAAAAABq_qpsTaDbx7UNseg2BRjOyIUnHVsztes_LGaAaM26mbud5HCbAVTwHa2TQYlnS6zpyuGgWu_eyuSsP0hLWZ82u6Py4nFSOczblRgCg4fj8I5ZFwOUJeW6E7KiHMMTbHx9k7leoRP5Czm9QNaR9Kv2_8NlgLRHKhFHywdzxpjjwDnaqF5zOlxoXvos4PWrNCrEvXIvo4qCOfmqVnsJlbZEYDcepsKpadtWINAtYG7JG0pnHmWp62bb4mco61m2q1B25C5IjcqIiVMbOM-JVUSd6aydblAEr1kQA_j610czj7zaRMQA0ZijFJ7HdcIYqqkZUX4uUCiE-otY9VIyGahHVItd_b5wVmGuipEificDFsYfwfqeEwLC6im9DCEASQsZsIzwlt2H_MNjo7_LABzNCAzcCFAqRsWZnJFxxsXUPGpVCQfuBiVk_6-wjW57PQLUGXcqcdELJ33bm9aCzfWCs1OVR9rsAem0ZihIwBmqhLYFjtcVm3QEcspBBD8C2hMVf_Dx",
+  "note": "encrypted; see scripts/private_state.py",
+  "v": 1
+}
