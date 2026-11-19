@@ -240,6 +240,16 @@
       "woke": true,
       "woke_ts": 1795109957
     },
+    "8sCLrDo6tS9zQoC1qsb13KhGUHEWyLx3j7JebBYnpump": {
+      "age_min_first": 12.556,
+      "first_ts": 1795126158,
+      "mc_first": 43351,
+      "run_id": "44625815967",
+      "symbol": "FIONA",
+      "ts": 1795126158,
+      "woke": true,
+      "woke_ts": 1795126158
+    },
     "8sKBCxnvXfRBPChbWgogFoM5oQBr3SeDzjjakbx3pump": {
       "age_min_first": 7.362,
       "first_ts": 1795107258,
