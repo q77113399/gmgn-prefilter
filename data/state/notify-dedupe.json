@@ -2,6 +2,7 @@
   "keys": {
     "gmgn-candidates:2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": 1794862344,
     "gmgn-candidates:2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump": 1794877639,
+    "gmgn-candidates:2xCd5qHX5tW6pGUo7zfgHSSAnRjJwPA7Sz1Fu4fWcJjX": 1795095443,
     "gmgn-candidates:4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": 1794874043,
     "gmgn-candidates:5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump,9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1794972146,
     "gmgn-candidates:6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump": 1794968541,
@@ -26,6 +27,7 @@
     "gmgn-early:3Usc8eEuk6gMFryRoCGBhEFCKLMHRfNc4EnrDpRfpump": 1795038047,
     "gmgn-early:3ZB6QJDfLUZYd9isGYDkgD7G4ZyUshviXJ3gBTrtv4gv": 1795076504,
     "gmgn-early:3ZhsX6y2aEYoiwRFCu7mtwuMWSFH654dhyR2aGRVpump": 1795052579,
+    "gmgn-early:3heRTk9mpEJWGUU6pPiTsS2A1Gz8w5PrD5j1exPcpump": 1795095839,
     "gmgn-early:4cXN5CMEd9einVMRKeSv8yz28LjP7459R9XBwx3ipump": 1794913026,
     "gmgn-early:5RUAeBFcNWahBFySPe5S5xzrMfMbtzccn7L4JrBQpump,4bw37fkQiemULZc26NViejQgzMEVteUX5J9noJBZpump": 1794886860,
     "gmgn-early:5poCpadLyPkuCw1SEk2183MZ8qwTE6DKCqySF5svpump": 1795093148,
@@ -60,7 +62,6 @@
     "gmgn-early:HeweMrf24JfAQMhEdbqTs3YVRczqjn5EANcCNsYVpump": 1795073433,
     "gmgn-early:J7NyUTct2jGgSPcRwYRCajeTE6jc2aNyFt7QZfuWpump": 1795083329,
     "gmgn-early:pp6SutEifuohJtxBDduiuKja1SbBChg9ohrT7Ukpump": 1795039280,
-    "gmgn-positions:cleanup:dffb7d738a36": 1794882152,
-    "gmgn-candidates:2xCd5qHX5tW6pGUo7zfgHSSAnRjJwPA7Sz1Fu4fWcJjX": 1795095443
+    "gmgn-positions:cleanup:dffb7d738a36": 1794882152
   }
 }
