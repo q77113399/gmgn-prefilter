@@ -390,6 +390,16 @@
       "woke": true,
       "woke_ts": 1795076957
     },
+    "FYGfN91NHNuxu97Fq8EU8LpdcaaMeSHfMBkWGbhPpump": {
+      "age_min_first": 22.574,
+      "first_ts": 1795115660,
+      "mc_first": 12003,
+      "run_id": "44596204735",
+      "symbol": "VLIVE",
+      "ts": 1795115660,
+      "woke": true,
+      "woke_ts": 1795115660
+    },
     "FgZnez1C8Z6Zqmjq2Ea5P54J8CuAxEkKUzzS7SubHjTJ": {
       "age_min_first": 36.265,
       "first_ts": 1795074261,
