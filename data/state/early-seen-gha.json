@@ -190,6 +190,16 @@
       "woke": true,
       "woke_ts": 1795092556
     },
+    "9rUN5N2rhffp67JKwWgU4LvK8kpEHMwoUPFCwvPGpump": {
+      "age_min_first": 6.842,
+      "first_ts": 1795112060,
+      "mc_first": 24567,
+      "run_id": "44585636569",
+      "symbol": "pew",
+      "ts": 1795112060,
+      "woke": true,
+      "woke_ts": 1795112060
+    },
     "9yq4gKbukPMGDBjZ7vG6nBbTQwfTdNmu3NgLLo6CyZb8": {
       "age_min_first": 8.339,
       "first_ts": 1795090460,
