@@ -9,6 +9,16 @@
       "ts": 1795074261,
       "woke": true,
       "woke_ts": 1795074261
+    },
+    "HGDuqVEstUUW2fTTyi4JrXc1pdBeMbdZtwtsWvUH2bzZ": {
+      "age_min_first": 6.985,
+      "first_ts": 1795074559,
+      "mc_first": 28583,
+      "run_id": "44482540464",
+      "symbol": "DACITYTARD",
+      "ts": 1795074559,
+      "woke": true,
+      "woke_ts": 1795074559
     }
   }
 }
