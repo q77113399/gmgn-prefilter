@@ -1329,8 +1329,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "taskmarket:TSK-18R29K9F": {
+      "ts": 1795118857,
+      "at": "2026-11-20T04:07:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,keyword:nsfw",
+      "title": "TSK-18R29K9F"
     }
   },
-  "updated_at": "2026-11-20T03:21:00+0800",
+  "updated_at": "2026-11-20T04:07:37+0800",
   "version": 1
 }
