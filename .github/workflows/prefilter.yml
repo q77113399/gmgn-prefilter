@@ -65,8 +65,18 @@ jobs:
           # Bounty -> Pano3. run-all.sh hides these from the GMGN steps.
           BOUNTY_WEBHOOK_URL: ${{ secrets.BOUNTY_WEBHOOK_URL }}
           BOUNTY_WEBHOOK_BEARER: ${{ secrets.BOUNTY_WEBHOOK_BEARER }}
+          # Decrypts holdings (positions/watch/watch-state) into gitignored data/inputs.
+          PRIVATE_STATE_KEY: ${{ secrets.PRIVATE_STATE_KEY }}
         run: |
           export GMGN_INPUTS_DIR="$GITHUB_WORKSPACE/data/inputs"
+          export GMGN_HOLDINGS_UNKNOWN=1
+          if [ -n "$PRIVATE_STATE_KEY" ]; then
+            python3 -c 'import cryptography' 2>/dev/null || pip install -q cryptography >/dev/null 2>&1
+            if python3 scripts/private_state.py gha-inputs "$GMGN_INPUTS_DIR"; then export GMGN_HOLDINGS_UNKNOWN=0; fi
+          else
+            echo "PRIVATE_STATE_KEY not set: holdings unknown, GMGN candidate/position steps skipped"
+          fi
+          unset PRIVATE_STATE_KEY
           export QUOTA_SAVE_STATE_DIR="$GITHUB_WORKSPACE/data/state"
           export QUOTA_SAVE_LOG_DIR="$RUNNER_TEMP/logs"
           export GMGN_EVIDENCE_DIR="$RUNNER_TEMP/evidence"

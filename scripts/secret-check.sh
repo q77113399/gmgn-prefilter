@@ -39,6 +39,8 @@ mapfile -t files < <(git diff --cached --name-only --diff-filter=ACMR)
 for f in "${files[@]}"; do
   case "$f" in
     scripts/*|tests/*|.github/*|README.md|.gitignore|.gitattributes) ;;
+    data/inputs/positions.json|data/inputs/watch.json|data/inputs/watch-state.json)
+      echo "secret-check: holdings file must not be committed in plaintext: $f" >&2; fail=1; continue ;;
     data/inputs/*.json|data/state/*.json) ;;
     *) echo "secret-check: path not allowed in public repo: $f" >&2; fail=1; continue ;;
   esac

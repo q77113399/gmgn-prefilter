@@ -11,3 +11,7 @@ data/stats/
 *.pyc
 *.tmp
 *-last.json
+# Holdings: plaintext only on the box; published encrypted in data/state/private-box.enc.json
+data/inputs/positions.json
+data/inputs/watch.json
+data/inputs/watch-state.json

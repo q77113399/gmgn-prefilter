@@ -55,10 +55,10 @@ copy_in() { # src dst
 }
 mkdir -p data/inputs data/state
 copy_in "$SRC_NARRATIVES"   data/inputs/narratives.json
-copy_in "$SRC_WATCH"        data/inputs/watch.json
-copy_in "$SRC_WATCH_STATE"  data/inputs/watch-state.json
 copy_in "$SRC_REJECTED"     data/inputs/rejected.json
-copy_in "$SRC_POSITIONS"    data/inputs/positions.json
+# positions.json / watch.json / watch-state.json (holdings) are NOT copied in plaintext
+# any more: private_state.py puts them in the encrypted box blob (data/state/private-box.enc.json).
+timeout 90 python3 scripts/private_state.py box-sync --no-git >/dev/null 2>>"$LOG" || log "post: private_state box-sync failed"
 python3 scripts/state_tool.py merge "$BOX_STATE" data/state
 git config user.name  >/dev/null || git config user.name  "gmgn-box-sync"
 git config user.email >/dev/null || git config user.email "gmgn-box-sync@users.noreply.github.com"

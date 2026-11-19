@@ -16,6 +16,9 @@ Commands
   box-sync [--no-push]   box: pull GHA blob, merge into early.json + smart-money skip
                          file; without --no-push also re-encrypt the box blob if its
                          plaintext changed and push it.
+  box-sync --no-git      box: same, write the blob but let the caller (box-sync.sh) commit.
+  gha-inputs <dir>       GHA prefilter: decrypt positions.json / watch.json / watch-state.json
+                         into <dir> (gitignored data/inputs); exit 4 if missing.
   gha-load <dir>         GHA: decrypt both blobs, write wallets.json, early.json,
                          sm-state.json, sm-skip.json into <dir> (runner temp).
   gha-save <dir>         GHA: build the GHA blob from <dir> and re-encrypt if changed.
@@ -39,6 +42,13 @@ SM_WALLETS = SM_ROOT / "wallets.json"
 SM_STATE = SM_ROOT / "state.json"
 SM_SKIP = SM_ROOT / "gha-woken.json"                 # box-only cache of GHA-woken keys
 KEEP_SEC = 3 * 86400
+# Holdings inputs: plaintext only on the box; published only inside the box blob.
+# blob key -> (box source path, file name GHA writes into GMGN_INPUTS_DIR)
+INPUTS = {
+    "positions": (Path(os.environ.get("GMGN_BOX_POSITIONS", str(QS / "state/positions.json"))), "positions.json"),
+    "watch": (Path(os.environ.get("GMGN_BOX_WATCH", "/workspace/watch-gmgn-exit/watch.json")), "watch.json"),
+    "watch_state": (Path(os.environ.get("GMGN_BOX_WATCH_STATE", "/workspace/watch-gmgn-exit/state.json")), "watch-state.json"),
+}
 
 
 def key() -> bytes | None:
@@ -134,7 +144,27 @@ def git(*args: str, timeout: int = 60) -> subprocess.CompletedProcess:
     return subprocess.run(["git", "-C", str(REPO), *args], capture_output=True, text=True, timeout=timeout)
 
 
-def box_sync(push: bool = True) -> int:
+def write_inputs(box: dict[str, Any], d: Path) -> list[str]:
+    """Write decrypted holdings inputs into d (runner temp / gitignored). Returns names written."""
+    got = []
+    inputs = box.get("inputs") or {}
+    for k, (_src, name) in INPUTS.items():
+        if isinstance(inputs.get(k), (dict, list)):
+            write_json(d / name, inputs[k], 0o600)
+            got.append(name)
+    return got
+
+
+def gha_inputs(d: Path) -> int:
+    """GHA prefilter: decrypt holdings into d. Exit 0 only if positions+watch are present."""
+    fernet()
+    box = decrypt_blob(BOX_BLOB.read_text() if BOX_BLOB.is_file() else "")
+    got = write_inputs(box, d)
+    print(f"private_state gha-inputs: {len(got)}/3 holdings files", file=sys.stderr)
+    return 0 if {"positions.json", "watch.json"} <= set(got) else 4
+
+
+def box_sync(push: bool = True, git_push: bool = True) -> int:
     now = int(time.time())
     fernet()  # exits 3 without key
     try:
@@ -165,6 +195,7 @@ def box_sync(push: bool = True) -> int:
         "early_positions": early.get("positions") or {},
         "early_events": prune(early.get("position_events") or {}, now),
         "sm_woken": prune(sm.get("woken_keys") or {}, now),
+        "inputs": {k: v for k, (src, _n) in INPUTS.items() if (v := load_json(src, None)) is not None},
     }
     h = hashlib.sha256(canon(plain)).hexdigest()
     if BOX_HASH.is_file() and BOX_HASH.read_text().strip() == h and BOX_BLOB.is_file():
@@ -172,7 +203,7 @@ def box_sync(push: bool = True) -> int:
     plain["updated"] = now
     encrypt_to(BOX_BLOB, plain)
     BOX_HASH.write_text(h + "\n")
-    if True:  # push
+    if git_push:
         r = subprocess.run(["flock", "-w", "90", str(QS / "state/gha-git.lock"),
                             "bash", str(REPO / "scripts/git-push-state.sh"), f"box: private state {time.strftime('%F %T %Z')}"],
                            cwd=str(REPO), capture_output=True, text=True, timeout=150,
@@ -190,6 +221,7 @@ def gha_load(d: Path) -> int:
     box = decrypt_blob(BOX_BLOB.read_text() if BOX_BLOB.is_file() else "")
     gha = decrypt_blob(GHA_BLOB.read_text() if GHA_BLOB.is_file() else "")
     write_json(d / "gha-prev.json", gha, 0o600)
+    write_inputs(box, d)  # positions.json / watch.json for the smart-money held-sell check
     write_json(d / "wallets.json", {"wallets": [{"address": a, "enabled": True} for a in box.get("wallets") or []]}, 0o600)
     early = {"budget_sol": 0.5, "spent_sol": 0, "seen": {}, "positions": box.get("early_positions") or {},
              "position_events": dict(box.get("early_events") or {})}
@@ -244,7 +276,9 @@ def main(argv: list[str]) -> int:
         return 2
     cmd = argv[1]
     if cmd == "box-sync":
-        return box_sync(push="--no-push" not in argv)
+        return box_sync(push="--no-push" not in argv, git_push="--no-git" not in argv)
+    if cmd == "gha-inputs":
+        return gha_inputs(Path(argv[2]))
     if cmd == "gha-load":
         return gha_load(Path(argv[2]))
     if cmd == "gha-save":

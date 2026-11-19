@@ -21,14 +21,22 @@ echo "$(date '+%F %T %Z') run-all start runner=$RUNNER dry_run=${DRY_RUN:-0} ski
 # GMGN steps never see Pano3's bounty webhook vars.
 # Candidate wakes run by default. Set SKIP_GMGN_CANDIDATES=1 to pause only
 # gmgn-prefilter.sh (gmgn-candidates). Position and bounty steps still run.
+# Holdings unknown (GHA without PRIVATE_STATE_KEY / decrypt failed): skip every
+# holdings-dependent GMGN step instead of guessing (no false buys or sells).
+if [[ "${GMGN_HOLDINGS_UNKNOWN:-0}" == 1 ]]; then
+  echo "$(date '+%F %T %Z') skip gmgn-candidates + gmgn-positions: holdings unknown (encrypted inputs unavailable)"
+  SKIP_GMGN_CANDIDATES=1; SKIP_GMGN_POSITIONS=1
+fi
 if [[ "${SKIP_GMGN_CANDIDATES:-0}" != "0" ]]; then
   echo "$(date '+%F %T %Z') skip gmgn-candidates (SKIP_GMGN_CANDIDATES=${SKIP_GMGN_CANDIDATES:-0})"
 else
   env -u BOUNTY_WEBHOOK_URL -u BOUNTY_WEBHOOK_BEARER GMGN_PREFILTER_MODE=strict \
     bash "$SCRIPT_DIR/gmgn-prefilter.sh" || echo "candidates wrapper exit=$?"
 fi
+if [[ "${SKIP_GMGN_POSITIONS:-0}" == 1 ]]; then :; else
 env -u BOUNTY_WEBHOOK_URL -u BOUNTY_WEBHOOK_BEARER \
   bash "$SCRIPT_DIR/gmgn-positions.sh" || echo "positions wrapper exit=$?"
+fi
 # Independent bounty step (wakes Pano3 via BOUNTY_WEBHOOK_*; never GMGN's WEBHOOK_*).
 # A failure here never affects the GMGN steps above. State: $STATE_DIR/bounty.
 if [[ "${BOUNTY_ENABLED:-1}" == 1 && -f "$SCRIPT_DIR/bounty-watch.sh" ]]; then

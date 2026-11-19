@@ -40,8 +40,8 @@ fi
 # 2) smart-money single poll
 SMART_MONEY_SOURCE=gha SMART_MONEY_ROOT="$D/sm" SMART_MONEY_WALLETS="$D/wallets.json" \
 SMART_MONEY_STATE="$D/sm-state.json" SMART_MONEY_SKIP="$D/sm-skip.json" SMART_MONEY_EVIDENCE="$D/sm/evidence" \
-GMGN_REJECTED="$REPO/data/inputs/rejected.json" GMGN_POSITIONS_FILE="$REPO/data/inputs/positions.json" \
-GMGN_BOX_WATCH="$REPO/data/inputs/watch.json" \
+GMGN_REJECTED="$REPO/data/inputs/rejected.json" GMGN_POSITIONS_FILE="$D/positions.json" \
+GMGN_BOX_WATCH="$D/watch.json" \
   timeout 200 python3 "$SCRIPT_DIR/smart-money-watch.py" once --max-tx 20 >"$D/logs/sm.log" 2>&1
 echo "$(ts) smart-money rc=$? $(grep -o 'poll wallets=.*' "$D/logs/sm.log" | tail -1) $(grep -o 'notify http=[0-9]*\|wake [A-Z_ ]*ok events=[0-9]*\|already woken by the other runner\|rate-limit: [0-9]* event' "$D/logs/sm.log" | tr '\n' ' ')"
 
