@@ -43,7 +43,8 @@
    "ts": "2026-11-18T13:14+08:00"
   },
   "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump",
-  "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump"
+  "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump",
+  "8CnvwZJLRpQazvn6LszkzmXJxkmMY2bTQ4Q3NN4fpump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
