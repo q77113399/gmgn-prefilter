@@ -1,1 +1,14 @@
-{"mints": {}}
+{
+  "mints": {
+    "FgZnez1C8Z6Zqmjq2Ea5P54J8CuAxEkKUzzS7SubHjTJ": {
+      "age_min_first": 36.265,
+      "first_ts": 1795074261,
+      "mc_first": 37997,
+      "run_id": "44481903507",
+      "symbol": "JENSEN",
+      "ts": 1795074261,
+      "woke": true,
+      "woke_ts": 1795074261
+    }
+  }
+}
