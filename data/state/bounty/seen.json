@@ -1245,8 +1245,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Sum up 19 November's world news in one image"
+    },
+    "make.fun:gta6-cover-art-01": {
+      "ts": 1795085553,
+      "at": "2026-11-19T18:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make GTA 6 Cover Art"
     }
   },
-  "updated_at": "2026-11-19T09:07:30+0800",
+  "updated_at": "2026-11-19T18:52:33+0800",
   "version": 1
 }
