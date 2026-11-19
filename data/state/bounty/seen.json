@@ -1308,8 +1308,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-18: Original plush bunny, fox and chick SVGs"
+    },
+    "make.fun:gta6-meme-reddit-01": {
+      "ts": 1795099051,
+      "at": "2026-11-19T22:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Post a GTA 6 meme on Reddit"
+    },
+    "make.fun:gta6-meme-x-01": {
+      "ts": 1795099051,
+      "at": "2026-11-19T22:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Post a GTA 6 meme on X"
     }
   },
-  "updated_at": "2026-11-19T22:22:33+0800",
+  "updated_at": "2026-11-19T22:37:31+0800",
   "version": 1
 }
