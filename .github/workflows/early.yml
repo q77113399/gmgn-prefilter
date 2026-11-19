@@ -1,0 +1,84 @@
+name: gmgn-early
+
+# A/B backstop for the box early-launch scan (task_id gmgn-early, candidates ONLY).
+# Positions and early.json stay box-only. Public dedupe: data/state/early-seen-gha.json.
+# Public repo: never echo secrets; only HTTP status codes are logged.
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'DRY_RUN=1: scan and print summary, do not POST, do not commit'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/early.yml'
+      - 'scripts/gmgn-early.py'
+      - 'scripts/gmgn-early-gha.sh'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gmgn-early
+  cancel-in-progress: false
+
+jobs:
+  early:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      TZ: Asia/Taipei
+      DRY_RUN_INPUT: ${{ inputs.dry_run && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Restore discovery cache (public token data only)
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/early-state/early-discovery.json
+          key: early-disc-${{ github.run_id }}
+          restore-keys: early-disc-
+
+      - name: Early candidate scan
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+        run: |
+          export QUOTA_SAVE_STATE_DIR="$RUNNER_TEMP/early-state"
+          export QUOTA_SAVE_LOG_DIR="$RUNNER_TEMP/logs"
+          export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export DRY_RUN="$DRY_RUN_INPUT"
+          echo "trigger=${{ github.event_name }} started=$(date '+%F %T %Z')"
+          bash scripts/gmgn-early-gha.sh
+          echo "--- notify results (HTTP codes only) ---"
+          cat "$RUNNER_TEMP/logs/notify.log" 2>/dev/null || echo "no wake this round"
+
+      - name: Save discovery cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/early-state/early-discovery.json
+          key: early-disc-${{ github.run_id }}
+
+      - name: Commit dedupe file
+        if: env.DRY_RUN_INPUT != '1'
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          export QUOTA_SAVE_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          export BOUNTY_WEBHOOK_SECRETS="$RUNNER_TEMP/no-secrets-file"
+          git status --porcelain data/state
+          bash scripts/git-push-state.sh "gha-early: seen after run ${GITHUB_RUN_ID}"
