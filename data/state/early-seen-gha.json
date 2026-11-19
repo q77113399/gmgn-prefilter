@@ -20,6 +20,16 @@
       "woke": true,
       "woke_ts": 1795082061
     },
+    "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
+      "age_min_first": 45.765,
+      "first_ts": 1795083259,
+      "mc_first": 28104,
+      "run_id": "44503754651",
+      "symbol": "Dot",
+      "ts": 1795083259,
+      "woke": true,
+      "woke_ts": 1795083259
+    },
     "5uda5zo6McfvRGuNLdQ88AgryA19nbJMkj9fJgTnAJke": {
       "age_min_first": 12.545,
       "first_ts": 1795076957,
