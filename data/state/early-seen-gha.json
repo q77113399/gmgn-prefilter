@@ -350,6 +350,16 @@
       "woke": true,
       "woke_ts": 1795074559
     },
+    "HUwPBFx3nzvxHXK3Ufsj2iYgVuoR8eDUVers7yG5pump": {
+      "age_min_first": 7.711,
+      "first_ts": 1795107558,
+      "mc_first": 43502,
+      "run_id": "44572177180",
+      "symbol": "CATMARIO",
+      "ts": 1795107558,
+      "woke": true,
+      "woke_ts": 1795107558
+    },
     "HmiRUEmcb5FQnyVi6sdmyJTBfQB1RmcV7B6Z7FFapump": {
       "age_min_first": 16.029,
       "first_ts": 1795076360,
