@@ -1273,8 +1273,43 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-7Y12H0SA"
+    },
+    "taskmarket:TSK-XG6ZTJKY": {
+      "ts": 1795098153,
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-XG6ZTJKY"
+    },
+    "taskmarket:TSK-7YWG4532": {
+      "ts": 1795098153,
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7YWG4532"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XG6ZTJKY": {
+      "ts": 1795098153,
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-06: Last-survivor and simultaneous-final-fall outcomes"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7YWG4532": {
+      "ts": 1795098153,
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-03: Simultaneous movement with shared destinations"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7Y12H0SA": {
+      "ts": 1795098153,
+      "at": "2026-11-19T22:22:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TILEFALL / tf-18: Original plush bunny, fox and chick SVGs"
     }
   },
-  "updated_at": "2026-11-19T21:52:32+0800",
+  "updated_at": "2026-11-19T22:22:33+0800",
   "version": 1
 }
