@@ -136,5 +136,10 @@
   "name": "GTA Strategy",
   "reason": "tax 1.2%>1%, dev open-dump 50% prior rug",
   "ts": "2026-11-19T11:10+08:00"
+ },
+ "FmULsKg91Cde4AQt5VrkbFbPaksJDucJnhsH23qK3Khz": {
+  "name": "BRR",
+  "reason": "pool liquidity drained to $0.01 (quote 0.000035 SOL), unsellable",
+  "ts": "2026-11-19"
  }
 }
