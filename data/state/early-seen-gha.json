@@ -120,6 +120,16 @@
       "woke": true,
       "woke_ts": 1795114757
     },
+    "5JjusMavUmTWgmGann7Ykd6hPRLPL4D15pzK2M7Xpump": {
+      "age_min_first": 7.095,
+      "first_ts": 1795122865,
+      "mc_first": 13023,
+      "run_id": "44616713145",
+      "symbol": "FIONA",
+      "ts": 1795122865,
+      "woke": true,
+      "woke_ts": 1795122865
+    },
     "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
       "age_min_first": 45.765,
       "first_ts": 1795083259,
@@ -219,6 +229,16 @@
       "ts": 1795085957,
       "woke": true,
       "woke_ts": 1795085957
+    },
+    "97Fz7Ki7GzBDLCz4LV69CTCyw4VqZV7GwL6dS9zsBtcJ": {
+      "age_min_first": 5.495,
+      "first_ts": 1795122865,
+      "mc_first": 20500,
+      "run_id": "44616713145",
+      "symbol": "FIONA",
+      "ts": 1795122865,
+      "woke": true,
+      "woke_ts": 1795122865
     },
     "9pS7ufLbMWLKkkzNgdn2bfBwDb4Wt5iuakGbBZV7pump": {
       "age_min_first": 16.604,
