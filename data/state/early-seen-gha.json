@@ -10,6 +10,16 @@
       "woke": true,
       "woke_ts": 1795097059
     },
+    "23PYUoUBzcmMgzfoPP3M3t5Le9m3aw8wsYJXpewCpump": {
+      "age_min_first": 7.032,
+      "first_ts": 1795127669,
+      "mc_first": 62317,
+      "run_id": "44629853980",
+      "symbol": "WTA6",
+      "ts": 1795127669,
+      "woke": true,
+      "woke_ts": 1795127669
+    },
     "295zKDrRaRwZXLQezz9am8ypB1N83ZaErVGjH543pump": {
       "age_min_first": 11.832,
       "first_ts": 1795101259,
@@ -439,6 +449,16 @@
       "ts": 1795117157,
       "woke": true,
       "woke_ts": 1795117157
+    },
+    "CZyJbRFByu9iQSTvGheafzb2bhVEYUyg5sCmg8npump": {
+      "age_min_first": 8.049,
+      "first_ts": 1795127669,
+      "mc_first": 41850,
+      "run_id": "44629853980",
+      "symbol": "JENSEN",
+      "ts": 1795127669,
+      "woke": true,
+      "woke_ts": 1795127669
     },
     "CrjcbgU7Aghb8KQdxSrgcDHf7HutKhkvPnsV7JiFpump": {
       "age_min_first": 13.664,
