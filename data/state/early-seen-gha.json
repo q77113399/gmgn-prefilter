@@ -160,6 +160,16 @@
       "woke": true,
       "woke_ts": 1795091060
     },
+    "DTGxkt7Vyc1Kv9MqXL9LxrsGUsw9Vbob23r9M6j9pump": {
+      "age_min_first": 7.193,
+      "first_ts": 1795099157,
+      "mc_first": 46243,
+      "run_id": "44546071222",
+      "symbol": "AID",
+      "ts": 1795099157,
+      "woke": true,
+      "woke_ts": 1795099157
+    },
     "Eh7z2yLYwAiWWzahVfVuUN9RwZruLw4z2TLstmT3pump": {
       "age_min_first": 14.699,
       "first_ts": 1795074668,
