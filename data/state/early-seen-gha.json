@@ -90,6 +90,16 @@
       "woke": true,
       "woke_ts": 1795113271
     },
+    "4dHUqG1XUNhHeyarnxHS6dd4nTiLBAxXPEQkUrUGabs1": {
+      "age_min_first": 6.561,
+      "first_ts": 1795114757,
+      "mc_first": 37920,
+      "run_id": "44593529144",
+      "symbol": "ANT",
+      "ts": 1795114757,
+      "woke": true,
+      "woke_ts": 1795114757
+    },
     "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
       "age_min_first": 45.765,
       "first_ts": 1795083259,
