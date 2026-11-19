@@ -1336,8 +1336,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,keyword:nsfw",
       "title": "TSK-18R29K9F"
+    },
+    "make.fun:gta6-clipper-01": {
+      "ts": 1795132359,
+      "at": "2026-11-20T07:52:39+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Clip GTA 6 for the most YouTube views"
     }
   },
-  "updated_at": "2026-11-20T04:07:37+0800",
+  "updated_at": "2026-11-20T07:52:39+0800",
   "version": 1
 }
