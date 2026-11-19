@@ -1259,8 +1259,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Build the best GTA 6 trophy guide"
+    },
+    "make.fun:gta6-trophy-rarity-forecast-01": {
+      "ts": 1795089152,
+      "at": "2026-11-19T19:52:32+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Forecast how many GTA VI players earn each trophy in week one"
     }
   },
-  "updated_at": "2026-11-19T19:22:28+0800",
+  "updated_at": "2026-11-19T19:52:32+0800",
   "version": 1
 }
