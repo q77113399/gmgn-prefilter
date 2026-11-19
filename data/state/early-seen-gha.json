@@ -200,6 +200,16 @@
       "woke": true,
       "woke_ts": 1795101259
     },
+    "BEiw6kGWi5hDhgeLek6LtUR3ZzoMEZ8X52ZMZ2nPpump": {
+      "age_min_first": 43.776,
+      "first_ts": 1795110259,
+      "mc_first": 35137,
+      "run_id": "44580360578",
+      "symbol": "GTE",
+      "ts": 1795110259,
+      "woke": true,
+      "woke_ts": 1795110259
+    },
     "BTf44UDHynbi1FHPNRK4U6YhsvNAWLbn2vkNZo6Apump": {
       "age_min_first": 6.746,
       "first_ts": 1795100956,
