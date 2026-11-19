@@ -30,6 +30,16 @@
       "woke": true,
       "woke_ts": 1795083259
     },
+    "5ZKJ2t595atofHFCEAbQ6AuJAzEK5ZSTrHQZtRRgpump": {
+      "age_min_first": 5.88,
+      "first_ts": 1795086866,
+      "mc_first": 43413,
+      "run_id": "44512978109",
+      "symbol": "DCTC",
+      "ts": 1795086866,
+      "woke": true,
+      "woke_ts": 1795086866
+    },
     "5uda5zo6McfvRGuNLdQ88AgryA19nbJMkj9fJgTnAJke": {
       "age_min_first": 12.545,
       "first_ts": 1795076957,
