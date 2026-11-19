@@ -130,6 +130,16 @@
       "woke": true,
       "woke_ts": 1795088660
     },
+    "8UWMudpWurr4BWsTBQ5wpGq9o4UzSsRKJuRJM111pump": {
+      "age_min_first": 18.825,
+      "first_ts": 1795109957,
+      "mc_first": 14203,
+      "run_id": "44579474800",
+      "symbol": "CATLUIGI",
+      "ts": 1795109957,
+      "woke": true,
+      "woke_ts": 1795109957
+    },
     "8sKBCxnvXfRBPChbWgogFoM5oQBr3SeDzjjakbx3pump": {
       "age_min_first": 7.362,
       "first_ts": 1795107258,
@@ -209,6 +219,16 @@
       "ts": 1795103660,
       "woke": true,
       "woke_ts": 1795103660
+    },
+    "BbRcSU1Wi5vnNnncKkKdKDk9ts8ssxZzYqrCY3A9yFGX": {
+      "age_min_first": 13.975,
+      "first_ts": 1795109957,
+      "mc_first": 14823,
+      "run_id": "44579474800",
+      "symbol": "MONKEY",
+      "ts": 1795109957,
+      "woke": true,
+      "woke_ts": 1795109957
     },
     "BvxL2QrCboVMPX36RTMY1kHFm4MBLLapi4UrZQ73bonk": {
       "age_min_first": 9.853,
