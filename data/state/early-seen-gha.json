@@ -170,6 +170,16 @@
       "woke": true,
       "woke_ts": 1795122865
     },
+    "5QvM45VuLzQoeDFqr8wmAr1ZD4fmH9vCMY4DBNFUbzet": {
+      "age_min_first": 9.712,
+      "first_ts": 1795131857,
+      "mc_first": 96091,
+      "run_id": "44640125383",
+      "symbol": "你好",
+      "ts": 1795131857,
+      "woke": true,
+      "woke_ts": 1795131857
+    },
     "5XcCeZfduF7r6MwjXQKZbeXsNE1dgzRRTaBcH9rmpump": {
       "age_min_first": 45.765,
       "first_ts": 1795083259,
