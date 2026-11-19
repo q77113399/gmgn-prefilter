@@ -350,6 +350,16 @@
       "woke": true,
       "woke_ts": 1795100357
     },
+    "J4zuKNAM2mF5Ait1E2nf3LracLTCQUFRZVXU24Smpump": {
+      "age_min_first": 11.877,
+      "first_ts": 1795105759,
+      "mc_first": 46786,
+      "run_id": "44566614298",
+      "symbol": "TESLA",
+      "ts": 1795105759,
+      "woke": true,
+      "woke_ts": 1795105759
+    },
     "J7eH2aG5DQv8UwJfg42oiJwryyiRs7iND1u7BmKRpump": {
       "age_min_first": 9.099,
       "first_ts": 1795101259,
