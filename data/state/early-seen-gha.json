@@ -530,6 +530,16 @@
       "woke": true,
       "woke_ts": 1795074559
     },
+    "HHhRYmCRhoktcLa1WLQvQXHbqdynUU43cGpkyNMvpump": {
+      "age_min_first": 8.914,
+      "first_ts": 1795119867,
+      "mc_first": 11881,
+      "run_id": "44608310468",
+      "symbol": "TELOS",
+      "ts": 1795119867,
+      "woke": true,
+      "woke_ts": 1795119867
+    },
     "HUwPBFx3nzvxHXK3Ufsj2iYgVuoR8eDUVers7yG5pump": {
       "age_min_first": 7.711,
       "first_ts": 1795107558,
