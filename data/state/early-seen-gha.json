@@ -600,6 +600,16 @@
       "woke": true,
       "woke_ts": 1795074668
     },
+    "F6tKmax3uQA4MMqzcE2HYEyu379QjCvVSPm9woyspump": {
+      "age_min_first": 22.257,
+      "first_ts": 1795132469,
+      "mc_first": 77415,
+      "run_id": "44641465315",
+      "symbol": "LOOSY",
+      "ts": 1795132469,
+      "woke": true,
+      "woke_ts": 1795132469
+    },
     "FASPtMgvsc7tQ8hvRxeKjCdDLzVjKFqsTKD2MSzuBAGS": {
       "age_min_first": 13.692,
       "first_ts": 1795078756,
