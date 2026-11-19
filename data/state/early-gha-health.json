@@ -1,13 +1,13 @@
 {
-  "discovery_cached": 1435,
+  "discovery_cached": 1412,
   "endpoint_fail": [],
-  "epoch": 1795082090,
+  "epoch": 1795082375,
   "error": "",
   "event": "workflow_dispatch",
   "fetched_pairs": 180,
-  "iso": "2026-11-19T17:54:50+0800",
-  "passed": 1,
-  "reason": "wake",
-  "run_id": "44500654235",
-  "window_pass": 24
+  "iso": "2026-11-19T17:59:35+0800",
+  "passed": 0,
+  "reason": "no_candidates",
+  "run_id": "44501385823",
+  "window_pass": 19
 }
