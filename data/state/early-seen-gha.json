@@ -410,6 +410,16 @@
       "woke": true,
       "woke_ts": 1795091957
     },
+    "Acm35USivzoEDMvTcSA7aTpzHiWAso1aayfCm9mmpump": {
+      "age_min_first": 6.839,
+      "first_ts": 1795136956,
+      "mc_first": 45122,
+      "run_id": "44651445414",
+      "symbol": "GTAVI",
+      "ts": 1795136956,
+      "woke": true,
+      "woke_ts": 1795136956
+    },
     "AqEL97MK3FB4WHR19H7F7R3JZTuyrTsxLaLGnLeNpump": {
       "age_min_first": 5.947,
       "first_ts": 1795114157,
