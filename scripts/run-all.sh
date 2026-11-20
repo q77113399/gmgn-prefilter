@@ -27,6 +27,8 @@ if [[ "${GMGN_HOLDINGS_UNKNOWN:-0}" == 1 ]]; then
   echo "$(date '+%F %T %Z') skip gmgn-candidates + gmgn-positions: holdings unknown (encrypted inputs unavailable)"
   SKIP_GMGN_CANDIDATES=1; SKIP_GMGN_POSITIONS=1
 fi
+# Paused two-position new-token scan per user 2026-11-20 12:13 Taipei
+SKIP_GMGN_CANDIDATES="${SKIP_GMGN_CANDIDATES:-1}"
 if [[ "${SKIP_GMGN_CANDIDATES:-0}" != "0" ]]; then
   echo "$(date '+%F %T %Z') skip gmgn-candidates (SKIP_GMGN_CANDIDATES=${SKIP_GMGN_CANDIDATES:-0})"
 else
