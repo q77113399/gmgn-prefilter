@@ -57,6 +57,7 @@ jobs:
           restore-keys: early-disc-
 
       - name: Early candidate scan
+        if: false # paused by user 2026-11-20 10:55 Taipei
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
