@@ -120,6 +120,16 @@
       "woke": true,
       "woke_ts": 1795120459
     },
+    "3emn4AZwHpsH8K6rqjsMTeFHJTg4XqdPe9PBHpV3JANJ": {
+      "age_min_first": 17.964,
+      "first_ts": 1795137257,
+      "mc_first": 40354,
+      "run_id": "44652090004",
+      "symbol": "I",
+      "ts": 1795137257,
+      "woke": true,
+      "woke_ts": 1795137257
+    },
     "3hcJWcNvWJu3QBq6PiC8xavYQJJwBnr6adhdpHXppump": {
       "age_min_first": 14.949,
       "first_ts": 1795124060,
