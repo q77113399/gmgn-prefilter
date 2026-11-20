@@ -679,6 +679,13 @@
       "title": "Make GTA 6",
       "ts": 1794930758
     },
+    "make.fun:gta6-clipper-01": {
+      "at": "2026-11-20T07:52:39+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Clip GTA 6 for the most YouTube views",
+      "ts": 1795132359
+    },
     "make.fun:gta6-cover-art-01": {
       "at": "2026-11-19T18:52:33+0800",
       "qualified": false,
@@ -762,6 +769,13 @@
       "reason": "submissions>=200",
       "title": "Sum up 19 November's world news in one image",
       "ts": 1795050450
+    },
+    "make.fun:news-image-20261120": {
+      "at": "2026-11-20T08:35:18+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 20 November's world news in one image",
+      "ts": 1795134918
     },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
@@ -909,6 +923,13 @@
       "reason": null,
       "title": "TSK-01AWCTNN",
       "ts": 1794790350
+    },
+    "taskmarket:TSK-18R29K9F": {
+      "at": "2026-11-20T04:07:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,keyword:nsfw",
+      "title": "TSK-18R29K9F",
+      "ts": 1795118857
     },
     "taskmarket:TSK-2RVTZNXW": {
       "at": "2026-11-18T09:37:29+0800",
@@ -1329,22 +1350,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "taskmarket:TSK-18R29K9F": {
-      "ts": 1795118857,
-      "at": "2026-11-20T04:07:37+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,keyword:nsfw",
-      "title": "TSK-18R29K9F"
-    },
-    "make.fun:gta6-clipper-01": {
-      "ts": 1795132359,
-      "at": "2026-11-20T07:52:39+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Clip GTA 6 for the most YouTube views"
     }
   },
-  "updated_at": "2026-11-20T07:52:39+0800",
+  "updated_at": "2026-11-20T08:35:18+0800",
   "version": 1
 }
