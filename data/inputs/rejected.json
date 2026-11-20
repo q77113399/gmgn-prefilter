@@ -1,197 +1,203 @@
 {
- "mints": [
-  "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
-  "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
-  "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump",
-  "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump",
-  "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump",
-  "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump",
-  "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump",
-  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK",
-  "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump",
-  "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
-  "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump",
-  "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump",
-  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump",
-  "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump",
-  "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
-  "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
-  "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump",
-  "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump",
-  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump",
-  "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
-  "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump",
-  "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump",
-  "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump",
-  "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
-  "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump",
-  "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump",
-  "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
-  "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR",
-  "5RUAeBFcNWahBFySPe5S5xzrMfMbtzccn7L4JrBQpump",
-  "4bw37fkQiemULZc26NViejQgzMEVteUX5J9noJBZpump",
-  "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv",
-  "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump",
-  "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump",
-  "5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump",
-  "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
-  "D6REawj58gC8K6rVHR5YRTtFRQU7roKXpJFwt9g7Q9C2",
-  "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump",
-  "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump",
-  "8CnvwZJLRpQazvn6LszkzmXJxkmMY2bTQ4Q3NN4fpump",
-  "3ZB6QJDfLUZYd9isGYDkgD7G4ZyUshviXJ3gBTrtv4gv",
-  "H4Q82gdf1krw7SCnL35zqKaMZJHAZvkTCZfQ5Lfwpump",
-  "5ZKJ2t595atofHFCEAbQ6AuJAzEK5ZSTrHQZtRRgpump",
-  "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump",
-  "CLXMtWj5ydkU2hJDjHMNC8t281xTdZ7gddK31C2fpump",
-  "7YXw3eeK1xbwtSyUAg3B98jL3RsTPXNrb7n8oygppump",
-  "35UgYCMLUFLcZbrs4xzxEujRPA1bWcy4mhUyJaZPgPUF",
-  "CZyJbRFByu9iQSTvGheafzb2bhVEYUyg5sCmg8npump",
-  "2Z9UGHFZmKRwaYJ8r2ECn4uP6yey4H243Hszvt2Xpump",
-  "BBvEReZCqRHJyUndgCKdbLSPJjcV9kJS2vNoKN8kpump",
-  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty",
-  {
-   "mint": "B9bVAePSKrgvediH1tRVfwcjVQSNRcR7djb1MQVGpump",
-   "symbol": "I",
-   "reason": "bundler 32.9% > 20% (early)",
-   "ts": 1795136151
+  "mints": [
+    "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
+    "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
+    "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump",
+    "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump",
+    "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump",
+    "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump",
+    "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump",
+    "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK",
+    "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump",
+    "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
+    "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump",
+    "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump",
+    "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump",
+    "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump",
+    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
+    "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+    "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump",
+    "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump",
+    "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump",
+    "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
+    "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump",
+    "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump",
+    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump",
+    "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
+    "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump",
+    "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump",
+    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
+    "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR",
+    "5RUAeBFcNWahBFySPe5S5xzrMfMbtzccn7L4JrBQpump",
+    "4bw37fkQiemULZc26NViejQgzMEVteUX5J9noJBZpump",
+    "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv",
+    "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump",
+    "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump",
+    "5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump",
+    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
+    "D6REawj58gC8K6rVHR5YRTtFRQU7roKXpJFwt9g7Q9C2",
+    "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump",
+    "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump",
+    "8CnvwZJLRpQazvn6LszkzmXJxkmMY2bTQ4Q3NN4fpump",
+    "3ZB6QJDfLUZYd9isGYDkgD7G4ZyUshviXJ3gBTrtv4gv",
+    "H4Q82gdf1krw7SCnL35zqKaMZJHAZvkTCZfQ5Lfwpump",
+    "5ZKJ2t595atofHFCEAbQ6AuJAzEK5ZSTrHQZtRRgpump",
+    "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump",
+    "CLXMtWj5ydkU2hJDjHMNC8t281xTdZ7gddK31C2fpump",
+    "7YXw3eeK1xbwtSyUAg3B98jL3RsTPXNrb7n8oygppump",
+    "35UgYCMLUFLcZbrs4xzxEujRPA1bWcy4mhUyJaZPgPUF",
+    "CZyJbRFByu9iQSTvGheafzb2bhVEYUyg5sCmg8npump",
+    "2Z9UGHFZmKRwaYJ8r2ECn4uP6yey4H243Hszvt2Xpump",
+    "BBvEReZCqRHJyUndgCKdbLSPJjcV9kJS2vNoKN8kpump",
+    "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty",
+    {
+      "mint": "B9bVAePSKrgvediH1tRVfwcjVQSNRcR7djb1MQVGpump",
+      "symbol": "I",
+      "reason": "bundler 32.9% > 20% (early)",
+      "ts": 1795136151
+    },
+    "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump",
+    {
+      "mint": "Acm35USivzoEDMvTcSA7aTpzHiWAso1aayfCm9mmpump",
+      "symbol": "GTAVI",
+      "reason": "GMGN bundler 34.9% > 20% (early)",
+      "ts": "2026-11-20T09:10+08:00"
+    },
+    {
+      "mint": "92SbArahghsp41mkzjjd7Vi3JAhXYFZzG5pe4YKopump",
+      "symbol": "\\nu",
+      "reason": "GMGN bundler 38.1% > 20%",
+      "at": "2026-11-20 09:22 Taipei"
+    },
+    "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump",
+    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+    "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+    "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump"
+  ],
+  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
+  "reasons": {
+    "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": "FOOD: serial dev (1,151 launches) + bundler 33.7-39.3% (>30% cap) on repeated GMGN checks 2026-11-13/14; rejected 2026-11-15 07:08 Taipei by gmgn-4",
+    "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": "bill: tax 1.1% (>1%), DEV Scan 45/100 avoid (2/2 coins dumped at open, creator still holds), phishing 21.9%; rejected 2026-11-15 12:45 Taipei by gmgn-4",
+    "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": "WANTED: DEV Scan 60/100 mixed with self-snipe 1/1 flag, ~2.8h old after +3386% 6h pump; rejected 2026-11-15 12:45 Taipei by gmgn-4",
+    "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump": "Huang (Jensen Huang): tax 1.25%/1.25% (>1%), DEV Scan 'Blacklist funding wallet' + Giga 32/100 avoid (pool drain, 75% self-snipe), serial dev 1,944 tokens; GMGN MC ~$30K/liq $12.9K vs DexScreener $1.37M/$358K mismatch; rejected 2026-11-15 13:00 Taipei by gmgn-4",
+    "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": "AURA (Lord Aura): GMGN phishing 47.2% (>30% cap), honeypot/sellability not shown; rejected 2026-11-15 19:30 Taipei by gmgn-4",
+    "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump": "GETAJOB: GMGN DEV Scan 45/100 'avoid' (dev sold 9s after launch, opening dump on prior coin); rejected 2026-11-15 19:45 Taipei by gmgn-4",
+    "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump": "UM (Useless Market): rugged 2026-11-15 ~21:38 Taipei; DexScreener PumpSwap pool 4ECkS25g... MC $1.43M -> $2.6K, liq $1.03M -> $2.5K, m5 -99.8%. Prefilter snapshot was stale.",
+    "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": "gtacoin 2026-11-15 21:53 Taipei: main pool is Raydium CPMM gtacoin/TTWO (tokenized stock, not SOL); LP not burned (LP mint supply 74.53 = pool lp_supply, rugcheck lpLocked ~24%); fails R LP-burn-100% rule; also quote TTWO mint has freeze authority, permanent delegate, pausable and transfer-hook authority (issuer can freeze/seize pool liquidity)",
+    "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump": "SWJ (Stand With Jensen, relaunch of the name rugged 2026-11-14): GMGN DEV Scan 38.7/100 'avoid' (dev dumped 100% at open, sold 8s after open, 100% self-snipe); on-chain otherwise clean (LP 100% burnt, tax 0.95%, top10 4.7%, bundler 0.4%); rejected 2026-11-16 02:20 Taipei by gmgn-4",
+    "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": "rockstar: serial dev (12 launches, only 1 still tradeable), 100% self-snipe, bundler 14.3% + phishing 12.8%, GMGN honeypot/sellability not shown; DEV Scan 99.7 buyable, LP 100% burnt, tax 0.55%; rejected 2026-11-16 02:55 Taipei by gmgn-4",
+    "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": "Emojis 2026-11-16 06:37: main PumpSwap pool paired with LMAO! token not SOL; LP locked 94.2% not 100%; single holder 50.7%",
+    "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": "BJB (Bring Jensen Back): GMGN bundler 40.1% (>30% cap), snipers 39.9%, honeypot/sellability not shown, dev self-snipe 1/1 + sold 54s after open (Giga 59.7 mixed); LP 100% burnt, tax 0.9%; rejected 2026-11-16 07:30 Taipei by gmgn-4",
+    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": "HOGE 2026-11-16 09:55 Taipei: main PumpSwap pool 7CNC9g... paired with USDC not SOL; SOL pools are Meteora DLMM with 0% LP burned (largest ~$15K); rugcheck 37 insiders detected; h6 +3640%",
+    "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": "BAWSAQ (The Vice City Bawsaq): GMGN DEV Scan 42.3/100 avoid (dev open-dumped on all 3 launches, fastest 9s), honeypot not shown; rejected 2026-11-16 10:40 Taipei by gmgn-4",
+    "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": "chudhaos: main PumpSwap pool 5UsJJX… (liq ~$55K) paired with 'mihao' token, not SOL; only SOL-side market is Meteora DAMM v2 with ~$86 liq and 0% LP locked; rugcheck 25 insiders; rejected 2026-11-16 13:22 Taipei by gmgn-4 (no browser)",
+    "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": "Marvin: main PumpSwap pool 5dEBrz... (liq ~$78K, LP 100%) paired with SPCX token, not SOL; SOL pools are Meteora with 0% LP locked (largest ~$42K); h6 +1476%; rejected without browser 2026-11-16 14:07 Taipei by gmgn-4",
+    "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... — DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4",
+    "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": "GTA (Grand Theft Anthropic) 2026-11-17 05:00 Taipei: GMGN DEV Scan funding wallet ABNL...muyf flagged 'Blacklist funding wallet'; honeypot/sellability not shown; DEV Scan score errored. Otherwise clean (LP 100% burnt, tax 0.95%, top10 6.1%, bundler/snipers/phishing 0%); rejected by gmgn-4",
+    "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump": "HOLDMAS: GMGN 'Blacklist funding wallet' flag, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
+    "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump": "WORLDCRAFT: GMGN 'Blacklist funding wallet' flag, honeypot not shown, tax 1.2%; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
+    "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump": "scat: GMGN 'Blacklist funding wallet' flag, bundler 35.8%, serial dev 6,741 launches, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
+    "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump": "2026-11-17 06:30 BAWSAQ (Vice City Bawsaq relaunch): GMGN dev funding wallet 4Mwy..n2hA flagged Blacklist funding wallet; honeypot not shown; dev has 4 dead prior tokens",
+    "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump": "JENSEN 2026-11-17 06:30 gmgn-early: GMGN bundler 48.5%, top10 36.5%, honeypot not shown",
+    "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump": "Debu 2026-11-17 06:30 gmgn-early: GMGN dev Blacklist funding wallet, bundler 27.8%, honeypot not shown",
+    "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": "BAWSAQ relaunch #3 2026-11-17 08:10 Taipei: GMGN Blacklist dev + Blacklist funding wallet, honeypot not shown, bundler 32.6%, phishing 22.1%, dev 13 pairs 12 non-migrated",
+    "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR": "SpaceXJak 2026-11-17 10:03 Taipei: rugged - main PumpSwap pool -97% h1, liq $0, MC $726; $64K MC only from dust Meteora pool (liq $0.23)",
+    "5RUAeBFcNWahBFySPe5S5xzrMfMbtzccn7L4JrBQpump": "JENSEN early 2026-11-17 11:45: bundler 37.1%, honeypot not shown",
+    "4bw37fkQiemULZc26NViejQgzMEVteUX5J9noJBZpump": "JENSEN early 2026-11-17 11:45: bundler 40.9%, honeypot not shown",
+    "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": "bul 2026-11-17 13:55 TPE: GMGN phishing 29.6% + bundler 19.9% (both at cap), +1252% 6h, dev scan unread",
+    "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump": "GTAVI: GMGN phishing 39.2% (>30% cap) 2026-11-17 19:25 Taipei",
+    "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump": "GTAVI: GMGN 2026-11-18 10:25 Taipei: bundler 55.2%, top10 35.45%, snipers 55%",
+    "5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump": "KATIA: serial dev (25 launches on GMGN DEV Token tab), dev rule fail; tax 0.9%, top10 21.3%, bundler 0.1%, phishing 0% - rejected 2026-11-18 11:25 Taipei by gmgn-4",
+    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": "Leonida: GMGN DEV Scan 42.8/100 avoid, opening-dump 100% (dev sold 17s after open); tax 1%, top10 16.6%, bundler 1.5%, phishing 0% - rejected 2026-11-18 11:25 Taipei by gmgn-4",
+    "D6REawj58gC8K6rVHR5YRTtFRQU7roKXpJFwt9g7Q9C2": "Elmo early: serial dev (7874 launches, DEV Scan 43.1 avoid, 38% open-dump) 2026-11-18",
+    "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": "GETAJOB: DEV Scan 45/100 avoid (100% open-dump, dev self-snipe) 2026-11-18 16:25 Taipei",
+    "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump": "DUMBGTA6: GMGN tax 1.2%>1%, dev self-snipe 100%",
+    "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty": "AUDACITY 2026-11-20 07:37 Taipei: GMGN Blacklist funding wallet (dev funder BmFd...ymy6)",
+    "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump": {
+      "symbol": "INU",
+      "reason": "gmgn-4 early check 2026-11-20 09:02 Taipei: GMGN bundler 31.9% > 20%"
+    },
+    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": "mihao: GMGN bundler 53.6% >20% (smart-money wake 2026-11-21 04:45 Taipei)",
+    "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": "CLAUDIA: dev serial launcher ~189K launches, 1.1% migrated, mostly dead; bundler 19.9% (2026-11-21)",
+    "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump": "Tokabu: dev serial launcher 72 launches, 5 migrated, mostly dead (2026-11-21)"
   },
-  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump",
-  {
-   "mint": "Acm35USivzoEDMvTcSA7aTpzHiWAso1aayfCm9mmpump",
-   "symbol": "GTAVI",
-   "reason": "GMGN bundler 34.9% > 20% (early)",
-   "ts": "2026-11-20T09:10+08:00"
+  "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump": {
+    "name": "SHARE",
+    "reason": "gmgn-early 2026-11-17 09:08 Taipei: Blacklist dev + Blacklist funding wallet, bundler ~40%, honeypot not shown"
   },
-  {
-   "mint": "92SbArahghsp41mkzjjd7Vi3JAhXYFZzG5pe4YKopump",
-   "symbol": "\\nu",
-   "reason": "GMGN bundler 38.1% > 20%",
-   "at": "2026-11-20 09:22 Taipei"
+  "Fr1ZS7SVvBqPRzyMprD4BYAwa5wT8BPkUQQmXs3bJX8s": {
+    "name": "NEX Ai",
+    "reason": "gmgn-early 2026-11-17 10:28 Taipei: pumpswap pool liquidity ~$0.02 (rugcheck totalMarketLiquidity, DexScreener liq 0) -> effectively unsellable; Token-2022 non-pump mint"
   },
-  "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump"
- ],
- "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
- "reasons": {
-  "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": "FOOD: serial dev (1,151 launches) + bundler 33.7-39.3% (>30% cap) on repeated GMGN checks 2026-11-13/14; rejected 2026-11-15 07:08 Taipei by gmgn-4",
-  "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": "bill: tax 1.1% (>1%), DEV Scan 45/100 avoid (2/2 coins dumped at open, creator still holds), phishing 21.9%; rejected 2026-11-15 12:45 Taipei by gmgn-4",
-  "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": "WANTED: DEV Scan 60/100 mixed with self-snipe 1/1 flag, ~2.8h old after +3386% 6h pump; rejected 2026-11-15 12:45 Taipei by gmgn-4",
-  "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump": "Huang (Jensen Huang): tax 1.25%/1.25% (>1%), DEV Scan 'Blacklist funding wallet' + Giga 32/100 avoid (pool drain, 75% self-snipe), serial dev 1,944 tokens; GMGN MC ~$30K/liq $12.9K vs DexScreener $1.37M/$358K mismatch; rejected 2026-11-15 13:00 Taipei by gmgn-4",
-  "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": "AURA (Lord Aura): GMGN phishing 47.2% (>30% cap), honeypot/sellability not shown; rejected 2026-11-15 19:30 Taipei by gmgn-4",
-  "ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump": "GETAJOB: GMGN DEV Scan 45/100 'avoid' (dev sold 9s after launch, opening dump on prior coin); rejected 2026-11-15 19:45 Taipei by gmgn-4",
-  "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump": "UM (Useless Market): rugged 2026-11-15 ~21:38 Taipei; DexScreener PumpSwap pool 4ECkS25g... MC $1.43M -> $2.6K, liq $1.03M -> $2.5K, m5 -99.8%. Prefilter snapshot was stale.",
-  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": "gtacoin 2026-11-15 21:53 Taipei: main pool is Raydium CPMM gtacoin/TTWO (tokenized stock, not SOL); LP not burned (LP mint supply 74.53 = pool lp_supply, rugcheck lpLocked ~24%); fails R LP-burn-100% rule; also quote TTWO mint has freeze authority, permanent delegate, pausable and transfer-hook authority (issuer can freeze/seize pool liquidity)",
-  "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump": "SWJ (Stand With Jensen, relaunch of the name rugged 2026-11-14): GMGN DEV Scan 38.7/100 'avoid' (dev dumped 100% at open, sold 8s after open, 100% self-snipe); on-chain otherwise clean (LP 100% burnt, tax 0.95%, top10 4.7%, bundler 0.4%); rejected 2026-11-16 02:20 Taipei by gmgn-4",
-  "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": "rockstar: serial dev (12 launches, only 1 still tradeable), 100% self-snipe, bundler 14.3% + phishing 12.8%, GMGN honeypot/sellability not shown; DEV Scan 99.7 buyable, LP 100% burnt, tax 0.55%; rejected 2026-11-16 02:55 Taipei by gmgn-4",
-  "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": "Emojis 2026-11-16 06:37: main PumpSwap pool paired with LMAO! token not SOL; LP locked 94.2% not 100%; single holder 50.7%",
-  "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": "BJB (Bring Jensen Back): GMGN bundler 40.1% (>30% cap), snipers 39.9%, honeypot/sellability not shown, dev self-snipe 1/1 + sold 54s after open (Giga 59.7 mixed); LP 100% burnt, tax 0.9%; rejected 2026-11-16 07:30 Taipei by gmgn-4",
-  "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": "HOGE 2026-11-16 09:55 Taipei: main PumpSwap pool 7CNC9g... paired with USDC not SOL; SOL pools are Meteora DLMM with 0% LP burned (largest ~$15K); rugcheck 37 insiders detected; h6 +3640%",
-  "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": "BAWSAQ (The Vice City Bawsaq): GMGN DEV Scan 42.3/100 avoid (dev open-dumped on all 3 launches, fastest 9s), honeypot not shown; rejected 2026-11-16 10:40 Taipei by gmgn-4",
-  "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump": "chudhaos: main PumpSwap pool 5UsJJX\u2026 (liq ~$55K) paired with 'mihao' token, not SOL; only SOL-side market is Meteora DAMM v2 with ~$86 liq and 0% LP locked; rugcheck 25 insiders; rejected 2026-11-16 13:22 Taipei by gmgn-4 (no browser)",
-  "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": "Marvin: main PumpSwap pool 5dEBrz... (liq ~$78K, LP 100%) paired with SPCX token, not SOL; SOL pools are Meteora with 0% LP locked (largest ~$42K); h6 +1476%; rejected without browser 2026-11-16 14:07 Taipei by gmgn-4",
-  "Ed87eQeDX8yFscuNRgNRSZf7TpEwgNjdRfMxhtGppump": "JAG (JAGTHEDOG) 2026-11-16 16:10 Taipei: fake/manipulated PumpSwap pool BBDjF2... \u2014 DexScreener shows liq $4.02M / MC $28.4M on a 5.3h token but 24h volume only $813, h6 +18,978,340%; rugcheck real liquidity $11.25 (danger), top10 >50%; rejected without browser by gmgn-4",
-  "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": "GTA (Grand Theft Anthropic) 2026-11-17 05:00 Taipei: GMGN DEV Scan funding wallet ABNL...muyf flagged 'Blacklist funding wallet'; honeypot/sellability not shown; DEV Scan score errored. Otherwise clean (LP 100% burnt, tax 0.95%, top10 6.1%, bundler/snipers/phishing 0%); rejected by gmgn-4",
-  "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump": "HOLDMAS: GMGN 'Blacklist funding wallet' flag, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
-  "6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump": "WORLDCRAFT: GMGN 'Blacklist funding wallet' flag, honeypot not shown, tax 1.2%; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
-  "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump": "scat: GMGN 'Blacklist funding wallet' flag, bundler 35.8%, serial dev 6,741 launches, honeypot not shown; rejected 2026-11-17 05:40 Taipei by gmgn-4 (early)",
-  "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump": "2026-11-17 06:30 BAWSAQ (Vice City Bawsaq relaunch): GMGN dev funding wallet 4Mwy..n2hA flagged Blacklist funding wallet; honeypot not shown; dev has 4 dead prior tokens",
-  "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump": "JENSEN 2026-11-17 06:30 gmgn-early: GMGN bundler 48.5%, top10 36.5%, honeypot not shown",
-  "D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump": "Debu 2026-11-17 06:30 gmgn-early: GMGN dev Blacklist funding wallet, bundler 27.8%, honeypot not shown",
-  "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": "BAWSAQ relaunch #3 2026-11-17 08:10 Taipei: GMGN Blacklist dev + Blacklist funding wallet, honeypot not shown, bundler 32.6%, phishing 22.1%, dev 13 pairs 12 non-migrated",
-  "839ofmwVbRxDmw5Bj5sSF4JaWMWtMmU4kUqCR6HRFfPR": "SpaceXJak 2026-11-17 10:03 Taipei: rugged - main PumpSwap pool -97% h1, liq $0, MC $726; $64K MC only from dust Meteora pool (liq $0.23)",
-  "5RUAeBFcNWahBFySPe5S5xzrMfMbtzccn7L4JrBQpump": "JENSEN early 2026-11-17 11:45: bundler 37.1%, honeypot not shown",
-  "4bw37fkQiemULZc26NViejQgzMEVteUX5J9noJBZpump": "JENSEN early 2026-11-17 11:45: bundler 40.9%, honeypot not shown",
-  "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": "bul 2026-11-17 13:55 TPE: GMGN phishing 29.6% + bundler 19.9% (both at cap), +1252% 6h, dev scan unread",
-  "D7ZkNHN3ESProTmshXRjAgiNjQU7SkUcXHpe13qCpump": "GTAVI: GMGN phishing 39.2% (>30% cap) 2026-11-17 19:25 Taipei",
-  "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump": "GTAVI: GMGN 2026-11-18 10:25 Taipei: bundler 55.2%, top10 35.45%, snipers 55%",
-  "5xhuX8VK8k8wGDdfFniWUzUQUSHjzKARosCGtEZypump": "KATIA: serial dev (25 launches on GMGN DEV Token tab), dev rule fail; tax 0.9%, top10 21.3%, bundler 0.1%, phishing 0% - rejected 2026-11-18 11:25 Taipei by gmgn-4",
-  "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": "Leonida: GMGN DEV Scan 42.8/100 avoid, opening-dump 100% (dev sold 17s after open); tax 1%, top10 16.6%, bundler 1.5%, phishing 0% - rejected 2026-11-18 11:25 Taipei by gmgn-4",
-  "D6REawj58gC8K6rVHR5YRTtFRQU7roKXpJFwt9g7Q9C2": "Elmo early: serial dev (7874 launches, DEV Scan 43.1 avoid, 38% open-dump) 2026-11-18",
-  "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": "GETAJOB: DEV Scan 45/100 avoid (100% open-dump, dev self-snipe) 2026-11-18 16:25 Taipei",
-  "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump": "DUMBGTA6: GMGN tax 1.2%>1%, dev self-snipe 100%",
-  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty": "AUDACITY 2026-11-20 07:37 Taipei: GMGN Blacklist funding wallet (dev funder BmFd...ymy6)",
-  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump": {
-   "symbol": "INU",
-   "reason": "gmgn-4 early check 2026-11-20 09:02 Taipei: GMGN bundler 31.9% > 20%"
+  "9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump": {
+    "name": "WANTED",
+    "reason": "gmgn-4 2026-11-17 18:53 Taipei: GMGN phishing 47.3% (>30%); bundler 10.8%, top10 22%, tax 1/1, burnt 100%"
+  },
+  "6FG9c2H5hFTJV3uKbCeSTM7WEk6XTe961d5CwWQ6pump": {
+    "name": "JENSEN",
+    "reason": "gmgn-4 early 2026-11-18 11:23 Taipei: top10 34.2% ex-LP (rugcheck) >30%"
+  },
+  "G6LSCRtbVVuhPG2AS8YaWrrt9HMyt77XjNVZo6y3pump": {
+    "name": "GTAVI",
+    "reason": "gmgn-4 early 2026-11-18 11:23 Taipei: top10 44.2% ex-LP (rugcheck) >30%"
+  },
+  "7KBFymfGAe8MmKEuNersoM59TvpiHzZ76jP7rSLrpump": {
+    "name": "GTA",
+    "reason": "gmgn-4 2026-11-18 13:07 Taipei: bundle cluster - 10 non-LP wallets each hold ~3.1% (top10 ex-LP ~31%, rugcheck), likely bundler >20%"
+  },
+  "VAYMVikuYQpWz5sXCeCsQDeho2QcGqDSNq9rhCspump": {
+    "name": "JESTER",
+    "reason": "gmgn-4 2026-11-18 22:25 Taipei: GMGN DEV Scan 45/100 avoid, 100% open-dump & self-snipe; same dev (4qpN...ft5U) as GETAJOB"
+  },
+  "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": {
+    "name": "GETAJOB",
+    "reason": "gmgn-4 2026-11-18 16:25 Taipei: GMGN DEV Scan 45/100 avoid, 100% open-dump, dev self-sniped (re-added 22:25)"
+  },
+  "DngzJTHeVRD7JftRLQFCcdW9UvKL1n9hhyoc8ojEpump": {
+    "name": "VTC",
+    "reason": "gmgn-4 2026-11-19 01:40 Taipei: rugcheck High holder correlation (top holders evenly ~0.04pct), h6 -96pct / h24 -82pct crash"
+  },
+  "GgyKtbWS99pzkvqaG7wvxdKCbRxuLDLRDm4TtfDdpump": {
+    "name": "DCTY",
+    "reason": "gmgn-4 2026-11-19 01:40 Taipei: copycat DacityCoin (same-name DCTY at 143M USD exists), CTO, serial dev (25 tokens), phishing 9.7pct, bundler 18.4pct, rugcheck 21 insider graph wallets, +8447pct 6h"
+  },
+  "79rE2ac8JhN3U12QLhymgDmCTiwBN1d4maTcK1fhpump": {
+    "name": "Apocrycoin",
+    "reason": "gmgn-4 2026-11-19 02:08 Taipei: main PumpSwap pool quoted in TTWO tokenized stock (not SOL), SOL pools only ~7.4K USD liq with unlocked LP, rugcheck 27 insider graph wallets, +1305pct 6h"
+  },
+  "92m4S52bu3dZyqzPmPStu8Krz6JcpzHdsG4D5QBqpump": {
+    "name": "GTA Strategy",
+    "reason": "tax 1.2%>1%, dev open-dump 50% prior rug",
+    "ts": "2026-11-19T11:10+08:00"
+  },
+  "FmULsKg91Cde4AQt5VrkbFbPaksJDucJnhsH23qK3Khz": {
+    "name": "BRR",
+    "reason": "pool liquidity drained to $0.01 (quote 0.000035 SOL), unsellable",
+    "ts": "2026-11-19"
+  },
+  "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": "SI: main pools quoted in ANTHROPIC token, SOL pool liq only $141 (2026-11-19)",
+  "HUwPBFx3nzvxHXK3Ufsj2iYgVuoR8eDUVers7yG5pump": {
+    "symbol": "CATMARIO",
+    "reason": "bundler 31.6%"
+  },
+  "FteyJYtgqwRd7S3aFLiLTdjnpWquDH3TcZ2zqTmG4jMF": {
+    "symbol": "Cowboy Cat",
+    "reason": "LP pulled, liq 0, -99.75%"
+  },
+  "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump": {
+    "symbol": "AI",
+    "reason": "GMGN early check 2026-11-20 07:17 Taipei: Blacklist funding wallet, bundler ~35%, top10 ~36%"
+  },
+  "GQngHP8P6s45MxWnU7JsocfV2HjPQdJZmCEAYKpBpump": {
+    "symbol": "MANDY",
+    "reason": "GMGN candidates check 2026-11-20 07:55 Taipei: bundler 38.7%, snipers 38.7% (cap 30%)"
+  },
+  "2aJqNb5T5HzUfw8Q9aJwPziKqbzDfbabGk9y8kNFTNH5": {
+    "symbol": "MORALS",
+    "reason": "gmgn-4 early check 2026-11-20 08:07 Taipei: LP pulled / rug (DexScreener pumpswap liq --, price -99.98% m5; rugcheck Low Liquidity --)"
+  },
+  "HeXj4G4Ar5sPDNuJ6Y6XfqTCcYC2UPU1VP8MMgDgpump": {
+    "symbol": "LUCIFROG",
+    "reason": "gmgn-4 early check 2026-11-20 08:35 Taipei: GMGN Blacklist funding wallet (funder KdF..Sdws)"
   }
- },
- "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump": {
-  "name": "SHARE",
-  "reason": "gmgn-early 2026-11-17 09:08 Taipei: Blacklist dev + Blacklist funding wallet, bundler ~40%, honeypot not shown"
- },
- "Fr1ZS7SVvBqPRzyMprD4BYAwa5wT8BPkUQQmXs3bJX8s": {
-  "name": "NEX Ai",
-  "reason": "gmgn-early 2026-11-17 10:28 Taipei: pumpswap pool liquidity ~$0.02 (rugcheck totalMarketLiquidity, DexScreener liq 0) -> effectively unsellable; Token-2022 non-pump mint"
- },
- "9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump": {
-  "name": "WANTED",
-  "reason": "gmgn-4 2026-11-17 18:53 Taipei: GMGN phishing 47.3% (>30%); bundler 10.8%, top10 22%, tax 1/1, burnt 100%"
- },
- "6FG9c2H5hFTJV3uKbCeSTM7WEk6XTe961d5CwWQ6pump": {
-  "name": "JENSEN",
-  "reason": "gmgn-4 early 2026-11-18 11:23 Taipei: top10 34.2% ex-LP (rugcheck) >30%"
- },
- "G6LSCRtbVVuhPG2AS8YaWrrt9HMyt77XjNVZo6y3pump": {
-  "name": "GTAVI",
-  "reason": "gmgn-4 early 2026-11-18 11:23 Taipei: top10 44.2% ex-LP (rugcheck) >30%"
- },
- "7KBFymfGAe8MmKEuNersoM59TvpiHzZ76jP7rSLrpump": {
-  "name": "GTA",
-  "reason": "gmgn-4 2026-11-18 13:07 Taipei: bundle cluster - 10 non-LP wallets each hold ~3.1% (top10 ex-LP ~31%, rugcheck), likely bundler >20%"
- },
- "VAYMVikuYQpWz5sXCeCsQDeho2QcGqDSNq9rhCspump": {
-  "name": "JESTER",
-  "reason": "gmgn-4 2026-11-18 22:25 Taipei: GMGN DEV Scan 45/100 avoid, 100% open-dump & self-snipe; same dev (4qpN...ft5U) as GETAJOB"
- },
- "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": {
-  "name": "GETAJOB",
-  "reason": "gmgn-4 2026-11-18 16:25 Taipei: GMGN DEV Scan 45/100 avoid, 100% open-dump, dev self-sniped (re-added 22:25)"
- },
- "DngzJTHeVRD7JftRLQFCcdW9UvKL1n9hhyoc8ojEpump": {
-  "name": "VTC",
-  "reason": "gmgn-4 2026-11-19 01:40 Taipei: rugcheck High holder correlation (top holders evenly ~0.04pct), h6 -96pct / h24 -82pct crash"
- },
- "GgyKtbWS99pzkvqaG7wvxdKCbRxuLDLRDm4TtfDdpump": {
-  "name": "DCTY",
-  "reason": "gmgn-4 2026-11-19 01:40 Taipei: copycat DacityCoin (same-name DCTY at 143M USD exists), CTO, serial dev (25 tokens), phishing 9.7pct, bundler 18.4pct, rugcheck 21 insider graph wallets, +8447pct 6h"
- },
- "79rE2ac8JhN3U12QLhymgDmCTiwBN1d4maTcK1fhpump": {
-  "name": "Apocrycoin",
-  "reason": "gmgn-4 2026-11-19 02:08 Taipei: main PumpSwap pool quoted in TTWO tokenized stock (not SOL), SOL pools only ~7.4K USD liq with unlocked LP, rugcheck 27 insider graph wallets, +1305pct 6h"
- },
- "92m4S52bu3dZyqzPmPStu8Krz6JcpzHdsG4D5QBqpump": {
-  "name": "GTA Strategy",
-  "reason": "tax 1.2%>1%, dev open-dump 50% prior rug",
-  "ts": "2026-11-19T11:10+08:00"
- },
- "FmULsKg91Cde4AQt5VrkbFbPaksJDucJnhsH23qK3Khz": {
-  "name": "BRR",
-  "reason": "pool liquidity drained to $0.01 (quote 0.000035 SOL), unsellable",
-  "ts": "2026-11-19"
- },
- "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump": "SI: main pools quoted in ANTHROPIC token, SOL pool liq only $141 (2026-11-19)",
- "HUwPBFx3nzvxHXK3Ufsj2iYgVuoR8eDUVers7yG5pump": {
-  "symbol": "CATMARIO",
-  "reason": "bundler 31.6%"
- },
- "FteyJYtgqwRd7S3aFLiLTdjnpWquDH3TcZ2zqTmG4jMF": {
-  "symbol": "Cowboy Cat",
-  "reason": "LP pulled, liq 0, -99.75%"
- },
- "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump": {
-  "symbol": "AI",
-  "reason": "GMGN early check 2026-11-20 07:17 Taipei: Blacklist funding wallet, bundler ~35%, top10 ~36%"
- },
- "GQngHP8P6s45MxWnU7JsocfV2HjPQdJZmCEAYKpBpump": {
-  "symbol": "MANDY",
-  "reason": "GMGN candidates check 2026-11-20 07:55 Taipei: bundler 38.7%, snipers 38.7% (cap 30%)"
- },
- "2aJqNb5T5HzUfw8Q9aJwPziKqbzDfbabGk9y8kNFTNH5": {
-  "symbol": "MORALS",
-  "reason": "gmgn-4 early check 2026-11-20 08:07 Taipei: LP pulled / rug (DexScreener pumpswap liq --, price -99.98% m5; rugcheck Low Liquidity --)"
- },
- "HeXj4G4Ar5sPDNuJ6Y6XfqTCcYC2UPU1VP8MMgDgpump": {
-  "symbol": "LUCIFROG",
-  "reason": "gmgn-4 early check 2026-11-20 08:35 Taipei: GMGN Blacklist funding wallet (funder KdF..Sdws)"
- }
 }
