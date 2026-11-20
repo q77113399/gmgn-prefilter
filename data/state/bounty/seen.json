@@ -1371,8 +1371,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Local notifier: desktop alert when an open task matches your capability list"
+    },
+    "basedagents:task_dq8K6Vq1s5sDUmSMQulvd": {
+      "ts": 1795191753,
+      "at": "2026-11-21T00:22:33+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 1"
     }
   },
-  "updated_at": "2026-11-20T22:37:33+0800",
+  "updated_at": "2026-11-21T00:22:33+0800",
   "version": 1
 }
