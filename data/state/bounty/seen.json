@@ -1399,8 +1399,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Lowest MMFF94s Conformer of a 21-Rotatable-Bond Achiral Foldamer"
+    },
+    "taskmarket:TSK-KSPS296F": {
+      "ts": 1795205246,
+      "at": "2026-11-21T04:07:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KSPS296F"
     }
   },
-  "updated_at": "2026-11-21T02:07:40+0800",
+  "updated_at": "2026-11-21T04:07:26+0800",
   "version": 1
 }
