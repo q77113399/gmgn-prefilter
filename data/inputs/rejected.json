@@ -56,7 +56,19 @@
    "reason": "bundler 32.9% > 20% (early)",
    "ts": 1795136151
   },
-  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump"
+  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump",
+  {
+   "mint": "Acm35USivzoEDMvTcSA7aTpzHiWAso1aayfCm9mmpump",
+   "symbol": "GTAVI",
+   "reason": "GMGN bundler 34.9% > 20% (early)",
+   "ts": "2026-11-20T09:10+08:00"
+  },
+  {
+   "mint": "92SbArahghsp41mkzjjd7Vi3JAhXYFZzG5pe4YKopump",
+   "symbol": "\\nu",
+   "reason": "GMGN bundler 38.1% > 20%",
+   "at": "2026-11-20 09:22 Taipei"
+  }
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
