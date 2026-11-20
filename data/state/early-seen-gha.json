@@ -400,6 +400,16 @@
       "woke": true,
       "woke_ts": 1795101259
     },
+    "B9bVAePSKrgvediH1tRVfwcjVQSNRcR7djb1MQVGpump": {
+      "age_min_first": 5.739,
+      "first_ts": 1795136060,
+      "mc_first": 24303,
+      "run_id": "44649525178",
+      "symbol": "I",
+      "ts": 1795136060,
+      "woke": true,
+      "woke_ts": 1795136060
+    },
     "BBvEReZCqRHJyUndgCKdbLSPJjcV9kJS2vNoKN8kpump": {
       "age_min_first": 17.03,
       "first_ts": 1795130957,
@@ -599,6 +609,16 @@
       "ts": 1795074668,
       "woke": true,
       "woke_ts": 1795074668
+    },
+    "EuiAP3LXVAu4yb4AfNZe5dtQjUTp12iH5R1V5Xi8qYL2": {
+      "age_min_first": 15.889,
+      "first_ts": 1795136060,
+      "mc_first": 12577,
+      "run_id": "44649525178",
+      "symbol": "GTA 6",
+      "ts": 1795136060,
+      "woke": true,
+      "woke_ts": 1795136060
     },
     "F6tKmax3uQA4MMqzcE2HYEyu379QjCvVSPm9woyspump": {
       "age_min_first": 22.257,
