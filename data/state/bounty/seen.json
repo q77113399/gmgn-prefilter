@@ -1427,8 +1427,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Find 15 real publications that accept guest articles on remittances, fintech or crypto payments"
+    },
+    "taskmarket:TSK-KWSDVPV8": {
+      "ts": 1795217848,
+      "at": "2026-11-21T07:37:28+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-KWSDVPV8"
     }
   },
-  "updated_at": "2026-11-21T04:22:27+0800",
+  "updated_at": "2026-11-21T07:37:28+0800",
   "version": 1
 }
