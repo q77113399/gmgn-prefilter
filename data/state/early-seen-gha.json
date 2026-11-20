@@ -640,6 +640,16 @@
       "woke": true,
       "woke_ts": 1795099157
     },
+    "DaHyHBScGfHpUCtLheqZaWwoSYRJLxyc55mJ5b4ypump": {
+      "age_min_first": 16.598,
+      "first_ts": 1795139956,
+      "mc_first": 13133,
+      "run_id": "44657517466",
+      "symbol": "ABTC",
+      "ts": 1795139956,
+      "woke": true,
+      "woke_ts": 1795139956
+    },
     "EETg7C8MU1whkVqx7gnhtx4BJHSpz3wkEbyPDoHvuHow": {
       "age_min_first": 8.177,
       "first_ts": 1795104264,
