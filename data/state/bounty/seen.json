@@ -1378,8 +1378,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Industrial Sentinel Revenue Trial 1"
+    },
+    "agent-bounty-feed:taskmarket:TSK-GV605VZY": {
+      "ts": 1795197158,
+      "at": "2026-11-21T01:52:38+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Landing page for a children's neurological rehabilitation center in Krasnoyarsk (focus: ADHD)"
     }
   },
-  "updated_at": "2026-11-21T00:22:33+0800",
+  "updated_at": "2026-11-21T01:52:38+0800",
   "version": 1
 }
