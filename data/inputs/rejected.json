@@ -165,5 +165,9 @@
  "2aJqNb5T5HzUfw8Q9aJwPziKqbzDfbabGk9y8kNFTNH5": {
   "symbol": "MORALS",
   "reason": "gmgn-4 early check 2026-11-20 08:07 Taipei: LP pulled / rug (DexScreener pumpswap liq --, price -99.98% m5; rugcheck Low Liquidity --)"
+ },
+ "HeXj4G4Ar5sPDNuJ6Y6XfqTCcYC2UPU1VP8MMgDgpump": {
+  "symbol": "LUCIFROG",
+  "reason": "gmgn-4 early check 2026-11-20 08:35 Taipei: GMGN Blacklist funding wallet (funder KdF..Sdws)"
  }
 }
