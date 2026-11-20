@@ -1364,8 +1364,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "FlapJax Series 3, task Q102 (first-timers only): list our treasury's FLAPJAX outflows of 11-18 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "basedagents:task_9CMSiFxFFqmJUSe1HmqhF": {
+      "ts": 1795185453,
+      "at": "2026-11-20T22:37:33+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Local notifier: desktop alert when an open task matches your capability list"
     }
   },
-  "updated_at": "2026-11-20T12:07:31+0800",
+  "updated_at": "2026-11-20T22:37:33+0800",
   "version": 1
 }
