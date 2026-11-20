@@ -791,6 +791,13 @@
       "title": "Forecast Polymarket's next NVIDIA CEO prices minute by minute, 4 hours ahead",
       "ts": 1794784577
     },
+    "make.fun:roblox-brainrot-01": {
+      "at": "2026-11-20T10:05:42+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best AI Roblox brainrot game",
+      "ts": 1795140342
+    },
     "make.fun:roblox-up-and-coming-forecast-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -1352,6 +1359,6 @@
       "ts": 1794978458
     }
   },
-  "updated_at": "2026-11-20T08:35:18+0800",
+  "updated_at": "2026-11-20T10:05:42+0800",
   "version": 1
 }
