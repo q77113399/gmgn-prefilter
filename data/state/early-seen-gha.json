@@ -140,6 +140,16 @@
       "woke": true,
       "woke_ts": 1795095860
     },
+    "3zEBzm5aKaxra1mj7bq3cy4KEPPhVDVrMXnn9BJz88tN": {
+      "age_min_first": 10.002,
+      "first_ts": 1795136658,
+      "mc_first": 40745,
+      "run_id": "44650805550",
+      "symbol": "CI",
+      "ts": 1795136658,
+      "woke": true,
+      "woke_ts": 1795136658
+    },
     "45cR4ZNPem6hhUjVHxC9Vjrb36XTVecS2z5VRFNtCkE9": {
       "age_min_first": 33.044,
       "first_ts": 1795113271,
@@ -159,6 +169,16 @@
       "ts": 1795114757,
       "woke": true,
       "woke_ts": 1795114757
+    },
+    "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump": {
+      "age_min_first": 9.236,
+      "first_ts": 1795136658,
+      "mc_first": 34036,
+      "run_id": "44650805550",
+      "symbol": "INU",
+      "ts": 1795136658,
+      "woke": true,
+      "woke_ts": 1795136658
     },
     "5JjusMavUmTWgmGann7Ykd6hPRLPL4D15pzK2M7Xpump": {
       "age_min_first": 7.095,
@@ -199,6 +219,16 @@
       "ts": 1795086866,
       "woke": true,
       "woke_ts": 1795086866
+    },
+    "5qB4paQnWcJGe9S7YiHeH8kACfcJvt5a5qCUHUSupump": {
+      "age_min_first": 8.119,
+      "first_ts": 1795136658,
+      "mc_first": 79035,
+      "run_id": "44650805550",
+      "symbol": "PEPESURVIV",
+      "ts": 1795136658,
+      "woke": true,
+      "woke_ts": 1795136658
     },
     "5qw9jTmf27tfukvqf63VWG39bp8kZanHrkgfJ4XJ7Rr6": {
       "age_min_first": 53.002,
