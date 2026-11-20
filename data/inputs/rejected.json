@@ -49,7 +49,14 @@
   "CZyJbRFByu9iQSTvGheafzb2bhVEYUyg5sCmg8npump",
   "2Z9UGHFZmKRwaYJ8r2ECn4uP6yey4H243Hszvt2Xpump",
   "BBvEReZCqRHJyUndgCKdbLSPJjcV9kJS2vNoKN8kpump",
-  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty"
+  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty",
+  {
+   "mint": "B9bVAePSKrgvediH1tRVfwcjVQSNRcR7djb1MQVGpump",
+   "symbol": "I",
+   "reason": "bundler 32.9% > 20% (early)",
+   "ts": 1795136151
+  },
+  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump"
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
  "reasons": {
@@ -89,7 +96,11 @@
   "D6REawj58gC8K6rVHR5YRTtFRQU7roKXpJFwt9g7Q9C2": "Elmo early: serial dev (7874 launches, DEV Scan 43.1 avoid, 38% open-dump) 2026-11-18",
   "AYfuRfhDGPP5DKeNNp2oVPDjrYZtZttS1FMKS3jpump": "GETAJOB: DEV Scan 45/100 avoid (100% open-dump, dev self-snipe) 2026-11-18 16:25 Taipei",
   "9riVprPN9oZCxpQeT7JHvSxxxruqAGCDCbRZw4yrpump": "DUMBGTA6: GMGN tax 1.2%>1%, dev self-snipe 100%",
-  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty": "AUDACITY 2026-11-20 07:37 Taipei: GMGN Blacklist funding wallet (dev funder BmFd...ymy6)"
+  "3LJhbS5EJwfJHU5cJ1JYk3fgmC8ajy93Kj56pTi9dcty": "AUDACITY 2026-11-20 07:37 Taipei: GMGN Blacklist funding wallet (dev funder BmFd...ymy6)",
+  "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump": {
+   "symbol": "INU",
+   "reason": "gmgn-4 early check 2026-11-20 09:02 Taipei: GMGN bundler 31.9% > 20%"
+  }
  },
  "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump": {
   "name": "SHARE",
