@@ -260,6 +260,16 @@
       "woke": true,
       "woke_ts": 1795076957
     },
+    "62m53wENiTtLd7wqr1RUWeSb8Qs6i9Zx79jR4bxzpump": {
+      "age_min_first": 6.372,
+      "first_ts": 1795138156,
+      "mc_first": 69327,
+      "run_id": "44653950907",
+      "symbol": "GIGAGTA6",
+      "ts": 1795138156,
+      "woke": true,
+      "woke_ts": 1795138156
+    },
     "68BwHRVNEUiq366BrjNXWSH7BaFhACEva3kCRb4Xpump": {
       "age_min_first": 5.058,
       "first_ts": 1795108757,
