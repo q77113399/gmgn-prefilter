@@ -161,5 +161,9 @@
  "GQngHP8P6s45MxWnU7JsocfV2HjPQdJZmCEAYKpBpump": {
   "symbol": "MANDY",
   "reason": "GMGN candidates check 2026-11-20 07:55 Taipei: bundler 38.7%, snipers 38.7% (cap 30%)"
+ },
+ "2aJqNb5T5HzUfw8Q9aJwPziKqbzDfbabGk9y8kNFTNH5": {
+  "symbol": "MORALS",
+  "reason": "gmgn-4 early check 2026-11-20 08:07 Taipei: LP pulled / rug (DexScreener pumpswap liq --, price -99.98% m5; rugcheck Low Liquidity --)"
  }
 }
