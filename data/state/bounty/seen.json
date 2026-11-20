@@ -1406,8 +1406,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-KSPS296F"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WJ1N1NGR": {
+      "ts": 1795206147,
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q103 (first-timers only): list our treasury's FLAPJAX outflows of 11-19 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KSPS296F": {
+      "ts": 1795206147,
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Improve the logo for a medical clinic (falcon, letter V, and snake)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-TMTKY605": {
+      "ts": 1795206147,
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Find 15 real publications that accept guest articles on remittances, fintech or crypto payments"
     }
   },
-  "updated_at": "2026-11-21T04:07:26+0800",
+  "updated_at": "2026-11-21T04:22:27+0800",
   "version": 1
 }
