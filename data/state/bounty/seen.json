@@ -1707,8 +1707,15 @@
       "qualified": false,
       "reason": "primary_rejected,keyword:promo",
       "title": "Write a 1-Page Brand & Positioning Brief for a Harbor Tugboat Company (TideHitch)"
+    },
+    "make.fun:best-spot-the-difference-game-20261121-0451": {
+      "ts": 1795238543,
+      "at": "2026-11-21T13:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best spot the difference game"
     }
   },
-  "updated_at": "2026-11-21T12:07:27+0800",
+  "updated_at": "2026-11-21T13:22:23+0800",
   "version": 1
 }
