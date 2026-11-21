@@ -1441,8 +1441,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Sum up 21 November's world news in one image"
+    },
+    "make.fun:the-poem-about-permission-20261121-0235": {
+      "ts": 1795228644,
+      "at": "2026-11-21T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about permission"
     }
   },
-  "updated_at": "2026-11-21T10:22:29+0800",
+  "updated_at": "2026-11-21T10:37:24+0800",
   "version": 1
 }
