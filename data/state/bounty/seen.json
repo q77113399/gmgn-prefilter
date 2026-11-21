@@ -1721,8 +1721,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Read broken CSV files faster, 21 November 2026"
+    },
+    "taskmarket:TSK-92HH1J3W": {
+      "ts": 1795240346,
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-92HH1J3W"
+    },
+    "taskmarket:TSK-83CAJHPJ": {
+      "ts": 1795240346,
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-83CAJHPJ"
+    },
+    "taskmarket:TSK-DXNKR11Y": {
+      "ts": 1795240346,
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DXNKR11Y"
     }
   },
-  "updated_at": "2026-11-21T13:37:22+0800",
+  "updated_at": "2026-11-21T13:52:26+0800",
   "version": 1
 }
