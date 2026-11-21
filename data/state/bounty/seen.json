@@ -1812,8 +1812,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best stealth game"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WH93XY8V": {
+      "ts": 1795286250,
+      "at": "2026-11-22T02:37:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Kitchen Riddles"
     }
   },
-  "updated_at": "2026-11-22T02:22:25+0800",
+  "updated_at": "2026-11-22T02:37:30+0800",
   "version": 1
 }
