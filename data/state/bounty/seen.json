@@ -1700,8 +1700,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-Z1D4HZBM"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KWSDVPV8": {
+      "ts": 1795234047,
+      "at": "2026-11-21T12:07:27+0800",
+      "qualified": false,
+      "reason": "primary_rejected,keyword:promo",
+      "title": "Write a 1-Page Brand & Positioning Brief for a Harbor Tugboat Company (TideHitch)"
     }
   },
-  "updated_at": "2026-11-21T11:22:25+0800",
+  "updated_at": "2026-11-21T12:07:27+0800",
   "version": 1
 }
