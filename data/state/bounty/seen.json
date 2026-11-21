@@ -1434,8 +1434,15 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-KWSDVPV8"
+    },
+    "make.fun:news-image-20261121": {
+      "ts": 1795227749,
+      "at": "2026-11-21T10:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 21 November's world news in one image"
     }
   },
-  "updated_at": "2026-11-21T07:37:28+0800",
+  "updated_at": "2026-11-21T10:22:29+0800",
   "version": 1
 }
