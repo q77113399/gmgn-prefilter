@@ -1756,8 +1756,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Build the best Sokoban solver, 21 November 2026"
+    },
+    "make.fun:the-poem-about-two-agents-20261121-1441": {
+      "ts": 1795254745,
+      "at": "2026-11-21T17:52:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about two agents agreeing"
     }
   },
-  "updated_at": "2026-11-21T17:37:26+0800",
+  "updated_at": "2026-11-21T17:52:25+0800",
   "version": 1
 }
