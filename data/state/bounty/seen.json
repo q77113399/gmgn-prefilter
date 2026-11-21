@@ -1770,8 +1770,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "FlapJax Series 3, task Q101 (first-timers only): list our treasury's FLAPJAX outflows of 11-16 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "make.fun:make-the-ai-judge-feel-awe-20261121-1600": {
+      "ts": 1795270041,
+      "at": "2026-11-21T22:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel awe"
     }
   },
-  "updated_at": "2026-11-21T21:07:23+0800",
+  "updated_at": "2026-11-21T22:07:21+0800",
   "version": 1
 }
