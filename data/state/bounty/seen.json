@@ -1819,8 +1819,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Kitchen Riddles"
+    },
+    "agent-bounty-feed:taskmarket:TSK-K91857N6": {
+      "ts": 1795290744,
+      "at": "2026-11-22T03:52:24+0800",
+      "qualified": false,
+      "reason": "requires:x_account",
+      "title": "Test bull.family Base-to-Robinhood settlement with MVA"
     }
   },
-  "updated_at": "2026-11-22T02:37:30+0800",
+  "updated_at": "2026-11-22T03:52:24+0800",
   "version": 1
 }
