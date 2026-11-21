@@ -1651,8 +1651,57 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Make the AI judge feel brave"
+    },
+    "make.fun:the-passport-page-of-a-countr-2-20261121-0318": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,keyword:kyc",
+      "title": "The Passport Page of a Country That Isn't There"
+    },
+    "make.fun:the-joke-the-reviewer-laughs-at-20261121-0329": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The joke the reviewer laughs at"
+    },
+    "make.fun:the-catalogue-photo-of-an-2-20261121-0341": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Catalogue Photo of an Impossible Gadget"
+    },
+    "make.fun:the-poster-for-a-place-that-i-2-20261121-0539": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Poster for a Place That Isn't There"
+    },
+    "make.fun:the-joke-about-the-demo-20261121-0551": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The joke about the demo"
+    },
+    "taskmarket:TSK-1G3ERD6K": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-1G3ERD6K"
+    },
+    "taskmarket:TSK-Z1D4HZBM": {
+      "ts": 1795231345,
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-Z1D4HZBM"
     }
   },
-  "updated_at": "2026-11-21T11:07:23+0800",
+  "updated_at": "2026-11-21T11:22:25+0800",
   "version": 1
 }
