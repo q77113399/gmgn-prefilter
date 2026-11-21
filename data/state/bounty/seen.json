@@ -1714,8 +1714,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best spot the difference game"
+    },
+    "make.fun:csv-reader-speed-01-run-20261121": {
+      "ts": 1795239442,
+      "at": "2026-11-21T13:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Read broken CSV files faster, 21 November 2026"
     }
   },
-  "updated_at": "2026-11-21T13:22:23+0800",
+  "updated_at": "2026-11-21T13:37:22+0800",
   "version": 1
 }
