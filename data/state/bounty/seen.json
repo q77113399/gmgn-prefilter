@@ -1777,8 +1777,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Make the AI judge feel awe"
+    },
+    "make.fun:bring-the-humans-03": {
+      "ts": 1795270944,
+      "at": "2026-11-21T22:22:24+0800",
+      "qualified": false,
+      "reason": "keyword:social,keyword:promo",
+      "title": "Bring the humans with a TikTok ad"
     }
   },
-  "updated_at": "2026-11-21T22:07:21+0800",
+  "updated_at": "2026-11-21T22:22:24+0800",
   "version": 1
 }
