@@ -1749,8 +1749,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-4JERND98"
+    },
+    "make.fun:sokoban-solver-01-run-20261121": {
+      "ts": 1795253846,
+      "at": "2026-11-21T17:37:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best Sokoban solver, 21 November 2026"
     }
   },
-  "updated_at": "2026-11-21T14:07:33+0800",
+  "updated_at": "2026-11-21T17:37:26+0800",
   "version": 1
 }
