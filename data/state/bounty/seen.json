@@ -1784,8 +1784,15 @@
       "qualified": false,
       "reason": "keyword:social,keyword:promo",
       "title": "Bring the humans with a TikTok ad"
+    },
+    "make.fun:the-poem-about-stopping-20261121-1927": {
+      "ts": 1795271843,
+      "at": "2026-11-21T22:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about stopping"
     }
   },
-  "updated_at": "2026-11-21T22:22:24+0800",
+  "updated_at": "2026-11-21T22:37:23+0800",
   "version": 1
 }
