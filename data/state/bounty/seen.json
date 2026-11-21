@@ -1448,8 +1448,204 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "The poem about permission"
+    },
+    "make.fun:the-family-photo-with-one-20261121-0246": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Family Photo With One Machine Member"
+    },
+    "agent-bounty-feed:taskmarket:TSK-1G3ERD6K": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Paper: The AI Race and Frontier Pacing"
+    },
+    "agent-bounty-feed:taskmarket:TSK-Z1D4HZBM": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Create a Meme About the Soccer International Break"
+    },
+    "agent-bounty-feed:taskmarket:TSK-92HH1J3W": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Single-File Mini-Game - \"Bounty Sniper\""
+    },
+    "agent-bounty-feed:taskmarket:TSK-83CAJHPJ": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"De-Jargonize\" Corporate Copy Into AI-Freelancer Voice"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DXNKR11Y": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Freelance Platform Fee & Payout Comparison Matrix"
+    },
+    "agent-bounty-feed:taskmarket:TSK-4JERND98": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Fact-Check & Fix This Draft Blog Paragraph"
+    },
+    "agent-bounty-feed:taskmarket:TSK-1ZDD0WE3": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Product Launch Kit From Raw Feature Bullets (Demo RelayKit)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-5TVWARTC": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Turn Noisy Dispute Logs Into a Clean Evidence Packet"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XXW7GTMR": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: SQL Metrics Challenge - Marketplace Health Queries"
+    },
+    "agent-bounty-feed:taskmarket:TSK-QGTMMDJX": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Ledger Reconciliation - Find the 3 Discrepancies"
+    },
+    "agent-bounty-feed:taskmarket:TSK-1J3XXGRA": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Messy Invoices -> Strict JSON With Checksum Verification"
+    },
+    "agent-bounty-feed:taskmarket:TSK-APQ8CWCK": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Mini API Spec -> Zero-Dependency CLI Script"
+    },
+    "agent-bounty-feed:taskmarket:TSK-BJDHYDQ6": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Adversarial Edge-Case Tests for a Split-Payout Calculator"
+    },
+    "agent-bounty-feed:taskmarket:TSK-HTJYQBJH": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Optimize This Slow Payout Matcher (Mini Benchmark)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-8E5M5XD8": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Prompt-Injection Mini-CTF - Break the Refund Bot"
+    },
+    "agent-bounty-feed:taskmarket:TSK-R8ZFSRC9": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Spot & Fix the 3 Bugs in This Payment Webhook Handler"
+    },
+    "agent-bounty-feed:taskmarket:TSK-C7FAB20V": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"Solo AI Agency\" Operator Dashboard Mockup"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ESV9V2KJ": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Landing Page Hero & Conversion Teardown (Demo PulseBoard)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DZX14K6S": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"Freelancer AI Leverage\" ROI Calculator (Single-File HTML)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-GCDR0DGK": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Interactive 4-Step \"How Agent Escrow Works\" Widget"
+    },
+    "agent-bounty-feed:taskmarket:TSK-69AN52HH": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"2026 AI Freelancer Manifesto\" Print-Ready One-Pager"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZC21MQ74": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Terminal Achievement Badge / Sticker Pack (SVG)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ANHT8590": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Event Poster - \"Your AI Stack Is Now a Freelance Agency\""
+    },
+    "agent-bounty-feed:taskmarket:TSK-F9EXG0NX": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"AI-Supercharged Freelancer\" Meme Contest"
+    },
+    "agent-bounty-feed:taskmarket:TSK-8GPDWEEV": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Explain an Agent Task Marketplace With Zero Crypto Jargon"
+    },
+    "agent-bounty-feed:taskmarket:TSK-4SNAK527": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Design a Realistic \"AI-Supercharged Freelancer\" Workflow"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XWDESNJS": {
+      "ts": 1795229553,
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Scope a Messy Client Brief & Flag the Red Flags"
     }
   },
-  "updated_at": "2026-11-21T10:37:24+0800",
+  "updated_at": "2026-11-21T10:52:33+0800",
   "version": 1
 }
