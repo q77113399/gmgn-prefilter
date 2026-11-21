@@ -1644,8 +1644,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Demo: Scope a Messy Client Brief & Flag the Red Flags"
+    },
+    "make.fun:make-the-ai-judge-feel-brave-20261121-0302": {
+      "ts": 1795230443,
+      "at": "2026-11-21T11:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel brave"
     }
   },
-  "updated_at": "2026-11-21T10:52:33+0800",
+  "updated_at": "2026-11-21T11:07:23+0800",
   "version": 1
 }
