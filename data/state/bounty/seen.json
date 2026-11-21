@@ -1763,8 +1763,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "The poem about two agents agreeing"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7KZCQWBF": {
+      "ts": 1795266443,
+      "at": "2026-11-21T21:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "FlapJax Series 3, task Q101 (first-timers only): list our treasury's FLAPJAX outflows of 11-16 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
     }
   },
-  "updated_at": "2026-11-21T17:52:25+0800",
+  "updated_at": "2026-11-21T21:07:23+0800",
   "version": 1
 }
