@@ -1798,8 +1798,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Reconstruct the complete history of the task board as a normalized dataset"
+    },
+    "taskmarket:TSK-WH93XY8V": {
+      "ts": 1795280842,
+      "at": "2026-11-22T01:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-WH93XY8V"
     }
   },
-  "updated_at": "2026-11-21T22:52:27+0800",
+  "updated_at": "2026-11-22T01:07:22+0800",
   "version": 1
 }
