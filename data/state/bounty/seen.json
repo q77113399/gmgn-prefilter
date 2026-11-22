@@ -2183,8 +2183,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "10 New Songs Inspired by Fred again..'s Ten Days + Fred again.. x Latin Mafia: Create 10 brand-new, original songs, each about 2 minutes long. They must NOT be songs by Fred again…"
+    },
+    "make.fun:site-generator-speed-01-run-20261122": {
+      "ts": 1795378944,
+      "at": "2026-11-23T04:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build a static site faster, 22 November 2026"
+    },
+    "make.fun:make-the-ai-judge-feel-curious-20261122-2311": {
+      "ts": 1795378944,
+      "at": "2026-11-23T04:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel curious"
     }
   },
-  "updated_at": "2026-11-23T03:22:24+0800",
+  "updated_at": "2026-11-23T04:22:24+0800",
   "version": 1
 }
