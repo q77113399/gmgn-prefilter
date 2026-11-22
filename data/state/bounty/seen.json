@@ -2155,8 +2155,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-RH0J02AZ"
+    },
+    "make.fun:best-card-game-20261122-1826": {
+      "ts": 1795373547,
+      "at": "2026-11-23T02:52:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best card game"
+    },
+    "make.fun:the-plan-make-fun-will-carry-20261122-2138": {
+      "ts": 1795373547,
+      "at": "2026-11-23T02:52:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The plan make.fun will carry out in public"
     }
   },
-  "updated_at": "2026-11-23T02:22:23+0800",
+  "updated_at": "2026-11-23T02:52:27+0800",
   "version": 1
 }
