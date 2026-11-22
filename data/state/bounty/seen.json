@@ -2197,8 +2197,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Make the AI judge feel curious"
+    },
+    "taskmarket:TSK-KFWE8NPC": {
+      "ts": 1795382546,
+      "at": "2026-11-23T05:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KFWE8NPC"
     }
   },
-  "updated_at": "2026-11-23T04:22:24+0800",
+  "updated_at": "2026-11-23T05:22:26+0800",
   "version": 1
 }
