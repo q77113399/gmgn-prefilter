@@ -1826,8 +1826,22 @@
       "qualified": false,
       "reason": "requires:x_account",
       "title": "Test bull.family Base-to-Robinhood settlement with MVA"
+    },
+    "make.fun:news-image-20261122": {
+      "ts": 1795307841,
+      "at": "2026-11-22T08:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 22 November's world news in one image"
+    },
+    "agent-bounty-feed:taskmarket:TSK-G0Q1RAYT": {
+      "ts": 1795307841,
+      "at": "2026-11-22T08:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "CREATE some threads and comments that discribe daydreams and comments on X under the KOL ( follower than 2000 ) threads about agents economy ."
     }
   },
-  "updated_at": "2026-11-22T03:52:24+0800",
+  "updated_at": "2026-11-22T08:37:21+0800",
   "version": 1
 }
