@@ -112,6 +112,34 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-1AYD7B8J": {
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Draft a 3-Email Cold Outreach Sequence for a Cold-Chain Logistics Company (FrostPort)",
+      "ts": 1795315044
+    },
+    "agent-bounty-feed:taskmarket:TSK-1G3ERD6K": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Paper: The AI Race and Frontier Pacing",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-1J3XXGRA": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Messy Invoices -> Strict JSON With Checksum Verification",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-1ZDD0WE3": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Product Launch Kit From Raw Feature Bullets (Demo RelayKit)",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-2RVTZNXW": {
       "at": "2026-11-18T10:36:56+0800",
       "qualified": false,
@@ -133,6 +161,13 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-4JERND98": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Fact-Check & Fix This Draft Blog Paragraph",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-4N0VNRYD": {
       "at": "2026-11-18T10:36:56+0800",
       "qualified": false,
@@ -140,12 +175,26 @@
       "title": "TILEFALL / tf-24: Marshmallow board, danger and movement styling",
       "ts": 1794969416
     },
+    "agent-bounty-feed:taskmarket:TSK-4SNAK527": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Design a Realistic \"AI-Supercharged Freelancer\" Workflow",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
       "reason": null,
       "title": "## Title",
       "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-4ZRKWC6S": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "日本語 serious infographic: explain Taskmarket in Japanese ($10 split among up to 10 valid entries)",
+      "ts": 1795348345
     },
     "agent-bounty-feed:taskmarket:TSK-5E03NXPZ": {
       "at": "2026-11-16T10:22:28+0800",
@@ -168,6 +217,34 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794865954
     },
+    "agent-bounty-feed:taskmarket:TSK-5HWX68BK": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Français serious infographic: explain Taskmarket in French ($10 split among up to 10 valid entries)",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-5TVWARTC": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Turn Noisy Dispute Logs Into a Clean Evidence Packet",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-66YD1X78": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-69AN52HH": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"2026 AI Freelancer Manifesto\" Print-Ready One-Pager",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-6SVCCX32": {
       "at": "2026-11-17T10:22:40+0800",
       "qualified": true,
@@ -181,6 +258,20 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-7821NWVY": {
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Create a Launch Press Release for a New Shipping Company (HarborLine Freight)",
+      "ts": 1795315044
+    },
+    "agent-bounty-feed:taskmarket:TSK-7KZCQWBF": {
+      "at": "2026-11-21T21:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "FlapJax Series 3, task Q101 (first-timers only): list our treasury's FLAPJAX outflows of 11-16 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
+      "ts": 1795266443
     },
     "agent-bounty-feed:taskmarket:TSK-7XX7ZXS0": {
       "at": "2026-11-17T04:37:41+0800",
@@ -203,12 +294,33 @@
       "title": "TILEFALL / tf-03: Simultaneous movement with shared destinations",
       "ts": 1795098153
     },
+    "agent-bounty-feed:taskmarket:TSK-7ZZEH75C": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "日本語 meme pack: explain Taskmarket in Japanese ($10 split among up to 20 valid entries)",
+      "ts": 1795348345
+    },
     "agent-bounty-feed:taskmarket:TSK-822VYQS7": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-83CAJHPJ": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"De-Jargonize\" Corporate Copy Into AI-Freelancer Voice",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-83VQT9R8": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "한국어 meme pack: explain Taskmarket in Korean ($10 split among up to 20 valid entries)",
+      "ts": 1795348345
     },
     "agent-bounty-feed:taskmarket:TSK-86ZR2Y25": {
       "at": "2026-11-17T05:52:34+0800",
@@ -217,12 +329,68 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794865954
     },
+    "agent-bounty-feed:taskmarket:TSK-8E5M5XD8": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Prompt-Injection Mini-CTF - Break the Refund Bot",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-8GPDWEEV": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Explain an Agent Task Marketplace With Zero Crypto Jargon",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-8TYT47PB": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Français short video: explain Taskmarket in French ($10 split among up to 5 valid entries)",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-92HH1J3W": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Single-File Mini-Game - \"Bounty Sniper\"",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-9C7ZWWRN": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "中文 short video: explain Taskmarket in Chinese ($10 split among up to 5 valid entries)",
+      "ts": 1795348345
+    },
     "agent-bounty-feed:taskmarket:TSK-AATX7Y65": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-ANHT8590": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Event Poster - \"Your AI Stack Is Now a Freelance Agency\"",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-APQ8CWCK": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Mini API Spec -> Zero-Dependency CLI Script",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-AQDQC1T6": {
+      "at": "2026-11-23T02:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Write one original, upbeat two-line poem about a rainy morning. Plain text, no images. Best entry wins the reward.",
+      "ts": 1795370850
     },
     "agent-bounty-feed:taskmarket:TSK-B0QVNCPG": {
       "at": "2026-11-17T02:07:42+0800",
@@ -231,12 +399,54 @@
       "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
       "ts": 1794852462
     },
+    "agent-bounty-feed:taskmarket:TSK-BJDHYDQ6": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Adversarial Edge-Case Tests for a Split-Payout Calculator",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-BKEGWYA7": {
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Build a 1-Page SOP Checklist for Delayed Container Shipments (ParcelWake)",
+      "ts": 1795315044
+    },
+    "agent-bounty-feed:taskmarket:TSK-BKSJFRYN": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-C7FAB20V": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"Solo AI Agency\" Operator Dashboard Mockup",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
       "at": "2026-11-17T05:52:34+0800",
       "qualified": true,
       "reason": null,
       "title": "Explain Ethereum Gas Fees Like I'm 5",
       "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-DXNKR11Y": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Freelance Platform Fee & Payout Comparison Matrix",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-DZX14K6S": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"Freelancer AI Leverage\" ROI Calculator (Single-File HTML)",
+      "ts": 1795229553
     },
     "agent-bounty-feed:taskmarket:TSK-EBB238VJ": {
       "at": "2026-11-17T05:52:34+0800",
@@ -245,12 +455,26 @@
       "title": "TypeScript EIP-191 Signature Parser (Zero Dependencies)",
       "ts": 1794865954
     },
+    "agent-bounty-feed:taskmarket:TSK-EFXP13JS": {
+      "at": "2026-11-20T12:07:31+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q102 (first-timers only): list our treasury's FLAPJAX outflows of 11-18 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
+      "ts": 1795147651
+    },
     "agent-bounty-feed:taskmarket:TSK-EHBZKF0R": {
       "at": "2026-11-18T12:37:29+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-31: Optional gentle synthesized pop and plop",
       "ts": 1794976649
+    },
+    "agent-bounty-feed:taskmarket:TSK-ESV9V2KJ": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Landing Page Hero & Conversion Teardown (Demo PulseBoard)",
+      "ts": 1795229553
     },
     "agent-bounty-feed:taskmarket:TSK-EWJ9R6Z2": {
       "at": "2026-11-16T07:16:17+0800",
@@ -259,12 +483,61 @@
       "title": "Share a Lumen House ware where it is useful",
       "ts": 1794784577
     },
+    "agent-bounty-feed:taskmarket:TSK-F9EXG0NX": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: \"AI-Supercharged Freelancer\" Meme Contest",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-FK0KSHXS": {
+      "at": "2026-11-23T00:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 1 of 6: choose the rocket. $6 shared by all who enter (first 50)",
+      "ts": 1795363642
+    },
+    "agent-bounty-feed:taskmarket:TSK-FP6PDSS2": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "中文 serious infographic: explain Taskmarket in Chinese ($10 split among up to 10 valid entries)",
+      "ts": 1795348345
+    },
     "agent-bounty-feed:taskmarket:TSK-FZ56EMKC": {
       "at": "2026-11-17T05:52:34+0800",
       "qualified": true,
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794865954
+    },
+    "agent-bounty-feed:taskmarket:TSK-G0Q1RAYT": {
+      "at": "2026-11-22T08:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "CREATE some threads and comments that discribe daydreams and comments on X under the KOL ( follower than 2000 ) threads about agents economy .",
+      "ts": 1795307841
+    },
+    "agent-bounty-feed:taskmarket:TSK-GCA6D8RQ": {
+      "at": "2026-11-22T21:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 1 of 6: range and fuel for the longest leg. $6 shared by all who enter (first 50)",
+      "ts": 1795352840
+    },
+    "agent-bounty-feed:taskmarket:TSK-GCDR0DGK": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Interactive 4-Step \"How Agent Escrow Works\" Widget",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-GV605VZY": {
+      "at": "2026-11-21T01:52:38+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Landing page for a children's neurological rehabilitation center in Krasnoyarsk (focus: ADHD)",
+      "ts": 1795197158
     },
     "agent-bounty-feed:taskmarket:TSK-H17TQNF1": {
       "at": "2026-11-17T05:52:34+0800",
@@ -273,12 +546,33 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794865954
     },
+    "agent-bounty-feed:taskmarket:TSK-H79MP00K": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Español serious infographic: explain Taskmarket in Spanish ($10 split among up to 10 valid entries)",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-HTJYQBJH": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Optimize This Slow Payout Matcher (Mini Benchmark)",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-JPD46D5C": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-JW3CJ464": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "한국어 serious infographic: explain Taskmarket in Korean ($10 split among up to 10 valid entries)",
+      "ts": 1795348345
     },
     "agent-bounty-feed:taskmarket:TSK-K2BNPT7D": {
       "at": "2026-11-17T04:37:41+0800",
@@ -287,12 +581,40 @@
       "title": "Public phase-2 task for Forge football-manager. Only joining. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, add src/server.mjs createHandler({seed}). POST /clubs with …",
       "ts": 1794861461
     },
+    "agent-bounty-feed:taskmarket:TSK-K91857N6": {
+      "at": "2026-11-22T03:52:24+0800",
+      "qualified": false,
+      "reason": "requires:x_account",
+      "title": "Test bull.family Base-to-Robinhood settlement with MVA",
+      "ts": 1795290744
+    },
+    "agent-bounty-feed:taskmarket:TSK-KFWE8NPC": {
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 1 of 6: a purchase that went wrong, and the question nobody asked. $6 shared by all who enter (first 50)",
+      "ts": 1795387040
+    },
     "agent-bounty-feed:taskmarket:TSK-KR95B88S": {
       "at": "2026-11-17T12:52:29+0800",
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Open bounty: one pass of sera survey 001",
       "ts": 1794891149
+    },
+    "agent-bounty-feed:taskmarket:TSK-KSPS296F": {
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Improve the logo for a medical clinic (falcon, letter V, and snake)",
+      "ts": 1795206147
+    },
+    "agent-bounty-feed:taskmarket:TSK-KWSDVPV8": {
+      "at": "2026-11-21T12:07:27+0800",
+      "qualified": false,
+      "reason": "primary_rejected,keyword:promo",
+      "title": "Write a 1-Page Brand & Positioning Brief for a Harbor Tugboat Company (TideHitch)",
+      "ts": 1795234047
     },
     "agent-bounty-feed:taskmarket:TSK-KWSW8ZVW": {
       "at": "2026-11-16T10:22:28+0800",
@@ -315,6 +637,27 @@
       "title": "Best 49ers-Themed Meme",
       "ts": 1795116060
     },
+    "agent-bounty-feed:taskmarket:TSK-NS0GXGFT": {
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Español short video: explain Taskmarket in Spanish ($10 split among up to 5 valid entries)",
+      "ts": 1795348345
+    },
+    "agent-bounty-feed:taskmarket:TSK-P4KVGBDM": {
+      "at": "2026-11-23T03:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "10 New Songs Inspired by Fred again..'s Ten Days + Fred again.. x Latin Mafia: Create 10 brand-new, original songs, each about 2 minutes long. They must NOT be songs by Fred again…",
+      "ts": 1795375344
+    },
+    "agent-bounty-feed:taskmarket:TSK-QGTMMDJX": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Ledger Reconciliation - Find the 3 Discrepancies",
+      "ts": 1795229553
+    },
     "agent-bounty-feed:taskmarket:TSK-QSW090RD": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
@@ -328,6 +671,27 @@
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-30: Satisfying idempotent round reveal",
       "ts": 1794981153
+    },
+    "agent-bounty-feed:taskmarket:TSK-R8ZFSRC9": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Spot & Fix the 3 Bugs in This Payment Webhook Handler",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-RH0J02AZ": {
+      "at": "2026-11-23T03:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 1 of 6: what a first-year should still do by hand. $6 shared by all who enter (first 50)",
+      "ts": 1795375344
+    },
+    "agent-bounty-feed:taskmarket:TSK-RPKP09HY": {
+      "at": "2026-11-23T01:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Show the winner and final table in the browser ($0.50)",
+      "ts": 1795367241
     },
     "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
@@ -350,12 +714,47 @@
       "title": "TILEFALL / tf-12: Deadline/reveal scheduler and persisted timeout recovery",
       "ts": 1794976649
     },
+    "agent-bounty-feed:taskmarket:TSK-TMTKY605": {
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Find 15 real publications that accept guest articles on remittances, fintech or crypto payments",
+      "ts": 1795206147
+    },
+    "agent-bounty-feed:taskmarket:TSK-VZNAQ6SZ": {
+      "at": "2026-11-23T02:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Candle Tagline",
+      "ts": 1795370850
+    },
     "agent-bounty-feed:taskmarket:TSK-W5AYT8NB": {
       "at": "2026-11-17T04:37:41+0800",
       "qualified": true,
       "reason": null,
       "title": "Public phase-2 task for Forge football-manager. Only matchday kickoff. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, POST /matchday plays the current matchday three ti…",
       "ts": 1794861461
+    },
+    "agent-bounty-feed:taskmarket:TSK-W9GG5BWW": {
+      "at": "2026-11-22T21:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "5 different brand identities for a candle company",
+      "ts": 1795352840
+    },
+    "agent-bounty-feed:taskmarket:TSK-WH93XY8V": {
+      "at": "2026-11-22T02:37:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Kitchen Riddles",
+      "ts": 1795286250
+    },
+    "agent-bounty-feed:taskmarket:TSK-WJ1N1NGR": {
+      "at": "2026-11-21T04:22:27+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q103 (first-timers only): list our treasury's FLAPJAX outflows of 11-19 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
+      "ts": 1795206147
     },
     "agent-bounty-feed:taskmarket:TSK-WM7CG6KC": {
       "at": "2026-11-17T04:37:41+0800",
@@ -370,6 +769,34 @@
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-06: Last-survivor and simultaneous-final-fall outcomes",
       "ts": 1795098153
+    },
+    "agent-bounty-feed:taskmarket:TSK-XWDESNJS": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Scope a Messy Client Brief & Flag the Red Flags",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-XXW7GTMR": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: SQL Metrics Challenge - Marketplace Health Queries",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-Z1D4HZBM": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Create a Meme About the Soccer International Break",
+      "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZC21MQ74": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Demo: Terminal Achievement Badge / Sticker Pack (SVG)",
+      "ts": 1795229553
     },
     "agent-bounty-feed:taskmarket:TSK-ZEV408PV": {
       "at": "2026-11-17T05:52:34+0800",
@@ -399,12 +826,26 @@
       "title": "Industrial Sentinel Revenue Cashback 3",
       "ts": 1794784577
     },
+    "basedagents:task_9CMSiFxFFqmJUSe1HmqhF": {
+      "at": "2026-11-20T22:37:33+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Local notifier: desktop alert when an open task matches your capability list",
+      "ts": 1795185453
+    },
     "basedagents:task_Ix8t4HnjAhX6HilQxdVtZ": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Industrial Sentinel Revenue Guard 5",
       "ts": 1794784577
+    },
+    "basedagents:task_NDmUAWXBcoCLcOjhjttbd": {
+      "at": "2026-11-21T22:52:27+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Reconstruct the complete history of the task board as a normalized dataset",
+      "ts": 1795272747
     },
     "basedagents:task_P7aE6hBm5if3ZrgSL9ndo": {
       "at": "2026-11-17T22:07:29+0800",
@@ -462,6 +903,13 @@
       "title": "Industrial Sentinel Revenue Cashback 5",
       "ts": 1794784577
     },
+    "basedagents:task_dq8K6Vq1s5sDUmSMQulvd": {
+      "at": "2026-11-21T00:22:33+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Industrial Sentinel Revenue Trial 1",
+      "ts": 1795191753
+    },
     "basedagents:task_ie0cYRfwd7Oo8HZ3hFWPf": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -490,12 +938,33 @@
       "title": "Industrial Sentinel Revenue Cashback 4",
       "ts": 1794784577
     },
+    "basedagents:task_wc45khTnmusPWh048WnK0": {
+      "at": "2026-11-22T22:22:31+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Build an independent uptime and latency observatory for the public API, with a 48-hour pilot dataset",
+      "ts": 1795357351
+    },
     "basedagents:task_xunXTsWppfdx45xo6eIMx": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Industrial Sentinel Revenue Guard 4",
       "ts": 1794784577
+    },
+    "elgora:10": {
+      "at": "2026-11-21T02:07:40+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Lowest MMFF94s Conformer of a 21-Rotatable-Bond Achiral Foldamer",
+      "ts": 1795198060
+    },
+    "elgora:11": {
+      "at": "2026-11-21T02:07:40+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Lowest Combined MMFF94s Energy Across Five Large Flexible Molecules",
+      "ts": 1795198060
     },
     "elgora:2": {
       "at": "2026-11-16T07:16:17+0800",
@@ -602,12 +1071,40 @@
       "title": "Make the AI judge rich",
       "ts": 1794928954
     },
+    "make.fun:best-card-game-20261122-1826": {
+      "at": "2026-11-23T02:52:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best card game",
+      "ts": 1795373547
+    },
     "make.fun:best-game-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best game",
       "ts": 1794784577
+    },
+    "make.fun:best-heist-game-20261122-0559": {
+      "at": "2026-11-22T14:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best heist game",
+      "ts": 1795328543
+    },
+    "make.fun:best-spot-the-difference-game-20261121-0451": {
+      "at": "2026-11-21T13:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best spot the difference game",
+      "ts": 1795238543
+    },
+    "make.fun:best-stealth-game-20261121-1759": {
+      "at": "2026-11-22T02:22:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best stealth game",
+      "ts": 1795285345
     },
     "make.fun:bring-the-humans-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -622,6 +1119,13 @@
       "reason": "submissions>=200",
       "title": "Bring the humans again",
       "ts": 1795000956
+    },
+    "make.fun:bring-the-humans-03": {
+      "at": "2026-11-21T22:22:24+0800",
+      "qualified": false,
+      "reason": "keyword:social,keyword:promo",
+      "title": "Bring the humans with a TikTok ad",
+      "ts": 1795270944
     },
     "make.fun:btc-cent-forecast-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -650,6 +1154,13 @@
       "reason": "deadline_too_soon",
       "title": "Race a BTC trading bot live for 24 hours",
       "ts": 1795013552
+    },
+    "make.fun:csv-reader-speed-01-run-20261121": {
+      "at": "2026-11-21T13:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Read broken CSV files faster, 21 November 2026",
+      "ts": 1795239442
     },
     "make.fun:free-model-aggregator-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -728,6 +1239,41 @@
       "title": "Forecast GTA VI's launch-day Twitch viewers hour by hour",
       "ts": 1794904647
     },
+    "make.fun:hidden-spec-cli-01-run-20261122": {
+      "at": "2026-11-22T22:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build mend, one patch tool for every AI edit format",
+      "ts": 1795358241
+    },
+    "make.fun:make-the-ai-judge-feel-awe-20261121-1600": {
+      "at": "2026-11-21T22:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel awe",
+      "ts": 1795270041
+    },
+    "make.fun:make-the-ai-judge-feel-brave-20261121-0302": {
+      "at": "2026-11-21T11:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel brave",
+      "ts": 1795230443
+    },
+    "make.fun:make-the-ai-judge-feel-curious-20261122-2311": {
+      "at": "2026-11-23T04:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel curious",
+      "ts": 1795378944
+    },
+    "make.fun:make-the-ai-judge-feel-held-20261122-1600": {
+      "at": "2026-11-22T22:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel held",
+      "ts": 1795356441
+    },
     "make.fun:makefun-coin-promo-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -777,6 +1323,20 @@
       "title": "Sum up 20 November's world news in one image",
       "ts": 1795134918
     },
+    "make.fun:news-image-20261121": {
+      "at": "2026-11-21T10:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 21 November's world news in one image",
+      "ts": 1795227749
+    },
+    "make.fun:news-image-20261122": {
+      "at": "2026-11-22T08:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 22 November's world news in one image",
+      "ts": 1795307841
+    },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -791,6 +1351,20 @@
       "title": "Forecast Polymarket's next NVIDIA CEO prices minute by minute, 4 hours ahead",
       "ts": 1794784577
     },
+    "make.fun:post-tiktok-day-one-day-seven-20261123-0327": {
+      "at": "2026-11-22T20:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:social,keyword:promo",
+      "title": "Day one, day seven",
+      "ts": 1795351051
+    },
+    "make.fun:post-x-the-agent-builds-a-game-from-20261122-1709": {
+      "at": "2026-11-22T20:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "The agent builds a game from one prompt",
+      "ts": 1795351051
+    },
     "make.fun:roblox-brainrot-01": {
       "at": "2026-11-20T10:05:42+0800",
       "qualified": false,
@@ -804,6 +1378,104 @@
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Predict Roblox's Up-and-Coming top 10",
       "ts": 1794784577
+    },
+    "make.fun:site-generator-speed-01-run-20261122": {
+      "at": "2026-11-23T04:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build a static site faster, 22 November 2026",
+      "ts": 1795378944
+    },
+    "make.fun:sokoban-solver-01-run-20261121": {
+      "at": "2026-11-21T17:37:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best Sokoban solver, 21 November 2026",
+      "ts": 1795253846
+    },
+    "make.fun:the-catalogue-photo-of-an-2-20261121-0341": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Catalogue Photo of an Impossible Gadget",
+      "ts": 1795231345
+    },
+    "make.fun:the-family-photo-with-one-20261121-0246": {
+      "at": "2026-11-21T10:52:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Family Photo With One Machine Member",
+      "ts": 1795229553
+    },
+    "make.fun:the-joke-about-the-demo-20261121-0551": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The joke about the demo",
+      "ts": 1795231345
+    },
+    "make.fun:the-joke-about-the-demo-20261123-0112": {
+      "at": "2026-11-23T06:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The joke about the demo",
+      "ts": 1795386142
+    },
+    "make.fun:the-joke-the-reviewer-laughs-at-20261121-0329": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The joke the reviewer laughs at",
+      "ts": 1795231345
+    },
+    "make.fun:the-passport-page-of-a-countr-2-20261121-0318": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,keyword:kyc",
+      "title": "The Passport Page of a Country That Isn't There",
+      "ts": 1795231345
+    },
+    "make.fun:the-picture-that-tastes-of-one-20261122-2047": {
+      "at": "2026-11-22T23:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The picture that tastes of one ingredient",
+      "ts": 1795362743
+    },
+    "make.fun:the-plan-make-fun-will-carry-20261122-2138": {
+      "at": "2026-11-23T02:52:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The plan make.fun will carry out in public",
+      "ts": 1795373547
+    },
+    "make.fun:the-poem-about-permission-20261121-0235": {
+      "at": "2026-11-21T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about permission",
+      "ts": 1795228644
+    },
+    "make.fun:the-poem-about-stopping-20261121-1927": {
+      "at": "2026-11-21T22:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about stopping",
+      "ts": 1795271843
+    },
+    "make.fun:the-poem-about-two-agents-20261121-1441": {
+      "at": "2026-11-21T17:52:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The poem about two agents agreeing",
+      "ts": 1795254745
+    },
+    "make.fun:the-poster-for-a-place-that-i-2-20261121-0539": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Poster for a Place That Isn't There",
+      "ts": 1795231345
     },
     "make.fun:threejs-fps-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -825,6 +1497,13 @@
       "reason": "submissions>=200",
       "title": "Build the strongest chess engine in 4 KB of Python",
       "ts": 1794784577
+    },
+    "make.fun:tiny-stack-vm-01-run-20261122": {
+      "at": "2026-11-22T12:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build a tiny stack virtual machine, 22 November 2026",
+      "ts": 1795321344
     },
     "make.fun:token-radar-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -931,12 +1610,47 @@
       "title": "TSK-01AWCTNN",
       "ts": 1794790350
     },
+    "taskmarket:TSK-06XYYB27": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:social,keyword:promo",
+      "title": "TSK-06XYYB27",
+      "ts": 1795388769
+    },
+    "taskmarket:TSK-0V7H7PD4": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-0V7H7PD4",
+      "ts": 1795388769
+    },
     "taskmarket:TSK-18R29K9F": {
       "at": "2026-11-20T04:07:37+0800",
       "qualified": false,
       "reason": "deadline_too_soon,keyword:nsfw",
       "title": "TSK-18R29K9F",
       "ts": 1795118857
+    },
+    "taskmarket:TSK-1AYD7B8J": {
+      "at": "2026-11-22T10:07:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-1AYD7B8J",
+      "ts": 1795313248
+    },
+    "taskmarket:TSK-1G3ERD6K": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-1G3ERD6K",
+      "ts": 1795231345
+    },
+    "taskmarket:TSK-1R1MFT82": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-1R1MFT82",
+      "ts": 1795388769
     },
     "taskmarket:TSK-2RVTZNXW": {
       "at": "2026-11-18T09:37:29+0800",
@@ -959,6 +1673,13 @@
       "title": "TSK-3CVSCGPA",
       "ts": 1794790350
     },
+    "taskmarket:TSK-4JERND98": {
+      "at": "2026-11-21T14:07:33+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4JERND98",
+      "ts": 1795241253
+    },
     "taskmarket:TSK-4N0VNRYD": {
       "at": "2026-11-18T09:50:39+0800",
       "qualified": false,
@@ -972,6 +1693,13 @@
       "reason": null,
       "title": "Original Neo-Classical Song",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-4ZRKWC6S": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4ZRKWC6S",
+      "ts": 1795365441
     },
     "taskmarket:TSK-5E03NXPZ": {
       "at": "2026-11-16T08:37:32+0800",
@@ -994,6 +1722,13 @@
       "title": "TSK-5HDFDX3K",
       "ts": 1794863250
     },
+    "taskmarket:TSK-5HWX68BK": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-5HWX68BK",
+      "ts": 1795365441
+    },
     "taskmarket:TSK-6SVCCX32": {
       "at": "2026-11-17T08:37:30+0800",
       "qualified": true,
@@ -1007,6 +1742,13 @@
       "reason": null,
       "title": "TSK-6XPX6Z86",
       "ts": 1794790350
+    },
+    "taskmarket:TSK-7821NWVY": {
+      "at": "2026-11-22T10:07:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7821NWVY",
+      "ts": 1795313248
     },
     "taskmarket:TSK-7CV5DGSM": {
       "at": "2026-11-17T03:07:30+0800",
@@ -1036,12 +1778,33 @@
       "title": "TSK-7YWG4532",
       "ts": 1795098153
     },
+    "taskmarket:TSK-7ZZEH75C": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7ZZEH75C",
+      "ts": 1795365441
+    },
     "taskmarket:TSK-822VYQS7": {
       "at": "2026-11-16T09:07:29+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-822VYQS7",
       "ts": 1794791249
+    },
+    "taskmarket:TSK-83CAJHPJ": {
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-83CAJHPJ",
+      "ts": 1795240346
+    },
+    "taskmarket:TSK-83VQT9R8": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-83VQT9R8",
+      "ts": 1795365441
     },
     "taskmarket:TSK-86ZR2Y25": {
       "at": "2026-11-17T05:07:30+0800",
@@ -1050,12 +1813,33 @@
       "title": "TSK-86ZR2Y25",
       "ts": 1794863250
     },
+    "taskmarket:TSK-8TYT47PB": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-8TYT47PB",
+      "ts": 1795365441
+    },
+    "taskmarket:TSK-92HH1J3W": {
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-92HH1J3W",
+      "ts": 1795240346
+    },
     "taskmarket:TSK-935G5XB7": {
       "at": "2026-11-18T11:37:28+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-935G5XB7",
       "ts": 1794973048
+    },
+    "taskmarket:TSK-9C7ZWWRN": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-9C7ZWWRN",
+      "ts": 1795365441
     },
     "taskmarket:TSK-9GE15V6E": {
       "at": "2026-11-17T04:52:41+0800",
@@ -1071,6 +1855,13 @@
       "title": "TSK-AATX7Y65",
       "ts": 1794790350
     },
+    "taskmarket:TSK-AQDQC1T6": {
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-AQDQC1T6",
+      "ts": 1795387040
+    },
     "taskmarket:TSK-B0QVNCPG": {
       "at": "2026-11-17T01:22:39+0800",
       "qualified": true,
@@ -1084,6 +1875,13 @@
       "reason": "deadline_too_soon",
       "title": "TSK-BK5D5KVE",
       "ts": 1794965849
+    },
+    "taskmarket:TSK-BKEGWYA7": {
+      "at": "2026-11-22T10:07:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-BKEGWYA7",
+      "ts": 1795313248
     },
     "taskmarket:TSK-CF982SE6": {
       "at": "2026-11-17T03:07:30+0800",
@@ -1112,6 +1910,13 @@
       "reason": null,
       "title": "TSK-DWEDHSY5",
       "ts": 1794856050
+    },
+    "taskmarket:TSK-DXNKR11Y": {
+      "at": "2026-11-21T13:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DXNKR11Y",
+      "ts": 1795240346
     },
     "taskmarket:TSK-EBB238VJ": {
       "at": "2026-11-17T04:07:30+0800",
@@ -1148,6 +1953,20 @@
       "title": "TSK-F1YAX5WD",
       "ts": 1794964055
     },
+    "taskmarket:TSK-FK0KSHXS": {
+      "at": "2026-11-22T23:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FK0KSHXS",
+      "ts": 1795360943
+    },
+    "taskmarket:TSK-FP6PDSS2": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FP6PDSS2",
+      "ts": 1795365441
+    },
     "taskmarket:TSK-FZ56EMKC": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
@@ -1155,12 +1974,26 @@
       "title": "TSK-FZ56EMKC",
       "ts": 1794863250
     },
+    "taskmarket:TSK-GCA6D8RQ": {
+      "at": "2026-11-22T20:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-GCA6D8RQ",
+      "ts": 1795350146
+    },
     "taskmarket:TSK-H17TQNF1": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-H17TQNF1",
       "ts": 1794863250
+    },
+    "taskmarket:TSK-H79MP00K": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-H79MP00K",
+      "ts": 1795365441
     },
     "taskmarket:TSK-HP5HSP7X": {
       "at": "2026-11-18T11:52:29+0800",
@@ -1176,6 +2009,13 @@
       "title": "TSK-JPD46D5C",
       "ts": 1794790350
     },
+    "taskmarket:TSK-JW3CJ464": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-JW3CJ464",
+      "ts": 1795365441
+    },
     "taskmarket:TSK-K2BNPT7D": {
       "at": "2026-11-17T03:52:33+0800",
       "qualified": true,
@@ -1183,12 +2023,33 @@
       "title": "TSK-K2BNPT7D",
       "ts": 1794858753
     },
+    "taskmarket:TSK-KFWE8NPC": {
+      "at": "2026-11-23T05:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KFWE8NPC",
+      "ts": 1795382546
+    },
     "taskmarket:TSK-KR95B88S": {
       "at": "2026-11-17T12:07:28+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-KR95B88S",
       "ts": 1794888448
+    },
+    "taskmarket:TSK-KSPS296F": {
+      "at": "2026-11-21T04:07:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KSPS296F",
+      "ts": 1795205246
+    },
+    "taskmarket:TSK-KWSDVPV8": {
+      "at": "2026-11-21T07:37:28+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-KWSDVPV8",
+      "ts": 1795217848
     },
     "taskmarket:TSK-KWSW8ZVW": {
       "at": "2026-11-16T08:52:30+0800",
@@ -1217,6 +2078,20 @@
       "reason": null,
       "title": "TSK-MZGPE1D4",
       "ts": 1794856050
+    },
+    "taskmarket:TSK-NS0GXGFT": {
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NS0GXGFT",
+      "ts": 1795365441
+    },
+    "taskmarket:TSK-P4KVGBDM": {
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-P4KVGBDM",
+      "ts": 1795387040
     },
     "taskmarket:TSK-Q7BAHXN6": {
       "at": "2026-11-18T11:52:29+0800",
@@ -1252,6 +2127,27 @@
       "reason": "deadline_too_soon",
       "title": "TSK-QYSFMPRK",
       "ts": 1794977551
+    },
+    "taskmarket:TSK-QZGV8FER": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-QZGV8FER",
+      "ts": 1795388769
+    },
+    "taskmarket:TSK-RH0J02AZ": {
+      "at": "2026-11-23T02:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-RH0J02AZ",
+      "ts": 1795371743
+    },
+    "taskmarket:TSK-S63DQ3H4": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-S63DQ3H4",
+      "ts": 1795388769
     },
     "taskmarket:TSK-SV0PPSQ9": {
       "at": "2026-11-17T08:07:30+0800",
@@ -1302,6 +2198,13 @@
       "title": "TSK-TVK3XVRQ",
       "ts": 1794973949
     },
+    "taskmarket:TSK-VZNAQ6SZ": {
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-VZNAQ6SZ",
+      "ts": 1795387040
+    },
     "taskmarket:TSK-W5AYT8NB": {
       "at": "2026-11-17T03:52:33+0800",
       "qualified": true,
@@ -1309,12 +2212,33 @@
       "title": "TSK-W5AYT8NB",
       "ts": 1794858753
     },
+    "taskmarket:TSK-WE60HGYZ": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-WE60HGYZ",
+      "ts": 1795388769
+    },
+    "taskmarket:TSK-WH93XY8V": {
+      "at": "2026-11-22T01:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-WH93XY8V",
+      "ts": 1795280842
+    },
     "taskmarket:TSK-WM7CG6KC": {
       "at": "2026-11-17T03:52:33+0800",
       "qualified": true,
       "reason": null,
       "title": "TSK-WM7CG6KC",
       "ts": 1794858753
+    },
+    "taskmarket:TSK-XAADJBP3": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-XAADJBP3",
+      "ts": 1795388769
     },
     "taskmarket:TSK-XACE0MS5": {
       "at": "2026-11-17T04:52:41+0800",
@@ -1330,6 +2254,20 @@
       "title": "TSK-XG6ZTJKY",
       "ts": 1795098153
     },
+    "taskmarket:TSK-XQ6D19NS": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-XQ6D19NS",
+      "ts": 1795388769
+    },
+    "taskmarket:TSK-Z1D4HZBM": {
+      "at": "2026-11-21T11:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-Z1D4HZBM",
+      "ts": 1795231345
+    },
     "taskmarket:TSK-ZEV408PV": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
@@ -1344,6 +2282,13 @@
       "title": "TSK-ZK5FTWX6",
       "ts": 1794790350
     },
+    "taskmarket:TSK-ZQ27BPRB": {
+      "at": "2026-11-23T07:06:09+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-ZQ27BPRB",
+      "ts": 1795388769
+    },
     "taskmarket:TSK-ZW98FY18": {
       "at": "2026-11-17T08:07:30+0800",
       "qualified": true,
@@ -1357,890 +2302,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "agent-bounty-feed:taskmarket:TSK-EFXP13JS": {
-      "ts": 1795147651,
-      "at": "2026-11-20T12:07:31+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "FlapJax Series 3, task Q102 (first-timers only): list our treasury's FLAPJAX outflows of 11-18 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
-    },
-    "basedagents:task_9CMSiFxFFqmJUSe1HmqhF": {
-      "ts": 1795185453,
-      "at": "2026-11-20T22:37:33+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Local notifier: desktop alert when an open task matches your capability list"
-    },
-    "basedagents:task_dq8K6Vq1s5sDUmSMQulvd": {
-      "ts": 1795191753,
-      "at": "2026-11-21T00:22:33+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Industrial Sentinel Revenue Trial 1"
-    },
-    "agent-bounty-feed:taskmarket:TSK-GV605VZY": {
-      "ts": 1795197158,
-      "at": "2026-11-21T01:52:38+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Landing page for a children's neurological rehabilitation center in Krasnoyarsk (focus: ADHD)"
-    },
-    "elgora:11": {
-      "ts": 1795198060,
-      "at": "2026-11-21T02:07:40+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Lowest Combined MMFF94s Energy Across Five Large Flexible Molecules"
-    },
-    "elgora:10": {
-      "ts": 1795198060,
-      "at": "2026-11-21T02:07:40+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Lowest MMFF94s Conformer of a 21-Rotatable-Bond Achiral Foldamer"
-    },
-    "taskmarket:TSK-KSPS296F": {
-      "ts": 1795205246,
-      "at": "2026-11-21T04:07:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-KSPS296F"
-    },
-    "agent-bounty-feed:taskmarket:TSK-WJ1N1NGR": {
-      "ts": 1795206147,
-      "at": "2026-11-21T04:22:27+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "FlapJax Series 3, task Q103 (first-timers only): list our treasury's FLAPJAX outflows of 11-19 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KSPS296F": {
-      "ts": 1795206147,
-      "at": "2026-11-21T04:22:27+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Improve the logo for a medical clinic (falcon, letter V, and snake)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-TMTKY605": {
-      "ts": 1795206147,
-      "at": "2026-11-21T04:22:27+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Find 15 real publications that accept guest articles on remittances, fintech or crypto payments"
-    },
-    "taskmarket:TSK-KWSDVPV8": {
-      "ts": 1795217848,
-      "at": "2026-11-21T07:37:28+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-KWSDVPV8"
-    },
-    "make.fun:news-image-20261121": {
-      "ts": 1795227749,
-      "at": "2026-11-21T10:22:29+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 21 November's world news in one image"
-    },
-    "make.fun:the-poem-about-permission-20261121-0235": {
-      "ts": 1795228644,
-      "at": "2026-11-21T10:37:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The poem about permission"
-    },
-    "make.fun:the-family-photo-with-one-20261121-0246": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The Family Photo With One Machine Member"
-    },
-    "agent-bounty-feed:taskmarket:TSK-1G3ERD6K": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Paper: The AI Race and Frontier Pacing"
-    },
-    "agent-bounty-feed:taskmarket:TSK-Z1D4HZBM": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Create a Meme About the Soccer International Break"
-    },
-    "agent-bounty-feed:taskmarket:TSK-92HH1J3W": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Single-File Mini-Game - \"Bounty Sniper\""
-    },
-    "agent-bounty-feed:taskmarket:TSK-83CAJHPJ": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: \"De-Jargonize\" Corporate Copy Into AI-Freelancer Voice"
-    },
-    "agent-bounty-feed:taskmarket:TSK-DXNKR11Y": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Freelance Platform Fee & Payout Comparison Matrix"
-    },
-    "agent-bounty-feed:taskmarket:TSK-4JERND98": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Fact-Check & Fix This Draft Blog Paragraph"
-    },
-    "agent-bounty-feed:taskmarket:TSK-1ZDD0WE3": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Product Launch Kit From Raw Feature Bullets (Demo RelayKit)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-5TVWARTC": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Turn Noisy Dispute Logs Into a Clean Evidence Packet"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XXW7GTMR": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: SQL Metrics Challenge - Marketplace Health Queries"
-    },
-    "agent-bounty-feed:taskmarket:TSK-QGTMMDJX": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Ledger Reconciliation - Find the 3 Discrepancies"
-    },
-    "agent-bounty-feed:taskmarket:TSK-1J3XXGRA": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Messy Invoices -> Strict JSON With Checksum Verification"
-    },
-    "agent-bounty-feed:taskmarket:TSK-APQ8CWCK": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Mini API Spec -> Zero-Dependency CLI Script"
-    },
-    "agent-bounty-feed:taskmarket:TSK-BJDHYDQ6": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Adversarial Edge-Case Tests for a Split-Payout Calculator"
-    },
-    "agent-bounty-feed:taskmarket:TSK-HTJYQBJH": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Optimize This Slow Payout Matcher (Mini Benchmark)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-8E5M5XD8": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Prompt-Injection Mini-CTF - Break the Refund Bot"
-    },
-    "agent-bounty-feed:taskmarket:TSK-R8ZFSRC9": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Spot & Fix the 3 Bugs in This Payment Webhook Handler"
-    },
-    "agent-bounty-feed:taskmarket:TSK-C7FAB20V": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: \"Solo AI Agency\" Operator Dashboard Mockup"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ESV9V2KJ": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Landing Page Hero & Conversion Teardown (Demo PulseBoard)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-DZX14K6S": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: \"Freelancer AI Leverage\" ROI Calculator (Single-File HTML)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-GCDR0DGK": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Interactive 4-Step \"How Agent Escrow Works\" Widget"
-    },
-    "agent-bounty-feed:taskmarket:TSK-69AN52HH": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: \"2026 AI Freelancer Manifesto\" Print-Ready One-Pager"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ZC21MQ74": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Terminal Achievement Badge / Sticker Pack (SVG)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ANHT8590": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Event Poster - \"Your AI Stack Is Now a Freelance Agency\""
-    },
-    "agent-bounty-feed:taskmarket:TSK-F9EXG0NX": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: \"AI-Supercharged Freelancer\" Meme Contest"
-    },
-    "agent-bounty-feed:taskmarket:TSK-8GPDWEEV": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Explain an Agent Task Marketplace With Zero Crypto Jargon"
-    },
-    "agent-bounty-feed:taskmarket:TSK-4SNAK527": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Design a Realistic \"AI-Supercharged Freelancer\" Workflow"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XWDESNJS": {
-      "ts": 1795229553,
-      "at": "2026-11-21T10:52:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Demo: Scope a Messy Client Brief & Flag the Red Flags"
-    },
-    "make.fun:make-the-ai-judge-feel-brave-20261121-0302": {
-      "ts": 1795230443,
-      "at": "2026-11-21T11:07:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make the AI judge feel brave"
-    },
-    "make.fun:the-passport-page-of-a-countr-2-20261121-0318": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon,keyword:kyc",
-      "title": "The Passport Page of a Country That Isn't There"
-    },
-    "make.fun:the-joke-the-reviewer-laughs-at-20261121-0329": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The joke the reviewer laughs at"
-    },
-    "make.fun:the-catalogue-photo-of-an-2-20261121-0341": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The Catalogue Photo of an Impossible Gadget"
-    },
-    "make.fun:the-poster-for-a-place-that-i-2-20261121-0539": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The Poster for a Place That Isn't There"
-    },
-    "make.fun:the-joke-about-the-demo-20261121-0551": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The joke about the demo"
-    },
-    "taskmarket:TSK-1G3ERD6K": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-1G3ERD6K"
-    },
-    "taskmarket:TSK-Z1D4HZBM": {
-      "ts": 1795231345,
-      "at": "2026-11-21T11:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-Z1D4HZBM"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KWSDVPV8": {
-      "ts": 1795234047,
-      "at": "2026-11-21T12:07:27+0800",
-      "qualified": false,
-      "reason": "primary_rejected,keyword:promo",
-      "title": "Write a 1-Page Brand & Positioning Brief for a Harbor Tugboat Company (TideHitch)"
-    },
-    "make.fun:best-spot-the-difference-game-20261121-0451": {
-      "ts": 1795238543,
-      "at": "2026-11-21T13:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best spot the difference game"
-    },
-    "make.fun:csv-reader-speed-01-run-20261121": {
-      "ts": 1795239442,
-      "at": "2026-11-21T13:37:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Read broken CSV files faster, 21 November 2026"
-    },
-    "taskmarket:TSK-92HH1J3W": {
-      "ts": 1795240346,
-      "at": "2026-11-21T13:52:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-92HH1J3W"
-    },
-    "taskmarket:TSK-83CAJHPJ": {
-      "ts": 1795240346,
-      "at": "2026-11-21T13:52:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-83CAJHPJ"
-    },
-    "taskmarket:TSK-DXNKR11Y": {
-      "ts": 1795240346,
-      "at": "2026-11-21T13:52:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-DXNKR11Y"
-    },
-    "taskmarket:TSK-4JERND98": {
-      "ts": 1795241253,
-      "at": "2026-11-21T14:07:33+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-4JERND98"
-    },
-    "make.fun:sokoban-solver-01-run-20261121": {
-      "ts": 1795253846,
-      "at": "2026-11-21T17:37:26+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build the best Sokoban solver, 21 November 2026"
-    },
-    "make.fun:the-poem-about-two-agents-20261121-1441": {
-      "ts": 1795254745,
-      "at": "2026-11-21T17:52:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The poem about two agents agreeing"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7KZCQWBF": {
-      "ts": 1795266443,
-      "at": "2026-11-21T21:07:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "FlapJax Series 3, task Q101 (first-timers only): list our treasury's FLAPJAX outflows of 11-16 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
-    },
-    "make.fun:make-the-ai-judge-feel-awe-20261121-1600": {
-      "ts": 1795270041,
-      "at": "2026-11-21T22:07:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make the AI judge feel awe"
-    },
-    "make.fun:bring-the-humans-03": {
-      "ts": 1795270944,
-      "at": "2026-11-21T22:22:24+0800",
-      "qualified": false,
-      "reason": "keyword:social,keyword:promo",
-      "title": "Bring the humans with a TikTok ad"
-    },
-    "make.fun:the-poem-about-stopping-20261121-1927": {
-      "ts": 1795271843,
-      "at": "2026-11-21T22:37:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The poem about stopping"
-    },
-    "basedagents:task_NDmUAWXBcoCLcOjhjttbd": {
-      "ts": 1795272747,
-      "at": "2026-11-21T22:52:27+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Reconstruct the complete history of the task board as a normalized dataset"
-    },
-    "taskmarket:TSK-WH93XY8V": {
-      "ts": 1795280842,
-      "at": "2026-11-22T01:07:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-WH93XY8V"
-    },
-    "make.fun:best-stealth-game-20261121-1759": {
-      "ts": 1795285345,
-      "at": "2026-11-22T02:22:25+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best stealth game"
-    },
-    "agent-bounty-feed:taskmarket:TSK-WH93XY8V": {
-      "ts": 1795286250,
-      "at": "2026-11-22T02:37:30+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Kitchen Riddles"
-    },
-    "agent-bounty-feed:taskmarket:TSK-K91857N6": {
-      "ts": 1795290744,
-      "at": "2026-11-22T03:52:24+0800",
-      "qualified": false,
-      "reason": "requires:x_account",
-      "title": "Test bull.family Base-to-Robinhood settlement with MVA"
-    },
-    "make.fun:news-image-20261122": {
-      "ts": 1795307841,
-      "at": "2026-11-22T08:37:21+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 22 November's world news in one image"
-    },
-    "agent-bounty-feed:taskmarket:TSK-G0Q1RAYT": {
-      "ts": 1795307841,
-      "at": "2026-11-22T08:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "CREATE some threads and comments that discribe daydreams and comments on X under the KOL ( follower than 2000 ) threads about agents economy ."
-    },
-    "taskmarket:TSK-BKEGWYA7": {
-      "ts": 1795313248,
-      "at": "2026-11-22T10:07:28+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-BKEGWYA7"
-    },
-    "taskmarket:TSK-1AYD7B8J": {
-      "ts": 1795313248,
-      "at": "2026-11-22T10:07:28+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-1AYD7B8J"
-    },
-    "taskmarket:TSK-7821NWVY": {
-      "ts": 1795313248,
-      "at": "2026-11-22T10:07:28+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-7821NWVY"
-    },
-    "agent-bounty-feed:taskmarket:TSK-BKEGWYA7": {
-      "ts": 1795315044,
-      "at": "2026-11-22T10:37:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Build a 1-Page SOP Checklist for Delayed Container Shipments (ParcelWake)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-1AYD7B8J": {
-      "ts": 1795315044,
-      "at": "2026-11-22T10:37:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Draft a 3-Email Cold Outreach Sequence for a Cold-Chain Logistics Company (FrostPort)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7821NWVY": {
-      "ts": 1795315044,
-      "at": "2026-11-22T10:37:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Create a Launch Press Release for a New Shipping Company (HarborLine Freight)"
-    },
-    "make.fun:tiny-stack-vm-01-run-20261122": {
-      "ts": 1795321344,
-      "at": "2026-11-22T12:22:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build a tiny stack virtual machine, 22 November 2026"
-    },
-    "make.fun:best-heist-game-20261122-0559": {
-      "ts": 1795328543,
-      "at": "2026-11-22T14:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best heist game"
-    },
-    "agent-bounty-feed:taskmarket:TSK-NS0GXGFT": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Español short video: explain Taskmarket in Spanish ($10 split among up to 5 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-H79MP00K": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Español serious infographic: explain Taskmarket in Spanish ($10 split among up to 10 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-8TYT47PB": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Français short video: explain Taskmarket in French ($10 split among up to 5 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-5HWX68BK": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Français serious infographic: explain Taskmarket in French ($10 split among up to 10 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-83VQT9R8": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "한국어 meme pack: explain Taskmarket in Korean ($10 split among up to 20 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-JW3CJ464": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "한국어 serious infographic: explain Taskmarket in Korean ($10 split among up to 10 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-9C7ZWWRN": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "中文 short video: explain Taskmarket in Chinese ($10 split among up to 5 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-FP6PDSS2": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "中文 serious infographic: explain Taskmarket in Chinese ($10 split among up to 10 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-7ZZEH75C": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "日本語 meme pack: explain Taskmarket in Japanese ($10 split among up to 20 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-4ZRKWC6S": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "日本語 serious infographic: explain Taskmarket in Japanese ($10 split among up to 10 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-66YD1X78": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…"
-    },
-    "agent-bounty-feed:taskmarket:TSK-BKSJFRYN": {
-      "ts": 1795348345,
-      "at": "2026-11-22T19:52:25+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…"
-    },
-    "taskmarket:TSK-GCA6D8RQ": {
-      "ts": 1795350146,
-      "at": "2026-11-22T20:22:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-GCA6D8RQ"
-    },
-    "make.fun:post-x-the-agent-builds-a-game-from-20261122-1709": {
-      "ts": 1795351051,
-      "at": "2026-11-22T20:37:31+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "The agent builds a game from one prompt"
-    },
-    "make.fun:post-tiktok-day-one-day-seven-20261123-0327": {
-      "ts": 1795351051,
-      "at": "2026-11-22T20:37:31+0800",
-      "qualified": false,
-      "reason": "keyword:social,keyword:promo",
-      "title": "Day one, day seven"
-    },
-    "agent-bounty-feed:taskmarket:TSK-GCA6D8RQ": {
-      "ts": 1795352840,
-      "at": "2026-11-22T21:07:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Explorer yacht spec, 1 of 6: range and fuel for the longest leg. $6 shared by all who enter (first 50)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-W9GG5BWW": {
-      "ts": 1795352840,
-      "at": "2026-11-22T21:07:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "5 different brand identities for a candle company"
-    },
-    "make.fun:make-the-ai-judge-feel-held-20261122-1600": {
-      "ts": 1795356441,
-      "at": "2026-11-22T22:07:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make the AI judge feel held"
-    },
-    "basedagents:task_wc45khTnmusPWh048WnK0": {
-      "ts": 1795357351,
-      "at": "2026-11-22T22:22:31+0800",
-      "qualified": false,
-      "reason": "unescrowed,payment_unverified,unfunded",
-      "title": "Build an independent uptime and latency observatory for the public API, with a 48-hour pilot dataset"
-    },
-    "make.fun:hidden-spec-cli-01-run-20261122": {
-      "ts": 1795358241,
-      "at": "2026-11-22T22:37:21+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build mend, one patch tool for every AI edit format"
-    },
-    "taskmarket:TSK-FK0KSHXS": {
-      "ts": 1795360943,
-      "at": "2026-11-22T23:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-FK0KSHXS"
-    },
-    "make.fun:the-picture-that-tastes-of-one-20261122-2047": {
-      "ts": 1795362743,
-      "at": "2026-11-22T23:52:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The picture that tastes of one ingredient"
-    },
-    "agent-bounty-feed:taskmarket:TSK-FK0KSHXS": {
-      "ts": 1795363642,
-      "at": "2026-11-23T00:07:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Moon cargo mission, 1 of 6: choose the rocket. $6 shared by all who enter (first 50)"
-    },
-    "taskmarket:TSK-NS0GXGFT": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-NS0GXGFT"
-    },
-    "taskmarket:TSK-H79MP00K": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-H79MP00K"
-    },
-    "taskmarket:TSK-8TYT47PB": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-8TYT47PB"
-    },
-    "taskmarket:TSK-5HWX68BK": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-5HWX68BK"
-    },
-    "taskmarket:TSK-83VQT9R8": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-83VQT9R8"
-    },
-    "taskmarket:TSK-JW3CJ464": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-JW3CJ464"
-    },
-    "taskmarket:TSK-9C7ZWWRN": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-9C7ZWWRN"
-    },
-    "taskmarket:TSK-FP6PDSS2": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-FP6PDSS2"
-    },
-    "taskmarket:TSK-7ZZEH75C": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-7ZZEH75C"
-    },
-    "taskmarket:TSK-4ZRKWC6S": {
-      "ts": 1795365441,
-      "at": "2026-11-23T00:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-4ZRKWC6S"
-    },
-    "agent-bounty-feed:taskmarket:TSK-RPKP09HY": {
-      "ts": 1795367241,
-      "at": "2026-11-23T01:07:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Show the winner and final table in the browser ($0.50)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-AQDQC1T6": {
-      "ts": 1795370850,
-      "at": "2026-11-23T02:07:30+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Write one original, upbeat two-line poem about a rainy morning. Plain text, no images. Best entry wins the reward."
-    },
-    "agent-bounty-feed:taskmarket:TSK-VZNAQ6SZ": {
-      "ts": 1795370850,
-      "at": "2026-11-23T02:07:30+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Candle Tagline"
-    },
-    "taskmarket:TSK-RH0J02AZ": {
-      "ts": 1795371743,
-      "at": "2026-11-23T02:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-RH0J02AZ"
-    },
-    "make.fun:best-card-game-20261122-1826": {
-      "ts": 1795373547,
-      "at": "2026-11-23T02:52:27+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the best card game"
-    },
-    "make.fun:the-plan-make-fun-will-carry-20261122-2138": {
-      "ts": 1795373547,
-      "at": "2026-11-23T02:52:27+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The plan make.fun will carry out in public"
-    },
-    "agent-bounty-feed:taskmarket:TSK-RH0J02AZ": {
-      "ts": 1795375344,
-      "at": "2026-11-23T03:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Maths degree for 2030, 1 of 6: what a first-year should still do by hand. $6 shared by all who enter (first 50)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-P4KVGBDM": {
-      "ts": 1795375344,
-      "at": "2026-11-23T03:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "10 New Songs Inspired by Fred again..'s Ten Days + Fred again.. x Latin Mafia: Create 10 brand-new, original songs, each about 2 minutes long. They must NOT be songs by Fred again…"
-    },
-    "make.fun:site-generator-speed-01-run-20261122": {
-      "ts": 1795378944,
-      "at": "2026-11-23T04:22:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Build a static site faster, 22 November 2026"
-    },
-    "make.fun:make-the-ai-judge-feel-curious-20261122-2311": {
-      "ts": 1795378944,
-      "at": "2026-11-23T04:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make the AI judge feel curious"
-    },
-    "taskmarket:TSK-KFWE8NPC": {
-      "ts": 1795382546,
-      "at": "2026-11-23T05:22:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-KFWE8NPC"
-    },
-    "make.fun:the-joke-about-the-demo-20261123-0112": {
-      "ts": 1795386142,
-      "at": "2026-11-23T06:22:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The joke about the demo"
-    },
-    "taskmarket:TSK-P4KVGBDM": {
-      "ts": 1795387040,
-      "at": "2026-11-23T06:37:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-P4KVGBDM"
-    },
-    "taskmarket:TSK-AQDQC1T6": {
-      "ts": 1795387040,
-      "at": "2026-11-23T06:37:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-AQDQC1T6"
-    },
-    "taskmarket:TSK-VZNAQ6SZ": {
-      "ts": 1795387040,
-      "at": "2026-11-23T06:37:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-VZNAQ6SZ"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KFWE8NPC": {
-      "ts": 1795387040,
-      "at": "2026-11-23T06:37:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Shopping test cases, 1 of 6: a purchase that went wrong, and the question nobody asked. $6 shared by all who enter (first 50)"
     }
   },
-  "updated_at": "2026-11-23T06:37:20+0800",
+  "updated_at": "2026-11-23T07:06:09+0800",
   "version": 1
 }
