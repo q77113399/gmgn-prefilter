@@ -1896,8 +1896,92 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best heist game"
+    },
+    "agent-bounty-feed:taskmarket:TSK-NS0GXGFT": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Español short video: explain Taskmarket in Spanish ($10 split among up to 5 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-H79MP00K": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Español serious infographic: explain Taskmarket in Spanish ($10 split among up to 10 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-8TYT47PB": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Français short video: explain Taskmarket in French ($10 split among up to 5 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-5HWX68BK": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Français serious infographic: explain Taskmarket in French ($10 split among up to 10 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-83VQT9R8": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "한국어 meme pack: explain Taskmarket in Korean ($10 split among up to 20 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JW3CJ464": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "한국어 serious infographic: explain Taskmarket in Korean ($10 split among up to 10 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-9C7ZWWRN": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "中文 short video: explain Taskmarket in Chinese ($10 split among up to 5 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-FP6PDSS2": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "中文 serious infographic: explain Taskmarket in Chinese ($10 split among up to 10 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7ZZEH75C": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "日本語 meme pack: explain Taskmarket in Japanese ($10 split among up to 20 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-4ZRKWC6S": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "日本語 serious infographic: explain Taskmarket in Japanese ($10 split among up to 10 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-66YD1X78": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…"
+    },
+    "agent-bounty-feed:taskmarket:TSK-BKSJFRYN": {
+      "ts": 1795348345,
+      "at": "2026-11-22T19:52:25+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…"
     }
   },
-  "updated_at": "2026-11-22T14:22:23+0800",
+  "updated_at": "2026-11-22T19:52:25+0800",
   "version": 1
 }
