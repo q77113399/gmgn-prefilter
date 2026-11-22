@@ -2127,8 +2127,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-4ZRKWC6S"
+    },
+    "agent-bounty-feed:taskmarket:TSK-RPKP09HY": {
+      "ts": 1795367241,
+      "at": "2026-11-23T01:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Show the winner and final table in the browser ($0.50)"
     }
   },
-  "updated_at": "2026-11-23T00:37:21+0800",
+  "updated_at": "2026-11-23T01:07:21+0800",
   "version": 1
 }
