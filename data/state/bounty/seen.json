@@ -1861,8 +1861,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-7821NWVY"
+    },
+    "agent-bounty-feed:taskmarket:TSK-BKEGWYA7": {
+      "ts": 1795315044,
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Build a 1-Page SOP Checklist for Delayed Container Shipments (ParcelWake)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-1AYD7B8J": {
+      "ts": 1795315044,
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Draft a 3-Email Cold Outreach Sequence for a Cold-Chain Logistics Company (FrostPort)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7821NWVY": {
+      "ts": 1795315044,
+      "at": "2026-11-22T10:37:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Create a Launch Press Release for a New Shipping Company (HarborLine Freight)"
     }
   },
-  "updated_at": "2026-11-22T10:07:28+0800",
+  "updated_at": "2026-11-22T10:37:24+0800",
   "version": 1
 }
