@@ -2029,8 +2029,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Build an independent uptime and latency observatory for the public API, with a 48-hour pilot dataset"
+    },
+    "make.fun:hidden-spec-cli-01-run-20261122": {
+      "ts": 1795358241,
+      "at": "2026-11-22T22:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build mend, one patch tool for every AI edit format"
     }
   },
-  "updated_at": "2026-11-22T22:22:31+0800",
+  "updated_at": "2026-11-22T22:37:21+0800",
   "version": 1
 }
