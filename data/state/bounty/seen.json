@@ -2057,8 +2057,78 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Moon cargo mission, 1 of 6: choose the rocket. $6 shared by all who enter (first 50)"
+    },
+    "taskmarket:TSK-NS0GXGFT": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NS0GXGFT"
+    },
+    "taskmarket:TSK-H79MP00K": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-H79MP00K"
+    },
+    "taskmarket:TSK-8TYT47PB": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-8TYT47PB"
+    },
+    "taskmarket:TSK-5HWX68BK": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-5HWX68BK"
+    },
+    "taskmarket:TSK-83VQT9R8": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-83VQT9R8"
+    },
+    "taskmarket:TSK-JW3CJ464": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-JW3CJ464"
+    },
+    "taskmarket:TSK-9C7ZWWRN": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-9C7ZWWRN"
+    },
+    "taskmarket:TSK-FP6PDSS2": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FP6PDSS2"
+    },
+    "taskmarket:TSK-7ZZEH75C": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7ZZEH75C"
+    },
+    "taskmarket:TSK-4ZRKWC6S": {
+      "ts": 1795365441,
+      "at": "2026-11-23T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4ZRKWC6S"
     }
   },
-  "updated_at": "2026-11-23T00:07:22+0800",
+  "updated_at": "2026-11-23T00:37:21+0800",
   "version": 1
 }
