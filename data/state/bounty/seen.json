@@ -2001,8 +2001,22 @@
       "qualified": false,
       "reason": "keyword:social,keyword:promo",
       "title": "Day one, day seven"
+    },
+    "agent-bounty-feed:taskmarket:TSK-GCA6D8RQ": {
+      "ts": 1795352840,
+      "at": "2026-11-22T21:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 1 of 6: range and fuel for the longest leg. $6 shared by all who enter (first 50)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-W9GG5BWW": {
+      "ts": 1795352840,
+      "at": "2026-11-22T21:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "5 different brand identities for a candle company"
     }
   },
-  "updated_at": "2026-11-22T20:37:31+0800",
+  "updated_at": "2026-11-22T21:07:20+0800",
   "version": 1
 }
