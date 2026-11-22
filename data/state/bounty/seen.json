@@ -2036,8 +2036,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Build mend, one patch tool for every AI edit format"
+    },
+    "taskmarket:TSK-FK0KSHXS": {
+      "ts": 1795360943,
+      "at": "2026-11-22T23:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FK0KSHXS"
     }
   },
-  "updated_at": "2026-11-22T22:37:21+0800",
+  "updated_at": "2026-11-22T23:22:23+0800",
   "version": 1
 }
