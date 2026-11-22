@@ -1980,8 +1980,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy. It should be inspired by this line: 'Given the right circumstances, f…"
+    },
+    "taskmarket:TSK-GCA6D8RQ": {
+      "ts": 1795350146,
+      "at": "2026-11-22T20:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-GCA6D8RQ"
     }
   },
-  "updated_at": "2026-11-22T19:52:25+0800",
+  "updated_at": "2026-11-22T20:22:26+0800",
   "version": 1
 }
