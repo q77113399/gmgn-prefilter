@@ -2169,8 +2169,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "The plan make.fun will carry out in public"
+    },
+    "agent-bounty-feed:taskmarket:TSK-RH0J02AZ": {
+      "ts": 1795375344,
+      "at": "2026-11-23T03:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 1 of 6: what a first-year should still do by hand. $6 shared by all who enter (first 50)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-P4KVGBDM": {
+      "ts": 1795375344,
+      "at": "2026-11-23T03:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "10 New Songs Inspired by Fred again..'s Ten Days + Fred again.. x Latin Mafia: Create 10 brand-new, original songs, each about 2 minutes long. They must NOT be songs by Fred again…"
     }
   },
-  "updated_at": "2026-11-23T02:52:27+0800",
+  "updated_at": "2026-11-23T03:22:24+0800",
   "version": 1
 }
