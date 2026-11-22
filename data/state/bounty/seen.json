@@ -2211,8 +2211,36 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "The joke about the demo"
+    },
+    "taskmarket:TSK-P4KVGBDM": {
+      "ts": 1795387040,
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-P4KVGBDM"
+    },
+    "taskmarket:TSK-AQDQC1T6": {
+      "ts": 1795387040,
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-AQDQC1T6"
+    },
+    "taskmarket:TSK-VZNAQ6SZ": {
+      "ts": 1795387040,
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-VZNAQ6SZ"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KFWE8NPC": {
+      "ts": 1795387040,
+      "at": "2026-11-23T06:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 1 of 6: a purchase that went wrong, and the question nobody asked. $6 shared by all who enter (first 50)"
     }
   },
-  "updated_at": "2026-11-23T06:22:22+0800",
+  "updated_at": "2026-11-23T06:37:20+0800",
   "version": 1
 }
