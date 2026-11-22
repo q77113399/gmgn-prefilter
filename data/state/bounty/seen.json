@@ -2022,8 +2022,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Make the AI judge feel held"
+    },
+    "basedagents:task_wc45khTnmusPWh048WnK0": {
+      "ts": 1795357351,
+      "at": "2026-11-22T22:22:31+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Build an independent uptime and latency observatory for the public API, with a 48-hour pilot dataset"
     }
   },
-  "updated_at": "2026-11-22T22:07:21+0800",
+  "updated_at": "2026-11-22T22:22:31+0800",
   "version": 1
 }
