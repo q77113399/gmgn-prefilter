@@ -1987,8 +1987,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-GCA6D8RQ"
+    },
+    "make.fun:post-x-the-agent-builds-a-game-from-20261122-1709": {
+      "ts": 1795351051,
+      "at": "2026-11-22T20:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "The agent builds a game from one prompt"
+    },
+    "make.fun:post-tiktok-day-one-day-seven-20261123-0327": {
+      "ts": 1795351051,
+      "at": "2026-11-22T20:37:31+0800",
+      "qualified": false,
+      "reason": "keyword:social,keyword:promo",
+      "title": "Day one, day seven"
     }
   },
-  "updated_at": "2026-11-22T20:22:26+0800",
+  "updated_at": "2026-11-22T20:37:31+0800",
   "version": 1
 }
