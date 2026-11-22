@@ -2015,8 +2015,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "5 different brand identities for a candle company"
+    },
+    "make.fun:make-the-ai-judge-feel-held-20261122-1600": {
+      "ts": 1795356441,
+      "at": "2026-11-22T22:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the AI judge feel held"
     }
   },
-  "updated_at": "2026-11-22T21:07:20+0800",
+  "updated_at": "2026-11-22T22:07:21+0800",
   "version": 1
 }
