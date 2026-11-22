@@ -2134,8 +2134,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Show the winner and final table in the browser ($0.50)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-AQDQC1T6": {
+      "ts": 1795370850,
+      "at": "2026-11-23T02:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Write one original, upbeat two-line poem about a rainy morning. Plain text, no images. Best entry wins the reward."
+    },
+    "agent-bounty-feed:taskmarket:TSK-VZNAQ6SZ": {
+      "ts": 1795370850,
+      "at": "2026-11-23T02:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Candle Tagline"
     }
   },
-  "updated_at": "2026-11-23T01:07:21+0800",
+  "updated_at": "2026-11-23T02:07:30+0800",
   "version": 1
 }
