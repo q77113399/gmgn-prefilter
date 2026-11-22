@@ -2050,8 +2050,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "The picture that tastes of one ingredient"
+    },
+    "agent-bounty-feed:taskmarket:TSK-FK0KSHXS": {
+      "ts": 1795363642,
+      "at": "2026-11-23T00:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 1 of 6: choose the rocket. $6 shared by all who enter (first 50)"
     }
   },
-  "updated_at": "2026-11-22T23:52:23+0800",
+  "updated_at": "2026-11-23T00:07:22+0800",
   "version": 1
 }
