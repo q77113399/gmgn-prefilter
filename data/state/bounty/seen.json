@@ -2148,8 +2148,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Candle Tagline"
+    },
+    "taskmarket:TSK-RH0J02AZ": {
+      "ts": 1795371743,
+      "at": "2026-11-23T02:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-RH0J02AZ"
     }
   },
-  "updated_at": "2026-11-23T02:07:30+0800",
+  "updated_at": "2026-11-23T02:22:23+0800",
   "version": 1
 }
