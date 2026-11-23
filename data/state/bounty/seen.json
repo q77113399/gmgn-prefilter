@@ -2778,8 +2778,71 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Funniest AI Out-of-Office Reply"
+    },
+    "make.fun:u-puan-one-letter-for-your-day-e54e9c36": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Letter for Your Day"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JN80R8RK": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Chinese: first task, escrow and TAP on one page (6 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JP5TGGAS": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Japanese: first task, escrow and TAP on one page (5 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-9N094N22": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Spanish: first task, escrow and TAP on one page (5 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-BECT1KW9": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "How much should my bounty pay? A pricing guide and calculator for first-time requesters (6 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-AKGEGNX1": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "The public proof run: one real bounty, post to payout, narrated with tx links (8 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-HXC1NH5E": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "GitHub Action: turn any labeled repository issue into a Taskmarket bounty (8 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KJ8098SM": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Five framework recipes: call Taskmarket from LangChain, CrewAI, Eliza, Olas and an MCP client (7 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XW6AGNNW": {
+      "ts": 1795470753,
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket MCP server: let Claude, Cursor and other MCP clients browse open tasks, read-only (10 OUSD)"
     }
   },
-  "updated_at": "2026-11-24T05:37:22+0800",
+  "updated_at": "2026-11-24T05:52:33+0800",
   "version": 1
 }
