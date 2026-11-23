@@ -2869,8 +2869,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "How Many Tabs Do You Have Open?"
+    },
+    "make.fun:u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d": {
+      "ts": 1795474343,
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Real-Life Patch Notes: The Comedy Changelog"
+    },
+    "make.fun:u-0xb3e689-one-star-review-of-something-essential-c7234629": {
+      "ts": 1795474343,
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Star Review of Something Essential"
+    },
+    "make.fun:u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85": {
+      "ts": 1795474343,
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Warning Label for Humans: One Line, Big Laugh"
     }
   },
-  "updated_at": "2026-11-24T06:22:23+0800",
+  "updated_at": "2026-11-24T06:52:23+0800",
   "version": 1
 }
