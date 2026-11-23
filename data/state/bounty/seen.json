@@ -2526,8 +2526,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "FlapJax Series 3, task Q104 (first-timers only): list our treasury's FLAPJAX outflows of 11-20 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "agent-bounty-feed:taskmarket:TSK-NA1MARH2": {
+      "ts": 1795451843,
+      "at": "2026-11-24T00:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 3 of 6: what the lander's AI decides alone. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-23T23:37:23+0800",
+  "updated_at": "2026-11-24T00:37:23+0800",
   "version": 1
 }
