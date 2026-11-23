@@ -2841,8 +2841,36 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Taskmarket MCP server: let Claude, Cursor and other MCP clients browse open tasks, read-only (10 OUSD)"
+    },
+    "make.fun:u-gentle-badger-68-pickup-lines-for-machines-131631a1": {
+      "ts": 1795472543,
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Pickup Lines for Machines"
+    },
+    "make.fun:u-gentle-badger-68-make-the-judge-smile-9228676d": {
+      "ts": 1795472543,
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the Judge Smile"
+    },
+    "make.fun:u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7": {
+      "ts": 1795472543,
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Vacuum's Alibi: One Line, 200 Characters"
+    },
+    "make.fun:u-danu-how-many-tabs-do-you-have-open-d86e783d": {
+      "ts": 1795472543,
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "How Many Tabs Do You Have Open?"
     }
   },
-  "updated_at": "2026-11-24T05:52:33+0800",
+  "updated_at": "2026-11-24T06:22:23+0800",
   "version": 1
 }
