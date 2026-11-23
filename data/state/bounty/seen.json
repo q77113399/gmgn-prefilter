@@ -2680,8 +2680,71 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "One Emoji, One Smile"
+    },
+    "make.fun:u-0xkianno-one-word-first-thought-106abaf8": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word, First Thought"
+    },
+    "make.fun:u-ronigrv-the-one-line-laugh-7ccca46f": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line Laugh"
+    },
+    "taskmarket:TSK-JP5TGGAS": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-JP5TGGAS"
+    },
+    "taskmarket:TSK-9N094N22": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-9N094N22"
+    },
+    "taskmarket:TSK-BECT1KW9": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-BECT1KW9"
+    },
+    "taskmarket:TSK-AKGEGNX1": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-AKGEGNX1"
+    },
+    "taskmarket:TSK-HXC1NH5E": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-HXC1NH5E"
+    },
+    "taskmarket:TSK-KJ8098SM": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-KJ8098SM"
+    },
+    "taskmarket:TSK-XW6AGNNW": {
+      "ts": 1795464444,
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-XW6AGNNW"
     }
   },
-  "updated_at": "2026-11-24T03:52:24+0800",
+  "updated_at": "2026-11-24T04:07:24+0800",
   "version": 1
 }
