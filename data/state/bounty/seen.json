@@ -2666,8 +2666,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "River Room — agent-packets. Directory-known TAP workers only (current enforced Taskmarket label tap:identity:verified). Public BOUNTY; multiple contributors may submit for one tot…"
+    },
+    "make.fun:u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610": {
+      "ts": 1795463544,
+      "at": "2026-11-24T03:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Line Roast: The Gadget You Use Every Day"
+    },
+    "make.fun:u-0xkianno-one-emoji-one-smile-5470751f": {
+      "ts": 1795463544,
+      "at": "2026-11-24T03:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Emoji, One Smile"
     }
   },
-  "updated_at": "2026-11-24T03:37:23+0800",
+  "updated_at": "2026-11-24T03:52:24+0800",
   "version": 1
 }
