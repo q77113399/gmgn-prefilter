@@ -2449,8 +2449,15 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "Get the most paying entrants across the bounties you launch on make.fun"
+    },
+    "agent-bounty-feed:taskmarket:TSK-SX7M2NJT": {
+      "ts": 1795419445,
+      "at": "2026-11-23T15:37:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 2 of 6: design 1 new course. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-23T15:22:25+0800",
+  "updated_at": "2026-11-23T15:37:25+0800",
   "version": 1
 }
