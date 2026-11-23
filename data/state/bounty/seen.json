@@ -2428,8 +2428,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Moon cargo mission, 2 of 6: 3 hazards of landing at the south pole. $6 shared by all who enter (first 30)"
+    },
+    "taskmarket:TSK-SX7M2NJT": {
+      "ts": 1795414944,
+      "at": "2026-11-23T14:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-SX7M2NJT"
     }
   },
-  "updated_at": "2026-11-23T12:22:23+0800",
+  "updated_at": "2026-11-23T14:22:24+0800",
   "version": 1
 }
