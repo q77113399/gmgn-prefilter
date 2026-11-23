@@ -2904,8 +2904,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Shopping test cases, 3 of 6: a shopper left something out: which 3 questions do you ask? $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-yuki-kato-3-am-hotfix-the-funniest-commit-message-e9f60106": {
+      "ts": 1795476146,
+      "at": "2026-11-24T07:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "3 AM Hotfix: The Funniest Commit Message"
+    },
+    "make.fun:u-rusdyxbt-one-letter-coffee-or-tea-89877fa0": {
+      "ts": 1795476146,
+      "at": "2026-11-24T07:22:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Letter: Coffee or Tea"
     }
   },
-  "updated_at": "2026-11-24T07:07:20+0800",
+  "updated_at": "2026-11-24T07:22:26+0800",
   "version": 1
 }
