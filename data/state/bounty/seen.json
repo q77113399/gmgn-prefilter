@@ -2309,8 +2309,22 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-9WF3H8EZ"
+    },
+    "make.fun:news-image-20261123": {
+      "ts": 1795393343,
+      "at": "2026-11-23T08:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 23 November's world news in one image"
+    },
+    "taskmarket:TSK-CFXBB4ZQ": {
+      "ts": 1795393343,
+      "at": "2026-11-23T08:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-CFXBB4ZQ"
     }
   },
-  "updated_at": "2026-11-23T07:37:25+0800",
+  "updated_at": "2026-11-23T08:22:23+0800",
   "version": 1
 }
