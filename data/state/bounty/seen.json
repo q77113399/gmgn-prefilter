@@ -2414,8 +2414,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-0C145J48"
+    },
+    "superteam:f8748828-ed71-465b-bb2e-22f4be23715d": {
+      "ts": 1795406841,
+      "at": "2026-11-23T12:07:21+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)"
     }
   },
-  "updated_at": "2026-11-23T11:22:24+0800",
+  "updated_at": "2026-11-23T12:07:21+0800",
   "version": 1
 }
