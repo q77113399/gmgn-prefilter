@@ -2771,8 +2771,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-34XVN8QT"
+    },
+    "make.fun:u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d": {
+      "ts": 1795469842,
+      "at": "2026-11-24T05:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest AI Out-of-Office Reply"
     }
   },
-  "updated_at": "2026-11-24T05:22:25+0800",
+  "updated_at": "2026-11-24T05:37:22+0800",
   "version": 1
 }
