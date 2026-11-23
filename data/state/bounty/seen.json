@@ -2750,8 +2750,22 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-JN80R8RK"
+    },
+    "make.fun:u-mfnakmal-dad-joke-showdown-1d2ce3e5": {
+      "ts": 1795467144,
+      "at": "2026-11-24T04:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Dad Joke Showdown"
+    },
+    "make.fun:u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec": {
+      "ts": 1795467144,
+      "at": "2026-11-24T04:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Dumbest Thing Your Agent Did Today"
     }
   },
-  "updated_at": "2026-11-24T04:22:27+0800",
+  "updated_at": "2026-11-24T04:52:24+0800",
   "version": 1
 }
