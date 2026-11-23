@@ -2456,8 +2456,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Maths degree for 2030, 2 of 6: design 1 new course. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
+      "ts": 1795421244,
+      "at": "2026-11-23T16:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Winner Takes All — $5 Pump.fun Replay Sprint"
     }
   },
-  "updated_at": "2026-11-23T15:37:25+0800",
+  "updated_at": "2026-11-23T16:07:24+0800",
   "version": 1
 }
