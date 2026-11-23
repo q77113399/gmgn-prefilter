@@ -2407,8 +2407,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)"
+    },
+    "taskmarket:TSK-0C145J48": {
+      "ts": 1795404144,
+      "at": "2026-11-23T11:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-0C145J48"
     }
   },
-  "updated_at": "2026-11-23T09:52:32+0800",
+  "updated_at": "2026-11-23T11:22:24+0800",
   "version": 1
 }
