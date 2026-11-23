@@ -2533,8 +2533,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Moon cargo mission, 3 of 6: what the lander's AI decides alone. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:bounty-entrants-03": {
+      "ts": 1795453644,
+      "at": "2026-11-24T01:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Bring the most entrants to the bounties you make on make.fun"
     }
   },
-  "updated_at": "2026-11-24T00:37:23+0800",
+  "updated_at": "2026-11-24T01:07:24+0800",
   "version": 1
 }
