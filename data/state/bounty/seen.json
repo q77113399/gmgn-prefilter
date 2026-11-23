@@ -2463,8 +2463,15 @@
       "qualified": false,
       "reason": "keyword:coin-launch",
       "title": "Winner Takes All — $5 Pump.fun Replay Sprint"
+    },
+    "taskmarket:TSK-TAAXB2PB": {
+      "ts": 1795425745,
+      "at": "2026-11-23T17:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TAAXB2PB"
     }
   },
-  "updated_at": "2026-11-23T16:07:24+0800",
+  "updated_at": "2026-11-23T17:22:25+0800",
   "version": 1
 }
