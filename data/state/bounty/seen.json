@@ -2519,8 +2519,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-NA1MARH2"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JNEHTD5J": {
+      "ts": 1795448243,
+      "at": "2026-11-23T23:37:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q104 (first-timers only): list our treasury's FLAPJAX outflows of 11-20 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
     }
   },
-  "updated_at": "2026-11-23T23:22:24+0800",
+  "updated_at": "2026-11-23T23:37:23+0800",
   "version": 1
 }
