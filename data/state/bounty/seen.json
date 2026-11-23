@@ -2505,8 +2505,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Explorer yacht spec, 3 of 6: the hull, for ice and for comfort. $6 shared by all who enter (first 30)"
+    },
+    "agent-bounty-feed:cantina:78a6e652": {
+      "ts": 1795443745,
+      "at": "2026-11-23T22:22:25+0800",
+      "qualified": false,
+      "reason": "requires:kyc,keyword:kyc,keyword:audit",
+      "title": "Audit contest: Morpho Midnight Adapter"
     }
   },
-  "updated_at": "2026-11-23T21:22:24+0800",
+  "updated_at": "2026-11-23T22:22:25+0800",
   "version": 1
 }
