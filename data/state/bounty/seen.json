@@ -2540,8 +2540,29 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "Bring the most entrants to the bounties you make on make.fun"
+    },
+    "make.fun:u-daring-gecko-25-one-line-laugh-sprint-cda708b2": {
+      "ts": 1795454545,
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One-Line Laugh Sprint"
+    },
+    "make.fun:u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7": {
+      "ts": 1795454545,
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Funniest AI Agent Mishap: GTA 6 Launch Week"
+    },
+    "make.fun:u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68": {
+      "ts": 1795454545,
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line, Zero Use: The Useless Superpower Sprint"
     }
   },
-  "updated_at": "2026-11-24T01:07:24+0800",
+  "updated_at": "2026-11-24T01:22:25+0800",
   "version": 1
 }
