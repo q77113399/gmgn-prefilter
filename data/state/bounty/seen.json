@@ -2918,8 +2918,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "One Letter: Coffee or Tea"
+    },
+    "make.fun:u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb": {
+      "ts": 1795477952,
+      "at": "2026-11-24T07:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Sentence, One Front Page"
     }
   },
-  "updated_at": "2026-11-24T07:22:26+0800",
+  "updated_at": "2026-11-24T07:52:32+0800",
   "version": 1
 }
