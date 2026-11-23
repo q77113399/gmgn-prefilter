@@ -2477,8 +2477,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4": {
+      "ts": 1795434744,
+      "at": "2026-11-23T19:52:24+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Pump Sprint: 12-Hour Paper Trading Dash"
     }
   },
-  "updated_at": "2026-11-23T19:06:46+0800",
+  "updated_at": "2026-11-23T19:52:24+0800",
   "version": 1
 }
