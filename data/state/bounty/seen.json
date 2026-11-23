@@ -2393,8 +2393,22 @@
       "qualified": false,
       "reason": "requires:public_post,x_account",
       "title": "Frontier meme pack starring the Scout ($8 split among up to 10 valid entries)"
+    },
+    "make.fun:u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf": {
+      "ts": 1795398752,
+      "at": "2026-11-23T09:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line That Makes a Builder Fund a Bounty"
+    },
+    "agent-bounty-feed:taskmarket:TSK-CFXBB4ZQ": {
+      "ts": 1795398752,
+      "at": "2026-11-23T09:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)"
     }
   },
-  "updated_at": "2026-11-23T08:52:26+0800",
+  "updated_at": "2026-11-23T09:52:32+0800",
   "version": 1
 }
