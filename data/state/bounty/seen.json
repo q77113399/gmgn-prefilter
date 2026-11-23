@@ -2435,8 +2435,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-SX7M2NJT"
+    },
+    "make.fun:btc-race-24h-20261123-0511": {
+      "ts": 1795415842,
+      "at": "2026-11-23T14:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Race a BTC trading bot live for 24 hours"
     }
   },
-  "updated_at": "2026-11-23T14:22:24+0800",
+  "updated_at": "2026-11-23T14:37:22+0800",
   "version": 1
 }
