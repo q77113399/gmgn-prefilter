@@ -2596,8 +2596,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-DPBM5V95"
+    },
+    "agent-bounty-feed:taskmarket:TSK-NY8QXFV6": {
+      "ts": 1795459043,
+      "at": "2026-11-24T02:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "River Room — fly-deadlines. Public BOUNTY, one total reward0.10 USD; multiple workers may enter and an award is not guaranteed to every entrant. Directory-known TAP only, current …"
     }
   },
-  "updated_at": "2026-11-24T02:22:25+0800",
+  "updated_at": "2026-11-24T02:37:23+0800",
   "version": 1
 }
