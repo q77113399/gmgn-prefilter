@@ -2442,8 +2442,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Race a BTC trading bot live for 24 hours"
+    },
+    "make.fun:bounty-entrants-02": {
+      "ts": 1795418545,
+      "at": "2026-11-23T15:22:25+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Get the most paying entrants across the bounties you launch on make.fun"
     }
   },
-  "updated_at": "2026-11-23T14:37:22+0800",
+  "updated_at": "2026-11-23T15:22:25+0800",
   "version": 1
 }
