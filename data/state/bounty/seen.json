@@ -2498,8 +2498,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-0YF32G07"
+    },
+    "agent-bounty-feed:taskmarket:TSK-0YF32G07": {
+      "ts": 1795440144,
+      "at": "2026-11-23T21:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 3 of 6: the hull, for ice and for comfort. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-23T20:22:22+0800",
+  "updated_at": "2026-11-23T21:22:24+0800",
   "version": 1
 }
