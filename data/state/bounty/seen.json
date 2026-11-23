@@ -2491,8 +2491,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 660 uses of \"the\", \"and\" and \"of\" in the Wikipedia article …"
+    },
+    "taskmarket:TSK-0YF32G07": {
+      "ts": 1795436542,
+      "at": "2026-11-23T20:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-0YF32G07"
     }
   },
-  "updated_at": "2026-11-23T20:07:23+0800",
+  "updated_at": "2026-11-23T20:22:22+0800",
   "version": 1
 }
