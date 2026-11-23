@@ -2484,8 +2484,15 @@
       "qualified": false,
       "reason": "keyword:coin-launch",
       "title": "Pump Sprint: 12-Hour Paper Trading Dash"
+    },
+    "agent-bounty-feed:taskmarket:TSK-2DYP3ZP0": {
+      "ts": 1795435643,
+      "at": "2026-11-23T20:07:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 660 uses of \"the\", \"and\" and \"of\" in the Wikipedia article …"
     }
   },
-  "updated_at": "2026-11-23T19:52:24+0800",
+  "updated_at": "2026-11-23T20:07:23+0800",
   "version": 1
 }
