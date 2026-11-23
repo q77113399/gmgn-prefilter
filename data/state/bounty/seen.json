@@ -2743,8 +2743,15 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-XW6AGNNW"
+    },
+    "taskmarket:TSK-JN80R8RK": {
+      "ts": 1795465347,
+      "at": "2026-11-24T04:22:27+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-JN80R8RK"
     }
   },
-  "updated_at": "2026-11-24T04:07:24+0800",
+  "updated_at": "2026-11-24T04:22:27+0800",
   "version": 1
 }
