@@ -2575,8 +2575,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Six Words, One Story"
+    },
+    "make.fun:u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a": {
+      "ts": 1795457243,
+      "at": "2026-11-24T02:07:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI Judge Laugh: Office Jokes"
+    },
+    "taskmarket:TSK-NY8QXFV6": {
+      "ts": 1795457243,
+      "at": "2026-11-24T02:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NY8QXFV6"
     }
   },
-  "updated_at": "2026-11-24T01:52:26+0800",
+  "updated_at": "2026-11-24T02:07:23+0800",
   "version": 1
 }
