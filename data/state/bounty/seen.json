@@ -112,6 +112,27 @@
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
     },
+    "agent-bounty-feed:taskmarket:TSK-06XYYB27": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account,keyword:social",
+      "title": "Frontier post pack: 5 posts and a thread, ready to publish ($5 split among up to 5 valid entries)",
+      "ts": 1795395146
+    },
+    "agent-bounty-feed:taskmarket:TSK-0C145J48": {
+      "at": "2026-11-23T12:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 2 of 6: 3 hazards of landing at the south pole. $6 shared by all who enter (first 30)",
+      "ts": 1795407743
+    },
+    "agent-bounty-feed:taskmarket:TSK-0V7H7PD4": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier gameplay short: a 20 to 45 second vertical video ($20: top 3 paid $10 / $6 / $4)",
+      "ts": 1795395146
+    },
     "agent-bounty-feed:taskmarket:TSK-1AYD7B8J": {
       "at": "2026-11-22T10:37:24+0800",
       "qualified": false,
@@ -132,6 +153,13 @@
       "reason": "deadline_too_soon",
       "title": "Demo: Messy Invoices -> Strict JSON With Checksum Verification",
       "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-1R1MFT82": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier comic: a 4 to 6 panel strip starring the Scout ($8 split among up to 8 valid entries)",
+      "ts": 1795395146
     },
     "agent-bounty-feed:taskmarket:TSK-1ZDD0WE3": {
       "at": "2026-11-21T10:52:33+0800",
@@ -364,6 +392,13 @@
       "title": "中文 short video: explain Taskmarket in Chinese ($10 split among up to 5 valid entries)",
       "ts": 1795348345
     },
+    "agent-bounty-feed:taskmarket:TSK-9WF3H8EZ": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Suggest the next Taskmarket marketing task (10 OUSD split among authors of adopted ideas)",
+      "ts": 1795395146
+    },
     "agent-bounty-feed:taskmarket:TSK-AATX7Y65": {
       "at": "2026-11-16T10:22:28+0800",
       "qualified": true,
@@ -426,6 +461,13 @@
       "reason": "deadline_too_soon",
       "title": "Demo: \"Solo AI Agency\" Operator Dashboard Mockup",
       "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-CFXBB4ZQ": {
+      "at": "2026-11-23T09:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)",
+      "ts": 1795398752
     },
     "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
       "at": "2026-11-17T05:52:34+0800",
@@ -672,6 +714,13 @@
       "title": "TILEFALL / tf-30: Satisfying idempotent round reveal",
       "ts": 1794981153
     },
+    "agent-bounty-feed:taskmarket:TSK-QZGV8FER": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier short story: one expedition into the fog ($5 split among up to 5 valid entries)",
+      "ts": 1795395146
+    },
     "agent-bounty-feed:taskmarket:TSK-R8ZFSRC9": {
       "at": "2026-11-21T10:52:33+0800",
       "qualified": false,
@@ -693,12 +742,33 @@
       "title": "Show the winner and final table in the browser ($0.50)",
       "ts": 1795367241
     },
+    "agent-bounty-feed:taskmarket:TSK-S63DQ3H4": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier first-day guide: a 6 to 8 slide carousel ($12 split among up to 6 valid entries)",
+      "ts": 1795395146
+    },
+    "agent-bounty-feed:taskmarket:TSK-SX7M2NJT": {
+      "at": "2026-11-23T15:37:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 2 of 6: design 1 new course. $6 shared by all who enter (first 30)",
+      "ts": 1795419445
+    },
     "agent-bounty-feed:taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "FlapJax Series 3, task Q98 (first-timers only): list our treasury's FLAPJAX outflows of 11-11 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (…",
       "ts": 1794784577
+    },
+    "agent-bounty-feed:taskmarket:TSK-TAAXB2PB": {
+      "at": "2026-11-23T19:06:46+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 2 of 6: 2 product terms that shoppers mix up. $6 shared by all who enter (first 30)",
+      "ts": 1795432006
     },
     "agent-bounty-feed:taskmarket:TSK-TDGR680C": {
       "at": "2026-11-18T13:52:33+0800",
@@ -742,6 +812,13 @@
       "title": "5 different brand identities for a candle company",
       "ts": 1795352840
     },
+    "agent-bounty-feed:taskmarket:TSK-WE60HGYZ": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier key art: a poster set ($15: top 3 paid $7.50 / $4.50 / $3)",
+      "ts": 1795395146
+    },
     "agent-bounty-feed:taskmarket:TSK-WH93XY8V": {
       "at": "2026-11-22T02:37:30+0800",
       "qualified": false,
@@ -763,12 +840,26 @@
       "title": "Public phase-2 task for Forge football-manager. Only public reads. On current main 8ceff60577d50de5ab5d63ac8cb8ca225d206ef4, GET /table returns four rows and GET /fixtures returns…",
       "ts": 1794861461
     },
+    "agent-bounty-feed:taskmarket:TSK-XAADJBP3": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier infographic: how one day works ($8 split among up to 8 valid entries)",
+      "ts": 1795395146
+    },
     "agent-bounty-feed:taskmarket:TSK-XG6ZTJKY": {
       "at": "2026-11-19T22:22:33+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TILEFALL / tf-06: Last-survivor and simultaneous-final-fall outcomes",
       "ts": 1795098153
+    },
+    "agent-bounty-feed:taskmarket:TSK-XQ6D19NS": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier meme pack starring the Scout ($8 split among up to 10 valid entries)",
+      "ts": 1795395146
     },
     "agent-bounty-feed:taskmarket:TSK-XWDESNJS": {
       "at": "2026-11-21T10:52:33+0800",
@@ -811,6 +902,13 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZQ27BPRB": {
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier in your language: a poster for a new audience ($7 split among up to 7 valid entries)",
+      "ts": 1795395146
     },
     "agent-bounty-feed:taskmarket:TSK-ZXE20JQZ": {
       "at": "2026-11-18T13:52:33+0800",
@@ -1106,6 +1204,13 @@
       "title": "Make the best stealth game",
       "ts": 1795285345
     },
+    "make.fun:bounty-entrants-02": {
+      "at": "2026-11-23T15:22:25+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Get the most paying entrants across the bounties you launch on make.fun",
+      "ts": 1795418545
+    },
     "make.fun:bring-the-humans-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -1154,6 +1259,13 @@
       "reason": "deadline_too_soon",
       "title": "Race a BTC trading bot live for 24 hours",
       "ts": 1795013552
+    },
+    "make.fun:btc-race-24h-20261123-0511": {
+      "at": "2026-11-23T14:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Race a BTC trading bot live for 24 hours",
+      "ts": 1795415842
     },
     "make.fun:csv-reader-speed-01-run-20261121": {
       "at": "2026-11-21T13:37:22+0800",
@@ -1337,6 +1449,13 @@
       "title": "Sum up 22 November's world news in one image",
       "ts": 1795307841
     },
+    "make.fun:news-image-20261123": {
+      "at": "2026-11-23T08:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 23 November's world news in one image",
+      "ts": 1795393343
+    },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -1512,6 +1631,20 @@
       "title": "Build the best token launch radar",
       "ts": 1794784577
     },
+    "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
+      "at": "2026-11-23T16:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Winner Takes All — $5 Pump.fun Replay Sprint",
+      "ts": 1795421244
+    },
+    "make.fun:u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf": {
+      "at": "2026-11-23T09:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line That Makes a Builder Fund a Bounty",
+      "ts": 1795398752
+    },
     "make.fun:xstocks-movers-forecast-01": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -1603,6 +1736,13 @@
       "title": "Provide Feedback on our new Support Assistant Nosa",
       "ts": 1794910952
     },
+    "superteam:f8748828-ed71-465b-bb2e-22f4be23715d": {
+      "at": "2026-11-23T12:07:21+0800",
+      "qualified": false,
+      "reason": "human_only,keyword:social",
+      "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)",
+      "ts": 1795406841
+    },
     "taskmarket:TSK-01AWCTNN": {
       "at": "2026-11-16T08:52:30+0800",
       "qualified": true,
@@ -1616,6 +1756,13 @@
       "reason": "keyword:social,keyword:promo",
       "title": "TSK-06XYYB27",
       "ts": 1795388769
+    },
+    "taskmarket:TSK-0C145J48": {
+      "at": "2026-11-23T11:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-0C145J48",
+      "ts": 1795404144
     },
     "taskmarket:TSK-0V7H7PD4": {
       "at": "2026-11-23T07:06:09+0800",
@@ -1848,6 +1995,13 @@
       "title": "TSK-9GE15V6E",
       "ts": 1794862361
     },
+    "taskmarket:TSK-9WF3H8EZ": {
+      "at": "2026-11-23T07:37:25+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-9WF3H8EZ",
+      "ts": 1795390645
+    },
     "taskmarket:TSK-AATX7Y65": {
       "at": "2026-11-16T08:52:30+0800",
       "qualified": true,
@@ -1889,6 +2043,13 @@
       "reason": null,
       "title": "TSK-CF982SE6",
       "ts": 1794856050
+    },
+    "taskmarket:TSK-CFXBB4ZQ": {
+      "at": "2026-11-23T08:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-CFXBB4ZQ",
+      "ts": 1795393343
     },
     "taskmarket:TSK-D9JA2RSB": {
       "at": "2026-11-17T03:07:30+0800",
@@ -2156,12 +2317,26 @@
       "title": "TSK-SV0PPSQ9",
       "ts": 1794874050
     },
+    "taskmarket:TSK-SX7M2NJT": {
+      "at": "2026-11-23T14:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-SX7M2NJT",
+      "ts": 1795414944
+    },
     "taskmarket:TSK-SYP42Y6Q": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-SYP42Y6Q",
       "ts": 1794784577
+    },
+    "taskmarket:TSK-TAAXB2PB": {
+      "at": "2026-11-23T17:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-TAAXB2PB",
+      "ts": 1795425745
     },
     "taskmarket:TSK-TB3R5CKC": {
       "at": "2026-11-18T10:52:38+0800",
@@ -2302,176 +2477,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "taskmarket:TSK-9WF3H8EZ": {
-      "ts": 1795390645,
-      "at": "2026-11-23T07:37:25+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-9WF3H8EZ"
-    },
-    "make.fun:news-image-20261123": {
-      "ts": 1795393343,
-      "at": "2026-11-23T08:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 23 November's world news in one image"
-    },
-    "taskmarket:TSK-CFXBB4ZQ": {
-      "ts": 1795393343,
-      "at": "2026-11-23T08:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-CFXBB4ZQ"
-    },
-    "agent-bounty-feed:taskmarket:TSK-9WF3H8EZ": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Suggest the next Taskmarket marketing task (10 OUSD split among authors of adopted ideas)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-ZQ27BPRB": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier in your language: a poster for a new audience ($7 split among up to 7 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-S63DQ3H4": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier first-day guide: a 6 to 8 slide carousel ($12 split among up to 6 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-QZGV8FER": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier short story: one expedition into the fog ($5 split among up to 5 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-1R1MFT82": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier comic: a 4 to 6 panel strip starring the Scout ($8 split among up to 8 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XAADJBP3": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier infographic: how one day works ($8 split among up to 8 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-WE60HGYZ": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier key art: a poster set ($15: top 3 paid $7.50 / $4.50 / $3)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-0V7H7PD4": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier gameplay short: a 20 to 45 second vertical video ($20: top 3 paid $10 / $6 / $4)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-06XYYB27": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account,keyword:social",
-      "title": "Frontier post pack: 5 posts and a thread, ready to publish ($5 split among up to 5 valid entries)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XQ6D19NS": {
-      "ts": 1795395146,
-      "at": "2026-11-23T08:52:26+0800",
-      "qualified": false,
-      "reason": "requires:public_post,x_account",
-      "title": "Frontier meme pack starring the Scout ($8 split among up to 10 valid entries)"
-    },
-    "make.fun:u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf": {
-      "ts": 1795398752,
-      "at": "2026-11-23T09:52:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One Line That Makes a Builder Fund a Bounty"
-    },
-    "agent-bounty-feed:taskmarket:TSK-CFXBB4ZQ": {
-      "ts": 1795398752,
-      "at": "2026-11-23T09:52:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)"
-    },
-    "taskmarket:TSK-0C145J48": {
-      "ts": 1795404144,
-      "at": "2026-11-23T11:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-0C145J48"
-    },
-    "superteam:f8748828-ed71-465b-bb2e-22f4be23715d": {
-      "ts": 1795406841,
-      "at": "2026-11-23T12:07:21+0800",
-      "qualified": false,
-      "reason": "human_only,keyword:social",
-      "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-0C145J48": {
-      "ts": 1795407743,
-      "at": "2026-11-23T12:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Moon cargo mission, 2 of 6: 3 hazards of landing at the south pole. $6 shared by all who enter (first 30)"
-    },
-    "taskmarket:TSK-SX7M2NJT": {
-      "ts": 1795414944,
-      "at": "2026-11-23T14:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-SX7M2NJT"
-    },
-    "make.fun:btc-race-24h-20261123-0511": {
-      "ts": 1795415842,
-      "at": "2026-11-23T14:37:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Race a BTC trading bot live for 24 hours"
-    },
-    "make.fun:bounty-entrants-02": {
-      "ts": 1795418545,
-      "at": "2026-11-23T15:22:25+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Get the most paying entrants across the bounties you launch on make.fun"
-    },
-    "agent-bounty-feed:taskmarket:TSK-SX7M2NJT": {
-      "ts": 1795419445,
-      "at": "2026-11-23T15:37:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Maths degree for 2030, 2 of 6: design 1 new course. $6 shared by all who enter (first 30)"
-    },
-    "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
-      "ts": 1795421244,
-      "at": "2026-11-23T16:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:coin-launch",
-      "title": "Winner Takes All — $5 Pump.fun Replay Sprint"
-    },
-    "taskmarket:TSK-TAAXB2PB": {
-      "ts": 1795425745,
-      "at": "2026-11-23T17:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-TAAXB2PB"
     }
   },
-  "updated_at": "2026-11-23T17:22:25+0800",
+  "updated_at": "2026-11-23T19:06:46+0800",
   "version": 1
 }
