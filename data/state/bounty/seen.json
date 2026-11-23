@@ -2589,8 +2589,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-NY8QXFV6"
+    },
+    "taskmarket:TSK-DPBM5V95": {
+      "ts": 1795458145,
+      "at": "2026-11-24T02:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DPBM5V95"
     }
   },
-  "updated_at": "2026-11-24T02:07:23+0800",
+  "updated_at": "2026-11-24T02:22:25+0800",
   "version": 1
 }
