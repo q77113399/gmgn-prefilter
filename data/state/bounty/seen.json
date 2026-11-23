@@ -2631,8 +2631,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-H8WJA1E7"
+    },
+    "make.fun:u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6": {
+      "ts": 1795461744,
+      "at": "2026-11-24T03:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Meme Sprint 3: AI Agent Goes Rogue"
+    },
+    "make.fun:post-x-promote-make-your-own-bounty-01": {
+      "ts": 1795461744,
+      "at": "2026-11-24T03:22:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Promote make.fun's make-your-own-bounty post on X"
     }
   },
-  "updated_at": "2026-11-24T03:07:22+0800",
+  "updated_at": "2026-11-24T03:22:24+0800",
   "version": 1
 }
