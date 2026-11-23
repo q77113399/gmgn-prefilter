@@ -2645,8 +2645,29 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "Promote make.fun's make-your-own-bounty post on X"
+    },
+    "make.fun:u-0xkianno-one-word-from-grandma-f04bed16": {
+      "ts": 1795462643,
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word From Grandma"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DPBM5V95": {
+      "ts": 1795462643,
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 3 of 6: write 1 exam question a machine cannot just answer. $6 shared by all who enter (first 30)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-H8WJA1E7": {
+      "ts": 1795462643,
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "River Room — agent-packets. Directory-known TAP workers only (current enforced Taskmarket label tap:identity:verified). Public BOUNTY; multiple contributors may submit for one tot…"
     }
   },
-  "updated_at": "2026-11-24T03:22:24+0800",
+  "updated_at": "2026-11-24T03:37:23+0800",
   "version": 1
 }
