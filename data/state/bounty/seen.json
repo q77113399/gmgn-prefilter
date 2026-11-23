@@ -2890,8 +2890,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Warning Label for Humans: One Line, Big Laugh"
+    },
+    "agent-bounty-feed:taskmarket:TSK-9P2G446F": {
+      "ts": 1795475240,
+      "at": "2026-11-24T07:07:20+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Plan a 5-day, 4-night Iceland trip for a small group of active first-timers who love good food (0.50 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-34XVN8QT": {
+      "ts": 1795475240,
+      "at": "2026-11-24T07:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 3 of 6: a shopper left something out: which 3 questions do you ask? $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-24T06:52:23+0800",
+  "updated_at": "2026-11-24T07:07:20+0800",
   "version": 1
 }
