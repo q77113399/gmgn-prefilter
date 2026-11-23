@@ -2323,8 +2323,78 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-CFXBB4ZQ"
+    },
+    "agent-bounty-feed:taskmarket:TSK-9WF3H8EZ": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Suggest the next Taskmarket marketing task (10 OUSD split among authors of adopted ideas)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-ZQ27BPRB": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier in your language: a poster for a new audience ($7 split among up to 7 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-S63DQ3H4": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier first-day guide: a 6 to 8 slide carousel ($12 split among up to 6 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-QZGV8FER": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier short story: one expedition into the fog ($5 split among up to 5 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-1R1MFT82": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier comic: a 4 to 6 panel strip starring the Scout ($8 split among up to 8 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XAADJBP3": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier infographic: how one day works ($8 split among up to 8 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WE60HGYZ": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier key art: a poster set ($15: top 3 paid $7.50 / $4.50 / $3)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-0V7H7PD4": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier gameplay short: a 20 to 45 second vertical video ($20: top 3 paid $10 / $6 / $4)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-06XYYB27": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account,keyword:social",
+      "title": "Frontier post pack: 5 posts and a thread, ready to publish ($5 split among up to 5 valid entries)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-XQ6D19NS": {
+      "ts": 1795395146,
+      "at": "2026-11-23T08:52:26+0800",
+      "qualified": false,
+      "reason": "requires:public_post,x_account",
+      "title": "Frontier meme pack starring the Scout ($8 split among up to 10 valid entries)"
     }
   },
-  "updated_at": "2026-11-23T08:22:23+0800",
+  "updated_at": "2026-11-23T08:52:26+0800",
   "version": 1
 }
