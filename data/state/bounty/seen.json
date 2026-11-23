@@ -2421,8 +2421,15 @@
       "qualified": false,
       "reason": "human_only,keyword:social",
       "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-0C145J48": {
+      "ts": 1795407743,
+      "at": "2026-11-23T12:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 2 of 6: 3 hazards of landing at the south pole. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-23T12:07:21+0800",
+  "updated_at": "2026-11-23T12:22:23+0800",
   "version": 1
 }
