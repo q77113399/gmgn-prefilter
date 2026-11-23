@@ -2512,8 +2512,15 @@
       "qualified": false,
       "reason": "requires:kyc,keyword:kyc,keyword:audit",
       "title": "Audit contest: Morpho Midnight Adapter"
+    },
+    "taskmarket:TSK-NA1MARH2": {
+      "ts": 1795447344,
+      "at": "2026-11-23T23:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NA1MARH2"
     }
   },
-  "updated_at": "2026-11-23T22:22:25+0800",
+  "updated_at": "2026-11-23T23:22:24+0800",
   "version": 1
 }
