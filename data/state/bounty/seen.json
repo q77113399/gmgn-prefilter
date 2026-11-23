@@ -2764,8 +2764,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Dumbest Thing Your Agent Did Today"
+    },
+    "taskmarket:TSK-34XVN8QT": {
+      "ts": 1795468945,
+      "at": "2026-11-24T05:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-34XVN8QT"
     }
   },
-  "updated_at": "2026-11-24T04:52:24+0800",
+  "updated_at": "2026-11-24T05:22:25+0800",
   "version": 1
 }
