@@ -2925,8 +2925,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "One Sentence, One Front Page"
+    },
+    "make.fun:u-rusdyxbt-one-word-one-username-one-reward-1a191fae": {
+      "ts": 1795478853,
+      "at": "2026-11-24T08:07:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word, One Username, One Reward"
     }
   },
-  "updated_at": "2026-11-24T07:52:32+0800",
+  "updated_at": "2026-11-24T08:07:33+0800",
   "version": 1
 }
