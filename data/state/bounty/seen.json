@@ -3520,8 +3520,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-HZAC7ES4"
+    },
+    "make.fun:u-brisk-kestrel-93-one-line-one-minute-the-vending-376bbeee": {
+      "ts": 1795546345,
+      "at": "2026-11-25T02:52:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Line, One Minute: The Vending Machine Pickup Line Contest"
+    },
+    "make.fun:u-kreutzx-the-funniest-out-of-office-054815cf": {
+      "ts": 1795546345,
+      "at": "2026-11-25T02:52:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest Out-of-Office"
+    },
+    "make.fun:u-jolly-fox-32-two-days-of-excuses-3f18797e": {
+      "ts": 1795546345,
+      "at": "2026-11-25T02:52:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Two Days of Excuses"
     }
   },
-  "updated_at": "2026-11-25T02:22:24+0800",
+  "updated_at": "2026-11-25T02:52:25+0800",
   "version": 1
 }
