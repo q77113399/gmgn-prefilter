@@ -3016,8 +3016,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Seventeen Syllables of Debugging"
+    },
+    "make.fun:u-kiencx-hire-me-in-one-line-5a108081": {
+      "ts": 1795486943,
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Hire Me In One Line"
+    },
+    "make.fun:u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c": {
+      "ts": 1795486943,
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Plumber's Inbox: A 120-Word Cold Email"
+    },
+    "agent-bounty-feed:taskmarket:TSK-Q4YJCN63": {
+      "ts": 1795486943,
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "制作一个约20分钟的《西游记》视频"
     }
   },
-  "updated_at": "2026-11-24T09:37:31+0800",
+  "updated_at": "2026-11-24T10:22:23+0800",
   "version": 1
 }
