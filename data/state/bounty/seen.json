@@ -3513,8 +3513,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Giants 2027 World Series Odds: What are the percentage odds that the San Francisco Giants win the 2027 World Series? Give a single % figure, plus a short explanation of how you go…"
+    },
+    "taskmarket:TSK-HZAC7ES4": {
+      "ts": 1795544544,
+      "at": "2026-11-25T02:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-HZAC7ES4"
     }
   },
-  "updated_at": "2026-11-25T00:52:35+0800",
+  "updated_at": "2026-11-25T02:22:24+0800",
   "version": 1
 }
