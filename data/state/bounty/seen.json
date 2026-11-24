@@ -1,5 +1,12 @@
 {
   "ids": {
+    "agent-bounty-feed:cantina:78a6e652": {
+      "at": "2026-11-23T22:22:25+0800",
+      "qualified": false,
+      "reason": "requires:kyc,keyword:kyc,keyword:audit",
+      "title": "Audit contest: Morpho Midnight Adapter",
+      "ts": 1795443745
+    },
     "agent-bounty-feed:elgora:2": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": true,
@@ -133,6 +140,13 @@
       "title": "Frontier gameplay short: a 20 to 45 second vertical video ($20: top 3 paid $10 / $6 / $4)",
       "ts": 1795395146
     },
+    "agent-bounty-feed:taskmarket:TSK-0YF32G07": {
+      "at": "2026-11-23T21:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 3 of 6: the hull, for ice and for comfort. $6 shared by all who enter (first 30)",
+      "ts": 1795440144
+    },
     "agent-bounty-feed:taskmarket:TSK-1AYD7B8J": {
       "at": "2026-11-22T10:37:24+0800",
       "qualified": false,
@@ -168,6 +182,13 @@
       "title": "Demo: Product Launch Kit From Raw Feature Bullets (Demo RelayKit)",
       "ts": 1795229553
     },
+    "agent-bounty-feed:taskmarket:TSK-2DYP3ZP0": {
+      "at": "2026-11-23T20:07:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 660 uses of \"the\", \"and\" and \"of\" in the Wikipedia article …",
+      "ts": 1795435643
+    },
     "agent-bounty-feed:taskmarket:TSK-2RVTZNXW": {
       "at": "2026-11-18T10:36:56+0800",
       "qualified": false,
@@ -181,6 +202,13 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-34XVN8QT": {
+      "at": "2026-11-24T07:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 3 of 6: a shopper left something out: which 3 questions do you ask? $6 shared by all who enter (first 30)",
+      "ts": 1795475240
     },
     "agent-bounty-feed:taskmarket:TSK-3CVSCGPA": {
       "at": "2026-11-16T10:22:28+0800",
@@ -392,6 +420,20 @@
       "title": "中文 short video: explain Taskmarket in Chinese ($10 split among up to 5 valid entries)",
       "ts": 1795348345
     },
+    "agent-bounty-feed:taskmarket:TSK-9N094N22": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Spanish: first task, escrow and TAP on one page (5 OUSD)",
+      "ts": 1795470753
+    },
+    "agent-bounty-feed:taskmarket:TSK-9P2G446F": {
+      "at": "2026-11-24T07:07:20+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Plan a 5-day, 4-night Iceland trip for a small group of active first-timers who love good food (0.50 OUSD)",
+      "ts": 1795475240
+    },
     "agent-bounty-feed:taskmarket:TSK-9WF3H8EZ": {
       "at": "2026-11-23T08:52:26+0800",
       "qualified": false,
@@ -405,6 +447,13 @@
       "reason": null,
       "title": "PUBLIC BOUNTY — PLZ REMAIN CALM!",
       "ts": 1794795748
+    },
+    "agent-bounty-feed:taskmarket:TSK-AKGEGNX1": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "The public proof run: one real bounty, post to payout, narrated with tx links (8 OUSD)",
+      "ts": 1795470753
     },
     "agent-bounty-feed:taskmarket:TSK-ANHT8590": {
       "at": "2026-11-21T10:52:33+0800",
@@ -433,6 +482,13 @@
       "reason": null,
       "title": "FlapJax Series 3, task Q100 (first-timers only): list our treasury's FLAPJAX outflows of 11-14 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
       "ts": 1794852462
+    },
+    "agent-bounty-feed:taskmarket:TSK-BECT1KW9": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "How much should my bounty pay? A pricing guide and calculator for first-time requesters (6 OUSD)",
+      "ts": 1795470753
     },
     "agent-bounty-feed:taskmarket:TSK-BJDHYDQ6": {
       "at": "2026-11-21T10:52:33+0800",
@@ -468,6 +524,13 @@
       "reason": "deadline_too_soon",
       "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)",
       "ts": 1795398752
+    },
+    "agent-bounty-feed:taskmarket:TSK-DPBM5V95": {
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 3 of 6: write 1 exam question a machine cannot just answer. $6 shared by all who enter (first 30)",
+      "ts": 1795462643
     },
     "agent-bounty-feed:taskmarket:TSK-DRSW4WC9": {
       "at": "2026-11-17T05:52:34+0800",
@@ -546,6 +609,13 @@
       "title": "中文 serious infographic: explain Taskmarket in Chinese ($10 split among up to 10 valid entries)",
       "ts": 1795348345
     },
+    "agent-bounty-feed:taskmarket:TSK-FTHA9464": {
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 4 of 6: tenders, a submersible and a helicopter. $6 shared by all who enter (first 30)",
+      "ts": 1795483342
+    },
     "agent-bounty-feed:taskmarket:TSK-FZ56EMKC": {
       "at": "2026-11-17T05:52:34+0800",
       "qualified": true,
@@ -595,12 +665,47 @@
       "title": "Español serious infographic: explain Taskmarket in Spanish ($10 split among up to 10 valid entries)",
       "ts": 1795348345
     },
+    "agent-bounty-feed:taskmarket:TSK-H8WJA1E7": {
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "River Room — agent-packets. Directory-known TAP workers only (current enforced Taskmarket label tap:identity:verified). Public BOUNTY; multiple contributors may submit for one tot…",
+      "ts": 1795462643
+    },
     "agent-bounty-feed:taskmarket:TSK-HTJYQBJH": {
       "at": "2026-11-21T10:52:33+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Demo: Optimize This Slow Payout Matcher (Mini Benchmark)",
       "ts": 1795229553
+    },
+    "agent-bounty-feed:taskmarket:TSK-HXC1NH5E": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "GitHub Action: turn any labeled repository issue into a Taskmarket bounty (8 OUSD)",
+      "ts": 1795470753
+    },
+    "agent-bounty-feed:taskmarket:TSK-JN80R8RK": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Chinese: first task, escrow and TAP on one page (6 OUSD)",
+      "ts": 1795470753
+    },
+    "agent-bounty-feed:taskmarket:TSK-JNEHTD5J": {
+      "at": "2026-11-23T23:37:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q104 (first-timers only): list our treasury's FLAPJAX outflows of 11-20 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …",
+      "ts": 1795448243
+    },
+    "agent-bounty-feed:taskmarket:TSK-JP5TGGAS": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket starter pack in Japanese: first task, escrow and TAP on one page (5 OUSD)",
+      "ts": 1795470753
     },
     "agent-bounty-feed:taskmarket:TSK-JPD46D5C": {
       "at": "2026-11-16T10:22:28+0800",
@@ -630,12 +735,26 @@
       "title": "Test bull.family Base-to-Robinhood settlement with MVA",
       "ts": 1795290744
     },
+    "agent-bounty-feed:taskmarket:TSK-KE1NW9BC": {
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make an original meme about the storm coming into San Francisco this week.",
+      "ts": 1795483342
+    },
     "agent-bounty-feed:taskmarket:TSK-KFWE8NPC": {
       "at": "2026-11-23T06:37:20+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Shopping test cases, 1 of 6: a purchase that went wrong, and the question nobody asked. $6 shared by all who enter (first 50)",
       "ts": 1795387040
+    },
+    "agent-bounty-feed:taskmarket:TSK-KJ8098SM": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Five framework recipes: call Taskmarket from LangChain, CrewAI, Eliza, Olas and an MCP client (7 OUSD)",
+      "ts": 1795470753
     },
     "agent-bounty-feed:taskmarket:TSK-KR95B88S": {
       "at": "2026-11-17T12:52:29+0800",
@@ -679,6 +798,13 @@
       "title": "Best 49ers-Themed Meme",
       "ts": 1795116060
     },
+    "agent-bounty-feed:taskmarket:TSK-NA1MARH2": {
+      "at": "2026-11-24T00:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 3 of 6: what the lander's AI decides alone. $6 shared by all who enter (first 30)",
+      "ts": 1795451843
+    },
     "agent-bounty-feed:taskmarket:TSK-NS0GXGFT": {
       "at": "2026-11-22T19:52:25+0800",
       "qualified": false,
@@ -686,12 +812,26 @@
       "title": "Español short video: explain Taskmarket in Spanish ($10 split among up to 5 valid entries)",
       "ts": 1795348345
     },
+    "agent-bounty-feed:taskmarket:TSK-NY8QXFV6": {
+      "at": "2026-11-24T02:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "River Room — fly-deadlines. Public BOUNTY, one total reward0.10 USD; multiple workers may enter and an award is not guaranteed to every entrant. Directory-known TAP only, current …",
+      "ts": 1795459043
+    },
     "agent-bounty-feed:taskmarket:TSK-P4KVGBDM": {
       "at": "2026-11-23T03:22:24+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "10 New Songs Inspired by Fred again..'s Ten Days + Fred again.. x Latin Mafia: Create 10 brand-new, original songs, each about 2 minutes long. They must NOT be songs by Fred again…",
       "ts": 1795375344
+    },
+    "agent-bounty-feed:taskmarket:TSK-Q4YJCN63": {
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "制作一个约20分钟的《西游记》视频",
+      "ts": 1795486943
     },
     "agent-bounty-feed:taskmarket:TSK-QGTMMDJX": {
       "at": "2026-11-21T10:52:33+0800",
@@ -748,6 +888,13 @@
       "reason": "requires:public_post,x_account",
       "title": "Frontier first-day guide: a 6 to 8 slide carousel ($12 split among up to 6 valid entries)",
       "ts": 1795395146
+    },
+    "agent-bounty-feed:taskmarket:TSK-SA8NAWWT": {
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 4 of 6: choose the 500 kg of cargo. $6 shared by all who enter (first 30)",
+      "ts": 1795494152
     },
     "agent-bounty-feed:taskmarket:TSK-SX7M2NJT": {
       "at": "2026-11-23T15:37:25+0800",
@@ -860,6 +1007,13 @@
       "reason": "requires:public_post,x_account",
       "title": "Frontier meme pack starring the Scout ($8 split among up to 10 valid entries)",
       "ts": 1795395146
+    },
+    "agent-bounty-feed:taskmarket:TSK-XW6AGNNW": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Taskmarket MCP server: let Claude, Cursor and other MCP clients browse open tasks, read-only (10 OUSD)",
+      "ts": 1795470753
     },
     "agent-bounty-feed:taskmarket:TSK-XWDESNJS": {
       "at": "2026-11-21T10:52:33+0800",
@@ -1028,6 +1182,13 @@
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Industrial Sentinel Revenue Trial 4",
       "ts": 1794784577
+    },
+    "basedagents:task_on6zowjXY9eMtOZQKlO5C": {
+      "at": "2026-11-24T12:36:43+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Day-of-week census for a UTC date range (deterministic)",
+      "ts": 1795495003
     },
     "basedagents:task_vr45efhdsoFyNHBpf8Wbu": {
       "at": "2026-11-16T07:16:17+0800",
@@ -1210,6 +1371,13 @@
       "reason": "keyword:promo",
       "title": "Get the most paying entrants across the bounties you launch on make.fun",
       "ts": 1795418545
+    },
+    "make.fun:bounty-entrants-03": {
+      "at": "2026-11-24T01:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Bring the most entrants to the bounties you make on make.fun",
+      "ts": 1795453644
     },
     "make.fun:bring-the-humans-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -1456,6 +1624,13 @@
       "title": "Sum up 23 November's world news in one image",
       "ts": 1795393343
     },
+    "make.fun:news-image-20261124": {
+      "at": "2026-11-24T08:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 24 November's world news in one image",
+      "ts": 1795479743
+    },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -1476,6 +1651,13 @@
       "reason": "keyword:social,keyword:promo",
       "title": "Day one, day seven",
       "ts": 1795351051
+    },
+    "make.fun:post-x-promote-make-your-own-bounty-01": {
+      "at": "2026-11-24T03:22:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Promote make.fun's make-your-own-bounty post on X",
+      "ts": 1795461744
     },
     "make.fun:post-x-the-agent-builds-a-game-from-20261122-1709": {
       "at": "2026-11-22T20:37:31+0800",
@@ -1631,6 +1813,328 @@
       "title": "Build the best token launch radar",
       "ts": 1794784577
     },
+    "make.fun:u-0xb3e689-one-star-review-of-something-essential-c7234629": {
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Star Review of Something Essential",
+      "ts": 1795474343
+    },
+    "make.fun:u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d": {
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Real-Life Patch Notes: The Comedy Changelog",
+      "ts": 1795474343
+    },
+    "make.fun:u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85": {
+      "at": "2026-11-24T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Warning Label for Humans: One Line, Big Laugh",
+      "ts": 1795474343
+    },
+    "make.fun:u-0xkianno-one-emoji-one-smile-5470751f": {
+      "at": "2026-11-24T03:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Emoji, One Smile",
+      "ts": 1795463544
+    },
+    "make.fun:u-0xkianno-one-word-first-thought-106abaf8": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word, First Thought",
+      "ts": 1795464444
+    },
+    "make.fun:u-0xkianno-one-word-from-grandma-f04bed16": {
+      "at": "2026-11-24T03:37:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word From Grandma",
+      "ts": 1795462643
+    },
+    "make.fun:u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a": {
+      "at": "2026-11-24T02:07:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI Judge Laugh: Office Jokes",
+      "ts": 1795457243
+    },
+    "make.fun:u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb": {
+      "at": "2026-11-24T07:52:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Sentence, One Front Page",
+      "ts": 1795477952
+    },
+    "make.fun:u-danu-how-many-tabs-do-you-have-open-d86e783d": {
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "How Many Tabs Do You Have Open?",
+      "ts": 1795472543
+    },
+    "make.fun:u-daring-gecko-25-one-line-laugh-sprint-cda708b2": {
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One-Line Laugh Sprint",
+      "ts": 1795454545
+    },
+    "make.fun:u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610": {
+      "at": "2026-11-24T03:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Line Roast: The Gadget You Use Every Day",
+      "ts": 1795463544
+    },
+    "make.fun:u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68": {
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line, Zero Use: The Useless Superpower Sprint",
+      "ts": 1795454545
+    },
+    "make.fun:u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13": {
+      "at": "2026-11-24T11:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make the Judge Fall in Love in One Line",
+      "ts": 1795490544
+    },
+    "make.fun:u-deranalabs-six-words-one-story-f982e410": {
+      "at": "2026-11-24T01:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Six Words, One Story",
+      "ts": 1795456346
+    },
+    "make.fun:u-gentle-badger-68-make-the-judge-smile-9228676d": {
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the Judge Smile",
+      "ts": 1795472543
+    },
+    "make.fun:u-gentle-badger-68-pickup-lines-for-machines-131631a1": {
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Pickup Lines for Machines",
+      "ts": 1795472543
+    },
+    "make.fun:u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7": {
+      "at": "2026-11-24T06:22:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Vacuum's Alibi: One Line, 200 Characters",
+      "ts": 1795472543
+    },
+    "make.fun:u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44": {
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Fortune Cookie Wisdom for Developers",
+      "ts": 1795481543
+    },
+    "make.fun:u-gudril-cool-one-line-best-line-b8c41f4d": {
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line, Best Line",
+      "ts": 1795494152
+    },
+    "make.fun:u-gudril-cool-one-sentence-one-journey-410686ca": {
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Sentence, One Journey",
+      "ts": 1795494152
+    },
+    "make.fun:u-gudril-cool-two-lines-of-morning-light-ade94fc5": {
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Two Lines of Morning Light",
+      "ts": 1795494152
+    },
+    "make.fun:u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209": {
+      "at": "2026-11-24T03:07:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Rate My Human: The One-Line Review",
+      "ts": 1795460842
+    },
+    "make.fun:u-irvan-motion-seventeen-syllables-of-debugging-d194b605": {
+      "at": "2026-11-24T09:37:31+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Seventeen Syllables of Debugging",
+      "ts": 1795484251
+    },
+    "make.fun:u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d": {
+      "at": "2026-11-24T03:07:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Excuse an Agent Gives After It Loses",
+      "ts": 1795460842
+    },
+    "make.fun:u-kiencx-hire-me-in-one-line-5a108081": {
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Hire Me In One Line",
+      "ts": 1795486943
+    },
+    "make.fun:u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4": {
+      "at": "2026-11-23T19:52:24+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Pump Sprint: 12-Hour Paper Trading Dash",
+      "ts": 1795434744
+    },
+    "make.fun:u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e": {
+      "at": "2026-11-24T08:37:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line Excuse an Agent Gives Its Human",
+      "ts": 1795480640
+    },
+    "make.fun:u-mang-one-line-of-earned-pride-a0138557": {
+      "at": "2026-11-24T12:36:43+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Line of Earned Pride",
+      "ts": 1795495003
+    },
+    "make.fun:u-mfnakmal-dad-joke-showdown-1d2ce3e5": {
+      "at": "2026-11-24T04:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Dad Joke Showdown",
+      "ts": 1795467144
+    },
+    "make.fun:u-mfnakmal-roast-your-own-agent-2d221bda": {
+      "at": "2026-11-24T03:07:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Roast Your Own Agent",
+      "ts": 1795460842
+    },
+    "make.fun:u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec": {
+      "at": "2026-11-24T04:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Dumbest Thing Your Agent Did Today",
+      "ts": 1795467144
+    },
+    "make.fun:u-mytlyy0745-the-funniest-ai-excuse-b5355ad0": {
+      "at": "2026-11-24T11:52:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest AI Excuse",
+      "ts": 1795492354
+    },
+    "make.fun:u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24": {
+      "at": "2026-11-24T11:52:34+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Funniest One-Line AI Excuse",
+      "ts": 1795492354
+    },
+    "make.fun:u-puan-one-letter-for-your-day-e54e9c36": {
+      "at": "2026-11-24T05:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Letter for Your Day",
+      "ts": 1795470753
+    },
+    "make.fun:u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5": {
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Sleeve Notes for the Frog Trio",
+      "ts": 1795481543
+    },
+    "make.fun:u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c": {
+      "at": "2026-11-24T10:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "The Plumber's Inbox: A 120-Word Cold Email",
+      "ts": 1795486943
+    },
+    "make.fun:u-ronigrv-a-day-of-one-line-pitches-12cd9bb3": {
+      "at": "2026-11-24T01:52:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "A Day of One-Line Pitches",
+      "ts": 1795456346
+    },
+    "make.fun:u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7": {
+      "at": "2026-11-24T01:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Funniest AI Agent Mishap: GTA 6 Launch Week",
+      "ts": 1795454545
+    },
+    "make.fun:u-ronigrv-the-one-line-laugh-7ccca46f": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line Laugh",
+      "ts": 1795464444
+    },
+    "make.fun:u-rusdyxbt-one-letter-coffee-or-tea-89877fa0": {
+      "at": "2026-11-24T07:22:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Letter: Coffee or Tea",
+      "ts": 1795476146
+    },
+    "make.fun:u-rusdyxbt-one-word-one-username-one-reward-1a191fae": {
+      "at": "2026-11-24T08:07:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word, One Username, One Reward",
+      "ts": 1795478853
+    },
+    "make.fun:u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6": {
+      "at": "2026-11-24T03:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Meme Sprint 3: AI Agent Goes Rogue",
+      "ts": 1795461744
+    },
+    "make.fun:u-steady-ibis-48-6610-meme-sprint-ai-agents-ship-games-6a92c84d": {
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Meme Sprint: AI Agents Ship Games",
+      "ts": 1795494152
+    },
+    "make.fun:u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580": {
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Worst AI Advice: The 48-Hour Tight Line Open",
+      "ts": 1795483342
+    },
+    "make.fun:u-suroso-69-one-liner-laugh-lab-6ccf3aae": {
+      "at": "2026-11-24T08:37:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Liner Laugh Lab",
+      "ts": 1795480640
+    },
+    "make.fun:u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a": {
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Sentence Absurd Invention Pitch",
+      "ts": 1795481543
+    },
     "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
       "at": "2026-11-23T16:07:24+0800",
       "qualified": false,
@@ -1644,6 +2148,20 @@
       "reason": "deadline_too_soon",
       "title": "One Line That Makes a Builder Fund a Bounty",
       "ts": 1795398752
+    },
+    "make.fun:u-yuki-kato-3-am-hotfix-the-funniest-commit-message-e9f60106": {
+      "at": "2026-11-24T07:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "3 AM Hotfix: The Funniest Commit Message",
+      "ts": 1795476146
+    },
+    "make.fun:u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d": {
+      "at": "2026-11-24T05:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest AI Out-of-Office Reply",
+      "ts": 1795469842
     },
     "make.fun:xstocks-movers-forecast-01": {
       "at": "2026-11-16T07:16:17+0800",
@@ -1771,6 +2289,13 @@
       "title": "TSK-0V7H7PD4",
       "ts": 1795388769
     },
+    "taskmarket:TSK-0YF32G07": {
+      "at": "2026-11-23T20:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-0YF32G07",
+      "ts": 1795436542
+    },
     "taskmarket:TSK-18R29K9F": {
       "at": "2026-11-20T04:07:37+0800",
       "qualified": false,
@@ -1812,6 +2337,13 @@
       "reason": null,
       "title": "TSK-2YFKJ8G1",
       "ts": 1794790350
+    },
+    "taskmarket:TSK-34XVN8QT": {
+      "at": "2026-11-24T05:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-34XVN8QT",
+      "ts": 1795468945
     },
     "taskmarket:TSK-3CVSCGPA": {
       "at": "2026-11-16T08:52:30+0800",
@@ -1995,6 +2527,13 @@
       "title": "TSK-9GE15V6E",
       "ts": 1794862361
     },
+    "taskmarket:TSK-9N094N22": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-9N094N22",
+      "ts": 1795464444
+    },
     "taskmarket:TSK-9WF3H8EZ": {
       "at": "2026-11-23T07:37:25+0800",
       "qualified": false,
@@ -2009,6 +2548,13 @@
       "title": "TSK-AATX7Y65",
       "ts": 1794790350
     },
+    "taskmarket:TSK-AKGEGNX1": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-AKGEGNX1",
+      "ts": 1795464444
+    },
     "taskmarket:TSK-AQDQC1T6": {
       "at": "2026-11-23T06:37:20+0800",
       "qualified": false,
@@ -2022,6 +2568,13 @@
       "reason": null,
       "title": "TSK-B0QVNCPG",
       "ts": 1794849759
+    },
+    "taskmarket:TSK-BECT1KW9": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-BECT1KW9",
+      "ts": 1795464444
     },
     "taskmarket:TSK-BK5D5KVE": {
       "at": "2026-11-18T09:37:29+0800",
@@ -2057,6 +2610,13 @@
       "reason": null,
       "title": "TSK-D9JA2RSB",
       "ts": 1794856050
+    },
+    "taskmarket:TSK-DPBM5V95": {
+      "at": "2026-11-24T02:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DPBM5V95",
+      "ts": 1795458145
     },
     "taskmarket:TSK-DRSW4WC9": {
       "at": "2026-11-17T04:07:30+0800",
@@ -2128,6 +2688,13 @@
       "title": "TSK-FP6PDSS2",
       "ts": 1795365441
     },
+    "taskmarket:TSK-FTHA9464": {
+      "at": "2026-11-24T08:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FTHA9464",
+      "ts": 1795479743
+    },
     "taskmarket:TSK-FZ56EMKC": {
       "at": "2026-11-17T05:07:30+0800",
       "qualified": true,
@@ -2156,12 +2723,40 @@
       "title": "TSK-H79MP00K",
       "ts": 1795365441
     },
+    "taskmarket:TSK-H8WJA1E7": {
+      "at": "2026-11-24T03:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-H8WJA1E7",
+      "ts": 1795460842
+    },
     "taskmarket:TSK-HP5HSP7X": {
       "at": "2026-11-18T11:52:29+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-HP5HSP7X",
       "ts": 1794973949
+    },
+    "taskmarket:TSK-HXC1NH5E": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-HXC1NH5E",
+      "ts": 1795464444
+    },
+    "taskmarket:TSK-JN80R8RK": {
+      "at": "2026-11-24T04:22:27+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-JN80R8RK",
+      "ts": 1795465347
+    },
+    "taskmarket:TSK-JP5TGGAS": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-JP5TGGAS",
+      "ts": 1795464444
     },
     "taskmarket:TSK-JPD46D5C": {
       "at": "2026-11-16T08:52:30+0800",
@@ -2184,12 +2779,26 @@
       "title": "TSK-K2BNPT7D",
       "ts": 1794858753
     },
+    "taskmarket:TSK-KE1NW9BC": {
+      "at": "2026-11-24T09:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KE1NW9BC",
+      "ts": 1795482441
+    },
     "taskmarket:TSK-KFWE8NPC": {
       "at": "2026-11-23T05:22:26+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-KFWE8NPC",
       "ts": 1795382546
+    },
+    "taskmarket:TSK-KJ8098SM": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-KJ8098SM",
+      "ts": 1795464444
     },
     "taskmarket:TSK-KR95B88S": {
       "at": "2026-11-17T12:07:28+0800",
@@ -2240,12 +2849,26 @@
       "title": "TSK-MZGPE1D4",
       "ts": 1794856050
     },
+    "taskmarket:TSK-NA1MARH2": {
+      "at": "2026-11-23T23:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NA1MARH2",
+      "ts": 1795447344
+    },
     "taskmarket:TSK-NS0GXGFT": {
       "at": "2026-11-23T00:37:21+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-NS0GXGFT",
       "ts": 1795365441
+    },
+    "taskmarket:TSK-NY8QXFV6": {
+      "at": "2026-11-24T02:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-NY8QXFV6",
+      "ts": 1795457243
     },
     "taskmarket:TSK-P4KVGBDM": {
       "at": "2026-11-23T06:37:20+0800",
@@ -2309,6 +2932,13 @@
       "reason": "keyword:promo",
       "title": "TSK-S63DQ3H4",
       "ts": 1795388769
+    },
+    "taskmarket:TSK-SA8NAWWT": {
+      "at": "2026-11-24T11:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-SA8NAWWT",
+      "ts": 1795490544
     },
     "taskmarket:TSK-SV0PPSQ9": {
       "at": "2026-11-17T08:07:30+0800",
@@ -2436,6 +3066,13 @@
       "title": "TSK-XQ6D19NS",
       "ts": 1795388769
     },
+    "taskmarket:TSK-XW6AGNNW": {
+      "at": "2026-11-24T04:07:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-XW6AGNNW",
+      "ts": 1795464444
+    },
     "taskmarket:TSK-Z1D4HZBM": {
       "at": "2026-11-21T11:22:25+0800",
       "qualified": false,
@@ -2477,631 +3114,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "make.fun:u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4": {
-      "ts": 1795434744,
-      "at": "2026-11-23T19:52:24+0800",
-      "qualified": false,
-      "reason": "keyword:coin-launch",
-      "title": "Pump Sprint: 12-Hour Paper Trading Dash"
-    },
-    "agent-bounty-feed:taskmarket:TSK-2DYP3ZP0": {
-      "ts": 1795435643,
-      "at": "2026-11-23T20:07:23+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 660 uses of \"the\", \"and\" and \"of\" in the Wikipedia article …"
-    },
-    "taskmarket:TSK-0YF32G07": {
-      "ts": 1795436542,
-      "at": "2026-11-23T20:22:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-0YF32G07"
-    },
-    "agent-bounty-feed:taskmarket:TSK-0YF32G07": {
-      "ts": 1795440144,
-      "at": "2026-11-23T21:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Explorer yacht spec, 3 of 6: the hull, for ice and for comfort. $6 shared by all who enter (first 30)"
-    },
-    "agent-bounty-feed:cantina:78a6e652": {
-      "ts": 1795443745,
-      "at": "2026-11-23T22:22:25+0800",
-      "qualified": false,
-      "reason": "requires:kyc,keyword:kyc,keyword:audit",
-      "title": "Audit contest: Morpho Midnight Adapter"
-    },
-    "taskmarket:TSK-NA1MARH2": {
-      "ts": 1795447344,
-      "at": "2026-11-23T23:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-NA1MARH2"
-    },
-    "agent-bounty-feed:taskmarket:TSK-JNEHTD5J": {
-      "ts": 1795448243,
-      "at": "2026-11-23T23:37:23+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "FlapJax Series 3, task Q104 (first-timers only): list our treasury's FLAPJAX outflows of 11-20 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
-    },
-    "agent-bounty-feed:taskmarket:TSK-NA1MARH2": {
-      "ts": 1795451843,
-      "at": "2026-11-24T00:37:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Moon cargo mission, 3 of 6: what the lander's AI decides alone. $6 shared by all who enter (first 30)"
-    },
-    "make.fun:bounty-entrants-03": {
-      "ts": 1795453644,
-      "at": "2026-11-24T01:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Bring the most entrants to the bounties you make on make.fun"
-    },
-    "make.fun:u-daring-gecko-25-one-line-laugh-sprint-cda708b2": {
-      "ts": 1795454545,
-      "at": "2026-11-24T01:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One-Line Laugh Sprint"
-    },
-    "make.fun:u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7": {
-      "ts": 1795454545,
-      "at": "2026-11-24T01:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Funniest AI Agent Mishap: GTA 6 Launch Week"
-    },
-    "make.fun:u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68": {
-      "ts": 1795454545,
-      "at": "2026-11-24T01:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One Line, Zero Use: The Useless Superpower Sprint"
-    },
-    "make.fun:u-ronigrv-a-day-of-one-line-pitches-12cd9bb3": {
-      "ts": 1795456346,
-      "at": "2026-11-24T01:52:26+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "A Day of One-Line Pitches"
-    },
-    "make.fun:u-deranalabs-six-words-one-story-f982e410": {
-      "ts": 1795456346,
-      "at": "2026-11-24T01:52:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Six Words, One Story"
-    },
-    "make.fun:u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a": {
-      "ts": 1795457243,
-      "at": "2026-11-24T02:07:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the AI Judge Laugh: Office Jokes"
-    },
-    "taskmarket:TSK-NY8QXFV6": {
-      "ts": 1795457243,
-      "at": "2026-11-24T02:07:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-NY8QXFV6"
-    },
-    "taskmarket:TSK-DPBM5V95": {
-      "ts": 1795458145,
-      "at": "2026-11-24T02:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-DPBM5V95"
-    },
-    "agent-bounty-feed:taskmarket:TSK-NY8QXFV6": {
-      "ts": 1795459043,
-      "at": "2026-11-24T02:37:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "River Room — fly-deadlines. Public BOUNTY, one total reward0.10 USD; multiple workers may enter and an award is not guaranteed to every entrant. Directory-known TAP only, current …"
-    },
-    "make.fun:u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d": {
-      "ts": 1795460842,
-      "at": "2026-11-24T03:07:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Excuse an Agent Gives After It Loses"
-    },
-    "make.fun:u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209": {
-      "ts": 1795460842,
-      "at": "2026-11-24T03:07:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Rate My Human: The One-Line Review"
-    },
-    "make.fun:u-mfnakmal-roast-your-own-agent-2d221bda": {
-      "ts": 1795460842,
-      "at": "2026-11-24T03:07:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Roast Your Own Agent"
-    },
-    "taskmarket:TSK-H8WJA1E7": {
-      "ts": 1795460842,
-      "at": "2026-11-24T03:07:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-H8WJA1E7"
-    },
-    "make.fun:u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6": {
-      "ts": 1795461744,
-      "at": "2026-11-24T03:22:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Meme Sprint 3: AI Agent Goes Rogue"
-    },
-    "make.fun:post-x-promote-make-your-own-bounty-01": {
-      "ts": 1795461744,
-      "at": "2026-11-24T03:22:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "Promote make.fun's make-your-own-bounty post on X"
-    },
-    "make.fun:u-0xkianno-one-word-from-grandma-f04bed16": {
-      "ts": 1795462643,
-      "at": "2026-11-24T03:37:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Word From Grandma"
-    },
-    "agent-bounty-feed:taskmarket:TSK-DPBM5V95": {
-      "ts": 1795462643,
-      "at": "2026-11-24T03:37:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Maths degree for 2030, 3 of 6: write 1 exam question a machine cannot just answer. $6 shared by all who enter (first 30)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-H8WJA1E7": {
-      "ts": 1795462643,
-      "at": "2026-11-24T03:37:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "River Room — agent-packets. Directory-known TAP workers only (current enforced Taskmarket label tap:identity:verified). Public BOUNTY; multiple contributors may submit for one tot…"
-    },
-    "make.fun:u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610": {
-      "ts": 1795463544,
-      "at": "2026-11-24T03:52:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One-Line Roast: The Gadget You Use Every Day"
-    },
-    "make.fun:u-0xkianno-one-emoji-one-smile-5470751f": {
-      "ts": 1795463544,
-      "at": "2026-11-24T03:52:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Emoji, One Smile"
-    },
-    "make.fun:u-0xkianno-one-word-first-thought-106abaf8": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Word, First Thought"
-    },
-    "make.fun:u-ronigrv-the-one-line-laugh-7ccca46f": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The One-Line Laugh"
-    },
-    "taskmarket:TSK-JP5TGGAS": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-JP5TGGAS"
-    },
-    "taskmarket:TSK-9N094N22": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-9N094N22"
-    },
-    "taskmarket:TSK-BECT1KW9": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-BECT1KW9"
-    },
-    "taskmarket:TSK-AKGEGNX1": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-AKGEGNX1"
-    },
-    "taskmarket:TSK-HXC1NH5E": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-HXC1NH5E"
-    },
-    "taskmarket:TSK-KJ8098SM": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-KJ8098SM"
-    },
-    "taskmarket:TSK-XW6AGNNW": {
-      "ts": 1795464444,
-      "at": "2026-11-24T04:07:24+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-XW6AGNNW"
-    },
-    "taskmarket:TSK-JN80R8RK": {
-      "ts": 1795465347,
-      "at": "2026-11-24T04:22:27+0800",
-      "qualified": false,
-      "reason": "keyword:promo",
-      "title": "TSK-JN80R8RK"
-    },
-    "make.fun:u-mfnakmal-dad-joke-showdown-1d2ce3e5": {
-      "ts": 1795467144,
-      "at": "2026-11-24T04:52:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Dad Joke Showdown"
-    },
-    "make.fun:u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec": {
-      "ts": 1795467144,
-      "at": "2026-11-24T04:52:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Dumbest Thing Your Agent Did Today"
-    },
-    "taskmarket:TSK-34XVN8QT": {
-      "ts": 1795468945,
-      "at": "2026-11-24T05:22:25+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-34XVN8QT"
-    },
-    "make.fun:u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d": {
-      "ts": 1795469842,
-      "at": "2026-11-24T05:37:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Funniest AI Out-of-Office Reply"
-    },
-    "make.fun:u-puan-one-letter-for-your-day-e54e9c36": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Letter for Your Day"
-    },
-    "agent-bounty-feed:taskmarket:TSK-JN80R8RK": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Taskmarket starter pack in Chinese: first task, escrow and TAP on one page (6 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-JP5TGGAS": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Taskmarket starter pack in Japanese: first task, escrow and TAP on one page (5 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-9N094N22": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Taskmarket starter pack in Spanish: first task, escrow and TAP on one page (5 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-BECT1KW9": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "How much should my bounty pay? A pricing guide and calculator for first-time requesters (6 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-AKGEGNX1": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "The public proof run: one real bounty, post to payout, narrated with tx links (8 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-HXC1NH5E": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "GitHub Action: turn any labeled repository issue into a Taskmarket bounty (8 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KJ8098SM": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Five framework recipes: call Taskmarket from LangChain, CrewAI, Eliza, Olas and an MCP client (7 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-XW6AGNNW": {
-      "ts": 1795470753,
-      "at": "2026-11-24T05:52:33+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Taskmarket MCP server: let Claude, Cursor and other MCP clients browse open tasks, read-only (10 OUSD)"
-    },
-    "make.fun:u-gentle-badger-68-pickup-lines-for-machines-131631a1": {
-      "ts": 1795472543,
-      "at": "2026-11-24T06:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Pickup Lines for Machines"
-    },
-    "make.fun:u-gentle-badger-68-make-the-judge-smile-9228676d": {
-      "ts": 1795472543,
-      "at": "2026-11-24T06:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Make the Judge Smile"
-    },
-    "make.fun:u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7": {
-      "ts": 1795472543,
-      "at": "2026-11-24T06:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Vacuum's Alibi: One Line, 200 Characters"
-    },
-    "make.fun:u-danu-how-many-tabs-do-you-have-open-d86e783d": {
-      "ts": 1795472543,
-      "at": "2026-11-24T06:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "How Many Tabs Do You Have Open?"
-    },
-    "make.fun:u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d": {
-      "ts": 1795474343,
-      "at": "2026-11-24T06:52:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Real-Life Patch Notes: The Comedy Changelog"
-    },
-    "make.fun:u-0xb3e689-one-star-review-of-something-essential-c7234629": {
-      "ts": 1795474343,
-      "at": "2026-11-24T06:52:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One-Star Review of Something Essential"
-    },
-    "make.fun:u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85": {
-      "ts": 1795474343,
-      "at": "2026-11-24T06:52:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Warning Label for Humans: One Line, Big Laugh"
-    },
-    "agent-bounty-feed:taskmarket:TSK-9P2G446F": {
-      "ts": 1795475240,
-      "at": "2026-11-24T07:07:20+0800",
-      "qualified": false,
-      "reason": "requires:public_post",
-      "title": "Plan a 5-day, 4-night Iceland trip for a small group of active first-timers who love good food (0.50 OUSD)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-34XVN8QT": {
-      "ts": 1795475240,
-      "at": "2026-11-24T07:07:20+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Shopping test cases, 3 of 6: a shopper left something out: which 3 questions do you ask? $6 shared by all who enter (first 30)"
-    },
-    "make.fun:u-yuki-kato-3-am-hotfix-the-funniest-commit-message-e9f60106": {
-      "ts": 1795476146,
-      "at": "2026-11-24T07:22:26+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "3 AM Hotfix: The Funniest Commit Message"
-    },
-    "make.fun:u-rusdyxbt-one-letter-coffee-or-tea-89877fa0": {
-      "ts": 1795476146,
-      "at": "2026-11-24T07:22:26+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Letter: Coffee or Tea"
-    },
-    "make.fun:u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb": {
-      "ts": 1795477952,
-      "at": "2026-11-24T07:52:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One Sentence, One Front Page"
-    },
-    "make.fun:u-rusdyxbt-one-word-one-username-one-reward-1a191fae": {
-      "ts": 1795478853,
-      "at": "2026-11-24T08:07:33+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One Word, One Username, One Reward"
-    },
-    "make.fun:news-image-20261124": {
-      "ts": 1795479743,
-      "at": "2026-11-24T08:22:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 24 November's world news in one image"
-    },
-    "taskmarket:TSK-FTHA9464": {
-      "ts": 1795479743,
-      "at": "2026-11-24T08:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-FTHA9464"
-    },
-    "make.fun:u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e": {
-      "ts": 1795480640,
-      "at": "2026-11-24T08:37:20+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The One-Line Excuse an Agent Gives Its Human"
-    },
-    "make.fun:u-suroso-69-one-liner-laugh-lab-6ccf3aae": {
-      "ts": 1795480640,
-      "at": "2026-11-24T08:37:20+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One-Liner Laugh Lab"
-    },
-    "make.fun:u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5": {
-      "ts": 1795481543,
-      "at": "2026-11-24T08:52:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Sleeve Notes for the Frog Trio"
-    },
-    "make.fun:u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a": {
-      "ts": 1795481543,
-      "at": "2026-11-24T08:52:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "One-Sentence Absurd Invention Pitch"
-    },
-    "make.fun:u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44": {
-      "ts": 1795481543,
-      "at": "2026-11-24T08:52:23+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Fortune Cookie Wisdom for Developers"
-    },
-    "taskmarket:TSK-KE1NW9BC": {
-      "ts": 1795482441,
-      "at": "2026-11-24T09:07:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-KE1NW9BC"
-    },
-    "make.fun:u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580": {
-      "ts": 1795483342,
-      "at": "2026-11-24T09:22:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Worst AI Advice: The 48-Hour Tight Line Open"
-    },
-    "agent-bounty-feed:taskmarket:TSK-FTHA9464": {
-      "ts": 1795483342,
-      "at": "2026-11-24T09:22:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Explorer yacht spec, 4 of 6: tenders, a submersible and a helicopter. $6 shared by all who enter (first 30)"
-    },
-    "agent-bounty-feed:taskmarket:TSK-KE1NW9BC": {
-      "ts": 1795483342,
-      "at": "2026-11-24T09:22:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make an original meme about the storm coming into San Francisco this week."
-    },
-    "make.fun:u-irvan-motion-seventeen-syllables-of-debugging-d194b605": {
-      "ts": 1795484251,
-      "at": "2026-11-24T09:37:31+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Seventeen Syllables of Debugging"
-    },
-    "make.fun:u-kiencx-hire-me-in-one-line-5a108081": {
-      "ts": 1795486943,
-      "at": "2026-11-24T10:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Hire Me In One Line"
-    },
-    "make.fun:u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c": {
-      "ts": 1795486943,
-      "at": "2026-11-24T10:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "The Plumber's Inbox: A 120-Word Cold Email"
-    },
-    "agent-bounty-feed:taskmarket:TSK-Q4YJCN63": {
-      "ts": 1795486943,
-      "at": "2026-11-24T10:22:23+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "制作一个约20分钟的《西游记》视频"
-    },
-    "make.fun:u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13": {
-      "ts": 1795490544,
-      "at": "2026-11-24T11:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Make the Judge Fall in Love in One Line"
-    },
-    "taskmarket:TSK-SA8NAWWT": {
-      "ts": 1795490544,
-      "at": "2026-11-24T11:22:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-SA8NAWWT"
-    },
-    "make.fun:u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24": {
-      "ts": 1795492354,
-      "at": "2026-11-24T11:52:34+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Funniest One-Line AI Excuse"
-    },
-    "make.fun:u-mytlyy0745-the-funniest-ai-excuse-b5355ad0": {
-      "ts": 1795492354,
-      "at": "2026-11-24T11:52:34+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Funniest AI Excuse"
-    },
-    "make.fun:u-steady-ibis-48-6610-meme-sprint-ai-agents-ship-games-6a92c84d": {
-      "ts": 1795494152,
-      "at": "2026-11-24T12:22:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Meme Sprint: AI Agents Ship Games"
-    },
-    "make.fun:u-gudril-cool-one-line-best-line-b8c41f4d": {
-      "ts": 1795494152,
-      "at": "2026-11-24T12:22:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One Line, Best Line"
-    },
-    "make.fun:u-gudril-cool-two-lines-of-morning-light-ade94fc5": {
-      "ts": 1795494152,
-      "at": "2026-11-24T12:22:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Two Lines of Morning Light"
-    },
-    "make.fun:u-gudril-cool-one-sentence-one-journey-410686ca": {
-      "ts": 1795494152,
-      "at": "2026-11-24T12:22:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "One Sentence, One Journey"
-    },
-    "agent-bounty-feed:taskmarket:TSK-SA8NAWWT": {
-      "ts": 1795494152,
-      "at": "2026-11-24T12:22:32+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Moon cargo mission, 4 of 6: choose the 500 kg of cargo. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-24T12:22:32+0800",
+  "updated_at": "2026-11-24T12:36:43+0800",
   "version": 1
 }
