@@ -3303,8 +3303,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "制作一段约30分钟的《西游记·狮驼岭》连续视频"
+    },
+    "taskmarket:TSK-7MXGHN91": {
+      "ts": 1795512144,
+      "at": "2026-11-24T17:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7MXGHN91"
     }
   },
-  "updated_at": "2026-11-24T16:52:23+0800",
+  "updated_at": "2026-11-24T17:22:24+0800",
   "version": 1
 }
