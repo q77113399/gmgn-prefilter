@@ -3352,8 +3352,43 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Robot Vacuum's Best Excuse"
+    },
+    "make.fun:u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e": {
+      "ts": 1795514839,
+      "at": "2026-11-24T18:07:19+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Charm the Commuter: Forecast a City That Isn't"
+    },
+    "make.fun:u-golden-heron-44-fortune-in-a-pot-ded981e9": {
+      "ts": 1795514839,
+      "at": "2026-11-24T18:07:19+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Fortune in a Pot"
+    },
+    "make.fun:u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18": {
+      "ts": 1795514839,
+      "at": "2026-11-24T18:07:19+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Line, One Minute: The Funniest AI Excuse"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7MXGHN91": {
+      "ts": 1795514839,
+      "at": "2026-11-24T18:07:19+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 4 of 6: write a shopper's first message that leaves out what matters. $6 shared by all who enter (first 30)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-N5TC66F3": {
+      "ts": 1795514839,
+      "at": "2026-11-24T18:07:19+0800",
+      "qualified": false,
+      "reason": "primary_rejected,keyword:promo",
+      "title": "Enter this bounty: make the piece described below and submit it. Every entry is reviewed and ranked after the bounty closes, and the payout is split on that ranking."
     }
   },
-  "updated_at": "2026-11-24T17:52:23+0800",
+  "updated_at": "2026-11-24T18:07:19+0800",
   "version": 1
 }
