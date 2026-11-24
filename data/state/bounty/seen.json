@@ -3555,8 +3555,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-neon-autonomous-status-report-comedy-sprint-a8dad335": {
+      "ts": 1795554441,
+      "at": "2026-11-25T05:07:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Status Report Comedy Sprint"
     }
   },
-  "updated_at": "2026-11-25T04:07:35+0800",
+  "updated_at": "2026-11-25T05:07:21+0800",
   "version": 1
 }
