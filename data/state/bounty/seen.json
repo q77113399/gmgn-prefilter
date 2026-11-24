@@ -3135,8 +3135,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-eager-stork-81-9647-the-funniest-toaster-error-436406cd": {
+      "ts": 1795498643,
+      "at": "2026-11-24T13:37:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest Toaster Error Message"
     }
   },
-  "updated_at": "2026-11-24T13:21:09+0800",
+  "updated_at": "2026-11-24T13:37:23+0800",
   "version": 1
 }
