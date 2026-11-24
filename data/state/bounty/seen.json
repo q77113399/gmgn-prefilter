@@ -2960,8 +2960,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "One-Liner Laugh Lab"
+    },
+    "make.fun:u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5": {
+      "ts": 1795481543,
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Sleeve Notes for the Frog Trio"
+    },
+    "make.fun:u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a": {
+      "ts": 1795481543,
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Sentence Absurd Invention Pitch"
+    },
+    "make.fun:u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44": {
+      "ts": 1795481543,
+      "at": "2026-11-24T08:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Fortune Cookie Wisdom for Developers"
     }
   },
-  "updated_at": "2026-11-24T08:37:20+0800",
+  "updated_at": "2026-11-24T08:52:23+0800",
   "version": 1
 }
