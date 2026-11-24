@@ -3569,8 +3569,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-GZ48RYG8"
+    },
+    "taskmarket:TSK-7VYJXQGD": {
+      "ts": 1795556242,
+      "at": "2026-11-25T05:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7VYJXQGD"
+    },
+    "taskmarket:TSK-4VED1BDD": {
+      "ts": 1795556242,
+      "at": "2026-11-25T05:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4VED1BDD"
     }
   },
-  "updated_at": "2026-11-25T05:22:37+0800",
+  "updated_at": "2026-11-25T05:37:22+0800",
   "version": 1
 }
