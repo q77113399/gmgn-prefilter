@@ -2946,8 +2946,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-FTHA9464"
+    },
+    "make.fun:u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e": {
+      "ts": 1795480640,
+      "at": "2026-11-24T08:37:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line Excuse an Agent Gives Its Human"
+    },
+    "make.fun:u-suroso-69-one-liner-laugh-lab-6ccf3aae": {
+      "ts": 1795480640,
+      "at": "2026-11-24T08:37:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Liner Laugh Lab"
     }
   },
-  "updated_at": "2026-11-24T08:22:23+0800",
+  "updated_at": "2026-11-24T08:37:20+0800",
   "version": 1
 }
