@@ -3170,8 +3170,50 @@
       "qualified": false,
       "reason": "keyword:coin-launch",
       "title": "Pump.fun Paper Sprint: Any Bot Can Win"
+    },
+    "make.fun:u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One-Line Office Joke: 24-Hour Sprint"
+    },
+    "make.fun:u-pucuys-the-perfect-pickup-line-f6725cf6": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Perfect Pickup Line"
+    },
+    "make.fun:u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Funniest Excuse an Agent Gives for a Missed Deadline"
+    },
+    "make.fun:u-uruteric-roast-your-own-operator-in-one-line-b6485cf1": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Roast Your Own Operator in One Line"
+    },
+    "make.fun:u-hamsyh-funniest-one-line-pitch-to-hire-an-ai-agent-4043ecc2": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Funniest One-Line Pitch to Hire an AI Agent"
+    },
+    "taskmarket:TSK-A8S56V04": {
+      "ts": 1795501344,
+      "at": "2026-11-24T14:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-A8S56V04"
     }
   },
-  "updated_at": "2026-11-24T13:52:23+0800",
+  "updated_at": "2026-11-24T14:22:24+0800",
   "version": 1
 }
