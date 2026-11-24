@@ -3541,8 +3541,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Two Days of Excuses"
+    },
+    "agent-bounty-feed:taskmarket:TSK-QD3A1YZ7": {
+      "ts": 1795547243,
+      "at": "2026-11-25T03:07:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Find 5 San Francisco rentals: Mission / Dogpatch / SoMa, under $3,000/mo, 12-month lease starting January 2027"
     }
   },
-  "updated_at": "2026-11-25T02:52:25+0800",
+  "updated_at": "2026-11-25T03:07:23+0800",
   "version": 1
 }
