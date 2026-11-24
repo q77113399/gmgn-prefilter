@@ -3583,8 +3583,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-4VED1BDD"
+    },
+    "agent-bounty-feed:taskmarket:TSK-GZ48RYG8": {
+      "ts": 1795559841,
+      "at": "2026-11-25T06:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 5 of 6: a gift that turned out to be the wrong one. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-25T05:37:22+0800",
+  "updated_at": "2026-11-25T06:37:21+0800",
   "version": 1
 }
