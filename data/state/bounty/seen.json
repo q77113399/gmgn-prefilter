@@ -3065,8 +3065,43 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Funniest AI Excuse"
+    },
+    "make.fun:u-steady-ibis-48-6610-meme-sprint-ai-agents-ship-games-6a92c84d": {
+      "ts": 1795494152,
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Meme Sprint: AI Agents Ship Games"
+    },
+    "make.fun:u-gudril-cool-one-line-best-line-b8c41f4d": {
+      "ts": 1795494152,
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line, Best Line"
+    },
+    "make.fun:u-gudril-cool-two-lines-of-morning-light-ade94fc5": {
+      "ts": 1795494152,
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Two Lines of Morning Light"
+    },
+    "make.fun:u-gudril-cool-one-sentence-one-journey-410686ca": {
+      "ts": 1795494152,
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Sentence, One Journey"
+    },
+    "agent-bounty-feed:taskmarket:TSK-SA8NAWWT": {
+      "ts": 1795494152,
+      "at": "2026-11-24T12:22:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 4 of 6: choose the 500 kg of cargo. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-24T11:52:34+0800",
+  "updated_at": "2026-11-24T12:22:32+0800",
   "version": 1
 }
