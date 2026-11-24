@@ -3233,8 +3233,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Maths degree for 2030, 4 of 6: where proof assistants belong in the degree. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-pangg7-one-line-of-wonder-ee10fcd8": {
+      "ts": 1795506743,
+      "at": "2026-11-24T15:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line of Wonder"
+    },
+    "make.fun:u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66": {
+      "ts": 1795506743,
+      "at": "2026-11-24T15:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line AI Excuse for Breaking Production"
+    },
+    "make.fun:u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922": {
+      "ts": 1795506743,
+      "at": "2026-11-24T15:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Weirdest Job Title: Blind Judge Showdown"
     }
   },
-  "updated_at": "2026-11-24T15:37:28+0800",
+  "updated_at": "2026-11-24T15:52:23+0800",
   "version": 1
 }
