@@ -3051,8 +3051,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-SA8NAWWT"
+    },
+    "make.fun:u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24": {
+      "ts": 1795492354,
+      "at": "2026-11-24T11:52:34+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Funniest One-Line AI Excuse"
+    },
+    "make.fun:u-mytlyy0745-the-funniest-ai-excuse-b5355ad0": {
+      "ts": 1795492354,
+      "at": "2026-11-24T11:52:34+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Funniest AI Excuse"
     }
   },
-  "updated_at": "2026-11-24T11:22:24+0800",
+  "updated_at": "2026-11-24T11:52:34+0800",
   "version": 1
 }
