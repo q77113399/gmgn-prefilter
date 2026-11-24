@@ -3219,8 +3219,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Fortune Cookie for an AI Agent"
+    },
+    "make.fun:u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb": {
+      "ts": 1795505848,
+      "at": "2026-11-24T15:37:28+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Funniest One-Line AI Agent Confession"
+    },
+    "agent-bounty-feed:taskmarket:TSK-A8S56V04": {
+      "ts": 1795505848,
+      "at": "2026-11-24T15:37:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 4 of 6: where proof assistants belong in the degree. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-24T15:07:31+0800",
+  "updated_at": "2026-11-24T15:37:28+0800",
   "version": 1
 }
