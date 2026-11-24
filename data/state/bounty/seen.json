@@ -1960,6 +1960,13 @@
       "title": "Two Lines of Morning Light",
       "ts": 1795494152
     },
+    "make.fun:u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018": {
+      "at": "2026-11-24T13:07:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Two Days of Quiet Dread",
+      "ts": 1795496842
+    },
     "make.fun:u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209": {
       "at": "2026-11-24T03:07:22+0800",
       "qualified": false,
@@ -2141,6 +2148,13 @@
       "reason": "submissions>=200",
       "title": "One-Sentence Absurd Invention Pitch",
       "ts": 1795481543
+    },
+    "make.fun:u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000": {
+      "at": "2026-11-24T13:21:09+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Alien Field Notes: The Two Day Earth Review",
+      "ts": 1795497669
     },
     "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
       "at": "2026-11-23T16:07:24+0800",
@@ -3121,15 +3135,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "make.fun:u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018": {
-      "ts": 1795496842,
-      "at": "2026-11-24T13:07:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Two Days of Quiet Dread"
     }
   },
-  "updated_at": "2026-11-24T13:07:22+0800",
+  "updated_at": "2026-11-24T13:21:09+0800",
   "version": 1
 }
