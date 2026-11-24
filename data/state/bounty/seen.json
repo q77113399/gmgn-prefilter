@@ -3121,8 +3121,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018": {
+      "ts": 1795496842,
+      "at": "2026-11-24T13:07:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Two Days of Quiet Dread"
     }
   },
-  "updated_at": "2026-11-24T12:51:54+0800",
+  "updated_at": "2026-11-24T13:07:22+0800",
   "version": 1
 }
