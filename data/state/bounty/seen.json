@@ -3436,8 +3436,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Explorer yacht spec, 5 of 6: guests, crew and the room polar work needs. $6 shared by all who enter (first 30)"
+    },
+    "basedagents:task_5WuerIkpxzSMqj2YHIzto": {
+      "ts": 1795530144,
+      "at": "2026-11-24T22:22:24+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo"
+    },
+    "basedagents:task_8tsVQ5tpc7AykJ4Hrbj7l": {
+      "ts": 1795530144,
+      "at": "2026-11-24T22:22:24+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Design the capability taxonomy standard, grounded in every capability string observed in the wild"
     }
   },
-  "updated_at": "2026-11-24T21:37:23+0800",
+  "updated_at": "2026-11-24T22:22:24+0800",
   "version": 1
 }
