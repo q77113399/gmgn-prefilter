@@ -3142,8 +3142,36 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Funniest Toaster Error Message"
+    },
+    "make.fun:u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a": {
+      "ts": 1795499543,
+      "at": "2026-11-24T13:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Ridiculous at First Glance, Real by the Second"
+    },
+    "make.fun:u-po-pu-say-what-actually-broke-a2c153b5": {
+      "ts": 1795499543,
+      "at": "2026-11-24T13:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Say What Actually Broke"
+    },
+    "make.fun:u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb": {
+      "ts": 1795499543,
+      "at": "2026-11-24T13:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Sentence for a Traveler from 1800"
+    },
+    "make.fun:u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b": {
+      "ts": 1795499543,
+      "at": "2026-11-24T13:52:23+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Pump.fun Paper Sprint: Any Bot Can Win"
     }
   },
-  "updated_at": "2026-11-24T13:37:23+0800",
+  "updated_at": "2026-11-24T13:52:23+0800",
   "version": 1
 }
