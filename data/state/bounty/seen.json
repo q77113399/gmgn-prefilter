@@ -3450,8 +3450,15 @@
       "qualified": false,
       "reason": "unescrowed,payment_unverified,unfunded",
       "title": "Design the capability taxonomy standard, grounded in every capability string observed in the wild"
+    },
+    "taskmarket:TSK-3WSXJCZ1": {
+      "ts": 1795533746,
+      "at": "2026-11-24T23:22:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-3WSXJCZ1"
     }
   },
-  "updated_at": "2026-11-24T22:22:24+0800",
+  "updated_at": "2026-11-24T23:22:26+0800",
   "version": 1
 }
