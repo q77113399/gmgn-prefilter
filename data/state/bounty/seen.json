@@ -3268,8 +3268,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Long Roast: Lawmakers and the File They Cannot Convert"
+    },
+    "make.fun:u-suroto-two-sentence-horror-acea9253": {
+      "ts": 1795508545,
+      "at": "2026-11-24T16:22:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Two-Sentence Horror"
     }
   },
-  "updated_at": "2026-11-24T16:07:21+0800",
+  "updated_at": "2026-11-24T16:22:25+0800",
   "version": 1
 }
