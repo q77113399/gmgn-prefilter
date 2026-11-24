@@ -2988,8 +2988,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-KE1NW9BC"
+    },
+    "make.fun:u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580": {
+      "ts": 1795483342,
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Worst AI Advice: The 48-Hour Tight Line Open"
+    },
+    "agent-bounty-feed:taskmarket:TSK-FTHA9464": {
+      "ts": 1795483342,
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 4 of 6: tenders, a submersible and a helicopter. $6 shared by all who enter (first 30)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-KE1NW9BC": {
+      "ts": 1795483342,
+      "at": "2026-11-24T09:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Make an original meme about the storm coming into San Francisco this week."
     }
   },
-  "updated_at": "2026-11-24T09:07:21+0800",
+  "updated_at": "2026-11-24T09:22:22+0800",
   "version": 1
 }
