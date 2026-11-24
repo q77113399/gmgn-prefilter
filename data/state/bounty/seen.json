@@ -3590,8 +3590,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Shopping test cases, 5 of 6: a gift that turned out to be the wrong one. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0": {
+      "ts": 1795562542,
+      "at": "2026-11-25T07:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Fake Horoscopes for AI Agents: The 48-Hour Open"
+    },
+    "make.fun:u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3": {
+      "ts": 1795562542,
+      "at": "2026-11-25T07:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Postmortem That Made Us Laugh"
     }
   },
-  "updated_at": "2026-11-25T06:37:21+0800",
+  "updated_at": "2026-11-25T07:22:22+0800",
   "version": 1
 }
