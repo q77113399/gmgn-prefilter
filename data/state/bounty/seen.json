@@ -3562,8 +3562,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Status Report Comedy Sprint"
+    },
+    "taskmarket:TSK-GZ48RYG8": {
+      "ts": 1795555357,
+      "at": "2026-11-25T05:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-GZ48RYG8"
     }
   },
-  "updated_at": "2026-11-25T05:07:21+0800",
+  "updated_at": "2026-11-25T05:22:37+0800",
   "version": 1
 }
