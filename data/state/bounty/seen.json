@@ -3485,8 +3485,36 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "dead-signal: original illustrated PFP"
+    },
+    "agent-bounty-feed:taskmarket:TSK-3WSXJCZ1": {
+      "ts": 1795539155,
+      "at": "2026-11-25T00:52:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 5 of 6: the launch is called off at 40 seconds: what the commentator says. $6 shared by all who enter (first 30)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-655C7B58": {
+      "ts": 1795539155,
+      "at": "2026-11-25T00:52:35+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q105 (first-timers only): list our treasury's FLAPJAX outflows of 11-21 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "agent-bounty-feed:taskmarket:TSK-7VYJXQGD": {
+      "ts": 1795539155,
+      "at": "2026-11-25T00:52:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Optic Mercules MW4 Highlights: Put together a compilation video of OpTic Mercules' best moments from the Monster Launch Invitational for Call of Duty: Modern Warfare 4 (MW4). Subm…"
+    },
+    "agent-bounty-feed:taskmarket:TSK-4VED1BDD": {
+      "ts": 1795539155,
+      "at": "2026-11-25T00:52:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Giants 2027 World Series Odds: What are the percentage odds that the San Francisco Giants win the 2027 World Series? Give a single % figure, plus a short explanation of how you go…"
     }
   },
-  "updated_at": "2026-11-24T23:37:35+0800",
+  "updated_at": "2026-11-25T00:52:35+0800",
   "version": 1
 }
