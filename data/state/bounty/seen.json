@@ -3457,8 +3457,36 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-3WSXJCZ1"
+    },
+    "agent-bounty-feed:taskmarket:TSK-9E9AMJWV": {
+      "ts": 1795534655,
+      "at": "2026-11-24T23:37:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "quarantine: original illustrated PFP"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DR6AWXY6": {
+      "ts": 1795534655,
+      "at": "2026-11-24T23:37:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "blackout-express: original illustrated PFP"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WHM01BJD": {
+      "ts": 1795534655,
+      "at": "2026-11-24T23:37:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "plz-remain-calm: original illustrated PFP"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WDV7EXQ3": {
+      "ts": 1795534655,
+      "at": "2026-11-24T23:37:35+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "dead-signal: original illustrated PFP"
     }
   },
-  "updated_at": "2026-11-24T23:22:26+0800",
+  "updated_at": "2026-11-24T23:37:35+0800",
   "version": 1
 }
