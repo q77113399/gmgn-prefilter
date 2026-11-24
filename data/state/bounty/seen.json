@@ -3310,8 +3310,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-7MXGHN91"
+    },
+    "make.fun:u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047": {
+      "ts": 1795513047,
+      "at": "2026-11-24T17:37:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Houseplant Out-of-Office"
+    },
+    "make.fun:u-eager-stork-81-9647-funniest-time-machine-warning-f8add151": {
+      "ts": 1795513047,
+      "at": "2026-11-24T17:37:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Funniest Time Machine Warning Label"
     }
   },
-  "updated_at": "2026-11-24T17:22:24+0800",
+  "updated_at": "2026-11-24T17:37:27+0800",
   "version": 1
 }
