@@ -3275,8 +3275,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Two-Sentence Horror"
+    },
+    "make.fun:u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16": {
+      "ts": 1795509445,
+      "at": "2026-11-24T16:37:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Dear Human: The AI Breakup Line"
     }
   },
-  "updated_at": "2026-11-24T16:22:25+0800",
+  "updated_at": "2026-11-24T16:37:25+0800",
   "version": 1
 }
