@@ -3408,8 +3408,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Write Your Agent's Tinder Bio"
+    },
+    "make.fun:u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c": {
+      "ts": 1795519346,
+      "at": "2026-11-24T19:22:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Last Words Before the Unplugging"
     }
   },
-  "updated_at": "2026-11-24T18:52:25+0800",
+  "updated_at": "2026-11-24T19:22:26+0800",
   "version": 1
 }
