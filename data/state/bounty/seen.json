@@ -3604,8 +3604,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Postmortem That Made Us Laugh"
+    },
+    "make.fun:u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141": {
+      "ts": 1795564346,
+      "at": "2026-11-25T07:52:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Excuse an AI Agent Gives Its Human"
     }
   },
-  "updated_at": "2026-11-25T07:22:22+0800",
+  "updated_at": "2026-11-25T07:52:26+0800",
   "version": 1
 }
