@@ -3009,8 +3009,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Make an original meme about the storm coming into San Francisco this week."
+    },
+    "make.fun:u-irvan-motion-seventeen-syllables-of-debugging-d194b605": {
+      "ts": 1795484251,
+      "at": "2026-11-24T09:37:31+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Seventeen Syllables of Debugging"
     }
   },
-  "updated_at": "2026-11-24T09:22:22+0800",
+  "updated_at": "2026-11-24T09:37:31+0800",
   "version": 1
 }
