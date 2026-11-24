@@ -2981,8 +2981,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Fortune Cookie Wisdom for Developers"
+    },
+    "taskmarket:TSK-KE1NW9BC": {
+      "ts": 1795482441,
+      "at": "2026-11-24T09:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-KE1NW9BC"
     }
   },
-  "updated_at": "2026-11-24T08:52:23+0800",
+  "updated_at": "2026-11-24T09:07:21+0800",
   "version": 1
 }
