@@ -3429,8 +3429,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Charm the Cartographers: A One Day Treasure Map Sprint"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DTBVFYBN": {
+      "ts": 1795527443,
+      "at": "2026-11-24T21:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 5 of 6: guests, crew and the room polar work needs. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-24T20:37:26+0800",
+  "updated_at": "2026-11-24T21:37:23+0800",
   "version": 1
 }
