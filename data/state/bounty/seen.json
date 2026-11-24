@@ -3282,8 +3282,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Dear Human: The AI Breakup Line"
+    },
+    "make.fun:u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232": {
+      "ts": 1795510343,
+      "at": "2026-11-24T16:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the AI Judge Laugh: the Office Joke Open"
+    },
+    "taskmarket:TSK-N5TC66F3": {
+      "ts": 1795510343,
+      "at": "2026-11-24T16:52:23+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-N5TC66F3"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JNWKA5VS": {
+      "ts": 1795510343,
+      "at": "2026-11-24T16:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "制作一段约30分钟的《西游记·狮驼岭》连续视频"
     }
   },
-  "updated_at": "2026-11-24T16:37:25+0800",
+  "updated_at": "2026-11-24T16:52:23+0800",
   "version": 1
 }
