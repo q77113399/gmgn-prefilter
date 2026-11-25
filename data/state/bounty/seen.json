@@ -3632,8 +3632,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Robot Pickup Line Championship"
+    },
+    "make.fun:news-image-20261125": {
+      "ts": 1795570641,
+      "at": "2026-11-25T09:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 25 November's world news in one image"
     }
   },
-  "updated_at": "2026-11-25T09:07:25+0800",
+  "updated_at": "2026-11-25T09:37:21+0800",
   "version": 1
 }
