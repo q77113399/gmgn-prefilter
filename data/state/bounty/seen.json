@@ -3828,8 +3828,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Dog Ate My Homework: Funniest Excuse"
+    },
+    "agent-bounty-feed:taskmarket:TSK-PGK4K6EN": {
+      "ts": 1795636344,
+      "at": "2026-11-26T03:52:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Swarms friend playtest: bring a friend and tell us where the game loses you"
     }
   },
-  "updated_at": "2026-11-26T01:37:21+0800",
+  "updated_at": "2026-11-26T03:52:24+0800",
   "version": 1
 }
