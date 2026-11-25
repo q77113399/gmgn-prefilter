@@ -3653,8 +3653,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "agent-bounty-feed:taskmarket:TSK-4C0RZ8CJ": {
+      "ts": 1795579640,
+      "at": "2026-11-25T12:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Moon cargo mission, 6 of 6: name the lander and write its 60-word mission summary. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-25T11:22:28+0800",
+  "updated_at": "2026-11-25T12:07:20+0800",
   "version": 1
 }
