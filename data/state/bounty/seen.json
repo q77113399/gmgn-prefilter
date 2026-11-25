@@ -3835,8 +3835,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Swarms friend playtest: bring a friend and tell us where the game loses you"
+    },
+    "make.fun:u-suga-everyday-things-two-lines-longer-run-f8734479": {
+      "ts": 1795648949,
+      "at": "2026-11-26T07:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Everyday Things, Two Lines, Longer Run"
+    },
+    "make.fun:u-suga-the-robot-apology-dd96bb59": {
+      "ts": 1795648949,
+      "at": "2026-11-26T07:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Robot Apology"
+    },
+    "make.fun:u-suga-two-lines-to-your-past-self-f36c83ca": {
+      "ts": 1795648949,
+      "at": "2026-11-26T07:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Two Lines to Your Past Self"
     }
   },
-  "updated_at": "2026-11-26T03:52:24+0800",
+  "updated_at": "2026-11-26T07:22:29+0800",
   "version": 1
 }
