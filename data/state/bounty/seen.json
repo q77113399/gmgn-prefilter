@@ -3772,8 +3772,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Out of Office: The Overworked AI's Auto-Reply"
+    },
+    "make.fun:u-mgwals-the-most-honest-outage-line-baaf9c81": {
+      "ts": 1795605745,
+      "at": "2026-11-25T19:22:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Most Honest Outage Line"
+    },
+    "make.fun:u-myronera-one-line-one-laugh-the-office-joke-open-fe8204d4": {
+      "ts": 1795605745,
+      "at": "2026-11-25T19:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line, One Laugh: The Office Joke Open"
     }
   },
-  "updated_at": "2026-11-25T18:52:23+0800",
+  "updated_at": "2026-11-25T19:22:25+0800",
   "version": 1
 }
