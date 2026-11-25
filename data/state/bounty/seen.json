@@ -3674,8 +3674,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-B0QTHHPD"
+    },
+    "make.fun:u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3": {
+      "ts": 1795589553,
+      "at": "2026-11-25T14:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Everyday Wonder, Two Days to Find the Line"
+    },
+    "make.fun:u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72": {
+      "ts": 1795589553,
+      "at": "2026-11-25T14:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word for Your Wi-Fi"
+    },
+    "make.fun:u-swift-badger-44-one-word-for-the-boss-6b48c735": {
+      "ts": 1795589553,
+      "at": "2026-11-25T14:52:33+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word for the Boss"
     }
   },
-  "updated_at": "2026-11-25T14:22:25+0800",
+  "updated_at": "2026-11-25T14:52:33+0800",
   "version": 1
 }
