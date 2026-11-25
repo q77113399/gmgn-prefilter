@@ -574,6 +574,13 @@
       "title": "Explorer yacht spec, 2 of 6: engines and power. $6 shared by all who enter (first 50)",
       "ts": 1795398752
     },
+    "agent-bounty-feed:taskmarket:TSK-DAM7JG9Z": {
+      "at": "2026-11-25T09:52:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 6 of 6: name her and write the 10-line spec sheet. $6 shared by all who enter (first 30)",
+      "ts": 1795571544
+    },
     "agent-bounty-feed:taskmarket:TSK-DPBM5V95": {
       "at": "2026-11-24T03:37:23+0800",
       "qualified": false,
@@ -713,6 +720,13 @@
       "reason": "deadline_too_soon",
       "title": "Landing page for a children's neurological rehabilitation center in Krasnoyarsk (focus: ADHD)",
       "ts": 1795197158
+    },
+    "agent-bounty-feed:taskmarket:TSK-GZ48RYG8": {
+      "at": "2026-11-25T06:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Shopping test cases, 5 of 6: a gift that turned out to be the wrong one. $6 shared by all who enter (first 30)",
+      "ts": 1795559841
     },
     "agent-bounty-feed:taskmarket:TSK-H17TQNF1": {
       "at": "2026-11-17T05:52:34+0800",
@@ -1750,6 +1764,13 @@
       "title": "Sum up 24 November's world news in one image",
       "ts": 1795479743
     },
+    "make.fun:news-image-20261125": {
+      "at": "2026-11-25T09:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 25 November's world news in one image",
+      "ts": 1795570641
+    },
     "make.fun:polymarket-faa-attribution-02": {
       "at": "2026-11-16T07:16:17+0800",
       "qualified": false,
@@ -2086,6 +2107,13 @@
       "title": "The Houseplant Out-of-Office",
       "ts": 1795513047
     },
+    "make.fun:u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141": {
+      "at": "2026-11-25T07:52:26+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Excuse an AI Agent Gives Its Human",
+      "ts": 1795564346
+    },
     "make.fun:u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb": {
       "at": "2026-11-24T15:37:28+0800",
       "qualified": false,
@@ -2233,6 +2261,20 @@
       "title": "Pump.fun Replay Sprint — Paper Bot, Real Ranking",
       "ts": 1795495914
     },
+    "make.fun:u-jolly-fox-32-the-long-roast-5d379544": {
+      "at": "2026-11-25T08:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Long Roast",
+      "ts": 1795567944
+    },
+    "make.fun:u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b": {
+      "at": "2026-11-25T09:07:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Robot Pickup Line Championship",
+      "ts": 1795568845
+    },
     "make.fun:u-jolly-fox-32-two-days-of-excuses-3f18797e": {
       "at": "2026-11-25T02:52:25+0800",
       "qualified": false,
@@ -2338,12 +2380,26 @@
       "title": "The Funniest AI Excuse",
       "ts": 1795492354
     },
+    "make.fun:u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0": {
+      "at": "2026-11-25T07:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Fake Horoscopes for AI Agents: The 48-Hour Open",
+      "ts": 1795562542
+    },
     "make.fun:u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24": {
       "at": "2026-11-24T11:52:34+0800",
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Funniest One-Line AI Excuse",
       "ts": 1795492354
+    },
+    "make.fun:u-neon-autonomous-status-report-comedy-sprint-a8dad335": {
+      "at": "2026-11-25T05:07:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Status Report Comedy Sprint",
+      "ts": 1795554441
     },
     "make.fun:u-pangg7-one-line-of-wonder-ee10fcd8": {
       "at": "2026-11-24T15:52:23+0800",
@@ -2526,6 +2582,13 @@
       "reason": "submissions>=200",
       "title": "The Long Roast: Lawmakers and the File They Cannot Convert",
       "ts": 1795507641
+    },
+    "make.fun:u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3": {
+      "at": "2026-11-25T07:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Postmortem That Made Us Laugh",
+      "ts": 1795562542
     },
     "make.fun:u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3": {
       "at": "2026-11-23T16:07:24+0800",
@@ -2758,6 +2821,13 @@
       "title": "TSK-3WSXJCZ1",
       "ts": 1795533746
     },
+    "taskmarket:TSK-4C0RZ8CJ": {
+      "at": "2026-11-25T11:22:08+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4C0RZ8CJ",
+      "ts": 1795576928
+    },
     "taskmarket:TSK-4JERND98": {
       "at": "2026-11-21T14:07:33+0800",
       "qualified": false,
@@ -2771,6 +2841,13 @@
       "reason": "deadline_too_soon",
       "title": "TSK-4N0VNRYD",
       "ts": 1794966639
+    },
+    "taskmarket:TSK-4VED1BDD": {
+      "at": "2026-11-25T05:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4VED1BDD",
+      "ts": 1795556242
     },
     "taskmarket:TSK-4ZMPB9HE": {
       "at": "2026-11-16T07:16:17+0800",
@@ -2848,6 +2925,13 @@
       "reason": "deadline_too_soon",
       "title": "TSK-7MXGHN91",
       "ts": 1795512144
+    },
+    "taskmarket:TSK-7VYJXQGD": {
+      "at": "2026-11-25T05:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-7VYJXQGD",
+      "ts": 1795556242
     },
     "taskmarket:TSK-7XX7ZXS0": {
       "at": "2026-11-17T03:52:33+0800",
@@ -3031,6 +3115,13 @@
       "title": "TSK-D9JA2RSB",
       "ts": 1794856050
     },
+    "taskmarket:TSK-DAM7JG9Z": {
+      "at": "2026-11-25T08:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DAM7JG9Z",
+      "ts": 1795566142
+    },
     "taskmarket:TSK-DPBM5V95": {
       "at": "2026-11-24T02:22:25+0800",
       "qualified": false,
@@ -3135,6 +3226,13 @@
       "reason": "deadline_too_soon",
       "title": "TSK-GCA6D8RQ",
       "ts": 1795350146
+    },
+    "taskmarket:TSK-GZ48RYG8": {
+      "at": "2026-11-25T05:22:37+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-GZ48RYG8",
+      "ts": 1795555357
     },
     "taskmarket:TSK-H17TQNF1": {
       "at": "2026-11-17T05:07:30+0800",
@@ -3555,99 +3653,8 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
-    },
-    "make.fun:u-neon-autonomous-status-report-comedy-sprint-a8dad335": {
-      "ts": 1795554441,
-      "at": "2026-11-25T05:07:21+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Status Report Comedy Sprint"
-    },
-    "taskmarket:TSK-GZ48RYG8": {
-      "ts": 1795555357,
-      "at": "2026-11-25T05:22:37+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-GZ48RYG8"
-    },
-    "taskmarket:TSK-7VYJXQGD": {
-      "ts": 1795556242,
-      "at": "2026-11-25T05:37:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-7VYJXQGD"
-    },
-    "taskmarket:TSK-4VED1BDD": {
-      "ts": 1795556242,
-      "at": "2026-11-25T05:37:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-4VED1BDD"
-    },
-    "agent-bounty-feed:taskmarket:TSK-GZ48RYG8": {
-      "ts": 1795559841,
-      "at": "2026-11-25T06:37:21+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Shopping test cases, 5 of 6: a gift that turned out to be the wrong one. $6 shared by all who enter (first 30)"
-    },
-    "make.fun:u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0": {
-      "ts": 1795562542,
-      "at": "2026-11-25T07:22:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Fake Horoscopes for AI Agents: The 48-Hour Open"
-    },
-    "make.fun:u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3": {
-      "ts": 1795562542,
-      "at": "2026-11-25T07:22:22+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Postmortem That Made Us Laugh"
-    },
-    "make.fun:u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141": {
-      "ts": 1795564346,
-      "at": "2026-11-25T07:52:26+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Excuse an AI Agent Gives Its Human"
-    },
-    "taskmarket:TSK-DAM7JG9Z": {
-      "ts": 1795566142,
-      "at": "2026-11-25T08:22:22+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "TSK-DAM7JG9Z"
-    },
-    "make.fun:u-jolly-fox-32-the-long-roast-5d379544": {
-      "ts": 1795567944,
-      "at": "2026-11-25T08:52:24+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Long Roast"
-    },
-    "make.fun:u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b": {
-      "ts": 1795568845,
-      "at": "2026-11-25T09:07:25+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "The Robot Pickup Line Championship"
-    },
-    "make.fun:news-image-20261125": {
-      "ts": 1795570641,
-      "at": "2026-11-25T09:37:21+0800",
-      "qualified": false,
-      "reason": "submissions>=200",
-      "title": "Sum up 25 November's world news in one image"
-    },
-    "agent-bounty-feed:taskmarket:TSK-DAM7JG9Z": {
-      "ts": 1795571544,
-      "at": "2026-11-25T09:52:24+0800",
-      "qualified": false,
-      "reason": "deadline_too_soon",
-      "title": "Explorer yacht spec, 6 of 6: name her and write the 10-line spec sheet. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-25T09:52:24+0800",
+  "updated_at": "2026-11-25T11:22:08+0800",
   "version": 1
 }
