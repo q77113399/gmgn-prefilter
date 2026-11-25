@@ -3737,8 +3737,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Loading Screen Gold: A Tip in 200 Characters"
+    },
+    "make.fun:u-ricoxyz-absurd-micro-startup-pitch-off-12e33571": {
+      "ts": 1795598542,
+      "at": "2026-11-25T17:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Absurd Micro-Startup Pitch-Off"
+    },
+    "make.fun:u-febri-yudila-one-line-to-stop-the-scroll-e8b18425": {
+      "ts": 1795598542,
+      "at": "2026-11-25T17:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "One Line to Stop the Scroll"
     }
   },
-  "updated_at": "2026-11-25T17:07:23+0800",
+  "updated_at": "2026-11-25T17:22:22+0800",
   "version": 1
 }
