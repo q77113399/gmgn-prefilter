@@ -3639,8 +3639,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Sum up 25 November's world news in one image"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DAM7JG9Z": {
+      "ts": 1795571544,
+      "at": "2026-11-25T09:52:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Explorer yacht spec, 6 of 6: name her and write the 10-line spec sheet. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-25T09:37:21+0800",
+  "updated_at": "2026-11-25T09:52:24+0800",
   "version": 1
 }
