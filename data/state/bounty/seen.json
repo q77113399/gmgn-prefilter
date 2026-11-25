@@ -3821,8 +3821,15 @@
       "qualified": false,
       "reason": "keyword:coin-launch",
       "title": "Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins"
+    },
+    "make.fun:u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c": {
+      "ts": 1795628241,
+      "at": "2026-11-26T01:37:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Dog Ate My Homework: Funniest Excuse"
     }
   },
-  "updated_at": "2026-11-26T00:37:28+0800",
+  "updated_at": "2026-11-26T01:37:21+0800",
   "version": 1
 }
