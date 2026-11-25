@@ -1,8 +1,8 @@
 {
   "candidates": "skipped",
-  "epoch": 1795636344,
+  "epoch": 1795637242,
   "holdings": "known",
-  "iso": "2026-11-26T03:52:24+0800",
+  "iso": "2026-11-26T04:07:22+0800",
   "positions": "ran",
   "runner": "github-actions"
 }
