@@ -84,6 +84,11 @@
    "symbol": "MCAT",
    "reason": "smart-money follow: GMGN bundler 22.1% (>20%), phishing 23.4%",
    "at": "2026-11-23T07:10+08:00"
+  },
+  {
+   "mint": "5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump",
+   "name": "Pompom",
+   "reason": "smart-money 2026-11-25 20:55 Taipei: dev serial launcher 10,017 tokens + Blacklist funding wallet flag; bundler 22%"
   }
  ],
  "note": "Pano may append permanently rejected mints (e.g. DEV Scan / rug flags). Accepts this object or a bare list of mint strings.",
