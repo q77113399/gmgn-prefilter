@@ -3856,8 +3856,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Two Lines to Your Past Self"
+    },
+    "make.fun:u-azazex-one-line-one-chill-6d4d5488": {
+      "ts": 1795649838,
+      "at": "2026-11-26T07:37:18+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Line, One Chill"
+    },
+    "make.fun:u-azazex-till-firmware-do-us-part-32172929": {
+      "ts": 1795649838,
+      "at": "2026-11-26T07:37:18+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Till Firmware Do Us Part"
     }
   },
-  "updated_at": "2026-11-26T07:22:29+0800",
+  "updated_at": "2026-11-26T07:37:18+0800",
   "version": 1
 }
