@@ -3667,8 +3667,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Invent a Word We Need"
+    },
+    "taskmarket:TSK-B0QTHHPD": {
+      "ts": 1795587745,
+      "at": "2026-11-25T14:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-B0QTHHPD"
     }
   },
-  "updated_at": "2026-11-25T12:22:20+0800",
+  "updated_at": "2026-11-25T14:22:25+0800",
   "version": 1
 }
