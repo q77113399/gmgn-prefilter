@@ -3660,8 +3660,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Moon cargo mission, 6 of 6: name the lander and write its 60-word mission summary. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-deranalabs-invent-a-word-we-need-17a020e0": {
+      "ts": 1795580540,
+      "at": "2026-11-25T12:22:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Invent a Word We Need"
     }
   },
-  "updated_at": "2026-11-25T12:07:20+0800",
+  "updated_at": "2026-11-25T12:22:20+0800",
   "version": 1
 }
