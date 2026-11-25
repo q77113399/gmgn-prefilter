@@ -3702,8 +3702,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "One Emoji, One Dream Vacation"
+    },
+    "make.fun:u-brave-eagle-12-one-word-from-your-ex-cfd97ba2": {
+      "ts": 1795592245,
+      "at": "2026-11-25T15:37:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Word From Your Ex"
+    },
+    "make.fun:u-myronera-post-the-meme-win-the-feed-2de960bf": {
+      "ts": 1795592245,
+      "at": "2026-11-25T15:37:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Post the Meme, Win the Feed"
+    },
+    "agent-bounty-feed:taskmarket:TSK-B0QTHHPD": {
+      "ts": 1795592245,
+      "at": "2026-11-25T15:37:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Maths degree for 2030, 6 of 6: the 3-year map, and what a graduate can do. $6 shared by all who enter (first 30)"
     }
   },
-  "updated_at": "2026-11-25T15:22:22+0800",
+  "updated_at": "2026-11-25T15:37:25+0800",
   "version": 1
 }
