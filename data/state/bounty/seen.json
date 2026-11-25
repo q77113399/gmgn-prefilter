@@ -3618,8 +3618,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-DAM7JG9Z"
+    },
+    "make.fun:u-jolly-fox-32-the-long-roast-5d379544": {
+      "ts": 1795567944,
+      "at": "2026-11-25T08:52:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Long Roast"
     }
   },
-  "updated_at": "2026-11-25T08:22:22+0800",
+  "updated_at": "2026-11-25T08:52:24+0800",
   "version": 1
 }
