@@ -3695,8 +3695,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "One Word for the Boss"
+    },
+    "make.fun:u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35": {
+      "ts": 1795591342,
+      "at": "2026-11-25T15:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "One Emoji, One Dream Vacation"
     }
   },
-  "updated_at": "2026-11-25T14:52:33+0800",
+  "updated_at": "2026-11-25T15:22:22+0800",
   "version": 1
 }
