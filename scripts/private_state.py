@@ -230,7 +230,7 @@ def gha_load(d: Path) -> int:
     st = {"cursors": gha.get("sm_cursors") or {}, "initialized": {a: True for a in (gha.get("sm_cursors") or {})},
           "seen_sigs": gha.get("sm_seen") or {}, "pending": gha.get("sm_pending") or [],
           "last_wake_ts": gha.get("sm_last_wake") or 0, "woken_keys": gha.get("sm_woken") or {},
-          "detected_keys": gha.get("sm_detect") or {}}
+          "detected_keys": gha.get("sm_detect") or {}, "buys_by_mint": gha.get("sm_buys") or {}}
     write_json(d / "sm-state.json", st, 0o600)
     write_json(d / "sm-skip.json", {"keys": box.get("sm_woken") or {}}, 0o600)
     print(f"private_state gha-load ok wallets={len(box.get('wallets') or [])} "
@@ -257,6 +257,7 @@ def gha_save(d: Path) -> int:
         "sm_last_wake": st.get("last_wake_ts") or 0,
         "sm_woken": prune(st.get("woken_keys") or {}, now),
         "sm_detect": prune(st.get("detected_keys") or {}, now),
+        "sm_buys": st.get("buys_by_mint") or {},
         "early_peaks": peaks,
         "early_events": prune(early.get("position_events") or {}, now),
     }

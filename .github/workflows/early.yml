@@ -78,6 +78,7 @@ jobs:
           PRIVATE_STATE_KEY: ${{ secrets.PRIVATE_STATE_KEY }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           WEBHOOK_BEARER: ${{ secrets.WEBHOOK_BEARER }}
+          HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
         run: |
           export DRY_RUN="$DRY_RUN_INPUT"
           bash scripts/gha-private.sh

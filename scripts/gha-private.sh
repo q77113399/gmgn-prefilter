@@ -54,6 +54,9 @@ fi
 early_reason=$(jq -r '.reason // "no_stats"' "$D/early-state/gmgn-early-last.json" 2>/dev/null || echo no_stats)
 
 # 2) smart-money single poll
+# Helius RPC if the repo secret is set (URL never printed; GitHub also masks the key).
+if [[ -n "${HELIUS_API_KEY:-}" ]]; then export SOLANA_RPC_URL="https://mainnet.helius-rpc.com/?api-key=${HELIUS_API_KEY}"; fi
+export SMART_MONEY_MIN_BUY_SOL="${SMART_MONEY_MIN_BUY_SOL:-0.5}"
 SMART_MONEY_SOURCE=gha SMART_MONEY_ROOT="$D/sm" SMART_MONEY_WALLETS="$D/wallets.json" \
 SMART_MONEY_STATE="$D/sm-state.json" SMART_MONEY_SKIP="$D/sm-skip.json" SMART_MONEY_EVIDENCE="$D/sm/evidence" \
 GMGN_REJECTED="$REPO/data/inputs/rejected.json" GMGN_POSITIONS_FILE="$D/positions.json" \
@@ -63,7 +66,7 @@ sm_rc=$?
 sm_polled=0; grep -q 'poll wallets=[1-9]' "$D/logs/sm.log" && sm_polled=1
 sm_err=$(grep -o 'errors=[0-9]*' "$D/logs/sm.log" | tail -1 | cut -d= -f2)
 health 1 "$box_ok" "${n_inputs// /}/3" "$early_reason" "$sm_rc" "$sm_polled" "${sm_err:-?}"
-echo "$(ts) smart-money rc=$sm_rc $(grep -o 'poll wallets=.*' "$D/logs/sm.log" | tail -1) $(grep -o 'notify http=[0-9]*\|wake [A-Z_ ]*ok events=[0-9]*\|already woken by the other runner\|rate-limit: [0-9]* event' "$D/logs/sm.log" | tr '\n' ' ')"
+echo "$(ts) smart-money rc=$sm_rc $(grep -o ' rpc=[a-z-]*' "$D/logs/sm.log" | tail -1) $(grep -o 'poll wallets=.*' "$D/logs/sm.log" | tail -1) $(grep -o 'notify http=[0-9]*\|wake [A-Z_ ]*ok events=[0-9]*\|already woken by the other runner\|rate-limit: [0-9]* event' "$D/logs/sm.log" | tr '\n' ' ')"
 
 python3 "$SCRIPT_DIR/private_state.py" gha-save "$D" 2>&1 | grep -o 'gha-save.*' || true
 exit 0

@@ -264,6 +264,7 @@ def load_state() -> dict[str, Any]:
     st.setdefault("seen_sigs", {})        # sig -> ts
     st.setdefault("pending", [])          # queued events waiting for wake gap
     st.setdefault("last_wake_ts", 0)
+    st.setdefault("buys_by_mint", {})     # mint -> {wallet: ts}, pruned at 48h
     return st
 
 
@@ -273,6 +274,117 @@ def prune_seen(st: dict[str, Any], ttl: int = 14 * 86400) -> None:
         st[k] = {a: int(b) for a, b in (st.get(k) or {}).items() if isinstance(b, (int, float)) and now - int(b) < 3 * 86400}
     seen = st.get("seen_sigs") or {}
     st["seen_sigs"] = {k: int(v) for k, v in seen.items() if isinstance(v, (int, float)) and now - int(v) < ttl}
+    prune_buys_by_mint(st)
+
+
+def prune_buys_by_mint(st: dict[str, Any], ttl: int = 48 * 3600) -> None:
+    """Drop buy records older than 48h and empty mint keys."""
+    now = now_ts()
+    out: dict[str, dict[str, int]] = {}
+    for mint, rec in (st.get("buys_by_mint") or {}).items():
+        if not isinstance(mint, str) or not isinstance(rec, dict):
+            continue
+        kept = {}
+        for w, ts in rec.items():
+            if isinstance(w, str) and isinstance(ts, (int, float)) and now - int(ts) < ttl:
+                kept[w] = int(ts)
+        if kept:
+            out[mint] = kept
+    st["buys_by_mint"] = out
+
+
+def record_buy(st: dict[str, Any], ev: dict[str, Any]) -> None:
+    """Persist a wallet's buy of a mint, including size-skipped buys."""
+    if ev.get("side") != "buy":
+        return
+    mint = ev.get("mint")
+    if not isinstance(mint, str) or not mint:
+        return
+    rec = st.setdefault("buys_by_mint", {}).setdefault(mint, {})
+    ts = int(ev.get("ts") or now_ts())
+    for w in ev.get("wallets") or []:
+        if not isinstance(w, str):
+            continue
+        prev = rec.get(w)
+        if prev is None or ts > int(prev):
+            rec[w] = ts
+
+
+_hold_cache: dict[tuple[str, str], bool] = {}
+
+
+def wallet_holds_mint(wallet: str, mint: str) -> bool:
+    """True if owner has a token account for mint with uiAmount > 0. Cached per process."""
+    key = (wallet, mint)
+    if key in _hold_cache:
+        return _hold_cache[key]
+    held = False
+    try:
+        res = rpc(
+            "getTokenAccountsByOwner",
+            [wallet, {"mint": mint}, {"encoding": "jsonParsed"}],
+            retries=3,
+        )
+        for acc in (res or {}).get("value") or []:
+            if not isinstance(acc, dict):
+                continue
+            info = (((acc.get("account") or {}).get("data") or {}).get("parsed") or {}).get("info") or {}
+            amt = (info.get("tokenAmount") or {}).get("uiAmount") or 0
+            try:
+                if float(amt or 0) > 0:
+                    held = True
+                    break
+            except (TypeError, ValueError):
+                continue
+    except Exception as e:
+        log(f"hold-check {wallet[:8]}… {mint[:8]} failed: {type(e).__name__}")
+    _hold_cache[key] = held
+    return held
+
+
+def annotate_multi_wallet(
+    ev: dict[str, Any],
+    st: dict[str, Any],
+    enabled: list[str],
+    check_onchain: bool = True,
+) -> None:
+    """Flag if any other enabled wallet bought this mint in 24h or still holds it."""
+    if ev.get("side") != "buy":
+        ev.setdefault("multi_wallet", False)
+        ev.setdefault("co_wallets", [])
+        return
+    mint = ev.get("mint")
+    primary = [w for w in (ev.get("wallets") or []) if isinstance(w, str)]
+    own = set(primary)
+    enabled_set = set(enabled)
+    co: list[str] = []
+    seen: set[str] = set()
+    ref_ts = int(ev.get("ts") or now_ts())
+    rec = (st.get("buys_by_mint") or {}).get(mint) or {}
+    if isinstance(rec, dict):
+        for w, ts in rec.items():
+            if not isinstance(w, str) or w in own or w not in enabled_set:
+                continue
+            try:
+                tsi = int(ts)
+            except (TypeError, ValueError):
+                continue
+            if 0 <= ref_ts - tsi <= 24 * 3600 and w not in seen:
+                co.append(w)
+                seen.add(w)
+    for w in primary[1:]:
+        if w not in seen:
+            co.append(w)
+            seen.add(w)
+    if check_onchain and isinstance(mint, str) and mint:
+        for w in enabled:
+            if w in own or w in seen:
+                continue
+            if wallet_holds_mint(w, mint):
+                co.append(w)
+                seen.add(w)
+    ev["co_wallets"] = co
+    ev["multi_wallet"] = bool(co)
 
 
 def acquire_lock() -> int:
@@ -337,6 +449,12 @@ def parse_wallet_changes(wallet: str, tx: dict[str, Any]) -> dict[str, Any]:
         quote_sol += -sol_delta
     if wsol < 0:
         quote_sol += -wsol
+    # 2026-11-21: stablecoin buys (USDC/USDT spent) count toward the size gate, converted to SOL
+    stable_spent = (-usdc if usdc < 0 else 0.0) + (-usdt if usdt < 0 else 0.0)
+    if stable_spent > 0 and bought:
+        sp = sol_usd()
+        if sp:
+            quote_sol += stable_spent / sp
     return {
         "sol_delta": sol_delta,
         "wsol_delta": wsol,
@@ -557,10 +675,14 @@ def build_payload(events: list[dict[str, Any]], evidence: Path) -> dict[str, Any
     if buys:
         bits = []
         for e in buys:
+            extra = ""
+            if e.get("multi_wallet"):
+                co = ",".join(a[:6] + "…" for a in (e.get("co_wallets") or []))
+                extra = f" multi=1 co={co}"
             bits.append(
                 f"{e.get('symbol') or e['mint'][:8]} mint={e['mint']} "
                 f"wallets={','.join(a[:6]+'…' for a in e['wallets'])} "
-                f"size={e.get('sol_size')} SOL liq=${e.get('liq')} mc=${e.get('mc')} age_h={e.get('age_h')}"
+                f"size={e.get('sol_size')} SOL liq=${e.get('liq')} mc=${e.get('mc')} age_h={e.get('age_h')}{extra}"
             )
         parts.append(f"{len(buys)} smart-money buy(s): " + "; ".join(bits))
     if sells:
@@ -590,6 +712,8 @@ def build_payload(events: list[dict[str, Any]], evidence: Path) -> dict[str, Any
             "liq": e.get("liq"),
             "age_h": e.get("age_h"),
             "dexscreener_url": e.get("dexscreener_url"),
+            "multi_wallet": bool(e.get("multi_wallet")),
+            "co_wallets": list(e.get("co_wallets") or []),
         })
     return {
         "schema_version": 1,
@@ -640,6 +764,23 @@ def notify(payload: dict[str, Any], dry_run: bool) -> bool:
     return 200 <= int(code) < 300
 
 
+def _merge_event_wallets(prev: dict[str, Any], e: dict[str, Any]) -> None:
+    for w in e.get("wallets") or []:
+        if w not in prev["wallets"]:
+            prev["wallets"].append(w)
+    co = list(prev.get("co_wallets") or [])
+    for w in e.get("co_wallets") or []:
+        if w not in co and w not in (prev.get("wallets") or [])[:1]:
+            co.append(w)
+    # wallets beyond the first are co-buyers
+    primary = (prev.get("wallets") or [None])[0]
+    for w in prev.get("wallets") or []:
+        if w != primary and w not in co:
+            co.append(w)
+    prev["co_wallets"] = co
+    prev["multi_wallet"] = bool(co) or bool(prev.get("multi_wallet")) or bool(e.get("multi_wallet"))
+
+
 def merge_pending(pending: list[dict[str, Any]], new: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Dedupe by sig+mint+side; merge wallets if same mint/side arrives twice."""
     out = list(pending)
@@ -648,17 +789,13 @@ def merge_pending(pending: list[dict[str, Any]], new: list[dict[str, Any]]) -> l
         key = (e.get("sig"), e.get("mint"), e.get("side"))
         if key in index:
             prev = out[index[key]]
-            for w in e.get("wallets") or []:
-                if w not in prev["wallets"]:
-                    prev["wallets"].append(w)
+            _merge_event_wallets(prev, e)
             continue
         # also merge same mint/side within the batch window (no sig required)
         merged = False
         for prev in out:
             if prev.get("mint") == e.get("mint") and prev.get("side") == e.get("side"):
-                for w in e.get("wallets") or []:
-                    if w not in prev["wallets"]:
-                        prev["wallets"].append(w)
+                _merge_event_wallets(prev, e)
                 merged = True
                 break
         if not merged:
@@ -769,7 +906,7 @@ def poll_once(st: dict[str, Any], dry_run: bool, lookback_ts: int | None, max_tx
                 log(f"{addr[:8]}… hit max_tx={max_tx}, remaining sigs deferred")
                 break
             try:
-                tx = rpc("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
+                tx = rpc("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 1}])
             except Exception as e:
                 log(f"{addr[:8]}… tx error: {e}")
                 stats["errors"] += 1
@@ -782,6 +919,8 @@ def poll_once(st: dict[str, Any], dry_run: bool, lookback_ts: int | None, max_tx
             if tx:
                 evs = classify_tx(addr, tx, sig, s.get("blockTime"), rejected, held)
                 for ev in evs:
+                    if ev.get("side") == "buy":
+                        record_buy(st, ev)
                     if ev.get("skip"):
                         stats["skipped"] += 1
                         log(
@@ -811,6 +950,19 @@ def poll_once(st: dict[str, Any], dry_run: bool, lookback_ts: int | None, max_tx
         time.sleep(0.1)
 
     if new_events:
+        enabled_addrs = [w["address"] for w in wallets]
+        for ev in new_events:
+            if ev.get("side") == "buy":
+                annotate_multi_wallet(ev, st, enabled_addrs, check_onchain=True)
+                if ev.get("multi_wallet"):
+                    log(
+                        f"multi mint={ev['mint']} symbol={ev.get('symbol')} "
+                        f"wallet={((ev.get('wallets') or [''])[0])[:8]}… "
+                        f"co={','.join(a[:8]+'…' for a in ev.get('co_wallets') or [])}"
+                    )
+            else:
+                ev.setdefault("multi_wallet", False)
+                ev.setdefault("co_wallets", [])
         st["pending"] = merge_pending(st.get("pending") or [], new_events)
     flush_wakes(st, dry_run)
     log(
@@ -842,7 +994,7 @@ def main() -> int:
     log(
         f"start mode={args.mode} dry_run={int(dry)} interval={args.interval}s "
         f"lookback_h={args.lookback_hours} min_buy={MIN_BUY_SOL} SOL min_liq=${MIN_LIQ_USD:.0f} "
-        f"wake_gap={WAKE_GAP_SEC}s rpc=mainnet-beta"
+        f"wake_gap={WAKE_GAP_SEC}s rpc={'helius' if 'helius' in RPC_URL else 'mainnet-beta'}"
     )
     st = load_state()
     try:
@@ -856,12 +1008,19 @@ def main() -> int:
                 log("dry-run lookback: live state.json not overwritten")
             return 0
         while True:
+            import signal as _sig
+            def _to(*_a):
+                raise TimeoutError("poll exceeded 240s hard limit")
+            _sig.signal(_sig.SIGALRM, _to)
             try:
+                _sig.alarm(240)
                 st = load_state()
                 st = poll_once(st, dry, None, args.max_tx)
+                _sig.alarm(0)
                 prune_seen(st)
                 atomic_write(STATE_PATH, st)
             except Exception:
+                _sig.alarm(0)
                 log("poll error:\n" + traceback.format_exc())
             time.sleep(max(15, args.interval))
     finally:
