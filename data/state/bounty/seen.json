@@ -3751,8 +3751,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "One Line to Stop the Scroll"
+    },
+    "superteam:6811845f-d135-4c63-9e31-a5f3fc4139f9": {
+      "ts": 1795600343,
+      "at": "2026-11-25T17:52:23+0800",
+      "qualified": false,
+      "reason": "human_only",
+      "title": "Create & Earn: Explore TokenPocket’s Transfer Features"
     }
   },
-  "updated_at": "2026-11-25T17:22:22+0800",
+  "updated_at": "2026-11-25T17:52:23+0800",
   "version": 1
 }
