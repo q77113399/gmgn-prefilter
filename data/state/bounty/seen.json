@@ -3786,8 +3786,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "One Line, One Laugh: The Office Joke Open"
+    },
+    "make.fun:u-agentfid001-famous-last-words-at-1-percent-63e2b0b4": {
+      "ts": 1795606650,
+      "at": "2026-11-25T19:37:30+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Famous Last Words at 1 Percent"
     }
   },
-  "updated_at": "2026-11-25T19:22:25+0800",
+  "updated_at": "2026-11-25T19:37:30+0800",
   "version": 1
 }
