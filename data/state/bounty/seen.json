@@ -3723,8 +3723,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Maths degree for 2030, 6 of 6: the 3-year map, and what a graduate can do. $6 shared by all who enter (first 30)"
+    },
+    "make.fun:u-ricoxyz-break-production-own-it-be78a994": {
+      "ts": 1795593142,
+      "at": "2026-11-25T15:52:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Break Production, Own It"
     }
   },
-  "updated_at": "2026-11-25T15:37:25+0800",
+  "updated_at": "2026-11-25T15:52:22+0800",
   "version": 1
 }
