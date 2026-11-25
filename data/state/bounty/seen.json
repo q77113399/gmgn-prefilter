@@ -3807,8 +3807,22 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-aldy998-the-one-line-cat-joke-that-lands-a7b18262": {
+      "ts": 1795624648,
+      "at": "2026-11-26T00:37:28+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The One-Line Cat Joke That Lands"
+    },
+    "make.fun:u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532": {
+      "ts": 1795624648,
+      "at": "2026-11-26T00:37:28+0800",
+      "qualified": false,
+      "reason": "keyword:coin-launch",
+      "title": "Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins"
     }
   },
-  "updated_at": "2026-11-26T00:15:54+0800",
+  "updated_at": "2026-11-26T00:37:28+0800",
   "version": 1
 }
