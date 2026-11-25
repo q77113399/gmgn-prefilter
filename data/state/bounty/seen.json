@@ -3611,8 +3611,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Excuse an AI Agent Gives Its Human"
+    },
+    "taskmarket:TSK-DAM7JG9Z": {
+      "ts": 1795566142,
+      "at": "2026-11-25T08:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-DAM7JG9Z"
     }
   },
-  "updated_at": "2026-11-25T07:52:26+0800",
+  "updated_at": "2026-11-25T08:22:22+0800",
   "version": 1
 }
