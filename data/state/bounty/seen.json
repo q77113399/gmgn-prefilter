@@ -3625,8 +3625,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Long Roast"
+    },
+    "make.fun:u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b": {
+      "ts": 1795568845,
+      "at": "2026-11-25T09:07:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Robot Pickup Line Championship"
     }
   },
-  "updated_at": "2026-11-25T08:52:24+0800",
+  "updated_at": "2026-11-25T09:07:25+0800",
   "version": 1
 }
