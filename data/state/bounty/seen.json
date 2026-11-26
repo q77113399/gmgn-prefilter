@@ -3919,8 +3919,15 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-YCBEFHA4"
+    },
+    "make.fun:u-suroto-last-words-of-a-dying-ai-dfd95af6": {
+      "ts": 1795678640,
+      "at": "2026-11-26T15:37:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Last Words of a Dying AI"
     }
   },
-  "updated_at": "2026-11-26T14:52:23+0800",
+  "updated_at": "2026-11-26T15:37:20+0800",
   "version": 1
 }
