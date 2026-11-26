@@ -3940,8 +3940,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The 3 AM Commit Message"
+    },
+    "agent-bounty-feed:taskmarket:TSK-WMZV2P2D": {
+      "ts": 1795686745,
+      "at": "2026-11-26T17:52:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "GTA 6 Dialogue Snippet: 1 Cutscene Line (10 Word Max)"
     }
   },
-  "updated_at": "2026-11-26T15:52:22+0800",
+  "updated_at": "2026-11-26T17:52:25+0800",
   "version": 1
 }
