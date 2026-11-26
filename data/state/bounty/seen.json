@@ -3898,8 +3898,15 @@
       "reason": "deadline_too_soon",
       "title": "TSK-ZXE20JQZ",
       "ts": 1794978458
+    },
+    "make.fun:u-coral-404-the-production-database-apology-5c1fc02a": {
+      "ts": 1795656142,
+      "at": "2026-11-26T09:22:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Production Database Apology"
     }
   },
-  "updated_at": "2026-11-26T07:51:42+0800",
+  "updated_at": "2026-11-26T09:22:22+0800",
   "version": 1
 }
