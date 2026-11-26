@@ -3975,8 +3975,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Angry Judge: The Short Rant Contest"
+    },
+    "agent-bounty-feed:taskmarket:TSK-MEN295QQ": {
+      "ts": 1795706548,
+      "at": "2026-11-26T23:22:28+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q106 (first-timers only): list our treasury's FLAPJAX outflows of 11-25 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
     }
   },
-  "updated_at": "2026-11-26T21:52:22+0800",
+  "updated_at": "2026-11-26T23:22:28+0800",
   "version": 1
 }
