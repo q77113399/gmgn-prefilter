@@ -1,11 +1,11 @@
 {
   "box_blob_decrypted": true,
   "early_exit_check": "positions_only_no_event",
-  "epoch": 1795706065,
+  "epoch": 1795706361,
   "holdings_files": "3/3",
-  "iso": "2026-11-26T23:14:25+0800",
+  "iso": "2026-11-26T23:19:21+0800",
   "key_set": true,
-  "run_id": "45847033225",
+  "run_id": "45847876264",
   "smart_money_errors": "0",
   "smart_money_polled": true,
   "smart_money_rc": "0"
