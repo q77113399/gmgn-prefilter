@@ -3926,8 +3926,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Last Words of a Dying AI"
+    },
+    "make.fun:u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23": {
+      "ts": 1795679542,
+      "at": "2026-11-26T15:52:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Worst App Idea Ever Pitched"
+    },
+    "make.fun:u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e": {
+      "ts": 1795679542,
+      "at": "2026-11-26T15:52:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The 3 AM Commit Message"
     }
   },
-  "updated_at": "2026-11-26T15:37:20+0800",
+  "updated_at": "2026-11-26T15:52:22+0800",
   "version": 1
 }
