@@ -3968,8 +3968,15 @@
       "qualified": false,
       "reason": "requires:x_account",
       "title": "Remix our launch film, Rethink work, in a style of your own (20 OUSD, 3 winners)"
+    },
+    "make.fun:u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046": {
+      "ts": 1795701142,
+      "at": "2026-11-26T21:52:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Angry Judge: The Short Rant Contest"
     }
   },
-  "updated_at": "2026-11-26T20:07:23+0800",
+  "updated_at": "2026-11-26T21:52:22+0800",
   "version": 1
 }
