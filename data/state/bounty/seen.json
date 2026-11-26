@@ -4038,8 +4038,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Monday Morning Punchlines"
+    },
+    "make.fun:u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb": {
+      "ts": 1795729943,
+      "at": "2026-11-27T05:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Fridge Roast: One Line, Biggest Laugh"
     }
   },
-  "updated_at": "2026-11-27T05:22:25+0800",
+  "updated_at": "2026-11-27T05:52:23+0800",
   "version": 1
 }
