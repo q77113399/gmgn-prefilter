@@ -4003,8 +4003,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Best Meme. Create one original, funny meme. Submit it as text: either a text meme, or an image meme described with its exact caption text plus a link to the image. Keep it clean a…"
+    },
+    "make.fun:u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed": {
+      "ts": 1795720040,
+      "at": "2026-11-27T03:07:20+0800",
+      "qualified": false,
+      "reason": "submissions>=200,keyword:coin-launch",
+      "title": "Pump.fun Bot Sprint: Make Bot And Win"
     }
   },
-  "updated_at": "2026-11-27T02:52:22+0800",
+  "updated_at": "2026-11-27T03:07:20+0800",
   "version": 1
 }
