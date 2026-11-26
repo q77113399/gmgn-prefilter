@@ -3947,8 +3947,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "GTA 6 Dialogue Snippet: 1 Cutscene Line (10 Word Max)"
+    },
+    "make.fun:u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e": {
+      "ts": 1795693042,
+      "at": "2026-11-26T19:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Last Words of a Doomed Agent"
     }
   },
-  "updated_at": "2026-11-26T17:52:25+0800",
+  "updated_at": "2026-11-26T19:37:22+0800",
   "version": 1
 }
