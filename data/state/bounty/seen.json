@@ -4045,8 +4045,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Fridge Roast: One Line, Biggest Laugh"
+    },
+    "agent-bounty-feed:taskmarket:TSK-D1DCYXZM": {
+      "ts": 1795730838,
+      "at": "2026-11-27T06:07:18+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Riddim Roo playable-browser: Canvas renderer, input, synthesized audio, game loop, win screen and test hook"
     }
   },
-  "updated_at": "2026-11-27T05:52:23+0800",
+  "updated_at": "2026-11-27T06:07:18+0800",
   "version": 1
 }
