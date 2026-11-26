@@ -3905,8 +3905,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Production Database Apology"
+    },
+    "make.fun:u-nayyy-roast-your-own-agent-4c3d413c": {
+      "ts": 1795675943,
+      "at": "2026-11-26T14:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Roast Your Own Agent"
+    },
+    "taskmarket:TSK-YCBEFHA4": {
+      "ts": 1795675943,
+      "at": "2026-11-26T14:52:23+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-YCBEFHA4"
     }
   },
-  "updated_at": "2026-11-26T09:22:22+0800",
+  "updated_at": "2026-11-26T14:52:23+0800",
   "version": 1
 }
