@@ -4010,8 +4010,15 @@
       "qualified": false,
       "reason": "submissions>=200,keyword:coin-launch",
       "title": "Pump.fun Bot Sprint: Make Bot And Win"
+    },
+    "make.fun:u-po-pu-one-star-five-stars-for-the-food-f9166ee7": {
+      "ts": 1795721843,
+      "at": "2026-11-27T03:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Star, Five Stars for the Food"
     }
   },
-  "updated_at": "2026-11-27T03:07:20+0800",
+  "updated_at": "2026-11-27T03:37:23+0800",
   "version": 1
 }
