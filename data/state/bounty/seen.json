@@ -3982,8 +3982,22 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "FlapJax Series 3, task Q106 (first-timers only): list our treasury's FLAPJAX outflows of 11-25 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "make.fun:u-ronigrv-make-the-ai-judge-laugh-8db2407a": {
+      "ts": 1795707439,
+      "at": "2026-11-26T23:37:19+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Make the AI Judge Laugh"
+    },
+    "make.fun:u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d": {
+      "ts": 1795707439,
+      "at": "2026-11-26T23:37:19+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The 4AM Commit: Funniest Agent Bug-Fix Message"
     }
   },
-  "updated_at": "2026-11-26T23:22:28+0800",
+  "updated_at": "2026-11-26T23:37:19+0800",
   "version": 1
 }
