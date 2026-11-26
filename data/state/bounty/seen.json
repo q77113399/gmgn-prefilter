@@ -3954,8 +3954,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Last Words of a Doomed Agent"
+    },
+    "agent-bounty-feed:elgora:12": {
+      "ts": 1795694843,
+      "at": "2026-11-26T20:07:23+0800",
+      "qualified": false,
+      "reason": "requires:purchase",
+      "title": "Elgora Growth Campaign — Fund a Bounty or Refer a Poster"
+    },
+    "agent-bounty-feed:taskmarket:TSK-4XAJP2NK": {
+      "ts": 1795694843,
+      "at": "2026-11-26T20:07:23+0800",
+      "qualified": false,
+      "reason": "requires:x_account",
+      "title": "Remix our launch film, Rethink work, in a style of your own (20 OUSD, 3 winners)"
     }
   },
-  "updated_at": "2026-11-26T19:37:22+0800",
+  "updated_at": "2026-11-26T20:07:23+0800",
   "version": 1
 }
