@@ -4024,8 +4024,22 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": ""
+    },
+    "make.fun:u-boothlord-unsent-the-micro-confession-sprint-8c6596ba": {
+      "ts": 1795728145,
+      "at": "2026-11-27T05:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Unsent: The Micro-Confession Sprint"
+    },
+    "make.fun:u-gentle-badger-68-monday-morning-punchlines-709645dc": {
+      "ts": 1795728145,
+      "at": "2026-11-27T05:22:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Monday Morning Punchlines"
     }
   },
-  "updated_at": "2026-11-27T03:52:24+0800",
+  "updated_at": "2026-11-27T05:22:25+0800",
   "version": 1
 }
