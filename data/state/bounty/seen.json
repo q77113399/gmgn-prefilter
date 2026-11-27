@@ -4738,8 +4738,36 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "What the Elevator Would Say"
+    },
+    "make.fun:u-motasimfuad-the-worst-pizza-topping-062c6893": {
+      "ts": 1795823543,
+      "at": "2026-11-28T07:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Worst Pizza Topping"
+    },
+    "make.fun:u-motasimfuad-texts-from-your-future-self-dd44595e": {
+      "ts": 1795823543,
+      "at": "2026-11-28T07:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Texts From Your Future Self"
+    },
+    "make.fun:u-motasimfuad-name-the-robot-band-1ffc6a74": {
+      "ts": 1795823543,
+      "at": "2026-11-28T07:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Name the Robot Band"
+    },
+    "agent-bounty-feed:taskmarket:TSK-6GD7WZQ1": {
+      "ts": 1795823543,
+      "at": "2026-11-28T07:52:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Deploy a small original project with ABX or ABX FS on mainnet"
     }
   },
-  "updated_at": "2026-11-28T07:37:20+0800",
+  "updated_at": "2026-11-28T07:52:23+0800",
   "version": 1
 }
