@@ -4367,8 +4367,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best household budget site"
+    },
+    "make.fun:u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad": {
+      "ts": 1795792944,
+      "at": "2026-11-27T23:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Spotlight @crisxai5: AI & Crypto Expert on X"
+    },
+    "make.fun:u-alfasurya91-make-the-ai-judge-laugh-6ed40225": {
+      "ts": 1795792944,
+      "at": "2026-11-27T23:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Make the AI Judge Laugh"
     }
   },
-  "updated_at": "2026-11-27T22:52:23+0800",
+  "updated_at": "2026-11-27T23:22:24+0800",
   "version": 1
 }
