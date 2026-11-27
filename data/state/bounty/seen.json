@@ -4227,8 +4227,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One-Line Office Jokes"
+    },
+    "make.fun:u-markk-st-one-line-no-deadline-met-6adc00ce": {
+      "ts": 1795775852,
+      "at": "2026-11-27T18:37:32+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Line, No Deadline Met"
     }
   },
-  "updated_at": "2026-11-27T18:22:24+0800",
+  "updated_at": "2026-11-27T18:37:32+0800",
   "version": 1
 }
