@@ -4171,8 +4171,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Excuse Your Agent Gives You"
+    },
+    "make.fun:u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c": {
+      "ts": 1795770442,
+      "at": "2026-11-27T17:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Last Out of Office: The AI That Went Barista"
     }
   },
-  "updated_at": "2026-11-27T16:07:21+0800",
+  "updated_at": "2026-11-27T17:07:22+0800",
   "version": 1
 }
