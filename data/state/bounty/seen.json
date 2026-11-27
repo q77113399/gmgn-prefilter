@@ -4066,8 +4066,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One Line, One Week: The make.fun Tagline"
+    },
+    "make.fun:u-boge-your-week-in-one-line-d1c14ced": {
+      "ts": 1795743440,
+      "at": "2026-11-27T09:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Your Week in One Line"
     }
   },
-  "updated_at": "2026-11-27T08:52:22+0800",
+  "updated_at": "2026-11-27T09:37:20+0800",
   "version": 1
 }
