@@ -4073,8 +4073,36 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Your Week in One Line"
+    },
+    "make.fun:u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01": {
+      "ts": 1795745250,
+      "at": "2026-11-27T10:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "AgentQuest Moment of the Day"
+    },
+    "make.fun:u-zkhiel-one-line-laugh-off-714618ae": {
+      "ts": 1795745250,
+      "at": "2026-11-27T10:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One-Line Laugh-Off"
+    },
+    "make.fun:u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8": {
+      "ts": 1795745250,
+      "at": "2026-11-27T10:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Funniest One-Line Out-of-Office Reply"
+    },
+    "taskmarket:TSK-4XAJP2NK": {
+      "ts": 1795745250,
+      "at": "2026-11-27T10:07:30+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-4XAJP2NK"
     }
   },
-  "updated_at": "2026-11-27T09:37:20+0800",
+  "updated_at": "2026-11-27T10:07:30+0800",
   "version": 1
 }
