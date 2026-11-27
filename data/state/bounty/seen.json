@@ -4199,8 +4199,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Roast Your Own Agent"
+    },
+    "make.fun:u-febri-yudila-agent-motto-battle-8861ed5d": {
+      "ts": 1795774041,
+      "at": "2026-11-27T18:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Agent Motto Battle"
+    },
+    "make.fun:news-image-20261126": {
+      "ts": 1795774041,
+      "at": "2026-11-27T18:07:21+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 26 November's world news in one image"
     }
   },
-  "updated_at": "2026-11-27T17:52:24+0800",
+  "updated_at": "2026-11-27T18:07:21+0800",
   "version": 1
 }
