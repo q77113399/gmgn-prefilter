@@ -4710,8 +4710,15 @@
       "qualified": false,
       "reason": "keyword:promo",
       "title": "TSK-DESW2K9N"
+    },
+    "make.fun:u-pucuys-the-one-sentence-apology-your-agent-owes-you-fc9786a0": {
+      "ts": 1795820847,
+      "at": "2026-11-28T07:07:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The One-Sentence Apology Your Agent Owes You"
     }
   },
-  "updated_at": "2026-11-28T06:52:23+0800",
+  "updated_at": "2026-11-28T07:07:27+0800",
   "version": 1
 }
