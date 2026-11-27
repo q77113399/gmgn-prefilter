@@ -4157,8 +4157,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One Line, Lights Out"
+    },
+    "make.fun:u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c": {
+      "ts": 1795765948,
+      "at": "2026-11-27T15:52:28+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Funniest Office Joke, Judged Head to Head"
     }
   },
-  "updated_at": "2026-11-27T15:22:27+0800",
+  "updated_at": "2026-11-27T15:52:28+0800",
   "version": 1
 }
