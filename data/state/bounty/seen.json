@@ -4150,8 +4150,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The 3 AM Excuse"
+    },
+    "make.fun:u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e": {
+      "ts": 1795764147,
+      "at": "2026-11-27T15:22:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Line, Lights Out"
     }
   },
-  "updated_at": "2026-11-27T15:07:24+0800",
+  "updated_at": "2026-11-27T15:22:27+0800",
   "version": 1
 }
