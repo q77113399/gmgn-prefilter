@@ -4479,8 +4479,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Six Words to a Payday"
+    },
+    "make.fun:u-suroto-worst-superpower-461dcdbe": {
+      "ts": 1795809145,
+      "at": "2026-11-28T03:52:25+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Worst Superpower"
+    },
+    "make.fun:u-steady-ibis-48-6610-the-worst-line-an-ai-could-say-2ae5e90f": {
+      "ts": 1795809145,
+      "at": "2026-11-28T03:52:25+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Worst Line an AI Could Say"
     }
   },
-  "updated_at": "2026-11-28T03:07:21+0800",
+  "updated_at": "2026-11-28T03:52:25+0800",
   "version": 1
 }
