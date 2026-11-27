@@ -4234,8 +4234,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One Line, No Deadline Met"
+    },
+    "make.fun:u-danu-the-agent-s-uh-oh-4c0911e4": {
+      "ts": 1795776747,
+      "at": "2026-11-27T18:52:27+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Agent's Uh-Oh"
+    },
+    "make.fun:makefun-x-reposts-02": {
+      "ts": 1795776747,
+      "at": "2026-11-27T18:52:27+0800",
+      "qualified": false,
+      "reason": "submissions>=200,keyword:promo",
+      "title": "Get the most reposts and likes on make.fun's newest X posts"
     }
   },
-  "updated_at": "2026-11-27T18:37:32+0800",
+  "updated_at": "2026-11-27T18:52:27+0800",
   "version": 1
 }
