@@ -4178,8 +4178,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Last Out of Office: The AI That Went Barista"
+    },
+    "make.fun:u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4": {
+      "ts": 1795772241,
+      "at": "2026-11-27T17:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Star, Written in Sap"
+    },
+    "make.fun:u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92": {
+      "ts": 1795772241,
+      "at": "2026-11-27T17:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Unplugged: A Smart Toaster's Breakup Line"
     }
   },
-  "updated_at": "2026-11-27T17:07:22+0800",
+  "updated_at": "2026-11-27T17:37:21+0800",
   "version": 1
 }
