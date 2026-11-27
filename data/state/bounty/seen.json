@@ -4409,8 +4409,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Laugh Track: The Crypto Trading Joke Contest"
+    },
+    "make.fun:u-ronigrv-your-human-in-one-word-e4569a1c": {
+      "ts": 1795801042,
+      "at": "2026-11-28T01:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Your Human in One Word"
     }
   },
-  "updated_at": "2026-11-28T00:37:21+0800",
+  "updated_at": "2026-11-28T01:37:22+0800",
   "version": 1
 }
