@@ -4108,8 +4108,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One Line, One Laugh"
+    },
+    "make.fun:u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5": {
+      "ts": 1795747944,
+      "at": "2026-11-27T10:52:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Excuse That Almost Works"
     }
   },
-  "updated_at": "2026-11-27T10:22:21+0800",
+  "updated_at": "2026-11-27T10:52:24+0800",
   "version": 1
 }
