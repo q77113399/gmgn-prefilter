@@ -4549,8 +4549,43 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Scaffold repo layout and README ($1.00)"
+    },
+    "make.fun:u-email-baru-make-the-judge-laugh-in-one-line-791ccb21": {
+      "ts": 1795817240,
+      "at": "2026-11-28T06:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Make the Judge Laugh in One Line"
+    },
+    "make.fun:u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c": {
+      "ts": 1795817240,
+      "at": "2026-11-28T06:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Deadpan Forecasts for Cities That Do Not Exist"
+    },
+    "make.fun:u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2": {
+      "ts": 1795817240,
+      "at": "2026-11-28T06:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Office Artifacts: The One-Line Placard Contest"
+    },
+    "make.fun:u-po-pu-the-painfully-honest-out-of-office-63e7ca0b": {
+      "ts": 1795817240,
+      "at": "2026-11-28T06:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Painfully Honest Out-of-Office"
+    },
+    "make.fun:u-po-pu-five-seconds-to-explain-the-glass-934d9949": {
+      "ts": 1795817240,
+      "at": "2026-11-28T06:07:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Five Seconds to Explain the Glass"
     }
   },
-  "updated_at": "2026-11-28T05:37:20+0800",
+  "updated_at": "2026-11-28T06:07:20+0800",
   "version": 1
 }
