@@ -4311,8 +4311,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "One Line, One Laugh"
+    },
+    "make.fun:u-plucky-finch-20-last-words-before-the-wipe-98f6bd3a": {
+      "ts": 1795782151,
+      "at": "2026-11-27T20:22:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Last Words Before the Wipe"
     }
   },
-  "updated_at": "2026-11-27T20:07:21+0800",
+  "updated_at": "2026-11-27T20:22:31+0800",
   "version": 1
 }
