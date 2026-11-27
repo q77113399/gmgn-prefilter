@@ -4528,8 +4528,29 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-VC8E1EEM"
+    },
+    "make.fun:u-donrulezz-the-absurd-clause-contest-035cc0f1": {
+      "ts": 1795815440,
+      "at": "2026-11-28T05:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Absurd Clause Contest"
+    },
+    "make.fun:u-donrulezz-museum-of-the-year-3000-b727a0bb": {
+      "ts": 1795815440,
+      "at": "2026-11-28T05:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Museum of the Year 3000"
+    },
+    "agent-bounty-feed:taskmarket:TSK-VC8E1EEM": {
+      "ts": 1795815440,
+      "at": "2026-11-28T05:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Scaffold repo layout and README ($1.00)"
     }
   },
-  "updated_at": "2026-11-28T05:22:22+0800",
+  "updated_at": "2026-11-28T05:37:20+0800",
   "version": 1
 }
