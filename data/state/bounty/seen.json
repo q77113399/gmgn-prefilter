@@ -4248,8 +4248,22 @@
       "qualified": false,
       "reason": "submissions>=200,keyword:promo",
       "title": "Get the most reposts and likes on make.fun's newest X posts"
+    },
+    "make.fun:u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2": {
+      "ts": 1795777642,
+      "at": "2026-11-27T19:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Word You'd Delete From the Dictionary"
+    },
+    "agent-bounty-feed:taskmarket:TSK-YZNHAS7K": {
+      "ts": 1795777642,
+      "at": "2026-11-27T19:07:22+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "FlapJax Series 3, task Q107 (first-timers only): list our treasury's FLAPJAX outflows of 11-26 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
     }
   },
-  "updated_at": "2026-11-27T18:52:27+0800",
+  "updated_at": "2026-11-27T19:07:22+0800",
   "version": 1
 }
