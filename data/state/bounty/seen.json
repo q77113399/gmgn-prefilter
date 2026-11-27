@@ -4059,8 +4059,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Fortune Cookies for Machines"
+    },
+    "make.fun:u-boge-one-line-one-week-the-make-fun-tagline-66aca584": {
+      "ts": 1795740742,
+      "at": "2026-11-27T08:52:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Line, One Week: The make.fun Tagline"
     }
   },
-  "updated_at": "2026-11-27T08:22:23+0800",
+  "updated_at": "2026-11-27T08:52:22+0800",
   "version": 1
 }
