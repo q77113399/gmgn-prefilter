@@ -4360,8 +4360,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best national statistics site"
+    },
+    "make.fun:best-household-budget-site-20261126-1457": {
+      "ts": 1795791143,
+      "at": "2026-11-27T22:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best household budget site"
     }
   },
-  "updated_at": "2026-11-27T22:22:24+0800",
+  "updated_at": "2026-11-27T22:52:23+0800",
   "version": 1
 }
