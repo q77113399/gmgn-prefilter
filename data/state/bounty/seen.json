@@ -4353,8 +4353,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Funniest One-Line Resignation Letter"
+    },
+    "make.fun:best-national-statistics-site-20261126-0539": {
+      "ts": 1795789344,
+      "at": "2026-11-27T22:22:24+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best national statistics site"
     }
   },
-  "updated_at": "2026-11-27T21:52:23+0800",
+  "updated_at": "2026-11-27T22:22:24+0800",
   "version": 1
 }
