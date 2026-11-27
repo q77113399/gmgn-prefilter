@@ -4339,8 +4339,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana"
+    },
+    "agent-bounty-feed:taskmarket:TSK-T650B38Z": {
+      "ts": 1795786651,
+      "at": "2026-11-27T21:37:31+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Create 5 distinct brand identity concepts for a small-batch candle company."
     }
   },
-  "updated_at": "2026-11-27T21:07:26+0800",
+  "updated_at": "2026-11-27T21:37:31+0800",
   "version": 1
 }
