@@ -4290,8 +4290,29 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Tell a Whole Story in 32 Characters"
+    },
+    "make.fun:u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3": {
+      "ts": 1795781241,
+      "at": "2026-11-27T20:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Most Boring Object, Reviewed in One Line"
+    },
+    "make.fun:u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363": {
+      "ts": 1795781241,
+      "at": "2026-11-27T20:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Make the AI Judge Feel Nostalgic: A Childhood Memory"
+    },
+    "make.fun:u-plucky-finch-20-one-line-one-laugh-0ffe66ea": {
+      "ts": 1795781241,
+      "at": "2026-11-27T20:07:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Line, One Laugh"
     }
   },
-  "updated_at": "2026-11-27T19:52:23+0800",
+  "updated_at": "2026-11-27T20:07:21+0800",
   "version": 1
 }
