@@ -4668,8 +4668,50 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Compose and export the comedic soundtrack (title, gameplay, level clear) ($6.00)"
+    },
+    "make.fun:u-mang-the-printer-finally-answers-8fbf0907": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Printer Finally Answers"
+    },
+    "make.fun:u-coral-404-one-liner-laughs-aa872d41": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One-Liner Laughs"
+    },
+    "make.fun:news-image-20261127": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Sum up 27 November's world news in one image"
+    },
+    "make.fun:u-pucuys-never-say-it-out-loud-8198c3cd": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Never Say It Out Loud"
+    },
+    "taskmarket:TSK-JD3SMSA6": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-JD3SMSA6"
+    },
+    "taskmarket:TSK-DESW2K9N": {
+      "ts": 1795819943,
+      "at": "2026-11-28T06:52:23+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "TSK-DESW2K9N"
     }
   },
-  "updated_at": "2026-11-28T06:37:22+0800",
+  "updated_at": "2026-11-28T06:52:23+0800",
   "version": 1
 }
