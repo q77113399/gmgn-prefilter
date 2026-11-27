@@ -4514,8 +4514,22 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 1,061 uses of \"the\", \"and\" and \"of\" in the Wikipedia articl…"
+    },
+    "make.fun:u-donrulezz-pigeon-pitch-one-line-af06c6cf": {
+      "ts": 1795814542,
+      "at": "2026-11-28T05:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Pigeon Pitch, One Line"
+    },
+    "taskmarket:TSK-VC8E1EEM": {
+      "ts": 1795814542,
+      "at": "2026-11-28T05:22:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-VC8E1EEM"
     }
   },
-  "updated_at": "2026-11-28T04:22:23+0800",
+  "updated_at": "2026-11-28T05:22:22+0800",
   "version": 1
 }
