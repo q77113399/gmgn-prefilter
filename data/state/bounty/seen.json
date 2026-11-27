@@ -4136,8 +4136,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The GPS Swears It Was a Shortcut"
+    },
+    "make.fun:u-alven-the-battery-s-last-text-to-its-charger-4278cfab": {
+      "ts": 1795757840,
+      "at": "2026-11-27T13:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Battery's Last Text to Its Charger"
     }
   },
-  "updated_at": "2026-11-27T12:07:22+0800",
+  "updated_at": "2026-11-27T13:37:20+0800",
   "version": 1
 }
