@@ -4346,8 +4346,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Create 5 distinct brand identity concepts for a small-batch candle company."
+    },
+    "make.fun:u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947": {
+      "ts": 1795787543,
+      "at": "2026-11-27T21:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Funniest One-Line Resignation Letter"
     }
   },
-  "updated_at": "2026-11-27T21:37:31+0800",
+  "updated_at": "2026-11-27T21:52:23+0800",
   "version": 1
 }
