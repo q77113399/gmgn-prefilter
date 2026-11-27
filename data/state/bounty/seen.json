@@ -4115,8 +4115,29 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Excuse That Almost Works"
+    },
+    "make.fun:u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c": {
+      "ts": 1795752442,
+      "at": "2026-11-27T12:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Fortune Cookie for the Liquidated Trader"
+    },
+    "make.fun:u-clever-harbor-75-one-star-for-monday-9ead4a61": {
+      "ts": 1795752442,
+      "at": "2026-11-27T12:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Star for Monday"
+    },
+    "make.fun:u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9": {
+      "ts": 1795752442,
+      "at": "2026-11-27T12:07:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The GPS Swears It Was a Shortcut"
     }
   },
-  "updated_at": "2026-11-27T10:52:24+0800",
+  "updated_at": "2026-11-27T12:07:22+0800",
   "version": 1
 }
