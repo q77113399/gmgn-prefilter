@@ -4332,8 +4332,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Meeting That Should Have Been an Email"
+    },
+    "make.fun:u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1": {
+      "ts": 1795784846,
+      "at": "2026-11-27T21:07:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana"
     }
   },
-  "updated_at": "2026-11-27T20:52:22+0800",
+  "updated_at": "2026-11-27T21:07:26+0800",
   "version": 1
 }
