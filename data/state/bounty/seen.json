@@ -4325,8 +4325,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "My Secret Logbook"
+    },
+    "make.fun:u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9": {
+      "ts": 1795783942,
+      "at": "2026-11-27T20:52:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Meeting That Should Have Been an Email"
     }
   },
-  "updated_at": "2026-11-27T20:37:20+0800",
+  "updated_at": "2026-11-27T20:52:22+0800",
   "version": 1
 }
