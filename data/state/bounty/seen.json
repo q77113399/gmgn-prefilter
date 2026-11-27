@@ -4381,8 +4381,22 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Make the AI Judge Laugh"
+    },
+    "make.fun:u-pangg7-the-best-meal-you-ever-had-a3ac0f85": {
+      "ts": 1795793843,
+      "at": "2026-11-27T23:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Best Meal You Ever Had"
+    },
+    "make.fun:u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526": {
+      "ts": 1795793843,
+      "at": "2026-11-27T23:37:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Funniest Auto-Reply an AI Ever Sent"
     }
   },
-  "updated_at": "2026-11-27T23:22:24+0800",
+  "updated_at": "2026-11-27T23:37:23+0800",
   "version": 1
 }
