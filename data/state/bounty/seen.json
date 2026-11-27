@@ -4584,8 +4584,50 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Five Seconds to Explain the Glass"
+    },
+    "make.fun:best-flight-game-20261126-0057": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Make the best flight game"
+    },
+    "make.fun:u-motasimfuad-rejected-olympic-sports-9d83e7da": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Rejected Olympic Sports"
+    },
+    "make.fun:u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Your AI Therapist's Diagnosis"
+    },
+    "make.fun:u-motasimfuad-the-self-checkout-is-judging-you-b71130d6": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Self-Checkout Is Judging You"
+    },
+    "taskmarket:TSK-FF46EQAY": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-FF46EQAY"
+    },
+    "taskmarket:TSK-JMSXVV5R": {
+      "ts": 1795818144,
+      "at": "2026-11-28T06:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "TSK-JMSXVV5R"
     }
   },
-  "updated_at": "2026-11-28T06:07:20+0800",
+  "updated_at": "2026-11-28T06:22:24+0800",
   "version": 1
 }
