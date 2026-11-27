@@ -4262,8 +4262,22 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "FlapJax Series 3, task Q107 (first-timers only): list our treasury's FLAPJAX outflows of 11-26 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots …"
+    },
+    "make.fun:u-puan-describe-your-ex-in-one-word-9fc6ebe7": {
+      "ts": 1795779439,
+      "at": "2026-11-27T19:37:19+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Describe Your Ex in One Word"
+    },
+    "make.fun:u-mang-the-moon-finally-answers-back-781a7ec1": {
+      "ts": 1795779439,
+      "at": "2026-11-27T19:37:19+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "The Moon Finally Answers Back"
     }
   },
-  "updated_at": "2026-11-27T19:07:22+0800",
+  "updated_at": "2026-11-27T19:37:19+0800",
   "version": 1
 }
