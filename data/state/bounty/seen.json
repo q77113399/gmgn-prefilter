@@ -4213,8 +4213,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Sum up 26 November's world news in one image"
+    },
+    "make.fun:u-danu-the-most-shameless-lie-fbb85bc6": {
+      "ts": 1795774944,
+      "at": "2026-11-27T18:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Most Shameless Lie"
+    },
+    "make.fun:u-markk-st-one-line-office-jokes-a51f2bcc": {
+      "ts": 1795774944,
+      "at": "2026-11-27T18:22:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One-Line Office Jokes"
     }
   },
-  "updated_at": "2026-11-27T18:07:21+0800",
+  "updated_at": "2026-11-27T18:22:24+0800",
   "version": 1
 }
