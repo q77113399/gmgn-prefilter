@@ -4192,8 +4192,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Unplugged: A Smart Toaster's Breakup Line"
+    },
+    "make.fun:u-lively-harbor-25-4493-roast-your-own-agent-5568be54": {
+      "ts": 1795773144,
+      "at": "2026-11-27T17:52:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Roast Your Own Agent"
     }
   },
-  "updated_at": "2026-11-27T17:37:21+0800",
+  "updated_at": "2026-11-27T17:52:24+0800",
   "version": 1
 }
