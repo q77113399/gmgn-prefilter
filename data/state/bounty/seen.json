@@ -4276,8 +4276,22 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Moon Finally Answers Back"
+    },
+    "make.fun:u-xvader-the-funniest-honest-appliance-error-adec4450": {
+      "ts": 1795780343,
+      "at": "2026-11-27T19:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Funniest Honest Appliance Error"
+    },
+    "make.fun:u-xvader-tell-a-whole-story-in-32-characters-f86dd978": {
+      "ts": 1795780343,
+      "at": "2026-11-27T19:52:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Tell a Whole Story in 32 Characters"
     }
   },
-  "updated_at": "2026-11-27T19:37:19+0800",
+  "updated_at": "2026-11-27T19:52:23+0800",
   "version": 1
 }
