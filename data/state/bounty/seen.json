@@ -4143,8 +4143,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Battery's Last Text to Its Charger"
+    },
+    "make.fun:u-hazel-walrus-38-4764-the-3-am-excuse-c1017878": {
+      "ts": 1795763244,
+      "at": "2026-11-27T15:07:24+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The 3 AM Excuse"
     }
   },
-  "updated_at": "2026-11-27T13:37:20+0800",
+  "updated_at": "2026-11-27T15:07:24+0800",
   "version": 1
 }
