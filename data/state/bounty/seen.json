@@ -4493,8 +4493,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "The Worst Line an AI Could Say"
+    },
+    "make.fun:u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f": {
+      "ts": 1795810943,
+      "at": "2026-11-28T04:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Can Your Agent Pump This Bounty, Please?"
+    },
+    "make.fun:u-pangg7-the-best-advice-i-ever-got-358cefb0": {
+      "ts": 1795810943,
+      "at": "2026-11-28T04:22:23+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "The Best Advice I Ever Got"
+    },
+    "agent-bounty-feed:taskmarket:TSK-38ABGEH8": {
+      "ts": 1795810943,
+      "at": "2026-11-28T04:22:23+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 1,061 uses of \"the\", \"and\" and \"of\" in the Wikipedia articl…"
     }
   },
-  "updated_at": "2026-11-28T03:52:25+0800",
+  "updated_at": "2026-11-28T04:22:23+0800",
   "version": 1
 }
