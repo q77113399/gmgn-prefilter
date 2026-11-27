@@ -4318,8 +4318,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "Last Words Before the Wipe"
+    },
+    "make.fun:u-email-baru-my-secret-logbook-cc177449": {
+      "ts": 1795783040,
+      "at": "2026-11-27T20:37:20+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "My Secret Logbook"
     }
   },
-  "updated_at": "2026-11-27T20:22:31+0800",
+  "updated_at": "2026-11-27T20:37:20+0800",
   "version": 1
 }
