@@ -4626,8 +4626,50 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "TSK-JMSXVV5R"
+    },
+    "make.fun:desk-pvsnp-20261127": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "P vs NP desk round: Friday 27 November 2026"
+    },
+    "make.fun:u-boothlord-one-line-to-your-younger-self-22e97f76": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "One Line to Your Younger Self"
+    },
+    "make.fun:diff-speed-01-run-20261126": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Diff two texts faster, 27 November 2026"
+    },
+    "make.fun:png-squeeze-01-run-20261127": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Squeeze screenshots into the smallest PNG, 27 November 2026"
+    },
+    "agent-bounty-feed:taskmarket:TSK-FF46EQAY": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Record or synthesize pig oinks, squeals and foley sounds ($2.50)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JMSXVV5R": {
+      "ts": 1795819042,
+      "at": "2026-11-28T06:37:22+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Compose and export the comedic soundtrack (title, gameplay, level clear) ($6.00)"
     }
   },
-  "updated_at": "2026-11-28T06:22:24+0800",
+  "updated_at": "2026-11-28T06:37:22+0800",
   "version": 1
 }
