@@ -4395,8 +4395,15 @@
       "qualified": false,
       "reason": "deadline_too_soon,submissions>=200",
       "title": "The Funniest Auto-Reply an AI Ever Sent"
+    },
+    "agent-bounty-feed:taskmarket:TSK-49EVQHWS": {
+      "ts": 1795794746,
+      "at": "2026-11-27T23:52:26+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon",
+      "title": "Normalize Shipment CSV and Produce Environment Manifest"
     }
   },
-  "updated_at": "2026-11-27T23:37:23+0800",
+  "updated_at": "2026-11-27T23:52:26+0800",
   "version": 1
 }
