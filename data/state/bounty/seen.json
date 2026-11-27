@@ -4402,8 +4402,15 @@
       "qualified": false,
       "reason": "deadline_too_soon",
       "title": "Normalize Shipment CSV and Produce Environment Manifest"
+    },
+    "make.fun:u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a": {
+      "ts": 1795797441,
+      "at": "2026-11-28T00:37:21+0800",
+      "qualified": false,
+      "reason": "deadline_too_soon,submissions>=200",
+      "title": "Laugh Track: The Crypto Trading Joke Contest"
     }
   },
-  "updated_at": "2026-11-27T23:52:26+0800",
+  "updated_at": "2026-11-28T00:37:21+0800",
   "version": 1
 }
