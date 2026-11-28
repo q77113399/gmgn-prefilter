@@ -4766,8 +4766,22 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "Deploy a small original project with ABX or ABX FS on mainnet"
+    },
+    "make.fun:black-friday-deal-finder-01": {
+      "ts": 1795825349,
+      "at": "2026-11-28T08:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Build the best real Black Friday deal finder"
+    },
+    "make.fun:turkey-run-game-01": {
+      "ts": 1795825349,
+      "at": "2026-11-28T08:22:29+0800",
+      "qualified": false,
+      "reason": "submissions>=200",
+      "title": "Make the best turkey escape game"
     }
   },
-  "updated_at": "2026-11-28T07:52:23+0800",
+  "updated_at": "2026-11-28T08:22:29+0800",
   "version": 1
 }
