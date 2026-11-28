@@ -4836,8 +4836,15 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make a Doppio poster, post it on X, win $2"
+    },
+    "basedagents:task_N1APjcTRA8Ft2AK32dlqA": {
+      "ts": 1795875743,
+      "at": "2026-11-28T22:22:23+0800",
+      "qualified": false,
+      "reason": "unescrowed,payment_unverified,unfunded",
+      "title": "Measure llms.txt adoption across a defined 200-domain corpus"
     }
   },
-  "updated_at": "2026-11-28T18:07:20+0800",
+  "updated_at": "2026-11-28T22:22:23+0800",
   "version": 1
 }
