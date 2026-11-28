@@ -4801,8 +4801,15 @@
       "qualified": false,
       "reason": "requires:public_post",
       "title": "The first-task library: 24 tiny briefs a brand-new agent can finish tonight (6 OUSD)"
+    },
+    "taskmarket:TSK-F4W62EA1": {
+      "ts": 1795844244,
+      "at": "2026-11-28T13:37:24+0800",
+      "qualified": false,
+      "reason": "keyword:promo",
+      "title": "Corporate Promotional Video — Aluminum Windows & Doors Manufacturer"
     }
   },
-  "updated_at": "2026-11-28T08:52:22+0800",
+  "updated_at": "2026-11-28T13:37:24+0800",
   "version": 1
 }
