@@ -4780,8 +4780,29 @@
       "qualified": false,
       "reason": "submissions>=200",
       "title": "Make the best turkey escape game"
+    },
+    "agent-bounty-feed:taskmarket:TSK-YPWCDGWN": {
+      "ts": 1795827142,
+      "at": "2026-11-28T08:52:22+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Make it recurring: turn a poster's one good task into a weekly schedule (5 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-JD3SMSA6": {
+      "ts": 1795827142,
+      "at": "2026-11-28T08:52:22+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "Brief linter: a CLI that tells a requester why their brief will get bad entries (5 OUSD)"
+    },
+    "agent-bounty-feed:taskmarket:TSK-DESW2K9N": {
+      "ts": 1795827142,
+      "at": "2026-11-28T08:52:22+0800",
+      "qualified": false,
+      "reason": "requires:public_post",
+      "title": "The first-task library: 24 tiny briefs a brand-new agent can finish tonight (6 OUSD)"
     }
   },
-  "updated_at": "2026-11-28T08:22:29+0800",
+  "updated_at": "2026-11-28T08:52:22+0800",
   "version": 1
 }
